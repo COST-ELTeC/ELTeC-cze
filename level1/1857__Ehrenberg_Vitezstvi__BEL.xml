@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0001" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Vítězství u Hoříně</title>
+			<title xml:lang="en">The victory at Hoříň</title>
+			<author>Ehrenberg, Josef (1815-1882)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">29716</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.svkhk.cz/search/i.jsp?pid=uuid:53f011e7-9aec-4e33-bc31-efc99c5727fe"></ref>
+				<publisher>Digitální knihovna SVK HK</publisher>
+				<idno type=""></idno>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Vítězství u Hoříně aneb Braniboři na outěku z Čech</title>
+						<publisher>Kat. Jeřábková</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1857</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="M"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T1"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<body>
+
+		<div>
+
+			<p><pb n="3"/></p>
+
+		</div>
+
+		<div>
+
+			<head><hi rend="formated">Vítězství u Hořáně aneb Braniboři na outěku z Čech. Povídka z třináctého století od Josefa Ehrenbergra. V Praze 1857. Tisk a sklad Kat. Jeřábkové.</hi></head>
+
+			<p><pb n="4"/></p>
+
+			<p><pb n="5"/></p>
+
+		</div>
+
+		<div>
+
+			<head>I.</head>
+
+			<p>Když umře včeličkám matka, nastane v celém oule zmatek, bezvládí, až i konečně žalostivá spousta. Z počátku slezou se včelky, jako na poradu, jakby sobě královnu poříditi a své hospodářstvíčko opatřiti měly. A když to nejde, ztrácejí mysl, přestávají snášeti, rozlezou se po oule, vyjídají med z buněk a některé i odletují. Posléze přijdou zlodějky, na bezhlavý oul ženou outokem a vítězí snadno, protože osiřelá družina žádného téměř odporu nečiní, ba z velké částky k lupičkám se přidá a ovoce svého přičinění, zbytek medu, sama z oulu odnáší, ač za to špatnou odměnu beře, bývajíc od zlodějek jakožto čeleď, k nim nenáležící, obyčejně na dosmrtí uštípána.</p>
+
+			<p><pb n="6"/> Jako v tom zbezmatčilém oule, zrovna tak to vyhlíželo v Čechách po smrti krále Otakara II. a za nedospělosti syna jeho Václava. Po Otakarově zahynutí radili se páni, a to zejména oni, kteří nebožtíku králi na věčnost a vlasti na mizinu zrádně dopomohli, o to, jakby osiřelému oulu matku, zemi české vládu opatřiti, a vyhlídli si k tomu pozůstalou po Otakarovi vdovu Kunhutu. Než takovému bzučení sněmujícího panstva postavili se na odpor dva mocní trubci, jižto se od obyčejných trubců v oule lišili tím, že měli žihadla — a to žihadla po šlacích dlouhá a nebezpečná. Tito dva trubci byli Otto, markrabí Braniborský, a Jindřich, vévoda Vratislavský, a za žihadla měli dlouhé píky a ostré meče v pěstích četného vojska, s nímž násilně do Čech vtrhli, aby co nejbližší příbuzní královského rodu chopili se poručnictví nad kralovicem, vlády nad zemí a spolu pěkné příležitosti na rozmnožení svých chatrných důchodů z plenů v Čechách páchaných. To když se dálo, nechalo sněmující panstvo všeho bzuku, rozlezlo <pb n="7"/> se malomyslně, ne-li bojácně, po všech koutích země, každý za svou pec vlastní, odkudž dívali se lhostejně, jak si Otto poručnictví nad kralovicem i nad zemí na pět let osobuje, Jindřich Vratislavský pak hrabství Kladské na doživotí vlastní a král Rudolf Moravu na pět let k užívání beře; ba mnozí z panstva za takových zmatků libovolně rozebírali zemské a královské statky, aby v osiřelém oule vlasti ani krůpěje sladidla nezbylo.</p>
+
+			<p>Konečně se přihrnuly zlodějky návalem strašlivým, přihrnulo se do Čech bez počtu vyhladovělých Braniborů a vychrtlých Mišňáků, jež markrabí Otto za sebou povolal, aby jim alespoň jednou za živobytí z českých špižíren a sklepů posvícení připravil. A ta lačná čeleď vskutku všeckno všady do posledního sousta pojídala; co nemohli pohltit, brali s sebou, a naši staří — Bůh ví, kam se jim tehdáž rozum poděl! s těmi hladolety z počátku bezmála si strýčkovali. Alespoň kteří z pánů při Ottovi stáli, s radostí je na své hrady a poddaným na krk pouštěli, a zvláště města, na ten čas <pb n="8"/> přehojně od Němců obývaná, takové ty své krajánky vesele a s plesáním vítala.</p>
+
+			<p>Ano, Čechové pomáhali Braniborům sami sebe loupiti a vlast svou hubiti; teprv když za svoji věrnou pomoc ve svém vlastním oule od lupiček měli uštípáni a země česká naskrz od cizinců zaplavena býti: tu teprv popadli se za rozum, zpomněli si, že má domácí pán od jakživa právo nezvaným hostům ukázati, kde tesař díru nechal — a skutečně také to své právo na Branibořích provedli, jenom že už trochu pozdě, když byla totiž celá země na mizině a pán i sedlák na holičkách, co zatím Václav, samojediná ratolest královského rodu a spolu jediná naděje vší vlasti, od nelidského poručníka držán byl v nehodné vazbě při bolestném nedostatku věcí nejpotřebnějších.</p>
+
+			<p>Nejhůře se v našich Čechách od těch Braniborů dělo na podzim leta 1280. Tehdy již ani markrabího Otty v zemi nebylo, jenž znamenaje, že se mu v Čechách počínají trámy pod nohami bořiti, chytře přes hranice upláchl a braniborského biskupa Ebrharda s přísnými <pb n="9"/> rozkazy tady co správce země místo sebe zůstavil. A ten biskup Ebrhard dle všeho, co o něm víme, nebyl příliš apoštolského ducha, a zdá se, že nevzal na se posvátnou službu církevní tak pro Ježíše, jako snáze k vůli dobré jíše; alespoň se od tehdejšího Pražského biskupa Tobiáše, výtečníka v každém ohledu zajisté na slovo vzatého, lišil jako černá pec od jasného plamene, a nestranný dějepis mu uchoval to svědectví, že by se byl lépe hodil za vojína a dobyvatele, nežli za kníže pokoje a za šířitele království Božího na zemi.</p>
+
+			<p>Za své správy v Čechách neměl o nic bedlivější péči jako o to, aby pořád ještě nové tlupy cizích zbrojenců do země volal. Říkává se, že krk hlavu nepojídá, to jest: že oudové jednoho těla a členové jednoho stavu proti sobě nebývají. Při biskupu Ebrhardovi to ale neplatilo, neboť on právě na kněžstvo v Čechách měl nejhůře s kopce, a všeckny ty nově přibylé houfy vojenské na drancování zvláště statků duchovních vysýlal, protože kněžstvo tehdejší za příkladem svého slavného biskupa <pb n="10"/> Tobiáše se vzornou a vytrvalou obětavostí při svém dědičném ač nezletilém králi Václavovi stálo, a o zlomení braniborských neřádů a nešvar co nejdůrazněji usilovalo. A tím způsobem se stalo, že krk hlavu pohltit se strojil.</p>
+
+			<p>Konečně sešlo se milému panu Ebrhardovi takových ozbrojených poběhlíků ze všech končin Německa tolik, že si s nimi již ani rady nevěděl; a nemaje pro ně ani zaměstnání ani žoldu, nechal je tropiti, co a jak jen sami chtěli. A oni si dle svého způsobu výborně čas krátili. Napřed vyjedli statky kněžské až do poslední špetky zápražky, potom statky panské a konečně došlo na města, ať si již měla obyvatelstvo české anebo německé. Bez pochyby si myslili, kněz že je jako vrba a že zase obroste; pánům že neschází a města že si pomohou — a proto hubili a brali až do podvalů.</p>
+
+			<p>Jsouce pak s nejbližším okolím Prahy hotovi, pustili se dále, rozešli se po ubohé zemi na vše strany, a aby jedni druhým v řemesle pro veliké množství nepřekáželi, rozdělili <pb n="11"/> se na mnohé a mnohé menší houfce po dvou, po třech stech. Takové ty drobnější tlupy uhnízdily se pak obyčejně po městech aneb po hrazených trhových vsích, odkudž vyjížděly na plen po celém bližším okolí, a když nebylo na blízce co bráti, hnuly se o nějakou míli dále, aby v krajině drobátko uchovalejší též takové kousky prováděly. Ostatně, ač se ty pijavice takovým způsobem v nejrozmanitějších směrech od sebe rozlezly a svoji sílu, kteráž, jak známo, vůbec ve sjednocení záleží, zmařily, předce v jakém takém spojení se udržely, tak že alespoň tlupy sobě nejbližší zkázky si posýlaly, návěští a výstrahy obapolně si dávaly a v případu potřeby jedny druhým ku pomoci přispívaly.</p>
+
+			<p>Jedna taková, asi třistová tlupa braniborských hladovců usadila se hned od jara léta 1280 za městskými hradbami v Kostelci nad Orlicí. I hospodařili tam jako myši, když kocour doma není, aneb ještě lépe, jako liška v kurníku, a přes Boží leto okolní krajinu tak ošatili, že nezbylo nikde od obilí leč nějaká <pb n="12"/> pleva a od dobytka a od drůbeže sotva některý pes anebo kočka. A jako nemá lačný u prázdné mísy žádného stání a zmoklý pod okapem žádného outočiště: tak pospíchali Braniboři od vydrancovaného Kostelce hned záhy na podzim, aby při samém oupatí Kladského pohoří přezimovali. Za stálé pak bydliště na ten čas a jako za skladiště svých loupeží zvolili sobě Solnici.</p>
+
+			<p>Solnice náležela tehdáž ke statkům pana Mutiny Skuhrovského, stála při hlavní kladské silnici, měla ode dávna sklad korunní soli a byla na ten čas místo dosti znamenité i živné.</p>
+
+			<p>Hned jak za posledních let krále Václava I. stav městský v zemi se závaděti a šířiti počal, propustili páni ze Skuhrova své lidi v Solnici ze závazku tužší poddanosti za slušný plat šosní, dali jim rozličné výsady a práva, ježto i došly schválení královského, a v době našeho vypravování počítalo se tam do sta usedlých, jižto za příkladem obcí německých stáli pod vlastním rychtářem, kromě orby také řemesla <pb n="13"/> provozovali, až konečně své město také hradbami obehnali.</p>
+
+			<p>Arciť ony ty hradby ani na tehdejšek nepředstavovaly nic obrovského. Podobaly se tak asi trochu důkladnějšímu oplocení, byly naskrz ode dřeva a záležely hlavně z kolů zhusta vedle sebe zaražených. Zvenčí je objímal příkop, o něco širší než na dobrý skok, jenž v případu potřeby mohl také napuštěn býti vodou z hoření strouhy, a uvnitř ode strany městské běžela kolkol při hradbách široká lávka na dubových špalcích, kdež stálo se na stráži a odkudž za nepřátelského outoku měl odpor činěn býti. dobrušská a rychnovská brána vyhlížely jako pořádná vrata z dubových fošen mezi tlustými sloupy, a toliko brána Kladská v severním boku města otáčela se ve zděných pilířích, na níž spolu vzděláno bylo obydlíčko pro hlásného, odkudž jako datlík ze zvonice po krajině zevloval.</p>
+
+			<p>Za těmito nepříliš bezpečnými hradbami usadili se Braniboři od Kostelce sem přitáhší právě ten týden před sv. Václavem roku 1280. <pb n="14"/> Za tehdejší bezbrannosti země a pro útisk zmalátnělého ducha v lidu českém ohlíželi se oni málo na chatrné hradby svého nového bydliště, a bez bázně i bez ostýchání počali tady své bujné rejdy prováděti.</p>
+
+			<p>Domácí hospodáře vyhnali na půdu a sami se uhnízdili v teplých světnicích; do komor, do špižíren a do sklepů chodili jako do svého, co zatím vlastní majetníci někde pod hambálky se postili; a na noc uléhali do měkkých peřin, kdež @úbozí sousedé někde na stáji zimou na seně se krčili, kteréhož pod nimi ještě co den ubývalo, protože nejen svým sužovaným pánům za lože, nýbrž také braniborským tahounům i běhounům za příkusek sloužilo.</p>
+
+			<p>Bylo pak těch cizozemských chrtů, jak již předem povědíno, počtem asi do tří set, jich vůdce se jmenoval Ebrklau, a jeho pravou rukou jak v bezbožné radě tak v nekřesťanských výpravách byl jakýsi Mišňák, jehož pravé jmeno bylo „Berthold", jemuž ale Čechové dílem pro nápodobné znění a ještě více pro lupičskou povahu „Berto" aneb „Poberto" přezdívali.</p>
+
+			<p><pb n="15"/> Ti nezvaní hosté, jak se jen poněkud po svém novém bydlišti poohlédli, ihned do drancování okolní krajiny se pustili. K tomu cíli rozstoupili se obyčejně na tři houfce. Jedni slídili po šířce a dálce jako jestřábové, kde by se co uzmouti a odvléci dalo; druzí pak to, co slídilové vypátrali, pěkně zatepla odnášeli; a třetí, počtem arci nemnozí, doma na hlídce meškali.</p>
+
+			<p>Když se jim lup podařil a snesli ze své výpravy tolik, že to předc za řeč stálo: pak hodovali společně, hejřili při kobze a dudech a neslevili dříve, až všeckno všady do posledního ždibce prasklo. Za takové mely i sousedům nějaký ten odpadek od svých hodů přáli, neboť do zásoby ukládati za obyčej neměli, a když všeckno padlo, tím úsilněji pak znovu na lup vyjeli.</p>
+
+			<p>A jak nevyjížděti, když za jedno nouze doháněla a za druhé nikde ani živá duše nebránila, ba ani ten pes nezahafal? Celá krajina podobala se mrtvole a nechala se obírati beze všeho odporu. A kdož měl také odporovati ? <pb n="16"/> Dva nejmocnější pánové v celém Kladském podhoří, totiž pan Mutina Skuhrovský ze Skuhrova a pan Jan Rychnovský z Rychnova, jižto s lidem svým a s přispěním měst i drobnější šlechty na braniborskou zběř jak náleží vyzráti mohli — ti hnedle po jaře se svými rodinami a s částkou branného lidu k biskupu Tobiášovi do Prahy na roky odjeli, a dotud se nevrátili. Kasteláni, jimž při odchodu správu svých hradů odevzdali, nemajíce žádných určitých rozkazů, nemyslili leč na to, jakby v případu obléhání hrady sobě svěřené bránili, a tak ze svých bezpečných sídel lhostejně hleděli na sužování lidu, jsouce tomu rádi, že sami pokoje mají.</p>
+
+			<p>Menší zemané, ač se jich tu na tucet napočísti dalo, ani ve snách na nějaké ozbrojené spojení proti Braniborům nezpomněli. Jeden z nich, tuším pan Vaněk z Černikovic, jednou za přátelské schůzky při medě a při zvěřině svým sousedům cos takového navrhoval; avšak se svým návrhem propadl prý až pod stůl. Když totiž poukazoval na to, že Braniboři již <pb n="17"/> v Kostelci jsou a jak tam hospodaří, a že by bylo zahodno, na jich uvítání společně se připraviti a k tomu cíli alespoň solnické a rychnovské do spolku potáhnouti; tu se zamračil Marek z Hrošky, neukojitelný znikajícího stavu městského nepřítel, řka: „Poj se s tou městskou chamradinou, kdo chceš; však tu Braniboři ještě nejsou.“</p>
+
+			<p>Mikeš z Mastí, netečný a nerozhodný, k tomu přidal: „A pak kdo ví, zdali přijdou.“</p>
+
+			<p>A Martin z Ostrova doložil: „E ba, což by tady v tom ovesném kraji ďáli!“</p>
+
+			<p>Tak zůstali bez přípravy, bez sjednocení, a když na ně Braniboři přikvačili jako vrána na březňáka, tu arciť mrzeli se sami na sebe, že to tak hloupě navlékli; ostatně ale museli býti hezky zticha, dávali mlčky, kde co bylo, a za náhradu jim nezbývalo, leč potaji si zanotovati:</p>
+
+			<l>„Když jsme jednat měli,</l>
+
+			<l>chytali jsme lelky;</l>
+
+			<l>a teď z toho máme</l>
+
+			<l>zármutek dost velký."</l>
+
+			<p><pb n="18"/> V neděli před dušičkami svrchu jmenovaného roku 1280 událo se v Kladském podhoří po mlhavém zasmušilém ránu pěkné jasné odpolední. Slunce hřálo jako z jara, povětřím kmitalo babí léto a starý písničkář a dudák Froněk se na to v Solnici na Nové hospodě dušil, že toho dne na úsvitě také vlašťůvku švítořiti slyšel. Braniborští žoldnéři, jižto při Froňkových dudech a při sladkém a hořkém z hospodského sklepu dlouho do noci tam byli hejřili, a hned z rána zase chuť od včerejška pokaženou napravovati přišli — ti arci se mu pro tu vlašťůvku z plných hrdel vysmáli, řkouce, že se bez pochyby po včerejším nevyspání a přebrání asi přeslechl, a že to třeba někde kohout zakokrhal, co se mu vlašťůvčím šveholením býti zdálo.</p>
+
+			<p>Pěkný den buď záhy z jara aneb pozdě na podzim vezdy miloblaze na mysl lidskou působí a obyvatelstvo z uzavřených světnic na výsluní vyláká. Než tehdejší ono pěkné odpolední takového účinku naprosto se minulo. V Solnici alespoň nikoho z domu nevylákalo, <pb n="19"/> tam se ani noha navenčí neukázala, ba ani žádné to klouče se po ulici neprohánělo. Bylo tam jako po vymření, a toliko od Kladské brány, kdež vedle solního skladiště Nová hospoda stála, ozýval se přes chvíli divý jekot, co výbuch nevázané veselosti.</p>
+
+			<p>Než s těmi tam se radujícími nikdo se neradoval z domácího obyvatelstva. Kdo ten lomoz od Nové hospody zaslechl, zachvěl se, jako by mu ledová ruka za týl sahala; a seděl-li mezi tím někde doma u pece, ještě hloub do koutu se tlačil. Ba i strážníka, jenž pod Kladskou branou po hradební lávce s píkou v ruce přecházel, i toho hejřivý onen povyk od Nové hospody nepokojil a děsil. Při každém čerstvém výbuchu se jaksi zarazil, až pak, když v jednu chvíli tomu hulačení ani konce býti nechtělo, zády o hradební kůl se podepřel a s nevrlým pohledem k Nové hospodě se obrátil.</p>
+
+			<p>Teď teprv bylo možno viděti, kdo to byl.</p>
+
+			<p>Dle oděvu, jenžto se jakousi vkusnější přílehlostí od tehdejšího řásného kroje poněkud lišil, náležel k měšťanstvu, dle štíhlého</p>
+
+			<p><pb n="20"/> jako rtuť pohyblivého tílka nezdál se býti ani od sekery ani od kladiva, a dle opadlých vybledlých tváří dalo se bez čar uhodnouti, že nepatří k vyjídajícím Braniborům, nýbrž spíše k vyjídaným a sužovaným obyvatelům domácím. A v skutku byl to soused solnický, řemesla svého mistr krejčí, jemužto se pro jakousi zbrklost v mluvení i v jednání a pak pro chůzi neobyčejně rychlou vůbec „Klusáček" říkalo.</p>
+
+			<p>Kdykoli se Braniborům hejření zachtělo, musela obec hradby strážemi opatřiti. Tím způsobem přišel také mistr Klusáček na hlídku. A nyní o hradební kůl podepřen, s výrazem nevrlosti a hněvu k Nové hospodě pohlížel, jako by prostopášné veselí zapovídal; a když se bujný povyk pořád ještě množil, zaťal pěstě a hlasem přidušeným zahuboval, jen že se to spíše nářku než výpesku podobalo, řka: „Kdyby ono vám bylo jako mně, však vy byste věru nebourili!"</p>
+
+			<p>Od Nové hospody zabloudil pak zrakem přes poschyl města do Kvasinské ulice, kdež se v hustém sadě mezi opadaným stromovím <pb n="21"/> jeho zánovní domek bělal. S napnutou bedlivostí, jako když šprček chtivým okem po zralé třešni měří, upřel oko o komín svého bytu a v tom pohledu tak podivně byl dojat, že se mu nepříliš @palčlivá jiskra předešlého hněvu v očích ouplně ve vodu proměnila, a že si ani nepovšiml souseda mistra punčocháře Plichty, jenž na vystřídání stráže přišel a naň, aby s lávky sešel, již podruhé volal.</p>
+
+			<p>Maje pak již potřetí volati, rozmrzel se, zapomněl na vojenský způsob a docela po sousedsku do Klusáčka se pustil.</p>
+
+			<p>„Kam to ke všem všudy zevluješ?“ zvolal již poněkud hněvivě. „Zrovna jako by nějaké vidění měl, tak v jedno místo hledí a jako dub stojí."</p>
+
+			<p>„Nehněvej se, sousídku!" zpamatoval se od svého vytržení Klusáček a rozhorleného Plichtu tak měkce chlácholil, že mu málem moldánky spouštěly. „Ty myslíš, že jsem zmámen proto, jako bych něco neobyčejného viděl? Uchovej Pánbůh! Právě naopak, že totiž nic, <pb n="22"/> pranic vykoukati nemohu, proto bych málem rozumu pozbyl a si zoufal."</p>
+
+			<p>„A co bys tak rád vykoukal?“ optal se mistr punčochář již beze vší mrzutosti.</p>
+
+			<p>„Co bych rád vykoukal?“ pojal krejčí na stráži otázku v odpověď. „Ba věc tak nepatrnou, že snad ani nepatrnější na Božím světě není. Chumáč kouře nad mou střechou bylo by všeckno, co bych si v tuto chvíli viděti přál.“</p>
+
+			<p>„Pánbůh s námi!“ divil se Plichta. „Snad nechceš, aby ti někdo oheň podložil?“</p>
+
+			<p>„Aby mi někdo cizí leckde ve stavení oheň podložil, to arci nechci," vysvětloval Klusáček; „to bych ale nade všeckno ve světě rád, aby žena pod pánvicí zatopila. Brachu! kdo v sobotu nevečeřel a v neděli ani nesnídal, ani neobědval: ten by předc alespoň k večeři něčeho krapet rád požil. Já jsem hladový jako vlk a mdlý jako moucha, život mám scvrklý jako dlaštku a ve slabinách se mi dělají důlky, že by tam čmeláci hnízditi mohli. A z komínu se doma nekouří — jisté to znamení, že Voršilka ani k večeři nic nesehnala, a že opět <pb n="23"/> nastává půst s ouplnou ujmou. Proto jsem tě dříve ani neslyšel, ani neviděl."</p>
+
+			<p>„Nic si z toho nedělej, mně se ani o mák lépe nevede," těšil jej mistr Plichta a hořce se usmál. „Ale dobře, dobře tak, to nám patří! Kdo chce kam, pomozme mu tam — kdo doma zmokne, toho ani Pánbůh nelituje — a kdo si ve vlastním domě od cizince rozkazovati nechá, nezasluhuje leč na místě jídla třikráte za den notný výprask. Proto ještě jednou povídám: dobře tak, my nezasluhujeme, než aby námi Braniboři bez milosrdenství orali i vláčeli!"</p>
+
+			<p>„Ale, bloudku, jakpak to mluvíš?" trnul Klusáček po celém těle a na okamžení až i na hlad zapomněl. „Kdož za to může, že na nás Bůh takové soužení dopustil?"</p>
+
+			<p>„Tak, tak!" rozhněval se Plichta, až se mu tváře zabarvily. „Jen sváděj na Boha, čím sami vinni jsme. Anebo myslíš, že nás Všemohoucí vzácným darem rozumu jen tak pro nic za nic obdařil? Vždyť i ta němá tvář dle pudu svého nebezpečím se vyhnouti umí, <pb n="24"/> a člověk by to snad neuměl? My od jara věděli, že nám Braniboři jako za humny leží, a na místě, co jsme si nepříznivé zemanstvo napřed měli udobřiti, pak ve spolku s ním a s jinými ještě obcemi se ozbrojiti, a za panem Mutinou, byť až někde na zakleném ostrově meškal, posly vypraviti — ano my na místě toho všeho založili bezstarostně ruce jako o hodech, a že nám právě dnes nad hlavami nehořelo, myslili jsme, že taktéž bude i zejtra, i pozejtří a napořád. A proto do třetice na svém stojím, že nám ta čest patří, a kdyby s nás Braniboři tupým nožem řemeny dřeli!«</p>
+
+			<p>Zrovna naproti stanovišti, kdež naši strážníci na místě střídání do řeči se dali, zůstával mistr řezník, jemuž se pro obrovskou svalovitou postavu vůbec mistr Hora říkalo. Ten hned na počátku rozmluvy obou strážníků ve vratech svého obydlí se objevil, každého slova byl svědkem, a nyní popošed dále, hřmotnou pravicí svojí Plichtovi na rameno potleskal, až se mistr punčochář bolestí ošklíbl.</p>
+
+			<p><pb n="25"/> „Dobře máš," doložil k svému potlesku na punčochářovo rameno. „Pánbůh zaplať, že k takovému poznání přicházíme. Je to kapitola pro památnou na budoucnost; a pak až na to dojde, abychom Branibory za bránu vyprovodili, doufám, že to při takovém smýšlení půjde jako by namazal a namydlil."</p>
+
+			<p>„Do té doby ono asi ještě mnoho vody uplyne, než na to vyprovázení dojde,“ pochyboval Klusáček, dolů s lávky slízaje.</p>
+
+			<p>„Nic nepochybuj. Možná, že ti dost brzy na místě jehly nějaký obuch nastrčíme, abys pořád nepíchal, nýbrž jednou také prášil," stavěl mistr Hora poloviční jistotu proti krejčovské pochybnosti. „Já chodil včera po drobném dobytku, i dojdu až do Debřeckého dvoru a tam mi pověděl šafář novinu, která stojí za tisíc jiných. Předně, a to není žádné tajemství, byl kněz od Svatého Jakuba nad Skuhrovem v Praze u biskupa Tobiáše a přinesl od něho vzácný relikvář s plnomocnými odpustky pro všeckny, kdož by v nejblíže příštích sedmi dnech s nábožným průvodem do <pb n="26"/> hradní kaple na Skuhrov připutovali a tam předepsanou pobožnost patřičně a náležitě vykonali.“</p>
+
+			<p>„To je arci dobrá a spasitelná věc," přetrhl mistru Horovi punčochář Plichta proud řeči; „ale tím relikvářem sotva Branibory za bránu vyprovodíme."</p>
+
+			<p>„A kdo ví, zda-li nevyprovodíme!?“ trestal Hora námitku s usměchem přesvědčenosti. „Důstojný kněz od Svatého Jakuba nepřinesl z Prahy toliko vzácný relikvář, nýbrž — ale to má ještě nějakou chvíli zůstati jako pod pokličkou — nýbrž přivedl nám s sebou také pana Mutinu!"</p>
+
+			<p>„Pana Mutinu že přivedl?" tázal se krejčí i punčochář s kvapem podivení a radosti najednou, a oči se jim nadějnou radostí zasvítily jako jiskry.</p>
+
+			<p>„Jen o tom tak na celý splav nehlučte," pamatoval je opatrný řezník. „Vždyť víte, že to má nějakou chvíli zůstati ještě jako tajemstvím. Doma ale pan Mutina je bezpečně."</p>
+
+			<p>„A jak je doma, bude také našemu soužení <pb n="27"/> konec!“ radoval se, hubenýma rukama tleskaje mistr Klusáček.</p>
+
+			<p>„Tak také já se domnívám," přizvukoval s ouplnou jistotou Hora. „Nemyslete ale, že nám to přijde tak zhola jako samo sebou. Pečení ptáci nikomu do huby sami nelítají — a na vyčištění svého domu budeme muset asi rukou statečně přiložiti."</p>
+
+			<p>„Budeme se nutiti dost a dost," tvrdil Plichta, vesele se usmívaje. „Braniboři mají u nás mnoho na vrubě a přičiní se zajisté každý, aby se jim za mnohé ty pěkné půjčky také slušnou oplátkou odsloužil."</p>
+
+			<p>„Jak ale a kudy do té skočné,“ ukončoval řezník rozmluvu, „to nám věhlasný pan Mutina napoví. Však on si k tomu klíč najde, a chytrouš Beneda, jeho nejmilejší panoš, mu pomůže — ten je nad šotka. Ostatně ale,“ pokynul výstražně prstem, „se vším opatrně, ať se toho naši katané nedomakají. Čert nikdy nespí!“</p>
+
+			<p>„Jen aby už něco nečuli," obával se Plichta. „Alespoň chodí Poberto tuty dni <pb n="28"/> jako spařený, a kde tři neb čtyry lidi pohromadě vidí, rozhání je, jako by se mu zrovna o hrdlo radili."</p>
+
+			<p>„A vidíte, tamhle zrovna oknem z Nové hospody na nás hledí!" ukazoval krejčí bojácně rukou a husí kůže mu po zádech naskočila.</p>
+
+			<p>„To se raději ukliďme," radil řezník a ve vratech svého obydlí zmizel.</p>
+
+			<p>Plichta se postavil na stráž a Klusáček uháněl do Kvasinské ulice, jako by ho zlý kůň honil.</p>
+
+			<p><pb n="29"/></p>
+
+		</div>
+
+		<div>
+
+			<head>II.</head>
+
+			<p>Od jihozápadu dosahoval téměř až po samu Solnici veliký rozlehlý rybník, jemuž se pro mnohé v něm mělčiny nahromaděné z tučného náplavu „Bahno" říkalo. Během času proměnil se v ornici a kde se dříve dařívali kapři a ouhoři, dařejí se nyní brambory a řípa.</p>
+
+			<p>Z toho Bahna počaly hned po západu slunce svrchu jmenovaného nedělního dne vystupovati šedé páry a množily se pořád, až se z nich udělala mlha jako pytel, a způsobila napřed pošmourný večer a potom sychravou tmavou noc, že nebylo na píď před sebe viděti.</p>
+
+			<p>S hrobovou tmou ulehlo také hrobové ticho po krajině, až na to, že od Nové hospody každou chvíli pořád ještě ten divoký jásot se rozléhal, <pb n="30"/> a pak že kolem desáté hodiny před půlnocí po silnici od Skuhrova pozdní dusot osamělého jezdce zvukem temným zazněl.</p>
+
+			<p>A v skutku cválal jezdec po Kvasinách k Solnici napřed klusem, než čím více k Solnici se blížil, tím volněji jel, až konečně jen tak, co noha nohu míjela.</p>
+
+			<p>Na tvář, na oděv a na zbraň nebylo mu arci pro čírou tmu možno popatřiti, a protož nesnadné bylo uhodnouti, kdo by byl. Dle toho, jak zpříma a statečně na koni seděl, zdál se býti mladík v ouplném vyvinutí, a dle hlavy poněkud k prsoum skloněné a potom dle toho, že otěž z rukou pustil, až kůň na místě státi zůstal, buďto dřímal aneb hluboce zamyšlen byl.</p>
+
+			<p>Stoje tak na prostoře mezi kvasinským loveckým hrádkem a mezi Solnicí za několik okamžení, dal se do samomluvy, a tu se teprv ukázalo, že nemluví ze spaní, nýbrž ze zásoby myšlenek v mozku se mu křižujících, a vyzradilo se spolu, kdo to byl.</p>
+
+			<p>„Mají oni ti páni podivné nápady,“ začal polohlasitě a zouplna mrzutě. „Ono se to lehce <pb n="31"/> řekne: Benedo jeď a chytře to navlíkni; ale jak a kudy k tomu?! Vetři se mezi ně, vyskoumej jejich sílu, měšťanstva se ujisti, o výsledku všeho nám pošli určité zprávy, a konečně hleď nepřítele do šírého pole vylákati, aby potřen býti mohl beze škody na obydlích a na statku našich věrných. — To jsou arci rozkazy krátké, ale na to pan Mutina nezpomenul, že jich vyvedení požaduje rozumu o několik loket delšího, nežli je můj, a že při tom díle možné, třeba desetkráte to jedinké hrdlo ztratiti."</p>
+
+			<p>Tu se zamlčel, pomačkal čelo dlaní a sám sobě chuti dodávaje, pokračoval dále: „Než ale co pravda, to pravda — skutek by to byl jak před lidmi tak před Bohem vysoce záslužný, kdybych Braniborům do pasti posvítil. Ono by to vyhlíželo zrovna jako zásluha o celou vlast a mohla by se za to při sněmu nejblíže příštím třeba až ostruha v odměnu požadovati. Pan Mutina by pak k tomu dopomáhal a kněz od Svatého Jakuba, náš důstojný plebán, též neopomine otci biskupovi se zmíniti , kdybych těm <pb n="32"/> svatokrádcům, lupičům Božích kostelů a plenitelům církevních statků odzpívati pomohl."</p>
+
+			<p>A opět se zamlčel. Brzy ale, jako by se za své rozpaky káral, kotníkem do čela se ťukl a myšlénky opět v slovích pronášel.</p>
+
+			<p>„Co váhám, co se rozmýšlím?" ptal se sám sebe. „Jedná ono se mi o víc, než ostruha obnáší! Vždyť je tam Eliška, hvězda mého života, ráj mého srdce, kterouž miluju jako orel světlo, po níž toužím, jako během schvácený po odpočinku, o niž se bojím, jako lakomec o svůj poklad, a která tam uprostřed mravopustých Braniborů asi tak jista jest, jako tučné jehňátko mezi hladovými vlky. Nic naplat, já mezi ty dravce musím a kdyby mě zrovna rozsápali! Jen aby mě Bůh šťastným nápadem osvítiti ráčil!"</p>
+
+			<p>Mezi samomluvou pojížděl zvolna dále, až se octnul u hřbitovní zdi kostela solnického, jenž na kopečku nad městem mimo hradby s farním domem o samotě stál.</p>
+
+			<p>Když se mu do oblouku běžící zeď před očima zabělala, zpamatoval se, kde je, a posvátné místo, tichá doba noční a blízká památka <pb n="33"/> věrných dušiček uvedly mu na mysl, co od matky jako pachole slýchával, že totiž velmi prospívá, když si člověk v těžké věci rady neví, aby se za dušičky pomodlil.</p>
+
+			<p>Strach prý dělá pověrečným, aneb jináče a vlastně v pravdě řečeno — lidé nejlíp o Bohu zvědí, když jim voda do bot teče. Tak se dělo našemu pozdnímu jezdci. I pomyslil sám u sebe: „Však ona matka nebyla žádný blázen, věděla ona dobře, proč mě čemu učí; modlitba nikomu na škodu býti nemůže“ — a dříve než mu takové myšlénky hlavou proběhly, již u zdi hřbitovní s odkrytou hlavou klečel a tak vroucně „otčenáš“, „zdrávas“ a „odpočiňte v pokoji“ vyříkal, že se před tím na uherský měsíc tak pořádně nepomodlil.</p>
+
+			<p>Dokonav modlitbu vyšvihnul se na kůň vesele, a pod hřbitovem otočil se nahoru do táhlého návrší, kudy se tehdáž hluboký úvoz k Rychnovu hatil, aby se na nějaké myšlénce k nastávajícímu dílu usnesl.</p>
+
+			<p>Když v tom směru některé sto kroků ujel, zaslechl hřmotný dusot koňský, rychlého jezdce <pb n="34"/> od Rychnova k Solnici opovídající. Z počátku se chtěl neznámému jezdci vyhnouti, aby si takovým setkáním pásmo myšlének nepřetrhl; brzy ale napadlo mu učiniti jináče.</p>
+
+			<p>„Kdo ví, k čemu to neprospěje?" vyjádřil svůj změněný oumysl slovem hlasitým a pobídnuv koně ostruhou, tryskem přijíždějícímu z protější strany v oustrety se hnal.</p>
+
+			<p>Za nějaké okamžení stáli oba jezdci ve hlubokém ouvoze těsně proti sobě.</p>
+
+			<p>„Kdo to?!" zahučel klusající od Rychnova hlasem tak hřmotným, že to po něm ozvěna v blízkém lese opětovala a v nedaleké odtud vísce Litohradech psi do štěkotu se dali.</p>
+
+			<p>„Snad nechceš, abych se ti zpovídal?" odtušil Beneda, nejmilejší panoš pana Mutiny Skuhrovského, hlasem stejně drsnatým. „Že pode mnou jako pod tebou čtyry podkovy půdu tepou, to ti snad neušlo? A že páni dobou noční a k tomu ještě bez průvodu nejezdějí, také víš; pročež budeme si tuším rovni, a já asi tolik, kdo a co ty."</p>
+
+			<p>„Není-li ti vhodno, na obyčejnou otázku <pb n="35"/> polní odpovídati," dával cizí jezdec rozmluvě s přízvukem přetvářené lhostejnosti směr jiný, „tedy mi nezastupuj cestu a uhni se stranou, neboť mám píli s důležitým poselstvím."</p>
+
+			<p>„Zrovna o tu službu chtěl jsem tebe prositi,“ odpověděl oslovený s toutéž přetvářkou jako jeho oslovitel; „neboť i já mám na spěch v stejné s tebou příčině."</p>
+
+			<p>„Ďáble, ty mě škádlíš!“ rozsápal se jezdec od Rychnova za předešlé nepřirozené potlačení hněvu tím prudčeji a vytrhnuv meč z pochvy tak jím zašermoval, že to povětřím až syčelo. „Teď nebude tak snadného zbytí," hulákal dále; „já ti usta rozvážu! Mluv: komu sloužíš? a pod jakým heslem?"</p>
+
+			<p>Beneda ale nebyl s odpovědí tak spěšný. Také on vytasil meč a právě jako jezdec neznámý jím zašermoval.</p>
+
+			<p>„Vidíš, brachu!" řekl přitom ousměšně. „Já mám také takovou oháňku, a možná, že se ta moje více v krvi nabrodila, nežli ta tvoje. A komu sloužím, se ptáš? Bloudku, komuž jinému, nežli kdo mně žold vyplácí! Po hesle pak to <pb n="36"/> se dokonce raději ani neptej. S heslem je to vezdy nedotklivá věc. Jak kdyby se nám hesla nesrovnávala: kdo za to ručí, abychom se pak třeba opravdu do sebe nedali?"</p>
+
+			<p>„Mluv zpříma, nevyhýbej se určité odpovědi, vyslov své heslo!" se stejnou pořád, ano ještě s větší zuřivostí dotíral naň neznámý.</p>
+
+			<p>„Inu běží-li ti mermomocí o nějaké heslo," povoloval Beneda pořád jako s ousměškem žádosti cizincově, „tedy poslyš, ale nehněvej se! Řeknu ti na příklad za heslo: Praha, kralovic Vácslav a biskup Tobiáš!"</p>
+
+			<p>„Zaraz, zaraz!" řičel cizí jezdec málem jako šílený. „Je-li biskup Tobiáš opravdu tvým heslem, masti z tebe nadělám!"</p>
+
+			<p>„Ale, bratránku!" chlácholil Beneda rozzlobeného, „proti biskupskému heslu se tak příliš nezpouzej. Já se bez biskupa ani při vyslovení svého pravého hesla neobejdu; neboť pak musím říci: Otto, Ebrhard!"</p>
+
+			<p>„To je něco jiného!" udobřil se jedním rázem neznámý. „Tos' měl pověděti zrovna; člověk by věděl, s kým má jednati, nemusel by se daremně <pb n="37"/> zlobiti, ani si zbytečným povykem plíce dráti a ústa vyvraceti."</p>
+
+			<p>„I, bracháčku,“ ujišťoval Beneda, a radostí, že mu zuřivý sprosťák tak pěkně na vějičku sedl, se až zajíkal, „bracháčku, za našich dnů nemůže člověk ani dosti opatrným býti a nesmí se s pravdou vytasiti ani před těmi, kdož se našincemi dělají!"</p>
+
+			<p>„Pravda, Boží pravda," připouštěl udobřený odpůrce. „My se ale obapolně podváděti a klamati nehodláme, a protož upřímně a bez obalu vyslov: odkud a kam tou noční dobou s takovým kvapem jedeš?"</p>
+
+			<p>„Dej ty mi ten důkaz své upřímnosti," lichotil mu Beneda slovem důvěrným. „Na svědectví, že se zrády strachovati nemusím a že lsti v tvém srdci ke mně není, učiň počátek a oznam: odkud a kam ty pospícháš?"</p>
+
+			<p>„Buď si tedy," svolil jezdec od Rychnova. „Já, abych to vyklopil zkrátka, já přicházím ze Žamberka od vůdce svého Ebrschveifa a chvátám s důležitou zprávou k jeho příteli <pb n="38"/> vůdci Ebrklauovi, jenž prý s lidem svým tady kdesi v Solnici rozkoš plodí."</p>
+
+			<p>„I totě pěkná setkaná!" divil se radostným hlasem Beneda. „Mne zase posýlá vůdce můj Ebrklau ze Solnice k svému příteli, vůdci Ebrschveifovi, do Žamberka na jistou přeptanou."</p>
+
+			<p>„Hrome, totě shoda!" zasmál se z plného hrdla posel žamberecký. „Než to mi, bratře, pověz," ptal se domnělého posla solnického, „jak daleko odtud tam k vám ještě máme? Já obdržel rozkaz již v samou noc, tady v těch koutech jsem jaktěživ nebyl, a protož jsem jako slepý. Arci dle toho, jak se mi povídalo, daleko to již býti nemůže."</p>
+
+			<p>„O, bratříčku, to jsi na hrozném omylu!" porážel Beneda dobrou naději posla Ebrschveifova. „Já také obdržel rozkaz již za nastávající noci, a věř, že dobré tři hodiny jízdou co nejrychlejší se trmácím. Nepojal-li mě blud, už pěkný kus světa od Solnice vzdálen býti musím."</p>
+
+			<p>„I totě čertovo zákoutí!" zlobil se žamberecký. <pb n="39"/> „Ale co, moudrý si vždy poraditi dovede! Víš, jak to narafičíme? Povězme sobě obapolně, co si vůdcové vzkázali, a vraťme se potom každý domů."</p>
+
+			<p>„To máš s nebe nápad!" svoloval Beneda, a měl co dělati, aby se samou radostí nevyzradil. „Moje poselství," pokračoval, „je docela jednoduché. My tam v Solnici jsme jako zakleni, nevíme, co se ve světě děje, ani jak se našim hloub ve kraji daří, a proto jsem vypraven k nejbližší tlupě, k vůdci Ebrschveifovi, na přeptanou, abychom předc věděli, na čem stojíme a čím se říditi máme.“</p>
+
+			<p>„Tvoje poselství, brachu!" převzal slovo vyslanec Ebrschveifův, „co do důležitosti proti mému nestojí ani za pac, ač zase moje co do obsahu jinam než na kolo nepatří. Ony se dějou věci, že se jim tam u vás podivíte. Dle všeho se podobá, že nám kolovrátek v Čechách dohrává. Česká páňata se všady proti nám zbrojí, města nás také mají plné oči a přidávají se k nim, a lid, kterýž jsme trochu příliš bez nože dřeli, hrne se za nimi houfně. <pb n="40"/> Tak dostávají naši hloub v kraji výprask za výpraskem, a na nás rovně nic jiného nečeká. My tam v Žamberku máme strachu plný komín a každou chvíli takovou nějakou bouřku od okolních pánů a měst na sebe čekáme. Proto mě posýlá vůdce Ebrschveif k příteli svému, vůdci Ebrklauovi, se vzkázáním: aby všeho nechal, svých pět švestek aby sebral na kvap, s hrstí svého lidu aby nejdéle v pěti dnech na Žamberk dorazil a nám z kaše pomáhal, kdyby ji okolní páni a města příliš zhusta zavařili. To jemu na místě mne důkladně a jadrně pověz, a teď každý hajdy! po svých domů."</p>
+
+			<p>„Nemáš nic písemného s sebou?“ připomínal Beneda. „Tvoje poselství je opravdu důležité; tomu onby Ebrklau bez nějakého upodstatnění na holé slovo ani neuvěřil."</p>
+
+			<p>„Písemného-li co mám?" dal se do chechtání posel ze Žamberka. „Což nevíš, že v celém markrabství braniborském kromě některého kněze aneb mnicha nikdo ani perem trhnouti neumí? Kde bych vzal co písemného? <pb n="41"/> Leda od Ebrschveifa!" — a bezvýznamný jeho smích proměnil se v pošklebek. „Ten je sprosťák, jako já a ty — a jen tady za těch zmatků se mu podařilo nějakou chvíli na vůdčíka si zahráti, jako vašemu Ebrklauovi."</p>
+
+			<p>Pak se dal do kapsování a prohledávání. Za chvílku vyndal zespod náprsníku z voloviny zhotoveného stříbrný plíšek, kříž na kříž dírkami probitý, jakýž vůdcové jednotlivých tlup dle úmluvy svým poslům pro hodnověrnost dávali.</p>
+
+			<p>„Aj, mám předce něco s sebou!" zvolal, dotčenou známku Benedovi podávaje. „Na, vezmi tu šarapatku, a bude-li se tě Ebrklau po ní ptáti, dej mu ji. To ti ale povídám, do určené lhůty ať jste na Žamberce."</p>
+
+			<p>„Budeme, budeme," ujišťoval Beneda a vesele nazpět k Solnici klusal.</p>
+
+			<p>U hřbitovní zdi slezl s koně, a na témž místě co dříve, jenom že déle a s pocitem v srdci docela jiným, se modlil.</p>
+
+			<p><pb n="42"/></p>
+
+		</div>
+
+		<div>
+
+			<head>III.</head>
+
+			<p>U Kladské brány u samého východu z města po levé ruce stálo v Solnici za doby našeho vypravování skladiště korunní soli, přes cestu naproti po pravé ruce stála celnice se skrovným obydlím výběrčího, a hned vedle, již do náměstí zasahujíc, Nová hospoda.</p>
+
+			<p>Solní skladiště bylo stavení od kamene, nízko sklenuté, třikráte delší než širší, mělo uzounká okénka, jen jako šklabiny beze skla i mříží a silnou dubovou branku se závorou s dvěma petlicemi a s tolikerými též visutými zámky. Druhdy se tu nalézala znamenitá zásoba soli z Polsky přes Kladsko sem dovážené; než od zahynutí slavného Otakara, co všeckna správa a všeliký řád v Čechách nesprávě a <pb n="43"/> neřádům ustoupiti musely, zůstalo skladiště prázdné, až je Braniboři tady se uhnízdivší nikoli solí, nýbrž pro nedostatek příhodného místa svým koňstvem venkoncem naplnili.</p>
+
+			<p>Naprotější celnice byla obyčejná dřevěná chajda beze všeho významu; za to ale tím nápadnější vedle stojící Nová hospoda.</p>
+
+			<p>Sroubena z ohromných kladám se podobajících stěn měla pokrovní výšky dvakráte tolik, co jezdec na koni obnášel, délkou dosahovala až do polou náměstí a šířka délce mnoho neodevzdávala. Že pak takovou sroubeninu pod jednu vazbu dostati možno nebylo, vznášely se nad ní tři vysoké krovy, každý o sobě se zvláštním krytem. Bylo to staročeské stavení neobyčejně rozsáhlých rozměrů bez mnoha vkusu s malounkými okny a s vraty, ježto byly nápadně širší než delší, tak že jimi jezdec bez sehnutí projeti nemohl, nechtěl-li se o hořejšek naraziti.</p>
+
+			<p>Novou nenazývala se ona hospoda proto, jako by snad od nedávna zbrusu nově vystavěna byla —nikoli! O jejím zbudování nebylo v celé <pb n="44"/> obci pamětníka; avšak od té doby, co hospodský Daněk nakrátce před příchodem Braniborů stáj nazad byl přistavěl, prostřední krov novým šindelem ouplně pobil a druhé dva krovy makovicemi opatřil, od té doby počalo se tady na rozdíl od staré sešlé krčmy u dobrušské brány na „Nové hospodě" říkati.</p>
+
+			<p>Na veliký objem zvenčí shledávalo se uvnitř Nové hospody velmi málo případností. Nízkými vraty vcházelo se do náramné síně, ježto celou šířkou domu až na dvůr se táhla a dobrou třetinu vnitřní prostory zaujímala. Ze síně vedly nepříliš pěkně urobené dvéře s dřevěnou klikou na řemínku do nalevárny a spolu do tančírny tak rozsáhlé, že ani druh druha z jednoho konce na druhém při nemnohém světle z malých okének poznati nemohl. A z této velké jizby šly jedny dvéře do kuchyně, druhé do přístěnku, kdež vlastně hospodský pro snadnější dotopení v zimě zůstával a kdež také kalejší hosté zasedali, když se nezbednou lájí velká jizba přeplnila.</p>
+
+			<p>Kromě nějaké ještě sýpky na mazanině, <pb n="45"/> nějaké z prken zbité komory na podkroví a kromě kolníků a stájí na pozadí nebylo při tak rozsáhlém stavení žádné případnosti; ale sklep tady byl samec — hluboký, čistý a studený — a v něm zásoba sladkého i hořkého, medu i piva vezdy bohatá a to druhu co nejlepšího.</p>
+
+			<p>Tak hojnou návštěvu neměla Nová hospoda snad co stála, jako v onu neděli před dušičkami léta 1280.</p>
+
+			<p>Kde jen kus braniborského žoldnére bylo, všeckno se tu onoho dne shluklo. Velká jízba jimi byla nabita, v síni se jen hemžili a i pod kolníky a stájemi jich bylo plno. A žádnou živou věcí se jim odtud nechtělo. Hejřili od Božího rána, na neděli a její svěcení ani nezpomněli, pili v jednom kuse jak by do holeně lil, a když si neděle s pondělkem jižjiž ruce podávaly, ani tu se ještě vypraviti nemohli.</p>
+
+			<p>Ono to ale také nebylo nic snadného.</p>
+
+			<p>Z padesáti společných konví po stolech a lavicích ve velké jízbě rozestavených pěnilo se hořké, z tolika též zavánělo sladké, a mistr Daněk naléval se svou čeledí jako o závod a <pb n="46"/> beze všeho pobízení. Tu arci nezbývalo Braniborům, leč statečně dopíjeti. Žízně ono se jim nedostávalo nikdy, a aby se k tomu měli vesele, pobádal je Froněk na špalku uprostřed jízby svými dudami a zpěvem. Proto pili jako praví Braniboráci a hulačili přitom, že chvílemi vlastního slova slyšeti nebylo a pustý povyk daleko po obci se rozléhal.</p>
+
+			<p>Ostatně pohled na tu hejřivou chasu mnoho utěšeného neposkytoval. Byly to samé tváře prostopášností života zorané, stopami všeho druhu ohavnosti znamenané, beze vší známky Božího podobenství, a oko jen poněkud zkušené poznalo na první pohled, že pro šibenici již dávno přezráli.</p>
+
+			<p>Co ta zběř po velké jízbě lomozila a nectným povykem noční ticho rušila, hověl si ve přístěnku vůdce Eberklau s rádcem a přítelem svým Bertoldem čili Pobertem, jak lid obyčejně jej nazýval, u nevelkého stolku, na přistavených lavicích každý z jedné strany sedě, při nejlepší a nejříznější tekutině, jakou mistr Daněk ve své hojné zásobě choval.</p>
+
+			<p><pb n="47"/> Ebrklau, tak asi čtyřicátník, nevelký a těla nestřídmostí rozbahněného, měl svituprázdné oko a tváře napuchlé barvy podmáslové, ježto se jen potud rděly, pokud líh požitých nápojů krev prudil a k mozku poháněl. Helm, náprsník a pás se zbraní visely za ním na stěně na hřebíku a s kabátcem rozpjatým u stolu si hově, objímal jednou rukou cínovou konev a druhou podporoval hlavu parou medoviny obtěžkanou, aby se docela z rovnováhy nevymkla a hrdinu spolu sebou pod stůl nestáhla.</p>
+
+			<p>Poberto naproti, vůdce a přítele svého opak, o dobré desítiletí mladší, byl postavy švihlé a mrštné, přismáhlé pleti, s orličím nosem i také s bystrým orličím okem. Úplně povojensku ustrojen a upnut byl v celém množství sám jediný, jenž rozum nadobro ještě nepropil, ač divoký plamen oka a trojnásob tažená hluboká vráska po tváři ještě mladistvé na lupiče a na vilníka ukazovaly.</p>
+
+			<p>V tu dobu, co se s nima obeznamujeme, vedli hovor, a to, jak ze zvýšeného uzardění <pb n="48"/> tváří Ebrklauových vysvítalo, hovor poněkud prudký a vášnivý.</p>
+
+			<p>„Co z toho, je-li pan Mutina na svém hradě, že mně o tom již celý den kdákáš?" obořil se Ebrklau na rádce a přítele svého. „Jedna kroupa ještě nikdy nepotloukla, třeba jako husí vejce byla; a podobně ani nás přibytí jednoho člověka na Skuhrovský hrad odtud nezapudí, a třeba ten jeden pan Mutina sám byl! Myslím, že by hůře bylo, kdyby několik set ozbrojených pěstí s sebou byl přivedl; pak bychom arci museli přemýšleti, jak a co? a kudy a kam?“</p>
+
+			<p>„Pane!" odvětil Poberto s nevrlostí jen málo zatajenou, „ty pro mlhu bezstarostnosti ani na píď světa před sebe nevidíš. Mám pouze jeden krk, ale sázím se oň, že za příchodem Mutinovým zrovna naše záhuba kráčí; známť to schytralé panstvo české! Dokud šla před námi hrůza, vytratil se pan Mutina jako zlý peníz a choť i dceru odvezl do Prahy, ježto se mu doma dosti bezpečno býti nezdálo. Teď ale přichází nazpět, bez pochyby proto, aby <pb n="49"/> své rodině bydlo připravil; – odkudž spolu zřejmo, že se nebezpečenství z naší strany již nehrozí. A přehlednu-li, co jsem právě předeslal jen povrchně, vysvítá tolik, že naše moc v Čechách klesla a ty zprávy o porážkách našinců hloub v kraji že se, bohužel! na pravdě zakládají. Tu vidíme též osud svůj vlastní jako na dlani! Jsouce od svých nadobro oderváni a nazad bez záštity, Mutinovi mnoho hlavy lámání nenaděláme. Jeho přítomnost dodá té české chátře ducha, oni se na nás sesypou mimo nadání, a nebudeme-li jednati před časem, ani noha z nás neujde zkáze a záhubě!"</p>
+
+			<p>„E, jdižiž se svým tlachem i strachem!“ obekl se Ebrklau a sáhl po konvi s medem, aby mrzutost zapil a svoji nesnáz zakryl, nevěda, co na řeč Pobertovu, ježto se mu předce docela bezdůvodná býti nezdála, trefného odpověděti.</p>
+
+			<p>„Já myslím,“ sebral se konečně a byl rád, že mu alespoň něco na umenšení strachů Pobertem zbuzovaných napadá, „já myslím, že takové ty zprávy o porážkách našinců jsou vymyšlené <pb n="50"/> klepy, jen takový bubák na nás; a pan Mutina, možná, že má desateronásob více strachu před tebou, nežli ty před ním. A ostatně kdyby tomu v pravdě bylo tak, jak povídáš, — co počíti?"</p>
+
+			<p>„Potřeba nevyhnutelná," odpovídal Poberto hlasem velitelským a bylo viděti, že vlastně on vůdcem tlupy jest, „potřeba nevyhnutelná káže: bez odkladu na vše strany vyslati posly na zvědy, na každé hnutí v obci a po okolí dávati bedlivý pozor, mezitím vsecko k odchodu chystati a jak by se zprávy o porážkách našinců pravdou býti ukázaly, hned, byť i o půlnoci bylo, odtud na pochod se dáti, abychom ve spojení se svými alespoň hrdla uchovali, anož ostatní všeckno, jak tuším, v Čechách navždy pro nás jest ztraceno."</p>
+
+			<p>„Ty jsi učiněný blázen!" zasmál se Ebrklau, jemuž se Pobertova obezřelost přemrštěnou býti zdála a znovu si připil. „Duši z člověka vyhnati můžeš, oo toho nadrtíš! Avšak jednej si jen podle svého, já v ničem na překážku nebudu, aby se pak, kdyby se co strhlo, vina na <pb n="51"/> mne sváděti nemohla. Pozoruj si s Pánem Bohem každé hnutí, rozešli si posly na vše strany, učiň vseckno, co za potřebné uznáváš – jenom před časem o neštěstí nekulichej, aby mě chuť na medovinu a na ostatní ten tekutý Boží dárek nepřešla."</p>
+
+			<p>Další rozmluvě stala se přítrž neobyčejným ¡povykem, jakýž v tu dobu ve velké jizbě znikl.</p>
+
+			<p>Bylo tu arci již od rána jako v židovně; ale nyní strhl se tak pronikavý a jak se zdálo radostný jekot, že Ebrklau a Poberto s lavic povstali, aby se po příčině ohlídli.</p>
+
+			<p>Tato pak byla docela přirozená.</p>
+
+			<p>Stráž od rychnovské brány oznamovala, že právě dorazil posel od sousední tlupy od pana Ebrschveifa ze Žamberka.</p>
+
+			<p>Taková zpráva, zastihla-li žoldnéře i s vůdcem právě při hejření, zvýšila pokaždé společné veselí a způsobila pravý jásot, protože žádný takový posel až dotud se smutnou nepřišel a pokaždé téměř přinášel pozvání na nějakou větší společnou výpravu, odkudž se obyčejně znamenité kořisti nabývalo. Pro tu příčinu dali <pb n="52"/> se také spití žoldnéřové samou radostí v doslovném smyslu do řvání, když o příjezdu posla ze Žamberka slyšeli. Jak ale opovězený mezi ně vešel a po vůdci se doptával, vyvalili naň oči jako na nová vrata a hlučný ples proměnil se v pohrzlivý posměch. Byl totiž příchozí mládec asi pětmecítmaletý, krásný jako panna a dle postavy a zevnější úpravy snaze bohatýru nežli braniborskému žoldnéři podobný. A to se oněm bratřím z mokré čtvrti nelíbilo.</p>
+
+			<p>„Aj, což tam pan Ebrschveif již nikoho neměl, že k nám takové klouče s poselstvím vypravil?" zahulákal jeden z nejstarsích při celé tlupě, o němž byla pověst, že má nesmírnou sílu a že je neobyčejný popudlivec a rváč. „Vždyť to vyhlíží,“ pokračoval s rostoucí pichlavostí, „jako nějaké paňátko a ještě tomu ani mléko na bradě neuschlo! Ten asi posud mnoho pitek ani bitek nepodstoupil!“</p>
+
+			<p>K takové haně, ježto spolu jako žert vyhlížeti měla, vypuklo všeckno v jeden nekonečný smích. A domnělý posel na místě nějakého hněvivého zakabonění smál se s nimi, <pb n="53"/> a když ostatní konečně předc ustáli, pořád ještě smích jako utlačiti nemohl.</p>
+
+			<p>„Přátelé!“ oslovil posléze spité žoldnéře a na svého tupitele přitom ukazoval, „to je hloupý starý vlk, že kozou pro kůži pohrdá a člověka pro svršek zahazuje. Pravdať, o některý rok mladší a o něco méně roztrhaný jsem nežli on; ale ostatně co do bitek a do pitek musel-by ještě dlouho ke mně do školy choditi. Ten panošský cár neměl bych jaktěživ na sobě,“ ukazoval na svůj oděv, „kdybych onehdy panského sluhu, jsa polonah, nebyl svlíkl, když jsme pana Bohuše z Výprachtic s družinou jeho přepadli a obrali. Pro ten cár mnou tedy nepohrdejte a z ostatního nařknutí se hnedle vyvedu. Podejte mi plnou konev!“</p>
+
+			<p>A když mu podali velikou konev až po kraj vrchu plnou, vyprázdnil ji jedním douškem jakoby nic, nádobu prázdnou vyhodil do výšky až ke stropu, padající dolů hbitě rukou a sice zrovna za ucho zachytil, přitom vyskočil od podlahy, zavýsknul a na patě se otočil <pb n="54"/> – a to všeckno v okamžení, téměř najednou.</p>
+
+			<p>Za tím následoval pochvalný jásot a okem udobřeným všeckno všady k němu hledělo.</p>
+
+			<p>„Teď se podívejte, hoši, znám-li se v bitkách!" vyzýval vítěz nad konví všeckny přítomné, jich přízní nemálo rozbodřen.</p>
+
+			<p>Po takovém vyzvání přitočil se k svému předešlému tupiteli, popadl ho v půli, že se ani hnouti nemohl, vyhodil si ho na rameno jako vycpaný pytel a navzdor všemu zpouzení protivníkovu až do prostřed jízby jej donesl a tam nepříliš pozvolně na zem pustil, že to hrouchlo, jako když malý hrom udeří.</p>
+
+			<p>Teď teprv strhl se tleskot a obdiv ze všech stran, a žamberecký posel získal si přízeň vší tlupy, že by proň byli do ohně skákali.</p>
+
+			<p>Starý zahanbený rváč žoldnéř, jemuž v Solnici Kofroň přezdívali, znamenaje, kam se všeobecná náchylnost kloní, odešel stranou, mruče jako když si medvěd trn do tlápy zadře, zalezl do kouta, z mrzutosti usnul a zdálo se mu, že ten zatrolený žamberecký posel <pb n="55"/> celou tlupou, ba až samým Pobertem šmejká a o zem tluče.</p>
+
+			<p>Ebrklau na celý ten výstup z přístěnku, stoje ve dveřích, se díval. Velice se mu ta mela líbila, nasmál se až do upadnutí a posel ze Žamberka stal se jeho miláčkem.</p>
+
+			<p>„Chlapíku, ty se mi líbíš!" pokynul mu milostivě rukou. „Přistup blíže a oznam, co přítel náš, pán a velitel tvůj, nám vzkazuje?"</p>
+
+			<p>Posel hluboce a dvorně se ukloniv, vyřizoval takto: „Jasný pane! věhlasný nepřemožený vůdce Ebrklaue! Pán a velitel můj, věhlasný nepřemožený vůdce Ebrschveif, vzkazuje ti všelikou službu svou dobrou a užitečnou, a kromě zdraví a všeho blaha přeje ti plné měšce českého stříbra, časté a šťastné nájezdy a vítězství stálé; tvému lidu plné sklepy medu a piva, a takovým zasmušilým pánům, jako tuto stojí" — přitom ukázal na Poberta, od něhož jízlivým podezřivým okem měřena se pozoroval — „takovým pánům po hezkém boubelatém českém děvčeti."</p>
+
+			<p>Tím žertem způsobil opět všeobecný smích <pb n="56"/> ba ani Poberto zdržeti se nemohl, aby ústa jako ke smíchu neskřivil.</p>
+
+			<p>„Co se nás týče," pokračoval posel, „my tam na Žamberku žijeme vesele a bezstarostně jako koza v zelí, když ani vlka ani pastuchy na blízce není. Pitky a veselí u nás nepřestávají a nemine týden, abychom některý veselý kousek v sousedství nevyvedli. Pravdať, tu před některým dnem došly nás zprávy, jako by naši hloub v kraji a zejména u Prahy nanic pocházeli a od pánů a měst porážky trpěli; my ale rozeslali posly na vše strany a shledalo se, že celá ta pověst utkána byla ze samých lží na naše ustrašení."</p>
+
+			<p>„Vidíš, brachu!" obrátil se Ebrklau k příteli a rádci svému Pobertovi, jsa tomu rád, že zlé věštby od onoho pronešené se neztvrzují, „vidíš, že já měl pravdu a že jsou to klepy!"</p>
+
+			<p>„Ano, zvěděli jsme," mluvil posel téměř bez přestávky, „že páni proti nám spiklí od našich naskrze zporáženi jsou a potřeni. I vracejí se, lid v půtkách s našimi ztrativše, samojediní dobou noční na své hrady, s tím, co <pb n="57"/> utržili jsou tiše jako s teplou bábou a mrou strachy, abychom teď na jich skalnatá sídla neudeřili."</p>
+
+			<p>„Slyšíš, příteli!" opět, avšak ještě veseleji obrátil se Ebrklau k Pobertovi. „Neřekl-li já dobře, že má Mutina kolikeronásob více strachu před tebou, nežli ty před ním?"</p>
+
+			<p>„Pročež vzkazuje pán a velitel můj, věhlasný a nepřemožený Ebrschveif," končil poslanec své zvěsty, „tobě, věhlasný a nepřemožený Ebrklaue! abys beze vší starosti tady přezimovati ráčil a jestli se tobě a lidu tvému prostředků na veselé živobytí nedostává, zve tebe na lov, kdež se něco pořádného popadnouti dá, a k tomu ještě celou tu melu jako za humny odbudeš. Hradečtí a horští kupci vypravili vozy do Vratislavi pro zboží, ježto se k nám z cizích zemí po moři dováží. S prázdným jeli přes Náchod a s nákladem, aby vytřeli našincům zrak, vymyslili cestu zbrusu novou. Horskými a lesními úvozy přijedou od Bystřice na Kunštát a pak těmi tady pralesy již na české straně poplíhnou se po uhlířských <pb n="58"/> stezkách, až pod Podolím u samé Hoříně z lesů do otevřeného kraje vyjedou. V pátý ode dneška den s východem slunce budou vyjížděti z lesů podolských a v oupadě u Hoříně pozdravíš je ty, nepřemožený Ebrklaue, co zatím část lidu našeho až do Žamberka poslaného od lesů do boku jim padne. Vozů naložených bude do třidceti a ozbrojeného při nich lidu na sto mužů. Tuť vidno, že to zhola beze vší práce nebude; avšak něco za něco, neboť kořist kyne slavná. Já pak z rozkazu pána a velitele svého, věhlasného nepřemoženého Ebrschveifa, u tebe věhlasný nepřemožený Ebrklaue! až do dne nájezdu zůstanu, abych tebe a lid tvůj se způsobem outoku ještě lépe seznámil."</p>
+
+			<p>Poselství vyslance Ebrschveifova přijato jest od vůdce i lidu jeho s nesmírnou radostí. Všeckno se k němu tlačilo, každý mu lísal, konví na zavdanou odevšad mu podáváno bez počtu a na dovršení všeobecného plesu nabídl mu Ebrklau na pohostinské ubytování až do dne nájezdu své vlastní obydlí.</p>
+
+			<p><pb n="59"/> Ano sám hospodský mistr Daněk, jenž v divoké radosti svých hostí nikdy upřímně se neoučastnil, tentokrát nade všeckno pomyšlení se veselil a s významným ohněm v oku posla žambereckého vítal.</p>
+
+			<p>Také dudák a písničkář Froněk, zralý padesátník v režné haleně, s poctivou a obyčejně veselou tváří, jenž hrou a zpěvem od rána se nahmoždiv, jižjiž na špalku při všem hulačení a povyku braniborského žoldnéřstva klímati počínal, pohledem na posla ze Žamberka podivně okřál a znova oživnul. I zadudal hezky ostře od podlahy, až Braniborům veselka do pat vjela a oni do křepčení a hopkování se pustili.</p>
+
+			<p>Žamberecký posel byl jako střela hnedle mezi nimi, otáčel se na patě i na palci, prohýbal se, metal kotrmelce, chodil po rukou nohama zhůru a na obveselení Ebrklauovo vůbec nejbujnější posuňky a skoky prováděl, jako by v celém těle ani kůstky neměl.</p>
+
+			<p>A Froněk celý ten tartas provázel vřeštivou hudbou na dudech, někdy také udělal <pb n="60"/> přestávku a veselým šprýmovným zpěvem mezeru vyplňoval.</p>
+
+			<p>Tehdáž na uvítání náviděného posla zpíval mezi hrou mimo mnohé jiné žertovné a už známé písně také jednu novou, kteráž se, s výminkou posla samého, sotva ještě komu líbila.</p>
+
+			<p>Zněla pak takto:</p>
+
+			<l>Zakrákali jestřábi:</l>
+
+			<l>„Připravme si kvas,</l>
+
+			<l>zpěvné ptactvo podavme —</l>
+
+			<l>teď je k tomu čas!“</l>
+
+			<l>A co dravci kvapili,</l>
+
+			<l>pošle orel král</l>
+
+			<l>pobočního sokola,</l>
+
+			<l>by je rozehnal.</l>
+
+			<l>„Sokolíčku, sokole!</l>
+
+			<l>jestřábi jsou zlí,"</l>
+
+			<l>s výší vzduchu skřivánek</l>
+
+			<l>malý šveholí.</l>
+
+			<l>„Sokolíčku, sokole!</l>
+
+			<l>sám je nezmůžeš;</l>
+
+			<l>však pomoci od ptactva</l>
+
+			<l>všeho nabudeš.</l>
+
+			<l> <pb n="61"/> Já s ochotou bratry vše</l>
+
+			<l>v radu povolám,</l>
+
+			<l>jenom místo čas udej,</l>
+
+			<l>sokolíčku, nám!"</l>
+
+			<p>Po poslední sloze pritočil se posel Ebrschveifův k dudákovi s neobyčejnou rychlostí, tak že od nikoho pozorován nebyl, a toto do ucha mu šeptal:</p>
+
+			<p>„Pozejtří o slavnosti dušiček záhy před úsvitem v kostele.“</p>
+
+			<p>Dudák byl rád, že mu posel porozuměl, kýval spokojeně hlavou, dávaje spolu na jevo, že také rozumí, a veselým pochodem dle nápěvu staročeské národní písně</p>
+
+			<l>„Už vám pilka dořezala,</l>
+
+			<l>už vám mlýnky domlely"</l>
+
+			<p>ve zvucích svých milých dud pronesl a vypověděl zřetelně dosti, co v tu chvíli myslil a cítil.</p>
+
+			<p>Konečně již dlouho po půl noci neomalení besedníci se rozešli — kdo z nich totiž ještě jíti a na nohou státi mohl. Pokud si kdo dle míry zbývající malounké špetky nepropitého <pb n="62"/> rozumu událostí minulého dne vědom byl: vrávoral každý s myslí veselou do svého bytu a toho si přál, aby se opět co nevidět podobné veselí a hulačení semlelo.</p>
+
+			<p>Toliko Poberto zasmušile a podezřivě zhlížeti nepřestal; a když Ebrklau s poslem žambereckým pod paždí se vedoucí odcházeli, svítil za nima rozzlobeným okem jako kocour.</p>
+
+			<p><pb n="63"/></p>
+
+		</div>
+
+		<div>
+
+			<head>IV.</head>
+
+			<p>Ve čtvrti mezi dobrušskou a kladskou branou, kde se nyní na Hradčanech říká, stál při samé ohradě nad hoření strouhou skrovný sice, ale velmi ouhledný domek. Již zvenčí dle vkusného uspořádání znamenati se mohlo, že tu něžné a čistotné ruce opatrování vedou.</p>
+
+			<p>Pěkně obílené stěny, zánovní šindelový kryt s černou makovicí, jasná okna v blankytových rámcích a před okny vkusným plůtkem obehnaná zahrádka, kdež letního času kromě kuchyňských zelin také růže a jiné zahradnické kvíti rostlo a kvetlo: to všeckno pospolu činilo tak utěšený celek, že se srdce smálo.</p>
+
+			<p>Ano, tak nápadné bylo staveníčko na Hradčanech, že se i přespolní lidé o trhu a jindy, <pb n="64"/> když za svými záležitostmi do Solnice přicházeli, na majetníka hezkého domku dotazovali. Těm a takovým v onen smysl se tázajícím odpovídali lidé domácí, že tam počestná vdova Marešková s dcerou svojí Eliškou přebývá.</p>
+
+			<p>Marešková byla vdovou již na čtrnáctý rok a dříve prožila sedm let ve šťastném manželství s mužem velmi řádným a v obci váženým, jenž za poslední doby před svojí nenadálou smrtí také konšelství při obecní radě zastával.</p>
+
+			<p>Ouhledný domek na Hradčanech a dva kousky pole na dolením poříčí držela Marešková co pozůstalost po manželovi a zvláštní drahocennou upomínku naň, jako také na krátká leta blahého sňatku, a spolu zdrojem mnohonásobné útěchy a podpory na kolena stará byla jí jediná dcera Eliška.</p>
+
+			<p>Po smrti manželově, jsouc jako ruky domácnost všelikými potřebami zásobující zbavena, těžila za rmutného vdovství skrovničkou výživu z pole při domku dědičného, a čeho se nad to nedostávalo, dobývala pletením a šitím, uměním <pb n="65"/> na tehdejšek velmi vzácným, a v dospívající dceři své měla pilnou a horlivou pomocnici. Při hojné práci a malých potřebách čas až milo jí ubíhal, spokojenost kvetla a nedostatek pod její střechu nevešel nikdy.</p>
+
+			<p>Přitom požívaly obyvatelky klidného domku na Hradčanech po celé čtvrti, ba po vší obci zvláštní přízně a to na základě docela spravedlivém.</p>
+
+			<p>Povážliví sousedé vážili si matky pro vzorné spravování nevelkého hospodářství a říkali, že se jí v tom mnohý mužský nevyrovná. Sousedky zase ji milovaly pro příkladnou svornost, pak pro dobrou radu, jakouž v mnohých a mnohých případnostech dávati uměla, a konečně i proto, že umělou svojí jehlou jim i dcerkám lecjakou tu parádu hotovila. A mláď, zvláště jonáci ctili ji proto, že byla matkou nejsličnější a spolu nejctnostnější dcery v celém městě.</p>
+
+			<p>Eliška ta zase jinými kouzly k získání lidské přízně vládla. Bylať krásná — a to postačuje. Kráse kořejí se lidé od jakživa a proto <pb n="66"/> také ona, na koho svým temnomodrým okem pohlédla, každého si naklonila.</p>
+
+			<p>Pro takovou všeobecnou přízeň býval domek na Hradčanech zvláště za svátečních a nedělních odpolední hojně navštěvován.</p>
+
+			<p>Sousedky přicházely k matce, děvčata k dceři. Sousedé, že jako mužské hlavy v domě nebylo, pro slušnost k Mareškovům se netáhli; za to ale jonáci obíhali kolem oken jako z udělání a byli radostí titam, když růžové tvářičky aneb temnorusé vlásky Eliščiny uhlídali.</p>
+
+			<p>Pověst prý má křídla a co k čemu je, o tom se lidé široko daleko dovídají.</p>
+
+			<p>Tak se dělo s Eliškou.</p>
+
+			<p>Kromě hochů domácích zvěděli o tom také jiní, že ona je děvče švárné a že krásou i ctností oplývá. Sám přední panoš ze skuhrovského hradu zjevně ji náviděl, a šla o tom řeč najisto, že ji k oltáři povede, jenom co pan Mutina starého hradního na odpočinutí dá a uprázdněné místo svým oblíbeným panošem osadí.</p>
+
+			<p><pb n="67"/> Takového štěstí vsickni Elišce přáli. Toliko domácí chasníci na to reptali, mníce: když za domácí ohradou něco kalého vykvete, že pokaždé přespolní ruka zrovna před hubou jim to vyfoukne. A kteří byli zhorka nakvašeni, vyjádřili se ještě ostřeji, říkajíce bez obalu: „Tak ono je — na čem si člověk nejvíce zakládá: ďas to vezme!"</p>
+
+			<p>V pondělí po známé nám neděli před dušičkami zrána zaměstnávaly se Mareškovic dle svého způsobu — matka pletením a dcera šitím.</p>
+
+			<p>Světnička, kdež obě při práci spatřujeme, stkvěla se čistotou a něžným uspořádáním.</p>
+
+			<p>Obvyklé nářadí, jako stůl, lavice, židle a police veskrz z lípového dřeva bez nátěru lesklo se jako sklo a jen málo lišilo se od bělounkých pokrývek na dvojím loži. Po stěnách bílých jako křída visely ve slušném rozměru obrázky Svatých a uprostřed mezi nimi v průčelí světnice trůnil značně větší obraz nepoškvrněné Bohorodičky, ověnčen pletenci z pozdního jesenního kvítí, a pod ním stálo <pb n="68"/> klekátko, kdež Eliška prosby a touhy svého panenského srdce každodenně na modlitbách k nohoum Panny nejsvětější vroucně skládala.</p>
+
+			<p>Za dotčeného jitra pracovaly obě mlčky s tváří sklíčenou.</p>
+
+			<p>Matka, jížto do padesátky scházelo asi tolik co dceři do dvacítky, a na jejímž obličeji známky někdejší sličnosti tak patrné byly, jako skutečná krása na obličeji dceřině, seděla opodál oken v zázadí světnice, protože s dráty i z paměti uměla; Eliška naproti měla šití rozložené na stolku u samých oken, aby za mlhavého nejasného jitra na drobnou práci lépe viděla.</p>
+
+			<p>Do řeči jim nebylo, neboť při stísněném srdci špatně se jazyk obrací; a od té doby, co se Braniboři v obci uhnízdili, ani Mareškovic bez tísně srdce nebyly.</p>
+
+			<p>Po celý ten měsíc od sv. Václava ani noha ze sousedstva k nim nezavítala, protože si pro strach nikdo z domu netroufal. I byly jako zakleny a trávily dnem i nocí při dveřích <pb n="69"/> závorou zastrčených. Mimo to pak ještě jiná okolnost nemálo je děsila.</p>
+
+			<p>Dlouhé mlčení konečně přetrhla matka mírným rozkazem.</p>
+
+			<p>„Odstav stůl od okna," velela dceři. „Nastává předpolední," udávala příčinu své vůle, „co nevidět počnou žoldnéři po ulicích vytloukati, a ten šereda nám bez toho zase pod okna okounět přijde."</p>
+
+			<p>Eliška učinila dle matčina rozkazu, ruměnec na tváři se jí studem zvýšil a na místě slov pozvedla krásné oko, v němž se slza leskla, k Marianskému obrazu, a myšlénka pohled prosebný provodící byla: „Královno nebes, zbav nás toho soužení!“</p>
+
+			<p>A právě v tom okamžení kráčel štíhlý oděnec pozvolně po ulici s obličejem k domku na Hradčanech nápadně obráceným. Eliška, hledíc k obrazu Matky Boží, si ho nepovšimla, ale Mareškové se to jaksi povědomě mihlo — i vzchopila se, pospíšila k oknu a s radostným se-divením zvolala: „Pro sedm radostí Marie Panny — totě Beneda!“</p>
+
+			<p><pb n="70"/> Ke jmenu „Beneda“ otočila se Eliška k oknu jako blesk a ruměnec na spanilé tváři již dříve zvýšený přešel téměř až do ruda.</p>
+
+			<p>„Ano, je to on!“ zašeptala hlasem dušeným, neboť překvapení a radost svíraly jí hrdlo, že sotva dýchati mohla.</p>
+
+			<p>„A jak toužebně sem hledí!“ oznamovala matka, co na ulici viděla, „a jak významně a tajemně kyne, jako by k nám chtěl, a buď nesměl nebo nemohl! Co to jen všeckno znamená?“</p>
+
+			<p>„Tuším já dobře, co to bude,“ řekla Eliška po chvílce, když Beneda již zašel, s povzdechnutím. „Beneda zajisté buď z rozkazu pana Mutiny anebo z vlastního popudu nějakou hrdelní hru na obelstění Braniborů podniká a život v nebezpečenství vydává.“</p>
+
+			<p>„Máš pravdu," přisvědčovala matka smutně. „V takovém díle nejvíce si libuje, jen aby nepřišel ku zkáze; ono je se vším na světě odtud až dotud."</p>
+
+			<p>Pak se obě zamyslily a zamlčely.</p>
+
+			<p><pb n="71"/> Brzy ale vytrhlo je z takového zamyšlení zvučné klepání na domovní dvéře z ulice.</p>
+
+			<p>„Tedy se předce zdržeti nemohl, aby k nám nezavítal!" zvolala matka vesele a spěchala do síně, aby závoru ode dveří milému hostu odstrčila.</p>
+
+			<p>Eliška, ač již dříve milence na ulici viděla a návštěvy od něho nadíti se mohla, nicméně tak se toho zaklepání na dvéře ulekla, že nohy pod ní klesaly. Ani z místa svého nepovstala a s hlasitým srdce tlukotem plná neblahého tušení okem snáze bázlivým než toužebným ke dveřím pohlížela.</p>
+
+			<p>A předtucha ji nezklamala.</p>
+
+			<p>Na místě srdečných slov radostného vítání rozlehlo se po síni děsné vykřiknutí a hned za tím vběhla matka do světnice s obličejem až hrůza uděšeným. Rukama lomíc a se křižujíc nemohla pro leknutí ani slova ze sebe vypraviti — a zrovna v zápětí za ní objevil se na prahu Poberto.</p>
+
+			<p>„S moudrým jste se poradily," oslovil ženštiny hrůzou omráčené a vilný oheň z očí <pb n="72"/> mu šlehal, „že jsem nadarmo tlouci nemusel. Tolikerými okliky a s tolikerou trpělivostí nejsem já zvyklý cíle docházeti. Čeho mi až dotud od vás vzdorně bráněno: dnes násilím mělo býti dobyto; a protož dobře, že se poddáváte. Vaše škoda to nebude; pod mojí ochranou nebudete se mít čeho strachovati, a skoupým za prokázanou povolnost nebyl jsem nikdy."</p>
+
+			<p>Při takovém nestoudném a beze všeho obalu pronešeném návrhu nabyla Marešková přítomnosti ducha a se vší vážností těžce uražené matky postavila se proti hanebníkovi. Neohroženě do očí mu hledíc promluvila s odhodlanou důrazností: „Pane! o tvoji ochranu nedbáme, neboť stojíme pod ochranou vyšší, pod ochranou samého Boha; a štědrým ze svých svatokrádeží a lupů prokazuj se, komu ti libo ; my štědroty tvé žádostivy nejsme."</p>
+
+			<p>„Aj! což snad ještě nyní vzdorovati chcete?" ušklíbal se ousměšně Poberto a z vilného oka také plamen vzteku mu vyšlehl. „Tebou, staré haraburdí, já si cestu zameziti nedám!"</p>
+
+			<p><pb n="73"/> A odstrčiv matku, zrovna k dceři zaměřil.</p>
+
+			<p>Než s prudkostí rozdrážděné lvice zastoupila jedním skokem nešťastná matka dceru ubohou, rozpřáhla ruce jako na ochranu, slze jí vyhrkly z očí a hlasem zoufanlivým zvolala: „Padouchu! jestli se Boha nebojíš a jeho svatému zjevení, ježto bezbožníkům věčnými mukami hrozí, nevěříš: tedy prokoli vražednickou zbraní svou napřed ňádra nešťastné matky, aby na poškvrnění nevinného dítěte hleděti nemusela.“</p>
+
+			<p>„To se ti ani po vůli nestane," odpověděl Poberto s ďábelským pošklebkem, „Stála bys mi za to, abych si tebou ocel špinil; od tebe já si snáze pomohu."</p>
+
+			<p>Mezitím vyndal zespod kabátce klubko řemení a zátku zvláštně zřízenou, pak se ženy ubohé násilně chopil, řemením jí na zad spoutal ruce, zátkou zacpal ústa, tak že nešťastná ani o pomoc volati nemohla — a to všeckno vykonal okamžikem s takovou hbitostí, jakéž toliko častým opětováním stejného díla lze dosíci.</p>
+
+			<p><pb n="74"/> „Spolu jsme hotovi!" doložil s posměškem vítězné zloby. „Teď se na poškvrnění svého dítěte, jak tomu pobabsku říkáš, dívej anebo nedívej — mně vše jedno.“</p>
+
+			<p>Nemaje již žádné překážky před sebou, blížil se k Elišce, avšak pohleděv na ni při vší své zhovadilosti užasnutím na krok ucouvl.</p>
+
+			<p>Bílá jako sníh s hlavou svislou, s očima zavřenýma seděla ona, ani nejmenší známky života nejevíc, tak že ji zrovna do rakve položiti mohl.</p>
+
+			<p>„To by mi peklo šeredný kousek bylo vyvedlo!" durdil se zlosyn. „Ale ani peklo mé kroky nezastaví," přidal jako v šílenosti; „však já si ji vzkřísím!"</p>
+
+			<p>A hned způsobem arci nepříliš něžným omdlelou se jal potřásati, aby ji k vědomí probudil.</p>
+
+			<p>Právě když Eliška oči otvírala, ucítil se Poberto ramenem obrovským zezad uchopena a zrovna také jak široký tak dlouhý od tétéž cizí ruky na podlaze se roztáhl.</p>
+
+			<p>Rozumí se samo sebou, že v takovém položení <pb n="75"/> dlouho nesetrval, nýbrž, schopiv se jako vítr rychle, meč vytasil a po nenadálém nepříteli se ohlížel. A před ním stál s mečem též vytaseným a s tváří spravedlivým hněvem planoucí jako angel pomsty domnělý Ebrschveifův posel ze Žamberka.</p>
+
+			<p>„Tak, tys to hanebný vyzvědači a zrádce!?“ zasoptěl Poberto vztekem celý modrý a div že očima soka svého neprobodl.</p>
+
+			<p>„Ano, já to jsem — nikoli vsak vyzvědač a zrádce, nýbrž ochránce slabých a mstitel všelikých nešlechetností,“ odpověděl na vzteky Pobertovy žamberecký posel hlasem, nejhlubší ošklivost a opovržení jevícím.</p>
+
+			<p>„Chvástej ty se býti kým chceš, mne neobelstíš!" řičel Poberto se vztekem ještě rostoucím.</p>
+
+			<p>Domnělý Ebrschveifův posel soudil docela přirozeně, že se s Pobertem bez krvavé šrůtky nerozejde a na souboj se hotovil. Však ale hotovil se marně, neboť Poberto sám nic nepočínal a tak meč stavěl, aby se před outokem ze strany odpůrcovy toliko kryl.</p>
+
+			<p><pb n="76"/> „Hmyz tvého druhu," vychrlil mezitím ze sebe s výrazem nekonečné pomstychtivosti, „se buď kolem probíjí aneb na kůl věší; s ním se braniborský vojín nepotýká."</p>
+
+			<p>Po těch slovech se s velikou rychlostí sehnul, mrštně jako ouhoř svému soku pod rukama proklouzl a ze světnice upláchl.</p>
+
+			<p>„Počkej, zrádce!“ vyhrožoval na ulici, „do těch ok, jež jsi nám klásti hodlal, sám se zapleteš a s celou kůží nevyvázneš."</p>
+
+			<p>Jakkoli vyděšeným a na smrt ulekaným ženštinám pro nabytí nějakého alespoň upokojení velice zapotřebí bylo, aby statečný obhájce déle u nich zůstal, a on za hlasem srdce svého rád tak byl by učinil: předce, maje vyšší cíl před očima než pouhou srdce choutku, jako napřekot odtud pospíchal.</p>
+
+			<p>Co nevyhnutelného bylo, pořídil zkrátka.</p>
+
+			<p>Matku zprostil nehodných pout a Elišku celováním a sladkými slovy vzkřísil k ouplnému vědomí. Nad to přikazoval ještě větší opatrnost a bdělost, sliboval, že také sám nad <pb n="77"/> nima ruku ochrannou držeti bude a těšil, že celé to soužení bohdá co nevidět pomine.</p>
+
+			<p>Takto utišené narychlo opustiv, zatočil se od domku na Hradčanech příční uličkou na náměstí a zpříma k bytu Ebrklauovu pospíchal.</p>
+
+			<p><pb n="78"/></p>
+
+		</div>
+
+		<div>
+
+			<head>V.</head>
+
+			<p>Bylo nedaleko poledne.</p>
+
+			<p>Ebrklau procítl z dlouhého a pevného spaní, do něhož se ale, jak víme, nedostal umdlením od práce, nýbrž opojnou parou z medoviny, jížto si včera u mistra Daňka, více než slušelo, byl přál.</p>
+
+			<p>Probudiv se nadobro, vymnul si opuchlé oči, poškrábal se v hlavě, natahoval se, zíval a na posteli, peřinami z půl Solnice snešenými měkce vystlané, se posadil. Na místě ranního žalmu jal se chroptavým hlasem volati na žoldnéře, přede dveřmi střežícího, a požádal od něho konev — ne však konev s vodou na umytí tváře a vyčištění úst — nýbrž konev s medem na svázání konců, jak on říkal, aby <pb n="79"/> totiž čím se včerejší den skončil, dnešní tím se opět počal.</p>
+
+			<p>Při takovém zaměstnání, totiž na posteli sedícího a s konví u úst natrefil jej Poberto, jenž pln vzteku a pomstou soptě od známého nám výstupu z domku na Hradčanech přicházel.</p>
+
+			<p>Vešed do bytu Ebrklauova postavil se před ním u postele, založil ruce a na místě ranního pozdravení takto jej oslovil: „Hov si, hov, však ti to ani tak dlouho trvati nebude, jak to trvalo, a neotevřes-li oči do kořen: možná, že třeba už dnes se svým popíjením jsi v koncích."</p>
+
+			<p>„Co to zase pleteš?" mrzel se Ebrklau, že mu přítel a rádce Poberto tak nešetrně snídaní pepří. „Ještě mně od včerejška uši brní a už opět znovu začínáš? A nač to mám oči do kořen otevříti?"</p>
+
+			<p>„Abys viděl, koho ve svém vlastním domě přechováváš!" urychlil se Poberto s odpovědí. „Věř, žes' přijetím žambereckého posla do svého bytu a důvěrou, jaké mu tuším popříváš, <pb n="80"/> položil sobě za ňádra hada, od jehož uštknutí zahyneš ty a my ostatní s tebou."</p>
+
+			<p>„Zaraz, zlověstný závistníku!" rozhněval se Ebrklau do opravdy, a sice tak, že konev s medem v polou doušku od úst odtrhl. „Co máš proti vyslanému našeho přítele Ebrschveifa? Není to švárný bodrý chlapík? Věz, že mi se svými vtipnými žerty milejší je o půlnoci, než ty s ohyzdnou podezřivostí a zlověstností v pravé poledne."</p>
+
+			<p>Ten výpesk teprv Poberta dopálil. I zachvěl se vztekem po celém těle, zaťal pěstě a bezmála jako v domku na Hradčanech na žambereckého posla zařičel, řka: „Dobře, stav si toho zrádce a vyzvědače nade mne; však uhlídáš, kam s ním dojdeš! S lidmi zdejšími se zná a hned za tepla se mezi nimi po staveních potlouká a pikle kuje; ano, je to udice hozená od Mutiny Skuhrovského, a ten smýšlený nájezd na hradecké a horské kupce je vnadidlo, jímžto se zardousiti máme."</p>
+
+			<p>Závěrek uvedené rozmluvy slyšel posel Ebrschveifův na vlastní uši, an právě do dveří vcházel.</p>
+
+			<p><pb n="81"/> „Kdybys tak raditi uměl, jako podezření buditi a osočovati znáš, věru předsedou všech vojenských rad po celém světě s pochvalou bys býti mohl!“</p>
+
+			<p>Tak mluvě změřil okem pronikavým domnělý posel ze Žamberka svého vinitele od hlavy k patě a směle a neohroženě před vůdce se postavil.</p>
+
+			<p>„Poslyš, věhlasný, nepřemožený Ebrklaue!" pozvedl pak hlasu svého po slušné pokloně, „a pak sudiž moudrost tvá, zda-li já anebo vinitel můj zrádcem slouti zasluhuje. Ten český lid, jak sám věděti ráčíš, je učiněný dobrák. Chtěj na něm, a on ti dá; beř mu, a on mlčí. Dříví na sobě štípati nechá a všeckno snese; toliko nestoudné násilné vtírání-se do rodin nestrpí. Tou zajisté nešvarou věc naše v Čechách utrpěla hlavně. Kdo se tímto padoušstvím vinen činí, popuzuje lid český k pomstě, na své bratry uvaluje nenávist, záměry pána a markrabí našeho přivádí nazmar — slovem: tentě zrádce! A takovým zrádcem, nepřemožený Ebrklaue! zvu veřejně rádce a <pb n="82"/> přítele tvého; neboť napadl jsem jej, an právě před obličejem spoutané matky vdovy dceři hrůzou omdlelé násilí učiniti se strojil. Já arci skutku zrádnému zabránil; za to ale co zrádce před tebou, věhlasný nepřemožený Ebrklaue! jsem obnešen."</p>
+
+			<p>Pravda těmi slovy pronešená Poberta, střelám jejím jindy docela nepřístupného, tentokráte proti obyčeji tak mocně se dotkla, že drzosti potrativ, v tu chvíli ani ceknouti nemohl. A Ebrklau, maje z jediného rádce a přítele svého dost a dost trpké zkušenosti, že neřest jmenovaného druhu opravdu lid český nejhůře popuzuje a věci braniborské škodí, téměř zřejmě s osvědčováním vnitřní nevole poslu žambereckému přisvědčoval.</p>
+
+			<p>Opatrnému mluvčímu dojem takový neušel. I nabyl mysli a tím zmužileji znovu mluviti se jal.</p>
+
+			<p>„Nemysli, věhlasný, nepřemožený Ebrklaue! jako bych snad pouze proto tak mluvil, abych nařknutí přítele tvého od sebe zapudil. Znikla-li jaká pochybnost v tvé velkodušnosti, <pb n="83"/> pak jinými důkazy osvědčím, že kým se činím, také jsem."</p>
+
+			<p>Nato sáhl pod náprsník, vyndal onen nám povědomý kříž na kříž probitý stříbrný plíšek a položiv jej na stůl, odepal meč a též na stůl jej položil.</p>
+
+			<p>„Napřed rač přijmouti známku,“ podával vysvětlení k tomu, co byl právě učinil, „známku, jakouž mi pán a velitel můj, nepřemožený Ebrschveif, pro hodnověrnost na cestu dal. A také zbraň mou přijmi!“</p>
+
+			<p>Poslední slova a co dále následovati bude, pronesl tak vážně a s takovou nadšeností, že sám Poberto oči vyvalil a Ebrklau celý ztrnul.</p>
+
+			<p>„Nyní pak bezbranného, jak jsem, kaž uvrhnouti do nejhlubšího sklepa, oklop mě stráží desaterou, narychlo vyprav posly do Žamberka k pánu a veliteli mému na přeptanou — a nejsem-li vyslanec od něho zplnomocněný a je-li jen slabika v řeči mé lživá: pak mě rozsápati kaž všemi mukami, jež tvůj rádce, můj nepřítel, bude s to vymysliti!“</p>
+
+			<p>Tato závěrka měla za oučinek to, že Ebrklau <pb n="84"/> v poctivost posla žambereckého nadobro a navždy uvěřil.</p>
+
+			<p>Ale Poberto, jenž se byl zatím od svého prvního zaražení zpamatoval, návrhu poslem samým pronešeného chtivě se chytal.</p>
+
+			<p>„Učiň mu to k vůli," ponoukal Ebrklaua, „a pošli na přeptanou do Žamberka, budeš míti pak alespoň mysl upokojenou."</p>
+
+			<p>„A příteli svému spolu k nějakému ochlazení pomsty dopomůžeš," doložil posel žamberecký s pichlavým úsměškem.</p>
+
+			<p>Pichlavý ten přídavek popudil Ebrklaua k nemalému hněvu.</p>
+
+			<p>Nechtěl on nikdy jako hříčkou v ruce Pobertově vyhlížeti, ač vlastně jináče nebylo. Proto se také ob čas rádci svému opřel a po jeho vůli třeba k nemalé své škodě neučinil. Podobně, popuzen úsměškem posla ze Žamberka, také dnes jednati si usmyslil.</p>
+
+			<p>Hned od počátku zdálo se mu nařknutí Pobertovo přehnané a nepravdivé, smělá pak řeč a neohrožené počínání nařknutého jej v takovém domnění ještě potvrdilo, a proto obořil se <pb n="85"/> na Poberta s velikou prchlivostí, nadal mu zrádců a škůdců braniborského blaha v Čechách a pohrozil sklepem, vězením a kyjem, jestli se honem neuklidí a na posla žambereckého jen křivě kouknouti se opováží.</p>
+
+			<p>Poberto na takové důtky arci také nemlčel a ledaco mu v rozhořčenosti vyklouzlo, což za chvalořeč o Ebrklauovi a o jeho vůdcovském velevtipu nikterak vykládati lze nebylo. Mluvil o troupech, o hňupech, o tulipánech, o oslovské mozkovici, o krátkozrakosti a slepotě, a odcházeje zaříkal se slovy hroznými, že Ebrklauovi bulíka s nosu a bělmo s očí strhne, kdyby svět na světě stál.</p>
+
+			<p><pb n="86"/></p>
+
+		</div>
+
+		<div>
+
+			<head>VI</head>
+
+			<p>Na hodinu cesty od Solnice k severu po pravém břehu Bílého potoku na kolmém a ze tří stran nepřístupném výběžku výsoké stráně vypínalo se slavné sídlo věhlasného Mutiny, hrad Skuhrov.</p>
+
+			<p>O jeho tehdejší podobě mnoho pověděti nevíme, an se z něho na náš věk nic tak dalece podstatného neuchovalo, z čehož by se nějakého celku domysliti dalo. Tolik ale předce dle místní polohy a dle skrovničkých zbytků na dobré svědomí říci můžeme, že jmenovaný hrad ze dvou, avšak souvislých částek se skládal.</p>
+
+			<p>V popředí skalnatého výběžku pyšnilo se tak zvané panské sídlo a mělo podobu ouplně <pb n="87"/> okrouhlou; nazad výběžku se šířícího rozkládalo se mnohem větší dvořiště podoby vejčité. Obě tyto částky objímala společná zeď se společnými příkopy a náspy, oubočím příkrého srázu kolkol se vinoucími.</p>
+
+			<p>Z panského sídla o něco výše postaveného šlo se na dvořiště přes široký příkop po zdvihacím mostě a z nádvoří vyjíždělo se taktéž za hlavní branou přes příkop ještě širší na předhradí, odkudž pak do táhlého návrší k severozápadu běžela voznice, jediná to cesta na hrad i z hradu vedoucí.</p>
+
+			<p>Asi na sto kroků od hlavního příkopu po pravé straně voznice nalézal se farní kostel sv. Jakuba nad Skuhrovem, o něco výše po tétéž straně cesty na pokraji rozsáhlého zádušního lesa stála plebáň, jak se tehdáž farnímu domu říkalo, a naproti přes cestu bylo nepatrné obydlíčko zvoníkovo se zahrádkou.</p>
+
+			<p>Ostatně se tady více příbytků lidských nenacházelo, neboť podhradí čili nynější osada skuhrovská rozkládalo se jako až dotud v oupatí hradní stráně při Bílém potoce, odkudž <pb n="88"/> se ke kostelu po příkré a dosti obtížné pěšině vstupovalo.</p>
+
+			<p>Nebylo-li právě na hradě žádného lomozu, mělo tady na té samotě při kostele svatojakubském všedního dne posvátné ticho svůj stálý stánek.</p>
+
+			<p>Jináče to arci vyhlíželo v neděli a ve svátek, kdež nábožný lid z okolních, kolaturou přivtělených osad v hojném počtu ke službám Božím přicházel. Tu bývalo u Svatého Jakuba nad Skuhrovem živo a po skončených službách Božích někdy až hlučno, zvláště když se kramáři z podhradí se svým zbožím tady vyložili a nábožné navštěvovatele svatyně ku koupi zvali.</p>
+
+			<p>V ty dni, totiž v pondělí a v úterý před dušičkami roku psaného, bylo u kostela nad Skuhrovem, jako by neděle bez přítrže trvala.</p>
+
+			<p>Zvonky na dřevěné vížce cinkaly od rána do večera, dvéře u kostela stály do kořan, svíce na oltáři hořely a nábožnými průvody putujících se voznice téměř ani netrhla.</p>
+
+			<p><pb n="89"/> Přicházeli v menších houfcích po dvadceti až po třidceti obojího pohlaví a každého věku, a všickni do kostela svatojakubského vcházeli — nikoli ale tak, jako by cíle svého již byli dostihli, nýbrž toliko na zastavení. Požehnali se svěcenou vodou, poklekli před stánkem nevystíhlého tajemství Těla Kristova, uctili svatého apoštola v pěkném jeho vyobrazení na oltáři modlitbičkou o přímluvu, a zase odcházeli. Také jich tu kněz plebán ani slovem Božím nevítal, ani jim požehnání neudílel, a nebylo tu nikoho leč kostelníka, jenž svíce na oltáři utíral a časem z velké kamenné štoudve svěcené vody do kropenic přilíval.</p>
+
+			<p>Před kostelem stavěli se poutníci do řady, rozvinuli korouhve a s nábožným zpěvem ubírali se k hradu.</p>
+
+			<p>Branou do kořan otevřenou vcházeli na dvořiště, a přešedše je kráčeli po spuštěném mostě do panského sídla, kdež v hlavní síni hned u vchodu po pravé ruce okrouhlá hradní kaple se nalézala. Posvěcena byla k poctě sv. Vojtěcha a tam stál na oltáři uprostřed <pb n="90"/> hojných světel ve způsobě nevelké monštrance vzácný relikvář, jejž kněz od Svatého Jakuba z Prahy od biskupa Tobiáše byl přinesl, a spolu také od apoštolské stolice udělené odpustky všem těm, kdož by v sedmi nejblíže příštích dnech hradní kapli na Skuhrově navštívili a předepsanou pobožnost vykonali.</p>
+
+			<p>Takové nenadálé milosti hleděl okolní nábožný lid jak patří užiti, a proto přicházel na hrad průvod za průvodem, tak že se putujícími, jak již dříve připomenuto, cesta ani netrhla.</p>
+
+			<p>Na hradě bylo na ten čas beze všeho lomozu a ticho jako po klášterních chodbách. Žoldnéři v ty dni ani zbraň nenosili, majíce nad to nařízení takové, aby se bez potřeby nikde po náhradí neukazovali.</p>
+
+			<p>V úterý odpoledne bylo pěkně slunečno a na pozdní jesenní dobu také hezky teplo.</p>
+
+			<p>Za toho půldní děla se od nábožného lidu ve hradní kapli na Skuhrově návštěva dotud nejhojnější.</p>
+
+			<p>Žoldnéři pamatujíce na rozkaz jim daný, <pb n="91"/> aby nikde po náhradí zbytečně nelelkovali, vyšli si z velké částky na předhradí a stranou od hlavní brány na náspích na slunci se hřáli.</p>
+
+			<p>Dva z nich, Barta a Vaněk, vynikali v tom žoldnéřském chumači jako slunečnice mezi sedmikrásou a na první pohled musel je i cizinec za hlavy a vůdce ostatních usouditi. Oba slynuli sáhodlouhou výškou, neobyčejnou sílou, odvahou a důvtipem vojenským, ač se jináče od sebe nesmírně lišili.</p>
+
+			<p>Barta měl za svého živobytí žoldních pánů co dní do roka, a hotov byl sloužiti každému, kdo o nějakou šarapatku měsíčně více dáti mohl. U pana Mutiny vydržel až dotud nejdéle, totiž plná dvě léta, a sice hlavně proto, že se mu na ten čas odnikud lepší služba nepodávala. Co do zevnějšku byl to člověk hrubé tváři, jížto několik jizev, pozůstatků to utržených ran, krásy nepřidávalo; a co do mravní povahy byl asi takový, jakýmiž poběhlíci toho druhu bývali. Něco zrovna špatného se o něm arci říci nemohlo; ale z úst vypustil ledaco, což raději nikdy ani na světlo, ani na vzduch přijíti <pb n="92"/> nemělo. Kněz od Svatého Jakuba o něm říkal, že je to prašivá ovce v čistém stádě a že je svrchovaný čas, aby ho pan Mutina ze služby propustil, nechce-li z ostatních žoldnéřů pohany a neznabohy míti.</p>
+
+			<p>Vaněk naproti byl, s výminkou svrchu připomenutých společných vlastností, toho všeho učiněný opak.</p>
+
+			<p>Syn otce žoldnéře, jenž celý život svůj ve službě pánů skuhrovských ztrávil, a na Skuhrově narozen, považoval hrad za svůj domov a pana Mutinu za otce, jemuž od šestého roku svého věku již po dvadcet let věrně a oddaně sloužil. Než se dostal ke zbrani a koním, krmil sokoly a psy, a prošed všeckny stupně nižší služby, stal se konečně přednějším mezi žoldnéři, a za nic ve světě nebyl by své postavení vyměnil, aneb svému pánu se zpronevěřil.</p>
+
+			<p>Kněz od Svatého Jakuba se ho co sirotka zvláště ujímal, a bera jej začasté k sobě na plebáň, v zásadách křesťanských jej utvrzoval. Tak se stal z Vaňka jinoch přísných mravů <pb n="93"/> a kdo se mu o náboženství vůbec a o knězi od Svatého Jakuba zvláště nějak nedůstojně zmínil, na smrt ho pohněval.</p>
+
+			<p>Proto se s Bártou od sebe lišili, a ač ve výpravách vojenských věrně za jeden řemen táhli a svorným ramenem nepřítele tepali, předce v obyčejném každodenním životě pro rozdílné smýšlení nejednou, jak se říká, do vlasů si zajeli.</p>
+
+			<p>Zhřívající se na náspích na výsluní žoldnéřové hovořili o věcech, ježto se právě dály, a o změně, jaká mezitím za těch dnů na hradě nastala.</p>
+
+			<p>„Bude-li to trvati ještě dlouho," prohodil Barta, „já odtud uteku. Už se mi to poutnické brebentění a kulichání protiví jako sůl v očích, ne-li hůře."</p>
+
+			<p>Tak nešetrně o pobožnosti na hradě konané ani pomysliti nikomu nenapadlo. Proto vyvalili žoldnéři na drzého mluvčího s podivením a s nevolí oči, a nemajíce smělosti, pustit se do něho, myslili: „Počkej, však on ti Vaněk dá!"</p>
+
+			<p><pb n="94"/> A nezmýlili se, neboť Vaněk dlouho na sebe čekati nedal.</p>
+
+			<p>„Ty máš nejméně proč na pobožnost na hradě konanou reptati," odpovídal jako na nevrlost Bartovu. „Jen považ, cos ty se tady za dvě léta své služby čistého povětří klením a láním nakazil? I bylo věru zapotřebí, aby se vzduch tebou otrávený alespoň jednou modlitbami a nábožným zpěvem náležitě vyčistil."</p>
+
+			<p>Žoldnéři, jižto v celku k Vaňkovi drželi, ač Barta docela beze vší strany nebyl, spustili hlasitý smích.</p>
+
+			<p>Nastala přestávka, až Barta, věda dobře, čím Vaňka nejhůře poškádliti lze, znovu počal.</p>
+
+			<p>„Nejlítěji mi je kněze od Svatého Jakuba," ušklíbal se. „Co se ten již po dva dni každému houfu obzvlášť o odpustcích namluvil a navysvětloval! Zdá se ale, že načisto a dojasna nedopovídá; já si alespoň z jeho řeči mnoho nevybral."</p>
+
+			<p>„Nasyp před vepře perel a on si z nich také nic nevybeře; hnojiště mu bude milejší," <pb n="95"/> utrhl se Vaněk velice rozdrážděn, že se mu někdo kněze od Svatého Jakuba nešetrně dotknouti opovážil.</p>
+
+			<p>„Tentokráte svou prostořekostí jen sám sobě ostudu děláš," ozval se jiný ze žoldnéřů a říkali mu Mikeš. „Toť na plnou hubu vytrubuješ, že jiného než otruby v hlavě nemáš, když jsi výkladu kněze plebána o odpustcích neporozuměl! Já nejsem příliš flákané hlavy, a proti tobě hlupák; ale tomu výkladu jak náleží rozumím."</p>
+
+			<p>„Tys k tomu podoben, abys co takového pochopil!" posmíval Se Barta.</p>
+
+			<p>„Nic ty se nesměj," bránil se Mikeš. „Já tě přesvědčím, že jsem článek o odpustcích docela jasně pojal."</p>
+
+			<p>„Snad nám nebudeš chtít kázaní dělati?" zlobil se Barta a nutil se k smíchu. „To by tak ještě scházelo, aby nás Mikeš po kněžsku nabíral a učil!"</p>
+
+			<p>„A proč by neučil, rozumí-li něčemu líp než ty, anebo někdo z nás?" ozval se k ruce Mikšově Vaněk. „Co dobro, to milo, ať si odkudkoli <pb n="96"/> — říkali naši staří. Nezáleží na tom, od koho se čemu dobrému naučíme; jen když se naučíme. Mikši, mluv!"</p>
+
+			<p>Mikeš byl rád, že předc také jednou něco ví, a když po Vaňkově řeči již nikdo neodporoval, počal takto:</p>
+
+			<p>„Za prvních dob křesťanských hned ode dnů apoštolských bylo obyčejno, kajicníkům na dostiučinění ukládati těžké pokuty a citelné tresty, tak že taková kázeň někdy až na léta trvala a za viny veřejně spáchané také s veřejným ponížením spojena byla. Viď, Vaňku, že dobře povídám!“</p>
+
+			<p>„Jak náleží dobře," posvědčoval a spolu také povzbuzoval tázaný. „Nikdy bych toho v tobě byl nehledal, že tak dobrou pamět máš. Jen dále!"</p>
+
+			<p>„Potom, když se prvokřesťanský duch v lidu vytrácel," pokračoval Mikeš po takovém uznání vesele, „štítili se mnozí pro takové ty tresty ke svátostem přicházeti a trávili v nekajicnosti. Než matka církev, aby nikomu cesta k navrácení-se k Bohu zamezena nebyla, raději všeckny <pb n="97"/> tuhé a veřejné tresty zrušila. Jeli pravda, Vaňku?“</p>
+
+			<p>„Jak jináč! Jen tak pěkně, jaks počal, také dokonči.“</p>
+
+			<p>„Že ale takové ty kajicné tresty ze samého věku apoštolského původ braly, obávala se církev, aby jich zrušením a tudy přílišným nadržováním lidu věřícímu v Boha snad až neuškodila, jako se každá příliš milující matka obávati musí, aby svojí láskou dětem na záhubu nebyla. Avšak v tom materském obávání zpomíná církev na všecknu moc od božského Původce sobě udělenou, zpomíná na všeckny milosti do lůna sobě vložené, a v čas ob čas do toho pokladu moci a milostí jí odevzdaných rukou materskou sahá a pode jmenem „odpustků" ohlašuje a podává prominutí i takových těch citelných trestů kajicných, ježto se za prvotních dob křesťanských na dostiučinění ukládaly, nyní však z laskavosti církve neukládají, ježto by se až dotud od kajicníků trpěti měly, ale shovíváním matky církve netrpějí. — Dobře-li jsem tak pověděl, Vaňku?“</p>
+
+			<p><pb n="98"/> „Co do hlavního základu docela dobře. Na to ale nezapomeň, že sluší, aby kazatel po vyložení Boží pravdy poukázal také na užitek z téže pravdy jdoucí. Pověz tedy Bartovi, jak zejmena pro něho dobré jest, že církev ony starobylé přísné a veřejné kajicné tresty zrušila a ohlašováním odpustků prominutí na ně podává."</p>
+
+			<p>„A proč zejmena pro mne a ne spolu pro všeckny ostatní?" durdil se Barta a founěl jakoby uražený.</p>
+
+			<p>„Vidíš, brachu!" vysvětloval Vaněk, „tady na Skuhrově u pana Mutiny se bez velkonoční zpovědi nikomu obejíti nelze. A teď kdybys všeckny ty pěkné kousky, jimiž se chlubíváš, knězi na sebe pověděl a oné starožitné přísnosti s veřejnými tresty kdyby dotud stávalo: věru že bys z veřejného trestání ani nevycházel, a po celý rok v zimě v letě v kajicné kytli, bos a prostovlas, s popelem na hlavě a s provazem na krku před kostelem státi a do něho vcházející o přímluvu za sebe prositi musel!“</p>
+
+			<p>Žoldnéři opět spustili hlasitý smích, a <pb n="99"/> Vaněk strouhaje Bartovi mrkvičku doložil: „To vezmi na památku, abys podruhé o knězi od Svatého Jakuba, jemuž, mimochodem řečeno, široko daleko rovna není, s patřičnou uctivostí mluvil.“</p>
+
+			<p>„A kdyby ten tvůj kněz od Svatého Jakuba byl skutečně, kým ho děláš," namítal Barta, aby jen Vaňka hodně podráždil, „neseděl-by tady v tom zákoutí jako zaklený a dávno bylo by se mu nějaké patřičnější místo dle zásluhy vykázalo."</p>
+
+			<p>„I kdepak se ti zásluha dle pravé míry cení a odměňuje!?" zvolal Vaněk a bylo na něm viděti, že opět na Bartu naměřeno má. „Škoda, žes tolik světa zběhal a ani tolik nevíš! Ostatně ale i to opět zejmena pro tebe dobré jest, že se každý člověk na patřičném ve světě místě nenalézá. Nebo dle všech oněch kousků, cos nám jich o sobě napovídal, nepatříš jinam než na houpačku mezi dva koly. Blaze ti tedy, že každý ve světě na patřičném dle zásluhy místě není!"</p>
+
+			<p>Žoldnéři do třetice hlasitý smích spustili, <pb n="100"/> a Barta pln hněvu, že dnes proti Vaňkovi ničeho poříditi nemůže, odcházel mrzutě z jich středu, našlapoval na celou nohu, až ostruhy břinčely, zhlížel zamračeně a hubu měl nadutou jako potáč.</p>
+
+			<p>Co se žoldnéři na podhradí hašteřili, vcházel nábožný houfec za houfcem na nádvoří a do hradní kaple, kdež kněz od Svatého Jakuba, dospělý čtyřicátník mírného rozumného vzezření, štolou a rochetou oděn a po pravém rohu oltáře stoje, učení o odpustcích důkladně a neunaveně vykládal a výminky na získání přítomných odpustků oznamoval.</p>
+
+			<p>Byly pak přítomné odpustky od apoštolské stolice biskupu pražskému propůjčeny tak, aby těm, kdož by jich vyzískati chtěli, kromě obyčejné výminky o pravé kajicnosti a upřímném života polepšení výminku druhou dle potřeby a svého nejlepšího uznání sám uložiti mohl.</p>
+
+			<p>Tehdáž, jak víme, trpěla církev česká ve všech svých oudech od biskupa až k poslednímu z věřících od zloby braniborské loupením, <pb n="101"/> svatokrádeží a všeho druhu násilím útisk a strasti veliké. Pročež ustanovil biskup Tobiáš za druhou onu výminku na dosažení odpustků docela slušně: aby každý oučastník dotčených odpustků k vyproštění církve i vlasti z moci braniborských vrahů a svatokrádců dle nejlepší své možnosti napomáhal.</p>
+
+			<p>Když došel kněz od Svatého Jakuba k oné druhé výmince, převzal slovo pan Mutina, obraz to mužské statečnosti a síly, stejného téměř s duchovníkem stáří a též v kapli přítomen.</p>
+
+			<p>Řeč jeho zněla ve smysl ten: ženy a kmeti aby se za vyproštění církve a vlasti z rukou násilníků modlili; mužům ale že přisluší jednati. Pak vylíčil strašlivý útisk všechněm bez rozdílu od cizinců činěný, káral dosavádní českého panstva i lidu nesvornost, ježto jedině takové řádění zlému nepříteli možné činila, a žádal jmenem biskupa i budoucího krále Václava, aby, kdo jen kusa cti a zmužilosti v prsou chová, na hradě zůstal a na Branibory zbraň tasiti pomohl.</p>
+
+			<p><pb n="102"/> Takových slov nebylo tehdáž mnoho zapotřebí, aby se ňádra českého mužstva, třeba stavu nejnižšího plamenem bojovnosti roznítila. Máme toho příklad v dějinách krále Vladislava, jak se ona pověstná výprava na hrdý a odbojný Mediolan chystala. Tehdáž prý i rolníci utíkali od pluhů do zbraní a meče za radlice vyměňovali při hlasitém pláči žen a dětí.</p>
+
+			<p>Proto se ani řeč Mutinova s oučinkem neminula a každý houfec poutníků odcházel z hradu o některou mužskou hlavu na počet menší.</p>
+
+			<p>S posledním houfcem potkali se žoldnéři z výsluní domů se vracející na předhradí a pozornost všech obrátila se na dlouhou podivně shrbenou ženu, kteráž v jakési plachtě tak zakuklena byla, že jí toliko konec zahnutého orličího nosu vyčuhoval.</p>
+
+			<p>„Viset chci, není-li ta dlouhá baba zakuklený chlap!" zaříkal se jeden z žoldnérů, hledě za tím slonbidlem.</p>
+
+			<p>„Je-li to chlap, ten na nic dobrého nepřišel; <pb n="103"/> pusťme se za ním!“ navrhoval a vybízel jiný.</p>
+
+			<p>Pustili se a poutníky malý kousek nad kostelem dohonili; než dlouhé shrbené baby již mezi nimi nebylo.</p>
+
+			<p>Poutníci ubezpečovali, že dlouhá babizna z jich houfu není a že se k nim nepochybně někde u samého hradu přidala, protože ji dříve po celé cestě mezi sebou neviděli, a že jim taktéž opět u samého hradu z očí zmizela.</p>
+
+			<p>Žoldnéři se na hledání rozběhli po všech stranách; ale baby se nedohledali.</p>
+
+			<p><pb n="104"/></p>
+
+		</div>
+
+		<div>
+
+			<head>VII.</head>
+
+			<p>V tu dobu, co poslední houfec nábožných poutníků ze Skuhrova odcházel, již k večeru, ubíral se dudák a písničkář Froněk s nástrojem svého umění pod paždí od dobrušské brány k Ještěticům.</p>
+
+			<p>Zmínili jsme se o něm již dříve, že to byl mužíček veselé mysli; než na této podvečerní procházce ani se příliš veseleti nezdál. Kráčel nejistě jako po špendlíkách, na všeckny strany se opatrně ohlížel a malé sivé oko jevilo ouzkost.</p>
+
+			<p>Tak asi uprostřed cesty mezi Solnicí a Jěštěticemi kousek pod Dubovou lávkou uchýlil se v pravo napříč přes pole i luka, a když nikde po celém obzoru nikoho neviděl, přidal <pb n="105"/> do kroku. Bylo zřejmo, že vlastně ke Skuhrovu měří, jenom že oklikou a jako na zápor.</p>
+
+			<p>Pod Holovou strání opět se zastavil, a přesvědčiv se znovu, že ani krokem ani okem odnikud stíhán není, oddechl si, jako by mu centovka s prsou spadla, a ruce vesele si mnul.</p>
+
+			<p>„Zaplať Pánbůh, že jsem těm slídilům šťastně uklouzl!" dal se radostí do řeči sám s sebou. „Vždyť jsou od neděle jako posedlí, zrovna jako by věděli, že se o ně hraje. Což teď ono mně je hej! — Na hradě," pokračoval po malé přestávce, „tam ono arci už bude zavříno; to ale nedělá nic! Ku knězi u Svatého Jakuba se dotluku, a co jemu povím, bude tak, jako by pan Mutina věděl. Vyřízenou si snad nezpletu?" ptal se sám sebe, prstem do čela ťukaje. „Vždyť je krátká! a ostatně si ji ještě jednou za čerstvé paměti přeříkám: V pátek se svítáním ať vyjede třidcet vozů jako zbožím naložených z lesů podolských nad Hoříní, při nich budiž mužstva viditelně do sta mužů, skrytě ale na vozích čím víc tím <pb n="106"/> líp. Jiné oddělení ozbrojených vyraziž touž dobou levým bokem z lesů jako k outoku na vozy, zatím ale s mužstvem u vozů se spoj a nepřítele od Hoříně ženoucího obklič. O zálohu zezad odjinud jest postaráno. — Dobře, Froňku, dobře to umíš! ani slovíčka jsi nezapomněl!" pochválil se dudák a vesele si poskočil.</p>
+
+			<p>Při odříkávání poselství jemu svěřeného se zastavil a sice na mezi u plané hrušky nesmírného objemu.</p>
+
+			<p>Kdo ji sázel, toho asi už dávno hlava a zuby boleti přestaly. Délkou času a škodným vplyvem živlů zdoupněla uvnitř a vyhlížela jako veliký oul.</p>
+
+			<p>Ze strany, odkud Froněk přicházel, byla vnitřní dutina délkou kmene v otvor prolomena, tak že člověku v případu potřeby za skrýš posloužiti mohla. A hle! takového útulku bylo našemu dudákovi pojednou zapotřebí, an se nebezpečenství ze dvou stran na něho valilo.</p>
+
+			<p>Z lesa, Boroviny řečeného, vyběhla jako od Skuhrova sáhodlouhá ženština postavy a podoby <pb n="107"/> příšerné, a z protější strany od Solnice přicházel žoldnéř ještě delší. A oba měřili proti sobě tak, jako by u doupnivé hrušky schůzku měli umluvenou.</p>
+
+			<p>Froněk vida co se děje, rychle do hrušky vklouzl, krčil se jako syslík, žehnal se křížem a vzdychal: „Pánbůh se mnou a zlé pryč; jen aby to má poslední hodinka nebyla!"</p>
+
+			<p>Netrvalo dlouho a oba oni z protivných stran jdoucí zrovna u hrušky se sešli a také se zastavili.</p>
+
+			<p>Žoldnéř byl dotud, kým jsme jej u vzdálí býti viděli, totiž žoldnéřem, a Froněk ve břiše doupnivé hrušky k nemalému úžasu svému poznal, že je to Kofroň. Ale s příšernou ženštinou stala se změna. Hned u Borovin shodila kytli a plachtu; v tom okamžení se z ní udělal chlap a když doběhl až k hrušce — byl to Poberto!"</p>
+
+			<p>„Aby jim tam hrom třikrát po sobě pac dal!" zazlořečil u setkání-se s Kofroněm a zaťatou pěstí ke Skuhrovu hrozil. „Tenkráte jsem <pb n="108"/> se mohl octnouti, kde bych nerad! Psí nosy tam mají; sotva že jsem se jim vymknul."</p>
+
+			<p>„Ty ale také hrdlem plýtváš, jako bys jich asi tucet v zásobě choval," odpověděl Kofroň s výčitkou. „A já vím, že to jakživo za takové odvážení nestálo!"</p>
+
+			<p>„Chyba lávky! Dnes se odvážlivý krok jak náleží vyplatil!" zvolal Poberto a oči se mu divokou radostí blyštěly. „Jak jsem tušil, tak se děje. Jsou v tom pletichy biskupa Tobiáše. Pod záminkou spasitelného skutku lákají lid na hrad a tam ho na nás ozbrojují. A ten zpropadený planďák, ten kněz od Svatého Jakuba, výborného náhončího při tom dělá! Hubu má jako z medu a z másla, a kam chce, ten blbý lid nakloní. Ale počkej, já se ti za tvé výklady odsloužím! Ještě dnes spolu pohovoříme a kdyby si tě Mutina na ostruhu připjal! — A jak se dělo tam?" optal se po vyřknuté hrozbě o něco mírněji a ukazoval k Solnici.</p>
+
+			<p>„Tam je tiše, já alespoň o ničem nevím,“ znělo za odpověď .</p>
+
+			<p><pb n="109"/> „Co kuje svůdce vyzvědač?"</p>
+
+			<p>„Vězí celý den u Ebrklaua a tak si ho osedlal, že by nás k vůli ošemetnému poběhlíkovi do jednoho prodal."</p>
+
+			<p>„Nápadného jináče se pranic neudálo?"</p>
+
+			<p>„Nic — leč to, že prosili solničtí, aby se před úsvitem k pobožnosti dušičkové v kostele bez překážky sejíti mohli. Ebrklau schůzku povolil, ale pod dohlídkou. A teď hádej, komu dohlídku svěřil?"</p>
+
+			<p>„Snad ne tomu pokušiteli?!"</p>
+
+			<p>„Ano, poslovi ze Žamberka."</p>
+
+			<p>„To je povedený kousek!" zachechtal se Poberto a vztekem mu žíly na spáncích naběhly jako provazy. „Zrovna jako by psa k masu, kozu k zelí a vlka ke koze postavil! Ale nechť — také já budu pobožnosti dušičkové přítomen, tam zvím ostatek, a po kostele se zrovna u Ebrklaua s novým jeho důvěrníkem setkáme. Ty buď za dveřmi pohotově, a kdyby si blbec Ebrklau navzdor všemu ještě říci dáti nechtěl: vraz do světnice a svážeme je oba. — Jenom toho škoda," pomlčev chvílku <pb n="110"/> mrzel se Poberto, „že s jedním břichem na dvoje hody nelze. Knězi od Svatého Jakuba bych se za jeho výklad o odpustcích arciť nejraději poděkoval sám osobně; že se ale jiná ještě důležitější práce naskýtá, odbudeš to za mne. A teď se rozejděme: já do Solnice do kostela, ty na Skuhrov na plebáň. Vezmi několik hochů s sebou a vykladače odpustků ode mne pozdrav!"</p>
+
+			<p>„Máme ho zrovna skoliti?“ otázal se Kofroň tak lhostejně, jako by o nic nešlo.</p>
+
+			<p>„To právě nemusíte, leč by se vám zlíbilo; ale potrapte a posužujte ho dosyta. Jen se ale před Mutinovci na pozoru mějte; budete u nich u samičkých."</p>
+
+			<p>Za takové rozmluvy před hruškou podivná směsice citů odporných jako radosti a ouzkosti zmítala dudákem v hrušce.</p>
+
+			<p>Z toho se radoval, že z vědomostí, podivnou náhodou nabytých, Benedovi a solnickým bude moci výstrahu dáti; když mu ale napadlo, že by ve své skrýši zpozorován býti a dravcům před hruškou do drápů padnouti mohl: popadla <pb n="111"/> ho úzkost; neboť tolik si mohl také bez křídy spočítati, čím více vyslechne, tím hůře že se mu pak bez pochyby povede.</p>
+
+			<p>Za takovým rozvažováním a ouzkostí puzen pořád víc a víc se krčil a k protější od otvoru stěně násilně se tiskl.</p>
+
+			<p>A co nechtěl ďas míti!? Stěna od otvoru protější byla od mnohaletého zamokání strouchnivělá na perník a velkého násilí na prolomení nepotřebovala. Tudy pak se stalo docela přirozeně, že Froňkovu tlaku povolila, tak že se ubohý dudáček ven na druhou stranu jako divem Pobertovi a Kofroňovi zrovna k nohoum vykulil.</p>
+
+			<p>Zjev tento byl tak neočekávaný, že oba lotrové leknutím hodný kus odskočili.</p>
+
+			<p>„Hrome, totě dudák Froněk!" zpamatoval se Poberto honem od leknutí. „Kudy tě tu prašivec nosí?" osopil se na chuďasa. „Číháš na zvědách? Zrádce ošemetný, mluv!"</p>
+
+			<p>Ale dudák na všecknu tu ostrou domluvu ani sebou nehnul. Ležel jako zabitý, oči měl zavřené a chrápal, až mu v krku pískalo.</p>
+
+			<p><pb n="112"/> „Ty že spíš?" ušklíbal se Poberto nedůvěřlivě. „Počkej, já tě zbudím!" A pak chodidlem i patou své ohromné volovinou oděné nohy dudáka do slabiny kopl.</p>
+
+			<p>Než Froněk, ač se mu svaly na tváři bolestí zachvěly, neprocitl a jen tak mezi zuby jako těžce podnapilý a rozespalý zamumlal: „Nekopej, vždyť nejsem pařez!"</p>
+
+			<p>„Stav ty se opilým a ospalým jak chceš," popudil se Poberto, „mne neobelstíš! Zrádce jsi, jako všickni ostatní, a na zvědách číháš. Abys ale nic vyžvaniti nemohl, bude nejlíp, když tě zrovna tady na místě zabiju."</p>
+
+			<p>„Zab si, zab!" mumlal dudák a marně se země sebrati se usiloval. „Však oni ti páni Braniboři dají! Kdo by jim zpěvem a hrou čas krátil, až by Froňka nebylo? Jen zab, oni tě také zabijou!"</p>
+
+			<p>Kofroňovi bylo dudáka líto. Zpomněl si na všeckny veselé chvíle, jež mu a celé tlupě dudáním a šprýmovným zpěvem byl způsobil; mimo to se do něho ničeho jako Poberta nedomýšlel, a protož, aby chuďasa <pb n="113"/> dalšího týrání zprostil, za prostředníka mezi oběma se postavil.</p>
+
+			<p>Poberta krotil přímluvnými slovy jak jen věděl, a dudákovi zase vlídně domlouval, aby se zpamatoval a pověděl, kde se tu v těch místech vzal? jak se sem dostal? a takovým vysvětlením aby hněv přemoudrého rádce slavného Ebrklaua ukojil.</p>
+
+			<p>„Nejsi ty statečný a nepřemožený hrdina Kofroň?" zajektal dudák na vlídné domlouvání jazykem pořád stejně těžkým. „Po hlase tě poznávám a tobě povím, jak se mnou se dálo, a kterako jsem se tady octnul. Ale tomu, co povídal, že mě zabije, tomu nepovím nic, a ty, slavný hrdino Kofroni! až se s ním sejdeš, také nic neříkej. Vidíš, po dva dni už je u mistra Daňka jako by vymet. Ďas ví, kde všickni jste a co kutíte? Holým stěnám a prázdné jízbě jsem hráti nechtěl, proto že bych na nich ničeho nevyhrál; a žízeň s hladem jsou zlé věci. Jářku: podívám se někam jinam po kousku chleba, a mistr Daněk také byl tou radou, protože se mne chtěl zbaviti s krku. Na cestu mi dal půl <pb n="114"/> konve zkažené zabřesklé medoviny, abych prý se posilnil. Já tu bryndu vypil a kozel ví jak se dělo, že se mi na místě břicha do hlavy dostala. Chtěl jsem někam do Ještětic, ale cesta se mi mátla a všeckno před očima tancovalo. I potácím se, vrávorám a klopýtám přes všeckny příkopy a meze nevěda, ani kde ani čí jsem? Naposledy se mi zdálo, jako bych do nějakého oulu lezl — a totě moje poslední! Jak se dále se mnou dělo, jak jsem se s tebou, statečný hrdino Kofroni! sešel a jak se k nám ten neruda, co mě zabiti chtěl, připletl: to věru, na své dudy! nevím, a kdyby mě i ten chlap od prvejška opravdu zabil!"</p>
+
+			<p>Kofronově přímluvě a Froňkovu vypravování se podařilo Pobertův hněv tak dalece uchlácholiti, že alespoň o bezživotí dudákovo nestál. Arci durdil se na něho pořád ještě, spílal mu zrádců, vyzvědačů — a že by z rozmluvy před hruškou vedené ničeho byl nezaslechl, ani na zub si nechtěl dát doložiti.</p>
+
+			<p>Teprv když se Kofroň zavázal, že si dudáka pod dohlídku vezme a přes celou nastávající <pb n="115"/> noc ani z očí ho nepustí, aby, třeba byl dříve některé slovo zaslechl, ničeho nevčasně prořeknouti nemohl: ano pak teprv Poberto se poněkud upokojil, a napomenuv přítele k všestranné opatrnosti, odešel.</p>
+
+			<p>Po jeho odchodu Froněk jedním rázem vystřízlivěl a za Kofroněm, jenž k výpravě na Skuhrov druhy hledat šel, vesele poklusoval.</p>
+
+			<p><pb n="116"/></p>
+
+		</div>
+
+		<div>
+
+			<head>VIII.</head>
+
+			<p>Bylo už pozdě na noc.</p>
+
+			<p>Hlásný na skuhrovském hradě vytruboval desátou, po nádvoří v žoldnéřských jízbách i na panském sídle zhasínala světla, čírá tma a noční ticho opanovaly po krajině, všeckno všady oddalo se spánku; toliko kněz od Svatého Jakuba nad Skuhrovem ještě bděl.</p>
+
+			<p>Ve skrovné komůrce, kdež nad žaltářem, nad biblí a na zbožném rozjímání začasté dlouho do noci sedával, stál onou noční dobou před broncovým krucifixem, vzácným to darem od pana Mutiny, a rovnal na mysli řeč, jakouž nazejtří o dušičkách ke svým osadníkům promluviti hodlal.</p>
+
+			<p><pb n="117"/> Již byl téměř s prací posvátnou hotov a na odpočinutí pomýšlel, když pojednou na dvéře od plebáně zvenčí několik hřmotných ran padlo.</p>
+
+			<p>Takového šramotu se kněz od Svatého Jakuba ani dost málo neulekl, neboť stávalo se tu v ty dni začasté, že pan Mutina za rozličnými důležitostmi třeba pozdě v noci někoho ze svých lidí na plebáň poslal, a ti, znajíce se mnohém lépe v bitkách než ve zdvořilostech, obyčejně celou pěstí na dvéře zarachotili. Proto se kněz plebán neulekl, vzal lampu a šel, aby tlukoucím otevřel.</p>
+
+			<p>Avšak nemálo se zarazil, když čtyři praneznámí žoldnéři v plném ozbrojení s dudákem bez pozdravení a skoro jako násilně otevřénými dveřmi na síň do plebáně vrazili. Ze zákeřnického bohopustého pohledu poznal zrovna, že je to návštěva, jížto sé nenadál — návštěva od Braniborů, před nimiž tady u samého hradu docela bezpečným sé býti soudil; a proto na věci osudné se hotovil.</p>
+
+			<p>Pevně a s pokojnou tváří, na nížto se neohrožená ducha přítomnost jevila, hleděl příchozím <pb n="118"/> vstříc, a když se k řeči neměli, sám první je oslovil řka: „Koho hledáte?"</p>
+
+			<p>„Tebe!" odpověděl hlasem nepřátelským žoldnéř velikán a ostatních vůdce Kofroň, jenž při vší své zdivočilosti pohled kněze plebána snésti nemohl a nesměle před ním oči k zemi klopil.</p>
+
+			<p>„A co mi chcete?" tázal se kněz od Svatého Jakuba dále se stejnou pořád neohrožeností hlasem mírným.</p>
+
+			<p>„Neseme ti pěkné poděkování od vůdce a ode vší tlupy ze Solnice za to, jak krásně o odpustcích vykládati a lid na nás zbrojiti umíš," odpověděl Kofroň urputně, předc ale značně ba až ku podivení zaražen neulekaným pohledem a vážnou tváří muže dotud talárem oděného.</p>
+
+			<p>„Tomu se pranic nedivte, že vás nenávidím," uváděl kněz od Svatého Jakuba pohnutky svého jednání řečí smělou a posléze až nadšenou. „Co věrný syn matky církve a matky vlasti jiného než záhubu nepřátel církve a vlasti ani žádati nemohu. A těmi bohužel jste vy! Proč vás tím ohavným jmenem zvu, věděti musíte <pb n="119"/> nejlépe sami, když na své skutky popatříte. Protož mojí k vám nenávisti se nedivte! Chtěli-li jste co cizinci v lidu českém sobě uchovati přízně a po čas poručnictví panovníka svého v zemi naší od nás užiti vlídného hostinství: nemělo se vás zajedno nahrnouti tolik a zadruhé neměli jste svědomí nechávati doma. Svatyni Boží neměli jste loupiti, po statku cizím neměli jste násilně sahati, zákon Páně i práva lidská měli jste v uctivosti míti — a dobré mohlo pak býti bydlo vaše u nás, a památka vaše mohla potrvati v požehnání. Tak ale svými ohavnostmi prokleli jste sami jmeno své v Čechách na věky; i doufám, že dovršila se míra vaše a nádoba hněvu Božího že vylita jest na vás. Pročež Bohu slouží, kdo na vás meč tasí! a kdo v boji s vámi padne, korunu mučedlnickou na nebi si ukládá! Máte-li tedy rozkaz, abyste mě zavraždili, jste mi vítáni a neváhejte! Záležitosti časné i věčné mám srovnané, smrt mě bez přípravy nenalezá!"</p>
+
+			<p>Pak rozpřáhl náručí, jako by ránu smrtící očekával, a zíraje k nebi, jmeno Spasitele vzýval.</p>
+
+			<p><pb n="120"/> „Abychom tě zrovna zabili, tak náš rozkaz nezní," zamumlal Kofroň, a bylo viděti, že mu smělosti ubývá.</p>
+
+			<p>„Máte-li mě však toliko oloupiti z rozkazu vůdce svého," přejal opět slovo kněz, „pak bude práce krátká a nebude hrubě za cestu státi. Mám já za obyčej, ze skrovného přebytku svého poklady ukládati, jež mol nezžírá, rez nekazí, zloděj nevykopává — a protož, čeho žádostivi jste, nenaleznete."</p>
+
+			<p>„Ani na oloupení tebe náš rozkaz nezní," odbroukl Kofroň, mermomocí k nevlídnosti se nutě. „Nám veleno, tebe sužovati a trápiti až dosyta!"</p>
+
+			<p>Toho výroku se kněz od Svatého Jakuba nenadál a zhrozil více než smrti, nebo soudil docela důsledně, že týrání od rukou takovýchto surovců smrti samé bolestnější bude. Vida ale nezbytí a podrobuje se nevyhnutelnosti zvolal důstojně:</p>
+
+			<p>„Jsem ve vaší moci, naložte se mnou, abyste z toho jednou před Bohem odpověděti mohli. To ale vězte: čtyrem ozbrojeným trýzniti <pb n="121"/> bezbranného jest hanebno, a proklet před Bohem i před lidmi, kdo na pomazaného Páně ruku vloží!"</p>
+
+			<p>Dle všeho, co předcházelo, nadíti se mohlo, že důstojný hospodář navzdor své osobní i svého stavu vážnosti tělesnému týrání od Braniborů neujde. A předc ušel!</p>
+
+			<p>Kofroň ve své obyčejné drzosti zviklán, nemohl se odhodlati, aby se do vykonávání své ohavné úlohy pustil, i stál jako by ruce i nohy měl svázané a hleděl do země jako žáček. Ostatní se řídili jeho příkladem.</p>
+
+			<p>Toho okamžení použil Froněk k moudrému slovu.</p>
+
+			<p>„Věhlasný hrdino Kofroni!" zvolal a hluboce se před osloveným uklonil, „zdá se mojí sprostotě, že rozkazu o trápení a sužování důstojného kněze od Svatého Jakuba tvoje moudrost dobře neporozuměla. Dle nemilostivého pohledu tvého mohlo by se souditi, že zrovna něco ukrutného s důstojným hospodářem toho domu obmýšlíš. Avšak „trápiti a sužovati hospodáře dosyta" znamená něco docela jiného. <pb n="122"/> Tehdáž se o hospodáři říká, že je trápen a sužován dosyta, když mu nenadálí hosté na krk přijdou a do špižírny i do sklepa nahlednou, až se hojně nasytějí. Pročež se domnívám, že rozkazu tobě daného nebude smysl jiný, leč abychom, jak se posprostu říká, důstojného kněze řádně až do našeho ouplného nasycení vyjedli a vypili. Co myslíte, přátelé?“ obrátil se na závěrek k žoldnéřům.</p>
+
+			<p>„Bylo by tak nejkratčeji a nejmoudřeji," přisvědčovali žoldnéři mínění dudákovu do jednoho.</p>
+
+			<p>„Nezapomínejte, kde jsme!“ činil výstrahu Kofroň. „Tady jako pod kapem Mutinovců neradno se opíjeti. Či snad sami nepřátelům do rukou vběhnouti chcete?"</p>
+
+			<p>„Líbo-li vám pod mým krovem poctu hostinskou přijmouti," nabízel hospodář nenadálým všech věcí převratem velice potěšen, „učiňte tak směle. Na své kněžství to beru, že vás tady ani nepřátelský dech neovane."</p>
+
+			<p>Takové zaručení postačilo všem, i samému Kofroňovi.</p>
+
+			<p><pb n="123"/> Od muže, jemuž pro zevnější důstojnost ublížiti nemohl, lsti a klamu neočekával.</p>
+
+			<p>Jsa tomu sám rád, že nemilou úlohu tak snadně odbude, vešel na vlídné pobídnutí hospodářovo se svými druhy do větší, tak zvané hostinské světnice a chutě s nimi ke stolu přisedl.</p>
+
+			<p>Kněz od Svatého Jakuba snášel, kde co v domě bylo. Předkládal chleb, med, máslo, sýr, uzeninu a piva a medoviny naléval, až přetékalo. Ba i toho vína, co k Boží službě doma v zásobě choval, jim přál a k tomu, aby požívali, je měl.</p>
+
+			<p>Takových připomínek ono arci zapotřebí nebylo. Braniboři byli při chuti jako chrt po třídenní honbě, pili až jim z očí teklo, jedli až se jim od úst prášilo, jsouce dobrého rozmaru, zrovna jako by u mistra Daňka besedovali.</p>
+
+			<p>Jediný Kofroň byl o něco střídmější a na všeckno pozorný, ano i na dudáka dohlížel a tomu bránil, aby s knězem hospodářem potaji mluviti nemohl.</p>
+
+			<p><pb n="124"/> Právě na to myslil, že by čas byl, s družinou již notně strhnutou se ukliditi, jen co by ještě hospodáře o nějaké zpropitné za ušetření požádal: když pojednou hlučný lomoz před domem se strhl.</p>
+
+			<p>Několik hlasů ozvalo se najednou:</p>
+
+			<p>„Důstojný otče! hlásný oznámil, žeť na plebáni ještě po půlnoci proti obyčeji světlo — a pan Mutina nás posýlá na přeptanou, co se děje?"</p>
+
+			<p>Braniboři zbledli. A Kofroň sáhnuv po meči, dušeným hlasem hrozil hospodáři: „Dříve než nepříteli padnu do rukou, padneš ty, věrolomný kněže, od ruky mé!"</p>
+
+			<p>„Na to ani na ono bohdá nedojde," odvětil docela klidně hospodář. „Jak jsem slíbil, stane se. Ani nepřátelský dech pod mojí střechou vás neovane."</p>
+
+			<p>„Ozvi se, otče od Svatého Jakuba!" dorážely hlasy před domem, „sice dvéře vypáčíme!"</p>
+
+			<p>„Nenamáhejte se, moji milí!" ozval se volaný. „Nic zlého se neděje. Dobří známí <pb n="125"/> mě navštívili, prokazuju posvátné hostinství. Přijměte a panu Mutinovi vyřiďte díky za takovou o mne péči.“</p>
+
+			<p>„Odpusť, otče, my nevěříme!" namítaly polo vzdorně hlasy zvenčí. „Řeč tvá jaksi podivně zní — otevři, ať na své oči vidíme!"</p>
+
+			<p>„I to vám po vůli udělám," svoloval kněz hospodář.</p>
+
+			<p>Zatím ale pokynul Braniborům, vyvedl je nazad dveřmi do dvora, potom do zahrady a přes plot do šírého pole jim ukázal.</p>
+
+			<p>Braniboři skákali přes plot jako kamzíci, uháněli čírou nocí jako běsem hnaní, a za takového spěchu si ani nepovšimli, že dudák Froněk s nimi není, nýbrž na plebáni zůstal.</p>
+
+			<p>Jak se kněz od Svatého Jakuba čeledi Mutinově vymluvil, zda-li pověděl, jakým to ptákům klec otevřel, anebo-li celou událost zamlčel — nevíme.</p>
+
+			<p><pb n="126"/></p>
+
+		</div>
+
+		<div>
+
+			<head>IX.</head>
+
+			<p>Bylo dušiček.</p>
+
+			<p>V kostele solnickém spatřovalo se k nastávající smuteční slavnosti všecko slušně upraveno. Ozdoby na oltářích zmizely pod černými zákryty, stolice a zábradlí mezi lodí a kněžským kůrem byly rovně černými sukny zastřeny; uprostřed lodi mezi hojnými světly stály máry s příkrovem a křížem, a semotam v úbočích lodi, kdež přednější rodiny městské dle tehdejšího obyčeje své pohřební sklípky měly, hořely tlusté voskové svíce.</p>
+
+			<p>O této úpravě nezmiňujeme se proto, jako by něco kromobyčejného a nápadného byla v sobě zavírala. Bylať ona od nepamětných dob rok co rok stejná; ale jiné dvě okolnosti <pb n="127"/> činily tehdejší dušičkovou slavnost nápadnou a neobyčejnou.</p>
+
+			<p>Předně bylo nápadné to, že se loď chrámová dávno již nábožným lidem naplnila a solnický kněz plebán s kantory a žákovstvem dotud ještě ani žaltář za zemřelé modliti se nepočal, kdežto jindy lid teprv mezi žaltářem na kázaní a ke mši svaté se scházel. A zadruhé neméně bylo divné, že mezi shromážděnými v kostele nábožné pohlaví ženské proti všemu obyčeji ani jedinkou duší zastoupeno nebylo.</p>
+
+			<p>Kdo ví, proč tehdáž ženské na kostel a na milé nebožtíky zapomněly? anebo proč se služby Boží v takový den opozdily?</p>
+
+			<p>Z domluvy, jakou kněz plebán, kmet sedmdesátiletý, drobné, avšak dotud přímé postavy a tváří téměř mládeneckých, kostelníku a spolu zvoníkovi v sakristii činil — z domluvy oné vysvítalo zřejmě, že původem celého zmatku byl domluvou káraný, protože o celou hodinu dříve, než nařízeno měl, totiž hned o čtvrté hodině ranní, ke službám Božím sezváněl.</p>
+
+			<p>Za takovou pomýlenou dostal hned na lačný <pb n="128"/> život pořádnou porci jazykové polívky a závěrkem kapitoly byla výhrůžka, že, stane-li se ještě jednou co tomu podobného, ze služby propuštěn bude. A kostelník mlčel, na omluvení sebe neuvedl ničeho, leč že se zmýlil, ačkoli z potutelného stranou pohlížení snadně vyrozuměti se mohlo, že se zmýlená stala schvalně.</p>
+
+			<p>Ještě jedno mrzení kněze plebána nepřešlo, a hle! již se podnět k druhému ještě mrzutějšímu mrzení naskýtal.</p>
+
+			<p>Povědomý nám posel ze Žamberka vešel do sakristie, a vzdav důstojnému kmetu příslušnou úctu, sám sebe co splnomocněného k solnickým posla od pana Mutiny uváděl, při čemž se zvláštním důrazem Mutinu ochranným a podacím pánem kostela solnického nazýval.</p>
+
+			<p>Takové zúmyslné připomenutí o panu Mutinovi knězi neušlo. Byv pak již dříve mýlkou kostelníkovou rozmrzen a nevčasným příchodem posla ještě více podrážděn, nepříliš vlídně jej uvítal.</p>
+
+			<p><pb n="129"/> „Myslíš ty," řekl, „že nevím, kdo při solnickém kostele ochranné a podací právo vykonává? Anebo mě upomínati chceš na poměr, v jakém správce kostela k podacímu pánu stojí? Povinnou úctu k panu Mutinovi já vezdy na zřeteli měl, ač mi z jeho podání plebánství nepřišlo, a já tady správu duchovní vedl, když ho ještě chůvy na kolébce houpaly.“</p>
+
+			<p>„Nerač se horšiti, důstojný otče!" vymlouval a chlácholil splnomocněný Mutinův posel Beneda. „Nehodlal já tebe ani poučovati ani urážeti, a pouze proto zmiňuji se o právích páně Mutinových při zdejším kostele, abych tvoji důstojnost tím snáze naklonil k naplnění žádosti, jakouž jeho jmenem předkládati budu."</p>
+
+			<p>„Ani čas ani místo dobře nevolíš,“ nevrle kněz plebán šedivou hlavou zavrtěl. „Vidíš, že se k službě Boží hotovím a jednou nohou již jako u oltáře stojím! Jen pro úctu k ochránci svatyně této ti sluchu popřivám; vypověz tedy krátce a bez okolku, co má býti?“</p>
+
+			<p>„Pan Mutina mě posýlá k vyproštění obce solnické z rukou Braniborů. K tomu cíli je zapotřebí <pb n="130"/> úmluvy se zdejším mužstvem, a že se to nikde v obci státi nemůže, aby se podezření Braniborů nezbudilo: sešli jsme se v tuto dobu v kostele."</p>
+
+			<p>Podivením a ustrnutím sepjal kněz plebán ruce a dlouho bez mžiknutí jako u vytržení na mluvčího hleděl.</p>
+
+			<p>„Ty že hodláš zdejší obec z moci Braniborů vyprostiti?" pronesl konečně v slovích, co si myslil. „Nerouhej se! Ani ty ani pan Mutina nepostačí, aby metlu spravedlivého trestu z kárající ruky Boží vytrhl. Dávno již zasloužili jsme za své hříchy a nepravosti kázeň — a Hospodin, jenž nechce smrt hříšníka, nýbrž aby se obrátil a živ byl, neposlal ani oheň ani vodu — poslal Branibory; a dokud se neukojí hněv Páně, jakýž jsme na sebe popudili, žádná moc lidská z jich rukou nás nevyprostí! A v kostele se chceš raditi o věci, ježto zrovna proti nedostihlé moudrosti věčného řízení čelí? Pomni, že dům tento dům modlitby jest! K takovému zneuctění chrámu Páně nikdy nepřivolím!"</p>
+
+			<p>„A vždyť i ty, otče, jsi člověk pod mocí <pb n="131"/> postavený!" pozvedl znovu a směleji než dříve posel Mutinův hlasu svého. „Jak, kdybych se proukázal s rozkazem na propůjčení kostela k naší úmluvě až od těch, jimž poslušenství prokazovati jsi povinen?“</p>
+
+			<p>„Ty, nájemný sluho!“ rozhněval se stařeček až doruda. „Pomni, kde jsi a s kým mluvíš? Ve správě kostela mi nikdo poroučeti nesmí, leč biskup sám. A od něho ty sotva rozkaz v rukou máš!“</p>
+
+			<p>Na místě odpovědi vyndal Beneda ze záprsí složený list, na němž, když jej rozvinutý knězi plebánovi podával, pečeť a podpis biskupský se spatřovaly.</p>
+
+			<p>Takových listů k potřebě panstva na zapuzení Braniborů se sjednotivšího vydal biskup Tobiáš skrze kancléře svého mnoho, a v nich veleno pod výhrůžkou klatby osobám duchovním, řeholním i světským, aby k zapuzení cizozemského vraha všemožně napomáhali a se vším, ano v případu potřeby i s kostely aby se k tomu oučelu propůjčovali.</p>
+
+			<p>Toho se arci stařeček plebán nenadál, že <pb n="132"/> na suk jeho odporu taková palice padne, a bylo na něm viděti, že v nesnázi vězí, nevěda chuďas, jak by slušně otočil.</p>
+
+			<p>Beneda dobře poznával, v jaké louži zabředl; i chtěl mu přistaviti lávku a řekl: „Nerač nám tvá důstojnost brániti; sice bychom mysliti museli, že národu svému nepřeješ a ke straně Braniborů držíš."</p>
+
+			<p>„Já ke straně Braniborů?" rozhorlil se kněz jako hněvem, ale zatím byl rád, že změněný svůj oumysl na něco jiného než na rozkaz biskupský bude moci svésti. „Což snad neproudí v mých žilách krev česká, abych cizozemcům proti vlastnímu plemenu nadržoval? Aneb jsem snad němým psem na Sionu, abych ke svatokrádeži a k hanobení Božích kostelů mlčel? Ovšem jsou Braniboři zaslouženou metlou na nás pro hříchy naše; v tom ale nepravosti jejich ospravedlněny nejsou a hřích jejich zůstává hříchem. Pročež v radu proti nim vejděte!"</p>
+
+			<p>Ruku v ruce vyšel kněz plebán s poslem Mutinovým ze sakristie, a mužstvo v lodi přátelskému jich usrozumění od srdce se radovalo.</p>
+
+			<p><pb n="133"/> Věděli všickni dobře, že kněz plebán má svou hlavu, že mu rokování v kostele po chuti nebude, a proto očekávali odpor. Vidouce ale, že se poddal, měli to za znamení dobrého zdaru všech věcí a zaplesali.</p>
+
+			<p>V zázadí lodi pod kůrem kantorů stranou od hlavního vchodu zastavil se plebán a vykázal tady, jakožto v zákoutí od oltáře nejvzdálenějším, místo k rokování. Sám ustoupil stranou a pokynul Benedovi, aby mluvil.</p>
+
+			<p>„Ve jmeno nejsvětější a nerozdílné Trojice Boží!" pozdravil Beneda všech přítomných hlasem pro úctu k místu, kdež se nalézali, poněkud se chvějícím.</p>
+
+			<p>A všickni přítomní odpověděli vážně chorálem hlubokým a táhlým: „Amen."</p>
+
+			<p>„Boha se dokládám, přátelé! že bych za nic ve světě před stánkem Božím nahlas nepromluvil, kdyby těžká nevyhnutelná potřeba nedoháněla. —"</p>
+
+			<p>A opět odpověděli všickni přítomní jednohlasně jako dříve: „Rádi, rádi tak o tobě věříme."</p>
+
+			<p><pb n="134"/> „Ostatně se domnívám, že mě znáte?“</p>
+
+			<p>„Ano, známe," posvědčil za ostatní mistr Hora, „a doufáme v Boha všemohoucího, že jsi nástrojem v jeho rukou na potření nepřítele zlého, že vládnouti budeš šťastně prakem Davidovým na poražení Goliáše a že nás vyvedeš z moci Filištinských těchto.“</p>
+
+			<p>„S tím oumyslem arci přicházím, abych vás a celou krajinu těžkého soužení zprostil a vraha cizozemského uvedl v zahynutí, jež svatokrádeží, lupem a všeho druhu násilím již dávno zasloužil. Je-li však s úmyslem mým také vůle Boží, a zda-li zdar aneb zmaření nám vzejde? — toť jedině Bohu všemohoucímu zůstaveno."</p>
+
+			<p>„Dobře mluvíš," přejal opět slovo za ostatní mistr Hora, „že všeckno na Boha skládáš. Nebo kdo sází, štěpuje a zalévá, není nic; nýbrž toliko ten, kdo znik a požehnání dává."</p>
+
+			<p>„Dotud ale," pokračoval Beneda, „všeckny věci šťastně a dle přání se dařily; a půjde-li to tak dále, od nyninčka za dvakráte čtyrmecítma <pb n="135"/> hodin bude úpěti cizozemský vrah pod mečem spravedlivé pomsty a my velebiti budeme Boha chvalozpěvy vítěznými."</p>
+
+			<p>„Oznam, jak se to stane?“ ozvalo se kolik hlasů najednou, „a pověz, kterak k takovému spasitelnému, boholíbému dílu napomáhati máme?"</p>
+
+			<p>„O půlnoci ze čtvrtku na pátek vytáhnou odtud Braniboři do jednoho. V oupadě nad Hoříní u Podolských lesů čekati budou na kupecké vozy, ježto s nákladem drahého zboží záhy na úsvitě tudy od Kladska pojedou. Avšak na místě kořistění nastane osudná seč. Do čela i v bok tepán bude cizozemský vrah najednou, a nebude mu jiné spásy, leč aby touže cestou, kterouž přišel, zpět na outěk se dal."</p>
+
+			<p>„Aha, už vím, jak to půjde!" zvolal někdo v zástupě, jako by léčku na Branibory nastrojenou byl prohlédl. „Do čela a do slabiny budou Brandeburčata dostávati od pana Mutiny, a když se jim počne dělat nanic, otočejí k Utikanovu — a to se říznou! Cestu najdou zastoupenou, našince proti sobě, a budou v pytli!"</p>
+
+			<p><pb n="136"/> Vsickni obraceli se po mluvčím a navzdor posvátnému místu, na němž stáli, úsměchu zdržeti se nemohli; neboť v rekovném a důmyslném řečníkovi poznali mistra Klusáčka.</p>
+
+			<p>„Ano zálohou zezad budete vy, přátelé! pod vedením mistra Hory, a Braniborům, zbude-li z nich po outoku v čelo a v bok ještě který, outěk cestou zpáteční zabráníte. Ostatně však — odpusť Pánbůh, že tak na posvátném místě mluviti mám! — ostatně my tady kožich prodáváme a vlk ještě po lesích běhá. Velmi lehce se nám všeckno zmásti může. Poberto dobře pečeni čuje a kdyby nebyl Ebrklau učiněný blbec, již dávno byl bych hleděti musel, jak a kudy odtud vyklouznouti. Pročež zůstane-li osnova, jak jsem ji nastrojil, bez zmodrchání, bude se ve čtvrtek večer zvoniti na klekání velkým zvonem. Po tomto znamení opatrně se zbrojte, a po půlnoci tiše opodál za Branibory postupujte. Jak se rvačka u vozů strhne, budu hnedle mezi vámi a velení od mistra Hory převezmu."</p>
+
+			<p><pb n="137"/> „A já tobě silnějšímu oděnci s radostí ustoupím," doložil vůdce prozatím jmenovaný.</p>
+
+			<p>„Nyní, přátelé!" zvolal Beneda slavně a vážně, „toliko to ještě schází, aby nám a zámyslu našemu otec plebán udělil na šťastný zdar církevního požehnání."</p>
+
+			<p>K těm slovům vsickni poklekli a kněz kmet maje na mysli rozkaz biskupa Tobiáše, ani dost málo se nezdráhal.</p>
+
+			<p>Ruce i oči pozvedl k oltáři, napřed se modlil tiše a konečně žehnaje pravicí vysoko pozdviženou klečícímu množství, zvolal hlasitě: „Je-li obmýšlený skutek váš Bohu milý a a nejsvětější vůlí jeho dobře se srovnávající: žehnej jemu i vám Bůh Otec, Bůh Syn, Bůh Duch Svatý!"</p>
+
+			<p>A vsickni přítomní klečíce a křížem se znamenajíce odpovídali: „Amen, amen, amen."</p>
+
+			<p>Nato chtěl již kněz plebán k službám Božím přistoupiti; ale ona opět nová výtržnost nastala a sice taková, že pro ni toho dne služby Boží nadobro jsou zmařeny.</p>
+
+			<p>Mezitím co rokování trvalo, uhořelo svící <pb n="138"/> kolem mar a oubočí lodi po rodinných hrobkách rozžhatých.</p>
+
+			<p>Kostelníkovi napadlo, že by bylo slušno otříti knoty, dříve než služby Boží začnou, aby se pak zbytečná výtržnost nečinila.</p>
+
+			<p>Jak ale obcházel máry, svůj moudrý nápad v skutek uváděje, vidělo se mu příkrovem po marách až na dlažice v hojných a urovnaných záhybech dolů splývajícím @nejak od cizí méně šetrné ruky hnuto. Opatrný sluha chrámový nemohl to snésti; i jal se příkrov narovnávati a přitom nastojte! o něco pod příkrovem ukrytého a jako živého zavadil. Tu nazdvihl smuteční pokrývku, díval se pod máry, co by to bylo? — a hle! tamodtud zasvítilo naň dvé očí jako žhavé uhlí, tak že chuďas leknutím vykřikl.</p>
+
+			<p>S křikem kostelníkovým vyletěl jako střela zespod mar braniborský žoldnéř a za hlavní oltář se hnal.</p>
+
+			<p>„Poberto!" zaznělo shromážděním, a všickni jako omráčeni na se hleděti zůstali.</p>
+
+			<p><pb n="139"/> Jediný Beneda za prchajícím v zápětí se pustil, aby ho zadržel; ale bylo pozdě!</p>
+
+			<p>Skokem jako kočičím vyšvihnul se prchlík na zeď, chytil se za rámec kulatého za oltářem okna, ježto otevřeno bylo, a jedním skokem na hřbitov dopadl. Ale Beneda nejsa líný, touž cestou odvážil se za ním.</p>
+
+			<p>Někteří z přítomných, příkladem Benedovým povzbuzeni, učinili taktéž; ostatní méně mrštní a smělí vyběhli schodnější cestou skrze sakristii z kostela, aby utíkajícího stíhali.</p>
+
+			<p>Kněz plebán zbyl v kostele sám jediný a nemaje tu ani kostelníka, aby ho k oltáři přistrojil, všecken rozmrzelý a hněvivý zhasil svíce a odešel domů.</p>
+
+			<p><pb n="140"/></p>
+
+		</div>
+
+		<div>
+
+			<head>X.</head>
+
+			<p>V tu ranní dobu, co se takový povyk v kostele solnickém strhl, běžel po Kvasinách od Skuhrova k Solnici člověk, o němž pro tmu a že bez svítilny šel, nebylo možno uhodnouti, ani kdo ani jaký byl? Kdo by tak byl došel až k samému a měl oči, jimž ani tma v rozeznání předmětů nevadí, mohl uhlídati tolik, že vyhlížel jmenovaný chodec asi jako řezný pytel a že nesl pod paždí nějaký vak.</p>
+
+			<p>Dle toho, jak se ku předu nutil, podobalo se, že má na spěch; a předc cesty nejpřímější, totiž voznice se nedržel, nýbrž po rozmanitých oklikách úžlebím při Bílém potoce mezi vrbovým a olšovým rokytím se plíhal. Ba někdy se až zastavil, jako by do dálky naslýchal.</p>
+
+			<p><pb n="141"/> Vyzradíme-li, kdo to byl, bude pak snadné, takové na oko si odporující počínání nočního pocestného pochopiti.</p>
+
+			<p>Byl to dudák a písničkář Froněk.</p>
+
+			<p>Dvě mocné páky chuďasem hýbaly, z nichž jedna poháněla ku předu a druhá odváděla stranou a chvílemi také kroky stavěla.</p>
+
+			<p>Jaké to páky byly, už víme.</p>
+
+			<p>Vždyť on to byl, jenž mužstvo solnické ke dni dušiček do kostela na úmluvu s Benedou, poslem Mutinovým, tajně objednával; a z rozmluvy, jakou v těle doupnivé hrušky vyslechl, věděl a pamatoval si dobře, že se Poberto do jich shromáždění vkrade a svědkem úmluvy ku všeobecné záhubě se stane. Proto chtěl, jak se samo sebou rozumí, solnickým a Benedovi, svým přátelům, výstrahu dáti, a co nad to ještě za lubem držel, bylo: že by se při takové příležitosti Poberto, hlava braniborské tlupy a nejhorší škůdce, polapiti a na věčné časy neškodným učiniti mohl. To pohánělo dudáka ku předu, tak že, kdyby vůbec lze bylo nohy s vůlí srovnati, by byl letěl jako pták.</p>
+
+			<p><pb n="142"/> Z druhé ale strany bál se sám o sebe, neboť věděl, že se jen proto pod dohlídku Kofroňovu dostal, aby z povědomé rozmluvy před hruškou ničeho vyzraditi a solnickým a Benedovi výstrahu před Pobertem v kostele učiniti nemohl. Z dohlídky arci, jak víme, šťastnou náhodou vyvázl; ale Kofroňovi nevěřil, znal ho a soudil důsledně, že, jestli na outěku z plebáně cestu si nezmátl a někam nezabloudil, nad Pobertem bude bdíti a o to dbáti, aby návěští o jeho přítomnosti v kostele solnickým donésti se nemohlo.</p>
+
+			<p>To zase dudákův spěch mírnilo a na okliky odvádělo.</p>
+
+			<p>Konečně octnul se až na louce pod loveckým hrádkem v Kvasinách u dlouhého výmolu, někdy od povodně způsobeného.</p>
+
+			<p>Výmol táhl se po louce šourem do šířky, byl po okraji z obou stran zarostlý nízkým vrbovím a olšovím, a kudy Froněk po pěšince přicházel, vedl přes něj můstek velmi sešlý a polo zapadlý, tak že se zdálo, jako by zrovna na zemi ležel a hnutí pod ním nebylo. Mimo <pb n="143"/> to nebylo možno pod můstek leč z jedné strany, protože ze strany druhé navalen byl do výmolu kámen ohromné velikosti, po němž, kdo se na sešlý můstek šlápnouti báli, na druhou stranu přecházeli.</p>
+
+			<p>Odtud nebylo již do Solnice leč některé sto kroků. Proto nemálo se těšil dudák, že šťastně a v čas k cíli svému dospěje; neboť již mu osvětlená okna chrámu Páně vesele vstříc zářila.</p>
+
+			<p>Ale pojednou strhl se neobyčejný lomoz a půda zaduněla jako od běhu mnoha mužů za sebou se ženoucích.</p>
+
+			<p>Froněk se zachvěl, nečekal, až oni za sebou se ženoucí k němu doběhnou; pomyslil: „Ten vyhrá, kdo uteče anebo se schová," a šoup! sklouzl po zadku do výmolu. Byl pod můstkem, kdež více místa shledal, než se byl nadál, zalezl až nejzáze na druhý konec ke kamenu, a když se dotčený lomoz pořád zmáhal a blížil, byl rád, že se před časem uklidil.</p>
+
+			<p>Než brzy se mu radost zkalila.</p>
+
+			<p>Téměř v okamžení svého tajného plesu <pb n="144"/> nabyl nemilého přesvědčení, že kromě něho také jiní lidé o skrýši pod můstkem vědí. Hned první z mužů za sebou se ženoucích svezl se po tétéž cestě a touž příležitostí jako dudák do výmolu a také pod můstek zalezl. Dudáka to hned zamrzelo, že je průchod z druhé strany zatarasen; i přilnul ke kamenu jako hlemejžď a ani nedýchal, aby se nově přibylému nevyzradil.</p>
+
+			<p>Mezi tím dorazili také ostatní mužové a bez pochyby stihatelé onoho prvního až k můstku a jeden z nich promluvil pološeptmo: „Dále ani kroku! tady zmizel, tady musí býti! V rokytí ho ulovíme! Asi tři zůstaňte u můstku" — rozkazoval dále jako vůdce — „a ostatní obstoupněte výmol z obou krajů po délce, já prolezu a prohledám rokytí, a vyskočí-li někudy, chopte ho!“</p>
+
+			<p>Froněk ve své skrýši poznal mluvícího po hlase, poznal Benedu, a srdce mu scvrklo úzkostí jako slupka, neboť tušil již, koho to asi za společníka pod můstkem má. A tušení jeho přešlo bezmála touž dobou v jistotu.</p>
+
+			<p><pb n="145"/> Mužové na můstku střežící počali mluviti tiše sice, ale předc tak, že jim pod můstkem bylo rozuměti.</p>
+
+			<p>„Co jsme si jen pomyslili," zabědoval první, a Froněk poznal Klusáčka, „že jsme se do umlouvání na Branibory dali! Nelapíme-li Poberta, běda! — Beneda upláchne, a my za všeckno vypíjeme sami. Poberto nás poškrtí co králíky; a že ho nedostaneme, vím bezpečně. Nejednou jsem slyšel, že umí s čertem — a s pomocí takového druha se nám třeba z ličáku vysmekne!"</p>
+
+			<p>„Mlč, hnidopichu! a neodjímej svou nerozumnou bázní zmužilosti jiným," osopil se na bědujícího druhý, a Froněk poznal Plichtu.</p>
+
+			<p>„Nechte tlachu a raději vyvalte oči, kudy Filištinský neobřezanec vyskočí!" káral oba předešlé třetí, a byl to mistr Hora.</p>
+
+			<p>Z takové řeči pojímala Froňka pod můstkem závrať.</p>
+
+			<p>Tehdáž se ještě v Čechách strojily na vlky jámy. Otvor se opatrně pokryl chvojí a za vnadidlo <pb n="146"/> se na chvoj přivázala koza. Vlk skočiv po koze, spolu s ní propadl se do jámy. Vida ale, že je v pasti, potratil chuť k jídlu, a dříve než k jámě kdo přišel, třeba dva dni s kozou pospolu pobyl, aniž jí uškodil. Proto ale byl stav kozy strašlivý — a v takovém stavu nalezal se Froněk. Hlava mu šla kolem, v prsou ho pálilo, chřtán se mu svíral, mřel strachem a nemyslil na nic než na svoji ouzkost.</p>
+
+			<p>Teprv když Beneda od prohledávání výmolu s nepoříženou k můstku se vrátil a nad planým výsledkem své práce téměř malomyslněl — ano tu teprv počal dudák rozjímati.</p>
+
+			<p>„Jedinkým zvukem bych vám prospěti mohl,“ přemítal na mysli; „ale co? on mě uškrtí, dříve než ku pomoci přispějete! Arciť povídal kněz od Svatého Jakuba: Kdo v zápasu s Branibory padne, hojnou odplatu na nebi si ukládá, — a má pravdu — já to cítím. Duch by chtěl, ale tělo je slabé!“ Nalézal se v těžkém zápasu mezi povinností a bázní, a když konečně lepší stránka zvítězila, že hlasitým zvoláním vraha pod můstkem vyzraditi <pb n="140"/> chtěl: <pb n="147"/> stáhlo se mu hrdlo až k zalknutí, že zvuku ze sebe vydati nemohl.</p>
+
+			<p>„Ale, přátelé!“ promluvil zrovna nad Froňkem mistr Hora, „stává se nejednou v zapoměnlivosti, že člověk něco hledá a třeba to v ruce drží. Možné, že se nám zrovna tak s Pobertem děje! Není-li on pod můstkem?“</p>
+
+			<p>„Dej si pokoj!“ zavrhoval pronešené mínění Klusáček. „Kde by se tam stěsnal?"</p>
+
+			<p>Teď hrklo v Pobertovi jako v starých hodinách. Přirozeným pudem o zachování sebe poháněn šoupal se k protější od otvoru straně, ač věděl, že tamtudy pro kámen vyváznouti nelze, a přitom vrazil do Froňka.</p>
+
+			<p>A hle! takovou setkanou povolilo dudákovi hrdlo a ústa se otevřela, tak že vykřikl, jako by ho z kůže dřel: „Lidé! dobří lidé, pomozte! on mě rdousí!"</p>
+
+			<p>Ještě dudákův nářek nedozněl, již byl také Beneda pod můstkem a Poberta jako ježka z díry za nohy táhl.</p>
+
+			<p>Teď se na něho shlukli všickni, co jich tam bylo, a na ležícího do výmolu padli, že je <pb n="148"/> Beneda až okřikovati musel, aby bezbranného neumačkali.</p>
+
+			<p>A Poberto znamenaje proti sobě nesmírnou převahu síly, ani se nebránil, ani nezpouzel, a jako děcko se poutati nechal.</p>
+
+			<p>Teď když byl vlk opravdu v jámě a nebylo se čeho báti, vrátila se smělost všem a každý si nějakou zásluhu o lapení Pobertovo počítal.</p>
+
+			<p>Nejvíce se chlubil Klusáček.</p>
+
+			<p>„Já ho pod můstkem cítil," vypravoval kostelníkovi, „hned jak jsem ze sakristie vyběhl. Hora své mínění: není-li Poberto pod můstkem? vytáhl ze mne — a Beneda mě jen okamžením předešel, sice bych já byl do výmolu skočil a na Poberta jako lev se vrhl!"</p>
+
+			<p>„Nepraš, mistře!" okřikl ho Plichta. „Chceš se vrhati jako lev, a vyhlížíš jako sysel! A mimo to jsem tvou zmužilost na můstku viděl; třásl ses jako osyka.“</p>
+
+			<p>Ano tolik smělosti, rozumu a řeči se vyvinulo, že Beneda k opatrnějšímu počínání napomínati musel, aby si žoldnéři za hradbami, <pb n="149"/> nepříliš odtud vzdálenými, povyku nepovšimli.</p>
+
+			<p>Ale vzdor domluvě nemohli se přítomní pro radost z ulovení Poberta zdržeti, aby po cestě na plebáň, kamž, jakožto do stavení nejbližšího a kromě hradeb stojícího, lapeného odváděli, všelijaké škádlení netropili.</p>
+
+			<p>„Vidíš, brachu!“ šeptal mistr Hora zezadu Pobertovi do ucha, ale tak, že to všickni slyšeti mohli. „Tak ono bývá, když se svévolně do pasti leze. Někdy to sklapne mimo nadání a třeba starý kocour za ohon uvízne."</p>
+
+			<p>„Dost a dost ses nám českých psů naspílal,“ chopil se slova mistr Plichta. „Vidíš — a oni tě ti čeští psové uštvali!"</p>
+
+			<p>Dudák Froněk, jak jen drobet málo od smrtelných ouzkostí okřál — za něž prý se ale až do smrti styděl — prodral se davem, postavil se průvodu v čelo a dle starožitného nápěvu: „Už ho vedou Martina" — vesele ale dušenými zvuky, aby to za hradbami slyšeti nebylo, k pochodu zadudal.</p>
+
+			<p>A Klusáček nejzáze v průvodu tak se <pb n="150"/> hrdinstvím rozjařil, že kolikráte po sobě vykřikoval: „Svažte ho, a opět ho svažte! a já ho roztlapu!“ A teprv když sám kostelník se mu smál, že svázaného roztlapati každá zmrzlá košile dovede, ano tu teprv ze své rozjařenosti drobet vychladl.</p>
+
+			<p>Ale Poberto byl hluchý a němý; na to na všeckno neodpověděl ani slovem, a toliko zuby do pysků zatínal.</p>
+
+			<p>Na plebáni vyvalil na ně stařeček kněz podivením oči, když mu takového hosta do domu přivedli. Zpomenuv si ale na rozkaz biskupa Tobiáše, poddal se a mlčel.</p>
+
+			<p>Klec pro Poberta bystrozraký Beneda hnedle vyhlídl. Vsadil jej s pomocí solnických do starého pustého sklepa na plebáni, dal přivázati k špalku, a dvojí stráží jej opatřil.</p>
+
+			<p>„Tebe odešleme k zemskému sněmu,“ propověděl, od vězně ze sklepa odcházeje, „aby viděli páni a otec biskup, jakému basiliškovi jsem žíhadlo vyškubl a že celým právem ostruhu zasluhuju."</p>
+
+			<p>Tak se skončila dušičková slavnost v Solnici, <pb n="151"/> a při všem povyku nočním zůstalo Braniborů tajno, co se bylo sběhlo, neboť Kofroň, jehož jedině se strachovati bylo, vskutku na svém outěku z plebáně u Svatého Jakuba zabloudil a teprv za dne do Solnice dorazil. Jak se ale Poberta nikde ani doptati ani dodělati nemohl, řádil až hrůza a počínal si jako rozumu zbavený.</p>
+
+			<p>Ostatně si nikdo hlavu nelámal a zvláště účastníci při dušičkové smuteční slavnosti vesele domů se vraceli.</p>
+
+			<p>Toliko kněz plebán pln vnitřního nepokoje ve své komůrce toto tré na mysli přemítal: může-li předně dům kněžský, všech nešťastných a pronásledovaných outočiště, žalářem býti? — možné-li zadruhé v kostele po takovém nekřesťanském shonu platně a bez urážky Boha samého služby Boží konati? — a zatřetí, kdo asi za to odpovídati bude, že v takový den, jako je dušiček, služeb Božích nebylo?</p>
+
+			<p><pb n="152"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XI.</head>
+
+			<p>Byla už hezká chvílka na den a jak náleží světlo.</p>
+
+			<p>Ebrklau procítl z dlouhého bezstarostného spaní. Ukázalo pak se, že se jeho denní pořádek dotud nezměnil, a co jsme již jednou při jeho se probuzení viděli, opakovalo se všeckno na vlas.</p>
+
+			<p>Mnul si oči, škrábal se v hlavě, natahoval se, zíval, na posteli sedl a opět od žoldnéře na stráži konev s medem na svázání konců žádal.</p>
+
+			<p>Při podobném zaměstnání, jako předešle Poberto, natrefil jej o dušičkách posel žamberecký, jenž se byl od dohlídky z kostela sice již dávno vrátil a mezitím také důtklivou <pb n="153"/> rozmluvu s Kofroněm odbyl; nechtěje ale odpočinek slavného vůdce rušiti, čekal, až se nadobro probudil.</p>
+
+			<p>„Nedopí až na dno, nepřemožený vůdce náš!" zvolal žertovně na místě ranního pozdravení. „Já přináším zprávu, ježto věru za zavdanou stojí, a radostí bych se snad trámu chytil, kdyby se k tomu také nemilá událost nemísila."</p>
+
+			<p>„Co radostného víš, vyklop napřed!“ odtušil Ebrklau též v dobrém rozmaru. „Co nemilého, ponech nazad; na zprávy toho druhu vždycky dost času."</p>
+
+			<p>„Nuže tedy věz, věhlasný Ebrklaue! smíření stalo se mezi mnou a bývalým rádcem tvým Bertholdem (Pobertem)!"</p>
+
+			<p>„Je-li možné?!“ podivil se Ebrklau s radostí. „Toť bych se byl nadál, že se snáze vlk s kozlem obejme, než vy dva spolu."</p>
+
+			<p>„A předc se stalo, jak pravím," dotvrzoval posel ze Žamberka s tváří opravdovou. „Včera ho nebylo po celý den viděti, protože si tajně do Žamberka zajel a vůdce Ebrschveifa <pb n="154"/> na mé poselství důkladně se vyptal. V noci přijel nazpět, sháněl se po mně, až mě v kostele našel. Tam jsme si podali ruce, a on hned zase do Žamberka odjel, jelikož mu věhlasný Ebrschveif na splátku za důvěru, jakéž ty, nepřemožený Ebrklaue! mně popřívati ráčíš, vedení pomocné tlupy k nájezdu u Hoříně svěřil. Prosil a zdržoval jsem ho, aby se tvojí věhlasnosti poklonil a změněným úmyslem svým tebe udobřil. On ale omlouval se nevčasnou dobou noční a tím, že ho v Žamberku k chystání výpravy nevyhnutelně zapotřebí, a konečně mi svěřil, že nehodlá před obličej tvůj předstoupiti dříve, dokud urážku vzdorným odmlouváním učiněnou skutky hrdinskými nenapraví, k čemuž u Hoříně bohdá dosti příležitosti nalezne."</p>
+
+			<p>„To je zpráva," zaplesal Ebrklau, „že nikoli za zavdanou, nýbrž za celý sklep medoviny stojí! Jak vás dva sobě po boku vidím, celých Čech i s biskupem Tobiášem se nebojím!"</p>
+
+			<p>To pověděv, podal poslu žambereckému <pb n="155"/> konev na připití, co tam po připití zbylo, jedním douškem sám požil a žoldnéře strážního honem, jako by o krk šlo, k mistru Daňkovi pro čerstvé poslal.</p>
+
+			<p>„A teď ven s tím, co nemilého víš! Po takovém zisku, jakéhož se nám smířením Bertholda dostalo, ze žádné ztráty si nic nedělám!"</p>
+
+			<p>„A předc je to ztráta dosti znamenitá," odpověděl posel žamberecký. „Goliáš celého houfu, statečný Kofroň, pomátl se na rozumu a tolik třeští, že nebude zbytí, leč aby spoután a odstraněn byl, sice nám celé mužstvo svým nesmyslem pobouří."</p>
+
+			<p>„I kýho ďasa!" škrábal se Ebrklau za uchem a bylo zřejmo, že je tomu nerad. „A co tropí, že by až mužstvo pobouřiti mohl?"</p>
+
+			<p>„Mluví takové rozervané řeči, že z nich nic vybrati nelze, leč pro nespokojené hlavy popuzování k spouře. Povídá o doupnivé hrušce a o zradě, o knězi od Svatého Jakuba a o dudáku Froňkovi — a že Bertholda již dva dni neviděl, stojí na svém, že je buď mrtev anebo někde ve vazbě. A mluv mu co mluv — jináče si říci nedá."</p>
+
+			<p><pb n="156"/> Žoldnéř k mistru Daňkovi pro čerstvé poslaný se vracel a zrovna s ním vtíral se do bytu vůdcova beze vší opovědi a téměř násilně Kofroň.</p>
+
+			<p>Nalézal se opravdu ve velkém rozčilení a málem jako šílenec vyhlížel.</p>
+
+			<p>Hned jak do světnice vcházel, sypal se do Ebrklaua: „Potři toho štíra, dokud tebe i nás na dosmrtí neuštká!" A přitom s náramnou zuřivostí na posla ze Žamberka ukazoval.</p>
+
+			<p>„Pamatuj se, Kofroni!" přimlouval zuřícímu Ebrklau. „Ubohý! vždyť mluvíš nesmyslně, mluvíš s cesty."</p>
+
+			<p>„Já s cesty? Snad mě nemáš za blázna? Sám jsi blázen, že se od svůdce za nos voditi dáváš! A jestli ho na tom místě nezničíš, zahyneš a my s tebou!"</p>
+
+			<p>„Jen pak se upokoj, bláhový," chlácholil Ebrklau třeštěnce. „Vždyť se nic nestalo, proč bys v takový nepokoj mysli upadal a sebe i nás děsil."</p>
+
+			<p>„Že se nestalo, povídáš?" vztekal se Kofroň ještě hůře. „Kdo dni prochlasce, noci <pb n="157"/> prochrápe a paty z hnízda nevytáhne: ten arci o ničem neví! Já ti povím, co se děje — slyš: na Skuhrově na nás pod rouškou nábožného skutku sbírají lid; u doupnivé hrušky mi o tom Berthold pověděl, a kněz od Svatého Jakuba nepopírá ničeho. Ale prokletý dudák ve své skrýši všeckno vyslechl a vyzradil; a proto se Berthold z kostela nevrátil! Buďto je zavražděn anebo uvězněn; já utíkal před mutinovci, dlouhými oklikami až teprv za dne dorazil jsem do Solnice a k zachování Bertholdovu pozdě přišel!“</p>
+
+			<p>Ebrklau poslouchal nesouvislé Kofroňovy řeči s outrpností a již pranic o jeho šílenosti nepochyboval.</p>
+
+			<p>„Slyšíš, co mluví?" šeptal posel žamberecký Ebrklauovi do ucha. „Že by nám mužstvo pobouřiti mohl!"</p>
+
+			<p>A Ebrklau přisvědčil.</p>
+
+			<p>„Neposlouchej toho ďábla!“ zařval Kofroň, zpozorovav to, jako posedlý. „On nám všem o hrdlo hraje! Spoutej, uvězni ho na tom místě! celé to hnízdo kaž obrátiti na rub, <pb n="158"/> až Bertholda buď živého neb mrtvého najdeme. A neuděláš-li po mé radě, my sami bez tebe jednati budeme!“</p>
+
+			<p>„Teď je s tebou čas, šílenče! abys byl neškodným učiněn,“ rozhněval se Ebrklau.</p>
+
+			<p>Sotva že to dořekl, obejmul posel žamberecký s rychlostí blesku a silou obra Kofroně v půli, a obě ruce jeho svým náručím sevřev, vzdor všemu lomcování lapenému nepovolil, až mu Ebrklau a strážní žoldnéř ruce i nohy spoutali. Spoutaného odvlekli do komůrky tady v bytu vůdcově a tam jej uvěznili.</p>
+
+			<p>Žoldnéri na stráži přikázáno, aby o tom, co se sběhlo, nikomu nepovídal.</p>
+
+			<p>Toho dne o poledni pozval posel žamberecký mužstvo celého houfu k mistru Daňkovi na Novou hospodu, kdež se celou noc a dlouho ještě ve čtvrtek na den při pivě, při medě a při Froňkových dudech hejřilo.</p>
+
+			<p>Žoldnéři propili pamět, na Poberta a na Kofroně ani nezpomněli a uvěřili, co se jim povídalo, že totiž oba jmenovaní s důležitým poselstvím někam odešli.</p>
+
+			<p><pb n="159"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XII.</head>
+
+			<p>Ve čtvrtek večer zvonilo se na klekání velkým zvonem.</p>
+
+			<p>Braniboři si takové úchylky od všedního obyčeje nepovšimli. O kostel a co ke kostelu náleží, nedbali oni leč tehdy, když na svatokrádež vyjeli; a mimo to hučelo jim od hejření u mistra Daňka ještě v uších, tak že jim hučení velkého zvonu nadobro ušlo.</p>
+
+			<p>Solnickým ale neušlo.</p>
+
+			<p>Ti čekali jako na Boží smilování, zda-li navečer velký zvon zahlaholí; a když jeho hlaholem povětří se zachvělo, zachvělo se jim srdce radostí, neboť poznávali, že se osnova od Benedy nastrojená nezmodrchala — a dle toho se jedenkaždý k popůlnoční výpravě vesele hotovil.</p>
+
+			<p><pb n="160"/> O půlnoci vytáhli Braniboři k nájezdu do jednoho, toliko Kofroně, jenž pořád ještě a čím dál tím hůře s cesty mluvil, ve vazbě zůstavivše. Ani stráže z lidu svého v městě nenechali, mníce všelikou hlídku na několik těch hodin docela zbytečnou býti, an posel žamberecký jistil, že budou s kořistí doma, dříve než solničtí z pelechů vylezou.</p>
+
+			<p>Ale solničtí v tu dobu byli již na nohou, a po půl hodině za Branibory touž cestou k Hoříni opatrně a tiše na pochod se dali.</p>
+
+			<p>Dvacet mužů z městských ozbrojenců ponecháno doma na hlídce s tím zvláště rozkazem, aby do města vejíti nedali, kdyby někdo z Braniborů předce z bitvy utekl a někde u brány se ukázal, anto by s jiným leč žhářským anebo jináče záhubným úmyslem nepřicházel.</p>
+
+			<p>V pustém sklepě na plebáni s rukama nazad spoutanýma a za nohy ke špalku přivázán seděl pololežmo na velké otepi slámy Poberto.</p>
+
+			<p>Již bezmála dva dni a dvě noci tady strávil a dotud slova nepromluvil, sousta ničeho <pb n="161"/> nepožil, ba téměř sebou ani nehnul. Kdyby nebyl dýchal, mohl se za mrtvého považovati.</p>
+
+			<p>Do pustého sklepa sestupovalo se z předsíně po desíti schodech a vchod opatřen byl dveřmi poklopovými. Od posledního schodu táhla se úzká dlouhá šíje, jižto od sklepení napotom se šířícího oddělovaly dvéře stojaté.</p>
+
+			<p>Solničtí majíce i ze spoutaného Poberta nemálo strachu, hned dvéře u šíje opatřili stráží a k poklopu na předsíni postavili druhou. Vidouce ale vězně docela pokojného a nemožnost vyváznutí jako nahlížejícího, upustili od své přísné hlídky.</p>
+
+			<p>Stráž v šíji nevydržela ani celý den, a ze čtyr strážníků na předsíni zbyl konečně toliko jeden. Avšak ani ten tam nezůstal; neboť jak mile se po půl noci za Branibory k Hoříni táhlo, povolán jest i ten poslední, aby přidělen byl k oněm dvadceti, jižto brány městské osaditi a v případu potřeby také brániti měli.</p>
+
+			<p>Za nějakou chvílku po odchodu svého posledního hlídače dal se Poberto do bědování. Stenal jako od bolesti, vzdychal, kňučel <pb n="162"/> a mezitím někdy tak zaječel, jako by z něho střeva soukal.</p>
+
+			<p>Děsně rozléhal se takový povyk z podzemního zákoutí po celém domě, a z prostomyslných obyvatelů byl by málem duši vystrašil.</p>
+
+			<p>Kněz plebán, jenž bez toho, jak u starých lidí vůbec bývá, jenom jako na mžitky spával, hned s prvním rykem bědujícího ze spaní se probudil a tolik se ulekl, že ani do taláru trefiti nemohl. Jak tak ustrojen vešel do čeledníku, aby od domácích slyšel, co se děje.</p>
+
+			<p>Tam teprv spatřil zmatek!</p>
+
+			<p>Stařičká hospodyně celá vyděšená lomila rukama, žehnala se dotýkaným škapulířem a kropíc svěcenou vodou po světnici tvrdila, že ďábel toho lotra ve sklepě nejspíše zaživa beře. Bědovala téměř s pláčem, čeho se to dočkala; dokládala, že od té doby na plebáni strašiti bude, a přitom zároveň službu vypovídala řkouc, že raději ode dveří k dveřím po chlebě choditi bude, nežli by v takovém domě živa byla, kde od zlého ducha pokoje není.</p>
+
+			<p>Kněz plebán na podobnou prostořekost <pb n="163"/> uvyklý ani neodpověděl, a shledav, že křik od vězně přichází, dodal si srdce a k pustému sklepu zaměřil.</p>
+
+			<p>Poberto, jak mu světlo pod klenutím zakmitlo, zvědavě po příchozím se ohlížel, a poznav kněze plebána, hlavu proti němu vypínal a žalostivě běduje zvolal: „Alespoň ty se nade mnou smiluj, sluho Boží! a bez pomoci jako psovi zahynouti nedej! Můj poslední konec se blíží. Snáším bolesti hrozné a k tomu daleko hroznější trýzeň zbouřeného svědomí! Teprv teď na prahu věčnosti poznávám, jak strašno jest, padnouti do rukou rozhněvaného Boha, a závrať zoufanlivá o mne se pokouší. Slituj se nade mnou, otče! a přispěj lékařstvím duchovním duši, předtuchou věčných muk již nyní sužované.“</p>
+
+			<p>Kněz plebán mu uvěřil, a dobrák, jaký byl, nad Pobertem do pláče se dal.</p>
+
+			<p>I těšil bědujícího vší útěchou náboženskou, líčil divotvornou moc pokání, vykládal, že milosrdenství Boží daleko větší jest, nežli hříchové všeho světa, a poukázav na lotra kajicného, <pb n="164"/> také Pobertovi odpuštění od Boha zaručoval, jestliže upřímnou nelíčenou lítost v srdci svém zbudí.</p>
+
+			<p>Poberto učiniv ubezpečení o své upřímné lítosti, doložil měkce a téměř s pláčem: „O, kéž bych rukou svých k Bohu pozvednouti, kéž bych svého duchovního lékaře a otce pocelovati mohl! Nesmím — a umíraje ani známkou spasení, křížem svatým, studené čelo požehnati nemohu!“</p>
+
+			<p>Poslední slova pronesl v přestávkách a temně, hlava mu klesala nazpět, oči se zavíraly — i vyhlížel zrovna, jako by skonával.</p>
+
+			<p>„Nikoli! tak neumřeš a umříti nesmíš!" zvolal kněz plebán ve zbožném rozhorlení. „Abys se ani znakem víry, kříže svatého znamením, na cestu do věčnosti ozbrojiti neměl: nedopustím — a kdyby biskup Tobiáš kletbu zrovna na mne vyřkl!"</p>
+
+			<p>Nato vyběhl na svá léta až ku podivu rychle ze sklepa, a hned se opět navrátil, maje v ruce dlouhý ostrý nůž, jímžto se <pb n="165"/> k pouti i jindy drůbež na plebáni podřezávala a jemuž ženské v domě vůbec „zabiják" říkaly.</p>
+
+			<p>Jedním šmiknutím zbavil Poberta vazby na rukou a očekával bezpečně, že vězeň svobodného hnutí rukou k vzývání jmena Božího a k díkůvzdání užije. Ale to se náramně zmýlil!</p>
+
+			<p>Poberto ruce vazby zproštěné nezvedal zhůru, nýbrž zajel jima dolů, aby pouto na noze ohledal, a jedním chmátnutím se ho také zprostil. Pak vyskočil jako vlk, když se z jámy vydrápe, a divokou radostí se zachechtal.</p>
+
+			<p>Kněz plebán koukal jako v Jiříkově vidění, nevěděl, co se děje, domnívaje se, že vězně horečka s blázněním napadla. V takovém domnění arci dlouho nezůstal, a brzy se k nemalému překvapení o pravém stavu věcí dověděl.</p>
+
+			<p>Poberto mu vytrhl zabiják z ruky, strčil jím nevlídně stranou a zvolal: „Tvé štěstí, starý blbe! že ve zradě většího podílu nemáš, sice bych se ti vzdor přítomné službě po čertech škaredě odměnil!"</p>
+
+			<p><pb n="166"/> Po těch slovích se zabijákem v ruce ze sklepa i z plebáně vyskočil.</p>
+
+			<p>Venku na voznici za plebání se zastavil. Čírou nocí pohlížel brzy v stranu k Hoříni, a zase do města jako na Hradčany k ouhlednému domku. Bylo zřejmo, že dvojí věc obmýšlí a toliko rozhodnouti se nemůže, kterou dříve vykonati.</p>
+
+			<p>Konečně se rozhodl a své rozhodnutí také vyslovil.</p>
+
+			<p>„Nic to!“ máchnul rukou, jako by někoho odháněl. „Dříve bratřím ku pomoci! Aby jako zvěř od honců v kolo sehnaná nepoctivě utlučeni byli, nedopustím! Zvítěziti ovšem nelze; ale mutinovcům naháňku pokazím! — Svoji choutku schladím si pak!" zachechtal se ohavně až mrzko, k Hradčanům se obrátiv. „Na zpáteční cestě třeba na outěku předce tolik času vybude, co by na zážeh několika střech a na podříznutí některého krku postačilo!"</p>
+
+			<p>Pak se pustil ze silnice k Bílému potoku a u velké doupnivé vrby se zastavil. Sáhnuv do ní od koruny shora, vyndal uzlík jako se <pb n="167"/> šatstvem. Zabiják, na ten čas svoji jedinou zbraň, strčil za pás, uzlík vzal pod paždí a poříčím Bílého potoka proti vodě k horám uháněl.</p>
+
+			<p><pb n="168"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XIII.</head>
+
+			<p>Voznice na Hoříň od Solnice vedoucí běžela po vysokém břehu nad poříčím Bílého potoka, a tak asi uprostřed Kvasin rozcházela se na dvé.</p>
+
+			<p>Cesta v pravo držela se hora a uchýlivši se od poříčního břehu, táhla se proti pozvolně se zvedajícímu návrší až na Hoříň a ještě dále. A to byla vlastně cesta řádná, po nížto se vůbec jezdilo a chodilo, a s kterouž mimo to příční voznice od Skuhrova na Slavěneckém kopci se pojila.</p>
+
+			<p>Cesta v levo sbíhala naproti dosti náhle shora do poříčí, vinula se dle běhu Bílého potoka v rozmanitých oklikách až do skuhrovského podhradí a pak v blízkém hvozdu mizela, <pb n="169"/> že nezbyla leč neschůdná pěšinka do příkré lesní stráně se zpínající a mezi pařezy, kořáním věkovitých buků a kamením zhůru k Hoříni se hatící. Tudy ani trakařník poctivě projeti nemohl, a téměř nikdo tady nechodil.</p>
+
+			<p>V tu noc před nájezdem na hradecké a na horské kupce byla onano hoření řádná voznice oživena jako snad předtím nikdy.</p>
+
+			<p>Hned záhy na noc dlouho před půlnocí rachotilo po ní třidcatero bednami a sudy naložených vozů přijedších od Skuhrova s ozbrojeným průvodem, jiný houfec ozbrojených následoval v zápětí, potom o půlnoci táhli tudy Braniboři s Ebrklauem a s Benedou v čele a za nimi po nějaké chvíli postupovala jako oukradkem záloha solnická pod mistrem Horou.</p>
+
+			<p>Avšak ani ta neschůdná pěšina hvozdem po stráni k Hoříni za dotčené noci nezůstala prázdná.</p>
+
+			<p>Pan Mutina míval někdy podivné nápady, ježto se někdy svéhlavým vrtochům podobaly; a jak si co takového usmyslil, neslevil, třeba se jeho lidé jakkoli mrzeli. Ostatně se ale <pb n="170"/> nejednou ukázalo, že takové ty zdánlivé vrtochy byly dítky hlubokého důmyslu a ke zdaru mnohé zapletené věci výborně prospěly.</p>
+
+			<p>Večer před povědomým nájezdem opět takový vrtoch na pana Mutinu sedl. Poručil totiž, aby šest mužů pod správou buď Vaňka nebo Barty odešlo na stráž do hvozdu pod podhradím; za stanovisko vytknul místo, kde pěšina k Hoříni do stráně vybíhá, a dal rozkaz takový, aby na vykázaném místě zůstali až do bílého dne, nikomu, buď kdo buď, ani nahoru ani dolů aby jíti nedali, a při sobě až do dne, třeba s užitím násilí zadrželi.</p>
+
+			<p>Pro ten rozkaz hněvalo se všeckno mužstvo, tak že nelibost svou až v slovích pronášelo.</p>
+
+			<p>„K čemu ubírati tolik statečných rukou a stavěti je na slepou stráž, když se jedná o potření nepřítele vší vlasti?“ durdili se jedni.</p>
+
+			<p>„Ba pravá to slepá stráž," přidávali se k předešlým jiní. „Ani ve dne tamtudy nikdo nechodí, natož v noci!"</p>
+
+			<p>„A Braniboři, zbude-li který, tam přes <pb n="171"/> ten sráz také z bitvy utíkati nebudou, léčby mermomocí krky polámati chtěli," dokládali s nemenší nevrlostí ještě jiní.</p>
+
+			<p>Než takové své náhledy sdíleli si, jak se říká, jenom na půl huby, aby se to panu Mutinovi nedoneslo; neboť on požadoval poslušnost bezvýminečnou a vzdorné hlavy jak náleží narovnati uměl.</p>
+
+			<p>Jiná těžkost nastala z neurčité výpovědi páně Mutinovy, že totiž oněm šesti u pěšiny hoříňské veleti má buď Vaněk anebo Barta.</p>
+
+			<p>Vaněk neměl ani za mák chuti do takového důstojenství a Barta nechtěl na dobro. Nemohli se nižádným způsobem shodnouti a museli svoji záležitost odbyti metáním losu. A los padl na Vaňka.</p>
+
+			<p>Byl nerad; ale mnohem více nežli nemilá úloha naň připadší mrzelo ho to, že proti Bartovi, svému nejhoršímu odpůrci, prohrál.</p>
+
+			<p>Barta naproti se z Vaňkova pokoření radoval, a maje na něho hlavně od poslední hádky k vůli odpustkům a knězi ód Svatého Jakuba svedené vzdůrku, ještě se mu posmíval.</p>
+
+			<p><pb n="172"/> „Co se mračíš?" ušklíbal se a ruce si mnul. „Úkol máš snadný! Lišku nebo kunu snad zahnati dovedeš, a jiného sotva co na tebe přijde. Jen si dej pozor, až se s tou lesní čeledí proháněti budeš, abys okem o větev nezavadil!"</p>
+
+			<p>Vaněk si myslil: „Dobře, dobře, na odslouženou!" nechtěje si ale mrzutosti přidělávati, mlčel.</p>
+
+			<p>Aby dalšímu škádlení ušel, uklidil se Vaněk se svojí družinou na vykázané místo ještě dříve nežli měl; a došed ku pěšině, zaobalil se do pláště, opřel se o buk a mlčel. Ostatní učinili taktéž a žádný ani necekl, jsouce jeden nevrlejší než druhý.</p>
+
+			<p>Jeden ze strážníků nemoha utajiti, co v něm vřelo, vyhrkl konečně pln hněvu: „Jsem s vámi naposledy! Dnešní potupu dlouho na Skuhrově nepřečkám, zejtra vystoupím ze služby. Teď o nového pána není zle!"</p>
+
+			<p>„Vezmeš-li s sebou svoji vzdornou hlavu," káral ho Vaněk, jenž zatím ochladl a na pana Mutinu jaktěživ ničeho nedopustil, „nikde se <pb n="173"/> ti dobře nepovede. Poslušnost první ctnost — tak říkali staří a měli pravdu."</p>
+
+			<p>„Což poslouchati já také umím, jen když to trochu po rozumu chodí!" bránil se pokáraný. „Ale tak býti jako nástrojem v cizí ruce bez vlastní vůle — to se musí člověku zhnusiti!"</p>
+
+			<p>„A právě ono zapření vlastní vůle a podrobení-se vůli jiné dělá poslušnost korunou a nejzáslužnější mezi všemi ctnostmi," doložil Vaněk s důrazem.</p>
+
+			<p>Opět bylo ticho, až někteří z družiny — ba s výminkou Vaňka tuším všickni, z dlouhé chvíle u stromů, o něž se podepírali, dřímati počali.</p>
+
+			<p>Již dlouho po půlnoci připadalo Vaňkovi, jako by se tichým hvozdem ze strany od skuhrovského podhradí rozléhaly kroky pěšího. Napnul uši, naslouchal bystře a nemýlil se. Kroky nepříliš hlasité blížily se rychle, a po nedlouze mihla se hustou noční tmou postava lidská, uchylujíc se po pěšině zhůru.</p>
+
+			<p>„Stůj! a mluv, kdo jsi?“ zastavil Vaněk hřmotným hlasem nočního tuláka, až se druhové ze dřímoty probrali.</p>
+
+			<p><pb n="174"/> Neznámý uposlechl a zůstal státi, ale podivně se shrbil; na místě odpovědi dal se do pronikavého babského kašle a pískalo mu v krku, jako by měl chřtán nejméně na desíti místech děravý.</p>
+
+			<p>„Jsem chudá vdova z Hoříně," mluvila kuckalka, když ji kašel přešel, tenkým hláskem po přestávkách. „Byla jsem mezi dobrými lidmi, na cestě k domovu pojal mě blud, i nachodila jsem se lesem do umdlení a zimou celá křehnu. Nebavte ubohou žebračku, Bůh vám zaplatí!"</p>
+
+			<p>Vaněk byl člověk dobrák a nerad koho v podezření bral. Babino kuckání a povídání zdálo se mu docela přirozené; pročež zmírnil hřmotný svůj hlas až do outrpna, řka:</p>
+
+			<p>„Nesmíme nikoho, buď kdo buď, ani nahoru ani dolů pustiti, a třeba s užitím násilí u sebe každého až do rána zadržeti máme! Musíš tedy, milá staruško! mezi námi přenocovati; a je-li ti zima, na, vezmi můj plášť, zaobal se, lehni si a spi!" A v skutku jí plášť svůj podal.</p>
+
+			<p>Baba se podrobila bez námítky.</p>
+
+			<p><pb n="175"/> „Co naplat, když nemůžete!" zaskučela vzdychajíc „Nemožné věci ani Bůh nežádá."</p>
+
+			<p>Plášť přijala, řekla: „Zaplať Pánbůh," zachuchlila se a sedla pod buk.</p>
+
+			<p>Ale ostatní družina tak lehce jako Vaněk neuvěřila. Zejmena onen, jenž hrozil, že na Skuhrově nezůstane, byl uvnitř přesvědčen, že baba babou není. Proto z ní oči nespustil. Také mu připadlo, že sebou pod bukem podivně vrtí, zrovna jako by prchnouti chtěla. Nemaje pokoje, loudal se opatrně, až se k babě přikradl. Pak vyndav ze záprsí ocílku a kámen, babě zrovna před očima zakřesal, až jiskry sršely a na tvář jí posvítily.</p>
+
+			<p>„Hrom tě zab!" vykřikl s užasnutím. „Totě ta sama baba, kterouž jsem na Skuhrově mezi poutníky viděl! Po ohnutém nose ji poznávám!"</p>
+
+			<p>Pověděv to, oběma rukama baby se chápal; ale ona jím strčila, až se svalil, a nechavši mu kromě Vaňkova pláště také plachtu s hlavy v rukou, jako pták, odkud byla přišla, nazpět letěla. Než se zbrojnoš se země sebral a Vaněk s ostatními zpamatoval, byla baba kdo ví kde!</p>
+
+			<p><pb n="176"/> Tři ze stráže pustili se za ní až na kraj hvozdu; vidouce ale stíhání své býti marné, vrátili se s nepořízenou k ostatní družině.</p>
+
+			<p>Zatím se domnělá babice přetvořila na Poberta — a ten, když stíhatelé na kraj hvozdu dorazili, již dávno od skuhrovského podhradí po dlouhých lukách k Solnici uháněl.</p>
+
+			<p>Nikoho za sebou nepozoruje, zastavil se a k Hoříni se obrátil.</p>
+
+			<p>„Nezdařilo se!“ zasípal lítostí a zlobou. „Utíkajícího zhůru byli by mě uštvali, a zmařeno bylo by všeckno! Bratři! jste bez výstrahy. Avšak proč jste jako trup bez hlavy, bez myšlénky, a necháte se bez odporu na popravu vléci!? Pomozte si sami, protlučte se — děti nejste a zbraň máte! Ted tam!“ otočil se ku předu a ukázal k Solnici. „Teď k pomstě!"</p>
+
+			<p>I zachechtal se ohavně až hrozno, a sáhnuv za pás, zda-li zabiják neztratil, jako šílenec znova do běhu se dal.</p>
+
+			<p><pb n="177"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XIV.</head>
+
+			<p>V oupadě pod podolským kopcem nad Hoříní stanuli Braniboři, srazili se v klubko, chovali se tiše a na kopec postavili stráž, aby hned, jak se co od lesů šustne, návěští měli.</p>
+
+			<p>V noci pod mlhavým nebem za oné pozdní podzimní doby bylo sychravo, a den se nikterak probuditi nechtěl; z toho si ale nájezdníci v oupadě pranic nedělali. Oni vzali s sebou od mistra Vaňka pro zahřátí, a pilným přichylováním láhví zaháněli nejen sychravici, nýbrž i chvíli dobře si krátili. Všickni byli při dobré chuti a veselé mysli, a když z lesa po pravém boku troje ostré hvizdnutí vzduchem až k nim dolítlo, ještě více na mysli se rozbodřili; neboť dle toho poznávali, že pomocná tlupa žamberecká <pb n="178"/> již v záloze čeká, a hned také na osvědčení své přítomnosti trojím podobným hvizdnutím odpověděli.</p>
+
+			<p>Co se dotýče outoku, jehož nájezdníci již ani dočkati se nemohli, radil posel žamberecký, aby se nepodnikal, dokud pomocná tlupa Ebrschveifova od lesa neodtrhne, tak aby kupci ze dvou stran zrovna jedním okamžením napadnuti byli. Za výhodu svého návrhu udával, že nepřítel tak sklíčený sílu svou na dvé rozdělí, tím že práce, sama sebou snadná, ještě snadnější se stane, a kořist že jako slepá do rukou jim vběhne. A všickni tomu přisvědčovali, protože jim o bitvu s kupci tak nešlo, jako o zboží na vozích.</p>
+
+			<p>Za prvního ranního svitu oznamovala stráž s kopce, že rachocení a vrzání vozů z daleka se ozývá, a pomocná tlupa Ebrschveifova že až na samý pokraj lesa postoupila.</p>
+
+			<p>K takovému návěští také nájezdníci z oupadu na pochod se dali a již na kopci viděli, jak lesním ouvozem do krajiny otevřené řada vozů vyjíždí. Pronikavé hvizdnutí od tlupy <pb n="179"/> žamberecké znějící, a od mužstva Ebrklauova taktéž zodpovídané, bylo obapolným vybídnutím k outoku.</p>
+
+			<p>U vozů strhl se zatím nesmírný zmatek a přepodivný lomoz.</p>
+
+			<p>S křikem, žalostivému bědování velice podobným, šikovali se žoldnéři kupečtí k bitvě, ale tak nejapně, že vozy toliko z jedné strany kryli, nechávajíce nepříteli ze strany druhé přístup docela volný.</p>
+
+			<p>Ebrklau hledě na to, nemohl se smíchu zdržeti, a radostí rukama tleskal.</p>
+
+			<p>„To bude práce pro děti!" ukazoval svým žoldnéřům na nejapnost u vozů. „A teď na ně!“ vesele rozkázal. „Zrovna k vozům, chaso! Kdo dřív přijde, dříve mele — komu kořist před dělením do rukou padne, tomu vezdy něco za nehty zůstane. Za mnou!“</p>
+
+			<p>Pln loupeživé chtivosti hnal se napřed, mužstvo s divokým povykem za ním, a za všeobecné roznícenosti ušlo pozornosti všech, že posel žamberecký od boku Ebrklauova zmizel.</p>
+
+			<p><pb n="180"/> Než jaké podivení a užasnutí vtrhlo mezi Branibory, když zboží na vozích v sudech a bednách hýbati se počalo, a zbrojenci v příhodném okamžení ze svého úkrytu jako divem vyskočivše, celou řadu přednějších nájezdníků na dlouhé píky napíchli. Ebrklau měl svrchovaný čas, že honem uskočil, sice by mu byli také život rozpárali.</p>
+
+			<p>Avšak úžas u vozů vzniklý proměnil se v zoufanlivou hrůzu, když zadnější řady Ebrklauova lidu „zrada! zrada!" volati počaly, jsouce od domnělé pomocné tlupy žamberecké do boku a od žoldnéřů kupeckých v čelo tepány.</p>
+
+			<p>Eberklau celý zpitomělý nepoznával dotud, oč vlastně běží, a nevěda si rady, po poslovi ze Žamberka se sháněl.</p>
+
+			<p>„Tady jsem, tady, věhlasný, tenkráte ale bez pochyby přemožený Eberklaue!" ozval se Beneda zezad. „Právě jsem ti cestu zpáteční se solnickými zastoupil, abys nám nikterak a nikam uprchnouti nemohl. Pro naši starou známost jsem ti radou, abys nechal boje a slavnému Mutinovi ze Skuhrova na milost a <pb n="181"/> nemilost se vzdal. Jsi jako v zahrádce kolkol jeho lidem obstoupen, a budeš-li se zpouzeti, dopadneš jako zajíc mezi chrty!"</p>
+
+			<p>„O, běda běda!" zahořekoval Eberklau hlasem nemužným a skoro s pláčem, teprv nyní svůj osudný stav nahlížeje. „Poberto měl dobře, on věděl, že jsi vyzvědač, svůdce a zrádce! O, já blb desetkrát ušatý, že jsem mu nevěřil a od tebe zavésti se dal!"</p>
+
+			<p>„Arciť Boží pravda, že mnoho chytrého nejsi," připouštěl Beneda. „Sám se tomu divím, žes mi jako hejl na lep sedl. Jindy byl bych řekl, že tě oslepil ďábel; dnes ale vyznávám vděčně, že tě Bůh slepotou porazil, aby ohavností braniborských v Čechách jednou bylo konce. Pročež i ty vzdej chválu Bohu a zbraň slož! Věčná byla by škoda, kdyby na potření tvé šibeničné roty jediná krůpěj poctivé české krve měla zmařena býti!"</p>
+
+			<p>„A co se mi stane, vzdám-li se?" vyzvídal Eberklau smlouvaje.</p>
+
+			<p>„Tebe co vůdce dodáme do Prahy," odpověděl mocný hlas páně Mutinův za Benedu. <pb n="182"/> „Ať s tebou sněm a biskup Tobiáš dle libosti náloží. Ostatně pro dobrovolné vzdání bude přímluva naše při tobě a zmírní osud tvůj.“</p>
+
+			<p>„Jak ale díti se bude s mužstvem mým?“ skoumal Eberklau dále.</p>
+
+			<p>„Tvoji lidé nebudou zbytečnou cestu míti," znělo za odpověd. „V Praze by je oběsili, jak na luzu již dávno šibenici propadlou přisluší. Pročež pro ušetření zbytečné cesty poslouží se jim houpačkou tady."</p>
+
+			<p>Dalšímu vyjednávání postavilo se mužstvo Eberklauovo na odpor.</p>
+
+			<p>„Máme my co baby složiti zbraň, abychom pak jako psi oběšeni byli!? Bídný, ničemný, hanebný vůdce! Jako na jatka k zabití vyvedl jsi nás, blbe! a teď ještě za bídné zachování sebe nás prodati chceš? Vzdej se, ničemný! my se do posledního muže brániti budeme a životy své tak snadně nedáme!"</p>
+
+			<p>Eberklau lomil rukama, plakal, sobě lál a mužstvo zoufající odprošuje zvolal: „Pravdu máte! ničema i blb jsem a svojí trestuhodnou krátkozrakostí sebe i vás jsem zkazil. Že bych <pb n="183"/> ale na zachování sebe vás prodati chtěl, to o mně nevěřte. V boji statečném zemřemež společně!"</p>
+
+			<p>A hned strhl se boj, zuřivý sice, ale nepříliš dlouho trvající, a skončil se, jak snadno bylo tušiti, s ouplnou porážkou Braniborů. Zdali kdo z nich z bitvy vyvázl, anebo do jednoho padli? — neví se. Alespoň se více ani noha braniborská v celém okolí neukázala.</p>
+
+			<p>Jediný Ebrklau, dle ozdob vůdcovských zdaleka znalý, z rozkazu páně Mutinova na prosbu Benedovu daného v boji zuřivém ušetření došel.</p>
+
+			<p>„Nevděčno bylo by na tebe ruky vložiti,“ oslovil jej pan Mutina po utichlém lomozu bitvy. „Tys, ač nechtě, hlavně k vítězství dopomohl; pročež nikoli přemožených, nýbrž vítězů osud sdíleti budeš!"</p>
+
+			<p>Pak požádal od něho zbraň a mistru Horovi a solnickým již ne co nepřítele, nýbrž co přítele v opatrování poručil.</p>
+
+			<p>Solničtí přijali jim odevzdaného s radostí a Ebrklau se do svého osudu brzy vpravil. <pb n="184"/> Hlavně se mu ulehčilo tím, že mezi svými opatrovateli také povědomou tvář mistra Daňka spatřil, jenž často bývalému hostu svému ruky na pozdravení podávaje zdvořile žádal, aby bez ohledu na to, co se dnes bylo přihodilo, i příště také na Nové hospodě besedoval a kratochvílil.</p>
+
+			<p>Ebrklau se usmál, pohodil vesele hlavou a pomyslil si: „Jak jináč? když nám to milé hrdlo ponechali, nesmíme je žízní trápit."</p>
+
+			<p><pb n="185"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XV.</head>
+
+			<p>Mezi oněmi dvaceti, jižto doma na hlídce zůstali a v případu potřeby město před vtrhnutím utíkajících Braniborů hájiti měli, nalezal se také mistr Klusáček.</p>
+
+			<p>Než se těch dvacet hlídačů z celého počtu mužstva vůbec vyměsilo, dalo to práce. On se každý stavěl, jako by do rvačky s Branibory tisíc chutí měl, a o hlídce domácí nikdo ani slyšeti nechtěl. Všeckno domlouvání mistra Hory neprospělo a nezbylo na vybrání jmenovaných dvaceti jiného prostředku, leč užiti losu.</p>
+
+			<p>Klusáček byl první, na něhož los padl, a div si proto samou mrzutostí vlasy s hlavy neškubal.</p>
+
+			<p>Hněval se až hrůza, že s ostatními do čestného boje nebude moci, žehral, že mu odjakživa <pb n="186"/> nic nesvědčí, kde by se před ostatními vyznamenati mohl, nabízel se jiným, na něž hlídka nepřišla, že za ně do boje potáhne, a když nikdo, jak bezpečně předvídati lze bylo, takové nabídnutí pro uvarování pomluvy a hanby nepřijal, doložil Klusáček vychloubavě: „Ti Braniboři ale mají štěstí! Já bych jim byl pověděl, po čem se toho loket v Čechách stříhá!"</p>
+
+			<p>Zatím však byl rád, že na něho los padl, a myslil si, že doma za hradbami předc více bezpečnosti bude, nežli tam uprostřed braniborských kopí a mečů.</p>
+
+			<p>Za stanoviště vykázáno mu místo mezi kladskou a dobrušskou branou na Hradčanech, zrovna nad Mareškovic úhledným domkem; a že se takovým hrdinou dělal, sám panoš Beneda k němu důvěru pojal a obyvatelky dotčeného domku jeho ochraně zvláště poručil.</p>
+
+			<p>Do tmavé mlhavé dálky díval se přes hradební koly ze svého stanoviska mistr Klusáček, a zimou se třásl jako osyka. Kdo ví, proč ho tak mrazilo? Oděn byl důkladně; kromě přilehajícího řemeslnického kabátce měl na sobě <pb n="187"/> ještě řásnou svrchní sukni a kukli staženou přes uši, od mistra Vaňka také nezapomněl na obecní outraty do láhve s sebou vzít pro zahřátí — a předc zimou křehl! Mělo ono to mrazení svou zvláštní příčinu, a pocházelo z přemýšlení, ježto čím více k svítání se blížilo, tím hůře mistra Klusáčka zimou rozráželo.</p>
+
+			<p>Čemu byl chuďas dříve rád, že totiž do pole na Branibory nemusel, mrzelo ho nyní, až se z takového mrzení jak náleží pořádný strach vyvinul.</p>
+
+			<p>„Hůře by mi tam na žádný způsob nebylo, nežli tady," mudroval sám u sebe. „Za vlasy nikoho ku předu netáhnou, a vzadu ani při nejkrutější bitvě nebezpečno nebývá. Ani vlas z hlavy by mně tam byl nikdo nevyškubl — a tady? — tady se zatrolená chumelice strhnouti může! Braniboři se tak honem nedají, a přijdou-li co vítězové, nadělají z nás tady zůstavených masti! Ostatně jsou chytří jako lišky, a učujou-li jen z daleka, že by mohli dostat vyflekací list, upláchnou našim pod rukama, tady se zastaviti neopominou, a nás <pb n="188"/> ubohé roztlapou na kaši. Já smutné stvoření je ani nezadržím ani nezaženu; ještě bych svojí nesmělostí ostatním překážeti mohl, a tak bude nejlíp, abych se před časem ztratil. Něco žen a dětí, ježto po odchodu mužů ouzkostí doma vydržeti nemohly, odešlo bez toho na palouk pod Holovu stráň — e co? pustím se za nimi! Přijde-li pak moje zmizení se stanoviska k řeči, odpovím: že jsem tak učinil proto, abych bděl nad bezbrannými! Jen kdyby mně Beneda nebyl Mareškovic ženské na krk uvázal!“</p>
+
+			<p>Přemýšlel pak ještě chvílku, až pojednou, když se na východě jako šedati počalo, s lávky hradební skočil, a přímo k Mareškovům běžel.</p>
+
+			<p>Vdova Marešková a dcera její Eliška klečely při lampičce před obrazem Marianským a modlily se, když k nim mistr Klusáček do světnice vešel.</p>
+
+			<p>Od té doby, co jim Beneda oznámil, že Poberto sedí v chládku a že se ho více strachovati nemusejí, nebyly v opatrování domu svého už tak příliš ouzkostlivy, a proto našel Klusáček dvéře otevřené.</p>
+
+			<p><pb n="189"/> Z jeho příchodu se ženštiny srdečně zaradovaly, a vstavše od modlení, obě na uvítání vstříc mu běžely.</p>
+
+			<p>„Modlíte se, modlíte?" pronesl první slova. Klusáček. „Jen se modlete, mám za to, že nám tady zvláštní ochrany Boží bude zapotřebí."</p>
+
+			<p>„Co pravíte, mistře?" divila se Maresková. „Já doufám, že jsme tady v bezpečnosti, a toliko o to Boha vzývám, aby slavnému panu Mutinovi a našim vítězství udělil, a vrahy cizozemské zahnal."</p>
+
+			<p>„To všeckno dobře," schvaloval Klusáček; „proto ale za sebe se modliti neopomíjejte. Možná, že nám tady horší skočna nastane, než tam v poli!"</p>
+
+			<p>„A jak to?" ptaly se obě ženštiny trnouce.</p>
+
+			<p>„Docela jednoduše a přirozeně," vysvětloval Klusáček. „Vidíte, Braniboři buďto prohrajou anebo vyhrajou. Prohrajou-li, neopominou zajisté na svém outěku na rozloučenou nás ještě navštíviti — a byť i jen, coby nám střechy nad hlavami zapálili a někoho zabili! A vyhrajou-li — čemuž Bože býti nedej! <pb n="190"/> — pak tuším za prvního vzteku bude ještě hůře!"</p>
+
+			<p>„Pro Pánaboha!" křižovaly se matka i dcera najednou. „O tom se Beneda ani slovem nezmínil!"</p>
+
+			<p>„Proto že vás děsiti nechtěl! Mne ale požádal, abych nad váma bděl; a protož veliké nebezpečenství, v jakém tady taneme, bez obalu odkrývám."</p>
+
+			<p>„Ale, Bože, Bože!" zabědovaly opět obě. „Co počneme, abychom takové záhubě ušly?"</p>
+
+			<p>„Tady není jiné pomoci, leč okamžitý outěk! Nechte všeckno stát a ležet, pojďte honem, já vás z nebezpečenství vyvedu!"</p>
+
+			<p>Strach je nakažlivý, a tak se stalo, že Mareškovic bez průtahu, ba s kvapem na outěk se hotovily.</p>
+
+			<p>Nenadálou událostí se toto hotovení ještě urychlilo.</p>
+
+			<p>Rudá záře padla do oken, až od ní oči zabolely. Všickni tři vyhlédli zvědavě a s tajnou hrůzou na ulici, co se děje? A hle! příční uličkou od náměstí běžel muž, v levici vysoko <pb n="191"/> pozdvižené nesl planoucí smolnici, v pravici dlouhý nůž a zpříma na ouhledný domek na Hradčanech se řítil.</p>
+
+			<p>„Pánbůh s námi! totě Poberto!" zkřikl Klusáček, a hnán pudem přirozeným, vyrazil okno, nazad na dvorek Mareškovic domku vedoucí, a jím, ač příliš prostranné nebylo, jako ouhoř rychle proklouzl. Ženštiny s touž rychlostí šťastně za ním toho dokázaly.</p>
+
+			<p>A měly svrchovaný čas, neboť sotva že náspi pod oknem dopadly, stál už Poberto ve světnici se zabijákem v jedné a s pochodní, bůhví kde sebranou, v druhé ruce.</p>
+
+			<p>„Kde jsi, nevěsto? já ti přišel k sňatku štěstí přát!" řičel jako posedlý. „Anebo hraješ na schovávačku?" zarazil se, uzřev světnici prázdnou. „Pod pancíř si tě snad milánek nestrčil? — Však ty daleko nebudeš, — vždyť tu ještě světlo hoří! Aj co to? otevřené okno? Snad že tady holubice před jestřábem vyletěla? Počkej, zkusíme to, prosoukám-li se za tebou!?"</p>
+
+			<p>A skutečně se prosoukal bez velkého namáhání. Také zadní dvířka k hradbám vedoucí <pb n="192"/> nalezl otevřená, jimiž navenčí vyběhl a na vše strany smolnicí si svítil. Svítil ale marně a nedokoukal se ničeho.</p>
+
+			<p>„Počkej, nevěsto! vydatnější pochodeň si rozžeme , abychom se snáze shledali."</p>
+
+			<p>K těm slovům zachechtal se smíchem šílence a smolnici na střechu ouhledného domku vyhodil, tak že hned plamen vyšlehl.</p>
+
+			<p>„Či se snad předce doma skrýváš a stopy outěku byly jen tak nastrojeny? Než se kouřem zardousíš, musíme se spolu viděli!"</p>
+
+			<p>To pověděv, do domku, již plamenem hořícího, jako smyslů zbavený veběhl.</p>
+
+			<p><pb n="193"/></p>
+
+		</div>
+
+		<div>
+
+			<head>XVI.</head>
+
+			<p>S radostným povykem vraceli se vítězové od Hoříně, těšíce se kromě dobytého vítězství hlavně tomu, že ze své strany velmi nepatrnou ztrátu utrpěli.</p>
+
+			<p>Z přednějšího mužstva Mutinova jediný Barta těžce jest poraněn, tak že jej z bojiště odnésti museli.</p>
+
+			<p>Kněz od Svatého Jakuba, jsa bitvě přítomen, jak o pohromě Bartově uslyšel, hned k němu s útěchou náboženskou pospíchal a s napnutím očekávali žoldnéři skuhrovští, jak asi Barta, jenž nejedno lehkovážné slovo o věcech víry z úst vypustil, zpovědníka přijme? A nemálo se podivili!</p>
+
+			<p>Barta, jindy opovážlivý a drzý, byl učiněný beránek, jevil lítost upřímnou, s pláčem <pb n="194"/> želel své pohoršlivé prostořekosti a vyznal přede všemi, že tak mluvíval z přepychu mysli a proto, aby Vaňka škádlil — ostatně že o tom, co ústa mluvila, srdce ani nevědělo. Obdržev církevní rozhřešení umíral pokojně, a nakrátce před skonáním žádal, aby jeho tělo s pobitými Branibory na bojišti nepochovávali, a prosil svého zpovědníka, aby mu při kostele nad Skuhrovem místečka dopřál a na jeho duši pamatoval.</p>
+
+			<p>S hlubokým pohnutím poslouchali druhové kajicné řeči Bartovy, a Mikeš utíraje si z oka slzu, řekl: „Se smrtí a s věčností nejsou žádné žerty!“</p>
+
+			<p>Jiný žoldnéř připomenul, že jednou takového umírati viděl, jenž do poslední chvíle se rouhal, o smíření s Bohem slyšeti nechtěl a také tak zahynul.</p>
+
+			<p>„Inu toť tedy zrovna zaživa ďáblu do pazourů vběhl!" odpověděl Mikeš rameny pokrčiv. „Jak si kdo ustele, tak lehne."</p>
+
+			<p>Na Píčově vrchu, odkudž dalekosáhlý obzor přes velkou část Hradecka a Chrudimska <pb n="195"/> se otevíral, naskytlo se vítězům divadlo, ježto všeobecnému veselí pojednou kořen podťalo.</p>
+
+			<p>Solnice, na půl druhé hodiny cesty odtud vzdálená, stála v dýmu a v ohni.</p>
+
+			<p>Tu rozkázal pan Mutina, aby všeckno mužstvo k hájení nešťastné obce co nejrychleji pospíšilo, a těm, kdož by k místu pohromy nejdříve dospěli a na zastavení záhubného živlu nejplatněji rukou přiložili, zvláštní odměnu připověděl. Na takové vybídnutí dali se zvláště jezdci do skoku a někteří dříve půl hodiny u požáru stanuli. Mezi nimi byl panoš Beneda nejpřednější a jemu v zápětí bývalý vůdce Ebrklau, neboť oba k píli kromobyčejné mocná páka poháněla.</p>
+
+			<p>Beneda chvátal k ochraně svých známých na Hradčanech; přišel ale pozdě, neboť ouhledný domek nalezl již popelem lehlý až do podvalů a po jeho obyvatelkách nebylo nikde ani stopy. Ebrklau zase ku spěchu se nutil, aby vojenskou pokladnici své někdejší tlupy před plamenem uchránil, a přišel ještě v čas, <pb n="196"/> právě když byt jeho plamenem zjímati se počínal, tak že nejen pokladnici odnésti, nýbrž také Kofroně vazby zprostiti a od záhuby vysvoboditi mohl.</p>
+
+			<p>Zatím dorazilo s panem Mutinou v čele mužstvo ostatní a sjednocenému všechněch úsilí podařilo se plameny uhasiti a dvě třetiny města od zkázy uchrániti.</p>
+
+			<p>Teprv teď po skrocení zlého živlu vítězové znovu zaplesali, a ani trud ohněm zneštastnělých radost všeobecnou nekalil, když pan Mutina svou pomocí slavně jim se zaručil.</p>
+
+			<p>Jediný Beneda s radujícími se neradoval, nýbrž zármutkem omráčen nad rozvalinami ouhledného domku stál.</p>
+
+			<p>Ženy, kteréžto hned v noci s dětmi na palouk pod Holovu stráň utekly, vrátily se domů, kde se kdo v jakém koutě skrýval, vylezl na světlo; toliko Mareškovic a mistr Klusáček zmizeli, jako by se po nich země byla slehla.</p>
+
+			<p>Proto kormoutil se Beneda a jako strašidlo děsilo jej pomyšlení, že snad obě ženštiny v plamenech bídně zahynuly.</p>
+
+			<p><pb n="197"/> S pomocí mistra Hory a jiných ještě sousedů prohledával spáleniště po ouhledném domku na Hradčanech s tím úmyslem, zdali-by se čeho po uhořelých nedohledal? A v skutku na schodech ze sklepa nalezli dýmem zalklou mrtvolu, jenom že mužskou v popáleném oděvu vojenském, s tváří do země a s dlouhým nožem v ruce. I obrátili tělo nešťastného obličejem k světlu a užasnutím div že nezkameněli.</p>
+
+			<p>Vzdor zohavení násilnou smrtí způsobenému poznali Poberta!</p>
+
+			<p>Teď teprv domníval se Beneda o osudu Mareškových co nejhoršího, a jako šílený hlavou o blízké hradební koly bil, s bědováním dívku milovanou jmenem volaje.</p>
+
+			<p>Při hradbách stála vysoká hromada smetí, od zametání čtvrti mezi dobrusskou a kladskou branou za mnoho let nashromážděná.</p>
+
+			<p>Při Benedově nářku počala se jmenovaná hromada smetí z jedné strany jako vnitřním tlakem sesýpati, až povstal otvor, otvorem pak vylezla hlava, od potu a prachu k nepoznání umouněná, a za hlavou vyvalil se mistr Klusáček <pb n="198"/> celý. A tímž průchodem vyklubaly se po chvílce také vdova Marešková a dcera její Eliška, neméně než jich předchůdce pošpiněny.</p>
+
+			<p>Ve hromadě smetí hledaly před Pobertem utíkajíce outočistě, a ač ve své skrýši strachem, dýmem a prachem div se nezardousily, předce šťastně ochráněny jsou, až jich volání Benedovo z neblahého těsna vysvobodilo.</p>
+
+			<p>Na pokřik o tom, co se stalo, shlukli se všickni, kde kdo byl, na Hradčany; ba i sám pan Mutina tam pospíšil, aby vlastníma očima na štěstí svého nejmilejšího panoše pohleděl.</p>
+
+			<p>Žoldnéři a sousedé od výpravy, vidouce Klusáčka tak zvedeného, pošklebovali se mu.</p>
+
+			<p>„Co pravda to pravda, tys hrdina, jenž se v potu tváři a v prachu země potýkal!"</p>
+
+			<p>Tak a jináče milého krejčího škádlili. Ale Klusáček stavěl se uraženým a posměváčky vypeskovav, vychloubal se s hrdostí: „Já vítězství vaše doplnil a ověnčil! Beze mne byste málo vítězného povyku nadělali, a sám rek Beneda smutně by koukal, kdybych mu nevěstu <pb n="199"/> nebyl ochránil a z drápů Pobertových i z plamenů ohně zmužile nebyl vyvedl!“</p>
+
+			<p>Takové vychloubání bylo by k novým posměškům podnět zavdalo, ale Beneda sám tomu nepřipustil.</p>
+
+			<p>Zvěděv od Elišky, že Klusáček o její zachování skutečně nějakou zásluhu má, přiběhl radostí všecek pomaten a krejčího přede všemi líbati a objímati se jal. Ba sám pan Mutina na důkaz své zvláštní milosti Klusáčkovi ruku podával.</p>
+
+			<p>Za takového uznávání Klusáčkových zásluh museli arci posměváčkové umlknouti; proto ale „hrdina ze smetniště", jakž se od té doby Klusáčkovi přezdívalo, ještě vyhráno neměl, a po celý život za své rekovné kousky posměch trpěl.</p>
+
+			<p>Téhož leta 1280 od vánoc až do nového roku držán jest v Praze hlučný valný sněm všech stavů.</p>
+
+			<p>K dotčenému sněmu odejel také pan Mutina Skuhrovský, kněze od Svatého Jakuba maje při sobě.</p>
+
+			<p><pb n="200"/> Teprv po hromnicích z Prahy domů vrátil se pan Mutina a tři důležité noviny přinesl s sebou: předně, že obec solnická v náhradu za škodu žhářstvím braniborským utrpenou na pět let ode vší zemské berně jest osvobozena; zadruhé, že Benedovi za jeho platné služby na zničení cizozemských vrahů přiřknuta jest ostruha povýšením do stavu rytířského; a konečně, že kněz od Svatého Jakuba jmenován jest proboštem na Sadské.</p>
+
+			<p>V den památky „stětí sv. Jana Křtitele," jakožto o posvícení v Solnici, když nad spáleništěmi od lonska již opět nové domy se pnuly, oddána jest sňatkem manželským Eliška Mareškovic rytíři Benedovi, jenž odtud, že od pana Mutiny statek Přečín v manství obdržel, rytířem z Přečína psáti se počal.</p>
+
+			<p>Tak veselého posvícení jako tehdáž více v Solnici nebylo; neboť o svatbě svého milého Benedy častoval pan Mutina štědře a bohatě celou obec u mistra Daňka na Nové hospodě, kdež prý velicí i malí při hojnosti Božího <pb n="201"/> dárku a při Froňkových dudech až do třetího dne v jednom kuse hejřili.</p>
+
+			<p>Oddavky Benedovy s Eliškou byly posledním úkonem stařečka kněze plebána solnického.</p>
+
+			<p>Od té doby, co se Pobertovi obelstiti nechal, býval mrzut a začasté říkával: „Moje stará hlava se do toho nového světa nehodí!" Následkem podobného rozvažování složil úřad, odešel na odpočinutí, až po několika letech v minoritském klášteře v Hradci nad Labem život svůj bohabojně dokonal.</p>
+
+			<p>Ebrklau se také o svatbě Benedově a Eliščině mezi hodovníky nalezal a u mistra Daňka opět jako jindy, jenom že s lepším svědomím, se veselil. Z pokladnice své bývalé tlupy nahradil solnickým za všeckna příkoří a škody, a o navrácení do své vlasti ani nepomysliv, zakoupil sobě v Solnici k stálému tady přebývání dům, kterýžto se v knihách gruntovních pode jmenem domu Brandeburského ještě při roce 1568 uvádí a připomíná o něm to, že stál po pravé straně v náměstí mezi rathúzem z jedné a mezi domem Benjamína Kverka z druhé strany.</p>
+
+			<p>Kofroň, od Ebrklaua vazby zproštěn, mezi zmatkem při ohni zmizel, a kam zašel, aneb kde a jaký konec vzal? — neví se.</p>
+
+			<p>Přečín, rytíře Benedy manské sídlo, byl dvůr a víska s mlýnem mezi lesy Homolí a Hájem v dolením poříčí Bílého potoka k Černikovicům. Jak dlouho se potomkové Benedovi v držení dotčeného statku uchovali, pověděti nevíme; to však jisto jest, že Přečín již po husitské válce z počtu českých osad vymizel. Než pamět někdejších manů přečínských potrvala déle, neboť veliká louka pod Homolí, někdejší příslušenství přečínské, ještě leta 1601 ve knihách gruntovních pode jmenem Benedovky přichází.</p>
+
+			<p>A starožitná Hoříň, kdež snad v nejodlehlejším zákoutí vlasti zbraň v rukou našich předků proti zlobě braniborské vítězně zachřestěla, obdržela během časů obyvatelstvo německé a slove nyní Čechům „Uřín“ či „Uhřín," Němcům ale <foreign>„Aurzim."</foreign></p>
+
+			<p><pb n="203"/> K závěrce něco pro žert!</p>
+
+			<p>Hádejte, odkud němečtí slovozpytcové svoje <foreign>„Aurzim“</foreign> odvozují?</p>
+
+			<p>Ve zdejších lesích bývá ob čas viděti ptáka tetřeva, a proto se odvozuje <foreign>„Aurzim“</foreign> od Auerhahna! jako prý by se řeklo: <foreign>„Auerhühn — Aurzim“</foreign> — !!! —</p>
+
+			<p><pb n="204"/></p>
+
+			<p><pb n="205"/></p>
+
+			<p>Tiskem a nákladem Kat. Jeřábkové též, letos již co sedmý ročník, vychází: Lumír, belletristický týdenník. Vedením Ferdinanda B. Mikovce.</p>
+
+			<p>Zábavného časopisu toho vychází každý čtvrtek půl druhého archu velké osmerky; celý ročník tedy zroste na 78 velkých archů!</p>
+
+			<p>Obsah jeho jest: Povídky druhu rozmanitého — vážné i žertovné, dílem původní dílem vybrané překlady z ruského, polského, horvatského, slovinského, z francouského, anglického a jiných jazyků, — básně u výboru přísném, životopisy proslulých Slovanů, zvláštně Čechů a Moravanů, rodopis český a moravský, články místopisné, články starožitností se týkající, články historické, národopisné a umělecké. K tomu připojeny jsou drobnější, též velmi rozmanité a zajímavé články pod názvy: Historické drobnosti — Slovanská hlídka — <pb n="206"/> Z Prahy a z venkova — Historický denník — Směs. — Též zprávy, obchodu, průmyslu a hospodářství se týkající, obilní ceny, zprávy z bursy atd. se podávají.</p>
+
+			<p>Jaká to do roka rozmanitá hojnost čtení zajímavého! A přitom poskytuje Lumír výhody, o jakéž při podobném podnikání u nás nebylo posud slýcháno; dáváť se celoročním P. T. pp. odběratelům co praemie zdarma krásný velký obraz z historie české, jehož cena v obyčejném prodaji 2 zl. stř. obnáší.</p>
+
+			<p>K dosavadním šesti ročníkům daly se co praemie celoročním odběratelům Lumíra následující obrazy:</p>
+
+			<p>Roku 1851: Zvolení Jiříka poděbradského za krále českého, od Hellicha.</p>
+
+			<p>Roku 1852: Smrt krále Václava IV., od Karla Svobody.</p>
+
+			<p>Roku 1853: Poslední kvas krále Bedřicha na hradě Pražském, od F. Čermáka.</p>
+
+			<p>Roku 1854: Břetislav a Jitka, od Josefa Hellicha.</p>
+
+			<p><pb n="207"/> Roku 1855: Karel IV. na Petříně, od Rudolfa Müllera.</p>
+
+			<p>Roku 1856: Příjezd Jana Lucemburského do Prahy, od P. Maixnera.</p>
+
+			<p>Každý, kdo celý ročník Lumíra (1857) odebeře, ku konci roku zdarma dostane krásný velký obraz, jenž toho roku co praemie dávati se bude. Kdo ale celoroční předplacení na rok 1857 najednou složí, může, nechce-li na praemii čekati až ku konci roku, některý ze šesti jmenovaných, co praemie k Lumíru již vyšlých obrazů hned si vyvoliti a o něj požádati.</p>
+
+			<p>Jako to pěkné sbírky krásných obrazů se tu časem dostane stalým P. T. pp. odběratelům Lumíra, a to zdarma, co přídavek k časopisu, hojností a zábavností rozmanitého obsahu vynikajícímu!</p>
+
+			<p>Předplacení na Lumíra obnáší:</p>
+
+			<p>Při odbírání v Praze. Se zasýlkou po poště:</p>
+
+			<p>čtvrtletně 1 zl. 15 kr. čtvrtletně 1 zl. 30 kr.</p>
+
+			<p>půlletně 2 „ 30 „ půlletně 3 „ — „</p>
+
+			<p>celoročně 5 „ — „ celoročně 5 „ 40 „</p>
+
+			<p><pb n="208"/> Vydavatelstvo po šest roků, co Lumír vychází, patrně dosvědčilo, že hlavní jeho snahou jest, aby dobré věci posloužilo a všemožným přičiněním udrželo časopis, který by osiřelé toho druhu místo v literatuře naší důstojně vyplňoval a jí ke cti byl, jakož i, že obecenstvo k podnikání tomu dosti obtížnému může ouplnou důvěru přiložiti. Protož také doufáme, ba s jistotou očekáváme, že važené obecenstvo, zvláště pak všickni, kdož přejí rozkvětu národního písemnictví, nás v tomto vlastenském snažení budou vřelým oučastenstvím hojně podporovati, abychom na dráze té pevně a vytrvale pokračovati a takto podporováni o větší ještě zdokonalení a rozmnožení obsahu časopisu toho pečovati mohli.</p>
+
+			<p>Sklad kněh K. Jeřábkové, v Praze, v uršulinské ulici č. 140.</p>
+
+		</div>
+	</body>
+</text>
+</TEI>

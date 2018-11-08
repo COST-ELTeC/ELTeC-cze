@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0001" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Bouře aneb oučinky zlého svědomí</title>
+			<title xml:lang="en">The storm or the effects of guilty conscience</title>
+			<author>Stroupežnická, Marie (1809-1883)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">11784</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=23459"></ref>
+				<publisher>National Library of the Czech Republic</publisher>
+				<idno type=""></idno>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Bouře, aneb, Oučinky zlého svědomí</title>
+						<publisher>Aloisius Josef Landfras</publisher>
+						<pubPlace>V Jindřichově Hradci</pubPlace>
+						<date>1855</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="F"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T1"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<body>
+
+		<div>
+
+			<p><pb n="1"/> <hi rend="formated">Bouře, aneb: Oučinky zlého svědomí . Svobodně pracováno od Marie Stroupežnické. V Jindřichově Hradci, 1855. Tisk a sklad Aloisia Josefa Laudfrasa.</hi></p>
+
+			<p><pb n="2"/></p>
+
+			<p><pb n="3"/> Nastávalo mlhavé jítro, rosa co drahé perle třpytila se na trávě, šveholivé ptactvo se ozývalo a skřivan u výše prozpěvoval svou ranní píseň, tam zas slavík v houští klokotal boly své.</p>
+
+			<p>Tuční beránci poskakovali v trávě, těšíce se ze životů svých. Tam zas oráč s pluhem a radlí spěchal k své ustanovené práci, chválíc při tom stvořitele svého, pozorujíc v sprostotě své tuto celou krásnou přírodu. Veselé dívky spěchaly do polí, prozpěvujíc radostně. Tam pastýř vyháněl stáda svá: Vše v celé přírodě zdálo se radost požívat.</p>
+
+			<p>Mlha, jenž se posud po zemi pnula, počínala se sponenáhla k oblakům zvedat, slunce se objevilo v celé své kráse, hlásajíc mocnost Nejvyššího.</p>
+
+			<p>Slunce již z rána pálilo co žhoucí plamen a mlha v kotoučích válela se po obloze a zdálo se, jak by se dnešního dne silná bouře dohromady srazit chtěla.</p>
+
+			<p>Unaven kráčel jakýsi pocestný, již velice ranním parnem unaven pěšinkou, jenž vedla skrz pole k jedné vesnici, by tam sobě oddechnouti a pokrmem k další cestě posilnit se mohl.</p>
+
+			<p><pb n="4"/> Po krátkém odpočinutí cestoval dále o silnou hůl se podpíraje. Dnes doufal, zdaž mu žádná překážka v cestu nepříjde cíl svého ustanovení dosáhnouti, neb měl ještě deset hodin cesty do Teplic.</p>
+
+			<p>Tam doufal práci nalezti, a zdali se mu poštěstí, strýce svého, bratra své zemřelé matky nalézti.</p>
+
+			<p>Jsa již několik let sirotkem, krejčovskému řemeslu se v Praze vyučil, mistr jej miloval co svého vlastního syna, u něhož ještě několik let po vyučení pracoval, ještě nyní jej nerad od sebe propustil, ale Antonín žádal jej snažně o to, jak pravil, by se naučil lid, jich povahy a krajiny znáti.</p>
+
+			<p>Před mnoha lety měli rodičové jeho veliký dvůr v krásné poloze blíž Labe, k němuž patřilo mnoho polí a luk, krásné zahrady a jedna vinice.</p>
+
+			<p>V jedné noci byl dvůr tento nepřátelskou rukou přepaden, vydrancován a zapálen. Ratibor, majitel statku, stratil se této noci, ani žádný nevěděl, kam se byl poděl, manželka kvílela a naříkala, stráta byla nenahraditelná, plné stodoly, pěkně vystavený byt, dobytek a vše ostatní bylo v kratinké době v prach a popel obráceno.</p>
+
+			<p>Dvě malé dítky ostaly v plamenu, neb se na ně v té veliké hrůze zapomělo, a pak bylo již pozdě. Bylo slyšeti jich ouskostné volání, ubohá podávala velké odměny tomu, kdo by se odvážil jich vysvobodit, ale žádného zde nebylo, který by se byl k tak nebezpečné cestě odvážil. Kateřina chtěla se sama v plamen vrhnouti, ale již , již přestalo žalostné naříkání.</p>
+
+			<p><pb n="5"/> Antonín jsa z dítek nejstarší, byl náhle hřmotem a praskotem ohně probuzen, oblekl se co nejkvapněji a vyběhl celý poděšen ze dvora ven.</p>
+
+			<p>Na druhý den ráno pátralo se ve vůkolí po Ratiborovi, ale nikde žádné stopy, myslilo se, že jest snad pod sutinami jedné zbořené zdi pohřben, ale všechno skoumání po něm bylo nadarmo.</p>
+
+			<p>Kateřina kvílela a naříkala nad tak velikou strátou, vše by byla ráda oželela, kdyby jí byl kdo manžela a dítky navrátit mohl, již neměla docela žádného, s kým by se byla poradit mohla.</p>
+
+			<p>Jediný strýc ze strany Ratiborové, počal se k ní nyní lichotit, an před tím mezi sebou v největším nepřátelství žili .</p>
+
+			<p>Tento Radislav byl člověk ctižádostivý, nešlechetný, necitlivý a urputný a dávno již o tom přemejšlel, jak by se bezprávně v statek Ratiborův usadit mohl, neb mu tato ctná rodina trn v oku byla. Kateřina nechala rozkopat zdi, kde prv komora stála, a k svému největšímu užasnutí nalezla truhlici, v níž peníze uložené byly , a umínila si, jak se jaro okáže, dvůr opět vystavěti.</p>
+
+			<p>Radislav ji nyní velmi často navštěvoval, nikdy jej neviděla tak přívětivého a vše připisovala tomu, že snad jej v jeho stáří jemnější cit opanoval. On jí dával tu nejlepší radu, jak by opět hospodářství v nejlepší stav uvésti mohla.</p>
+
+			<p>Když bylo vše v pořádek uvedeno, jen zdaleka několikráte podotknul, že by statek pronajmouti mohla, on že by jej sám přejal a jí dle uznání každoročně nájem vyplatil, předstíraje, <pb n="6"/> že jest k tomu sama nedostatečná, že ji čeládka okrádat bude, an sama všude dohlednout nemůže a že z těch každoročně obdržených peněz může někde v městě se svým jediným synáčkem živa býti, kde může o jeho vychování lépe pečovat než na této samotě. Tak dlouho ji chlácholil a sliboval, že jí nájem řádně platiti bude a všecko, co si k tomu vymine , až do zrůstu Antonínovo. Po dobrém uvážení přivolila Kateřina k tomu, an dobře nahlížela, že Radislav pravdu má a že v takových pádech nelitují vdov a sirotků.</p>
+
+			<p>Smlouva byla uzavřená, svědkové podepsaní , ale ubohá žena nepomyslila na žádnou šalbu.</p>
+
+			<p>O, že takový bohaprázdný člověk může na světě živ býti. Úpis byl ovšem vyhotoven ku prospěchu Kateřiny, ale po straně bylo jiné upsání vyhotovené, že mu všechno dobrovolně podstupuje , co k celému hospodářství patří, a že jen něco peněz skrze čtyry roky si vymiňuje.</p>
+
+			<p>Čtyry roky jí padouch tento držel v pravdivém přátelství, dávaje jí řádně ustanovený peníz, pátého ale roku, když již všechno spátky ostalo a ona na darmo očekávala, posel, který jí každoročně peníze přinášel, nepřicházel, počala nahlížeti jakýsi klam, pročež umínila ubohá Kateřina sama k Radislavovi jíti, ale jaká hrůza, jaké zděšení ji pojalo, když jí tento povrhel člověčenstva do očí řekl, že u něho nemá docela nic k pohledávání, tak že již ve čtyrech letech vše obdržela, co jí právem patřilo, a že ten celý statek spíše jemu než Ratiborovi přináležel, dědek jeho že jej zakoupil a jen otec Ratiborův se jej neprávě ujal, a mimo toho že mu jej Kateřina sama <pb n="7"/> podstoupila, načež má řádné upsání, její vlastnoruční podepis, též dvou hodnověrných svědků.</p>
+
+			<p>Ubohá Kateřina ostala co hromem omráčena, tak že nemohla ani slova promluvit. Když se drobet spamatovala, pravila k Radislavovi hlasem zlíkavým: strejče, vy mne šidíte, an se neprávě statku mého ujímáte, pomněte na ubohou vdovu, též sirotka, což nepomníte, že Bůh na nebi jest? který všechno vidí, jenž Vás za to někdy trestati bude. Takovým ouskokem mne o mé celé mění připravit, to na žádný pád bez pomsty ostat nemůže, já se budu o mé právo na úřadu ucházet.</p>
+
+			<p>To můžeš, ty nectná ženo, pravil zlostně Radislav, budeš vidět co pořídíš, mám na to hodnověrné svědky, kteří tě dokážou, že jsi se sama dobrovolně podepsala. Ted se mně kliď s očí a více se zde neokazuj. A tak ji několika ránami ze statku vyprovodil a psemi vyštval.</p>
+
+			<p>Ubohá Kateřina kráčela srdcem skrváceným a očima oplakanýma do zámku, by tam požádala o spravedlnost pro zlosyna a hájila práva svého.</p>
+
+			<p>Poslalo se pro Radislava, též pro svědky, kteří se také bez prodlení dostavěli.</p>
+
+			<p>Bylo ovšem řádné upsání, že mu Kateřina celý statek dobrovolně se vším postupuje a že se na vždy práva svého odříká, jen to že si ze všeho vymiňuje, by jí skrz čtyry roky jistou částku peněz odvedl. Byl to Kateřinin vlastní podepis a dvou dožádaných svědků z blízké vesnice.</p>
+
+			<p>Teď jí bylo praveno, že úpis takto zní, v kterém se ona všeho práva na všechny časy odříká, by se tedy o nic více nehlásila a šla s Bohem.</p>
+
+			<p><pb n="8"/> Utrápená Kateřina lotrovstvím tím zaražena nemohla slova promluviti a hlasitý pláč oznamoval city srdce jejího. I kráčela k domovu a sotva že cestu před sebou pro slze viděla.</p>
+
+			<p>Co teď počíti? od čeho měla být nyní živa se svým mileným dítětem? tato strašná myšlenka se jí stále míhala před očima.</p>
+
+			<p>Až potuď pracovala pro sebe, a teď zdali živa býti chtěla, byla přinucena pracovat pro jiné a zde v tomto malém městečku nebylo pro ni nic k vydělání . Pročež umínila sobě opustit místo toto na věky. Prodala celý svůj nábytek, jen něco prádla a šatstva svázala do uzlu, uchopila jedenáctiletého Antonína za ruku a kráčela slzícím okem k hlavnímu sídlu českému.</p>
+
+			<p>Udalo se jí ale cestou okolo dvora, v němž trávila před lety tak blažené dni, o, jak ji upamatování minulosti naplnilo sladkostí, ale pojednou se upamatovala, že stratila vše, co jí na světě milého bylo. Nyní stála opuštěná bez manžela, bez dítek, bez jmění, opuštěná od celého světa. Tu ostala po jednou státi a pozorujíc tento krásný dvůr, o který tak nešlechetným spůsobem ošizena byla.</p>
+
+			<p>Tu počaly poznovu hojné slze téci, Antonín plakal s ní, ačkoliv nemohl docela její žalost pochopit. I kráčela nyní krokem spěšným z té prv tak milé, nyní ale hrůzyplné krajiny, kterou na věky opouštěla.</p>
+
+			<p>Když přišla po velkém namahání do Prahy, hlásila se na několika místech o nějakou službu, ale každý pravil, že ji na ten pád do služby s dítětem přijmouti nemohou.</p>
+
+			<p>Šla do chrámu uršelínského, by tam Bohu svou ouzkost požalovala a v pravdě nabyla jakési útěchy a vnitřního pokoje. <pb n="9"/> Po službách božích vyšla z chrámu a usadila se u jednoho domu na lávku.</p>
+
+			<p>Ještě tu neseděla dlouho, když se u ní nějaká obstárlá paní zastavila a se vyptávala, kdo by byla. Když jí Kateřina vypověděla celé své neštěstí, pravila k ní; Pojďte, ubohá matko, se mnou, jsem samojediná bez manžela a bez dítek, jsem již dvatceti let vdovou, předešlý týhoden mně zemřela moje stará služka, která již přes třidcet let u mne ve službě byla, o vašeho malého sirotka já se také postarám.</p>
+
+			<p>O! jak se ubohá Kateřina zaradovala, poznávajíc v tom řízení božské, vzdávala Bohu díky z celého srdce.</p>
+
+			<p>Její pilnost a přičinlivost zjednala jí u paní Landové velikou přízeň a náchylnost.</p>
+
+			<p>Antonína se paní právě mateřsky ujala, a ten dobrý chlapec odplácel její přízeň pilností a dobrým chováním.</p>
+
+			<p>Tak uplynuly dvě leta, aniž se Kateřina co o svém manželi dozvěděla, a ještě se celý třetí rok nedokonával, když se ubohá těžce roztonala, všechna lékařská péče byla nazmar.</p>
+
+			<p>Kateřina dobře znamenala, že se čas smrti blíží, pročež zavolala Antonína u přítomnosti paní Landové k sobě, neb tato dobrá paní ji věrně obsluhovala. Tu vyjevila Antonínovi všechno, co již čtenáři vědí, též i jména nepravých svědků a žádala ho, kdyby se mu ještě poštěstilo otce nalezti, by mu všechny ouskoky Radislavovy vyjevil, by byl stále ctnostným a nábožným, by poslouchal své představené, by se nikdy Boha nespouštěl, on že ho také neopustí.</p>
+
+			<p>Tak jak byl celý mírný její život, tak byla i smrt její pokojna. Paní Landová nesla všechny <pb n="10"/> outraty pohřbu, neb tu malou pozůstalost nechala Antonínovi.</p>
+
+			<p>Teď stál ubohý Antonín na celém šírém světě sám jediný, ale Bůh, jenž jest otec sirotků, se o něj postaral.</p>
+
+			<p>Paní Landová si umínila jej tak dlouho při sobě podržeti, až by ze školy vystoupil a k nějakému řemeslu schopen byl.</p>
+
+			<p>Teď mu bylo svobodno, čím by se učit chtěl, neb i tyto výlohy vzala ta dobrá paní na sebe. Ošatila jej a zjednala mu dobrého mistra, který byl Antonínovi otcem.</p>
+
+			<p>Tak uplynuly leta učení jeho a mezi tím časem jeho dobročinná pěstitelka zemřela. Ubohý Antonín oplakal opravdu svoji dobročinku. Několik let po vyučení pracoval ještě u svého mistra, pak jej žádal snažně, by jej propustil, že by se rád do světa podíval. Mistr jej nerad od sebe propustil, dával mu ještě dobrá naučení na cestu, a zdaž by se někdy spátky navrátil, by jen k němu opět šel, jak do domu otcovského.</p>
+
+			<p>Bylo to v oné parné jitro, když Antonín celý unaven příjemnou krajinou kráčel .</p>
+
+			<p>Jaké city se střídaly v srdci jeho, jaké neočekávané divadlo objevilo se jeho zrakům. On viděl vycházeti slunce v celé své kráse a snad to bylo první jitro, které v tak krásné přírodě strávil. On obdivoval všemohoucnost, lásku a dobrotu stvořitele svého, jemuž se duše jeho kořila.</p>
+
+			<p>Tak kráčel dlouho v pozorování svém pohřížen. Slunce bylo již vysoko na obloze nebeské, když se nenadále Antonín odctl na krásném položení luk, skrze něž se bublavý potůček co stříbro lesknoucí kroutil, na jehožto břehu stály stoleté košaté duby.</p>
+
+			<p><pb n="11"/> Pod jeden takový posadil se Antonín, by si po nesnázích daleké cesty poodpočinul.</p>
+
+			<p>Zde se zabral v pozorování této okouzlující krajiny a málem by byl zapomenul, že má ještě dalekou cestu před sebou, zdaž by ještě dnes do Teplic dorazit chtěl.</p>
+
+			<p>I hbitě vstal a kráčel dále, neb si musil hodně pospíšit, a k tomu kráčel nepovědomou cestou.</p>
+
+			<p>Teď viděl před sebou les náramné velikosti, skrz který jíti musil, cesty se křížily sem a tam a žádného zde nebylo, kdo by mu byl pravou cestu ukázal. Již kráčel as hodinu lesem, an se počala zponenáhla obloha mrakem potahovat. Ptactvo, jenž nedávno v hustinách prozpěvovalo, umlklo, lesní zvěř pádila skrz houští do doupat svých, předzvídajíc strašnou bouři.</p>
+
+			<p>Antonín pozorujíc oblohu sostřil kroky své, chtíce se někam v bezpečnost dostati.</p>
+
+			<p>Než ale již z hluboka silně hřímalo, les byl stále tmavčí a tmavčí. Vždy víc a více bylo slyšeti řvaní hromu, blesky se křížily po obloze co strašní hadové, déšt silný se valil s oblak. Zde onde se již skácel mnohý krásný buk neb jedle ránou hromovou rozdrcen, vichřice strašná burácela mezi stromy, lámajíce silné větve, tak že byl Antonín v nebezpečenství, by jej některá neranila. A ráz a ráz, padaly jedna rána za druhou, a tak se tato strašná bouře podobala soudnému dnu. Antonín na celém těle se třesa, byl již na skrz promoklý, neb pod strom se schovati nezdálo se mu rádno. Tak již tato strašná bouře trvala víc než hodinu, když poutichlo hromu řvaní, dešť počal ochabovati. Antonín kráčel stále volným <pb n="12"/> krokem, a teď mu bylo zapotřeby, by se nějakého lidského obydlí dopíditi mohl.</p>
+
+			<p>Mrak se již docela stratil a sluneční paprsky se kmitaly skrze větve.</p>
+
+			<p>V tom z nenadání spatřil malý průsek skrz houští i myslil sobě, bezpochyby vede tato ušlapaná cesta do nějaké myslivny, chtěl tam tedy o nocleh požádati, by svůj promoklý oděv usušit mohl. Tak kráčel asi čtvrt hodiny, když přišel na malý zelený trávou hojně porostlý palouk, na kterém se bujné kozy pásly.</p>
+
+			<p>V zadu u samého lesa nacházela se malá chatrč s střechou drnovou, s předu byla malá zahrádka ohražena nízkým plotem, na levé straně malý chlívek pro kozy, pak bylo viděti několik slepic sem tam rozběhlých . Chaloupka byla velmi skrovná, v níž se zdálo pro velkou rodinu velmi málo pohodlí býti.</p>
+
+			<p>K té samé kráčel Antonín velmi unaven.</p>
+
+			<p>Sotva že blíže přicházel, kráčel mu jakýsi muž v oděvu poustevnickém vstříc a uvítal jej velmi vlídně, nabízel Antonína, by jen šel bez ostýchání do jeho chatrče.</p>
+
+			<p>Dále pravil, u mne ovšem nenajdete žádaného pohodlí, ale co vám může chudý poustevník poskytnout, rád s vámi zdělím.</p>
+
+			<p>Antonín jej vlídně pozdravil a kráčel za ním volným krokem. Když vešli do malé světničky, pravil stařec k němu, sundejte, mladíku, váš tlumok ze zád, a nejprve jest zapotřeby, by jste se převlekl, neb takové nastydnutí mohlo by vašemu zdraví nebezpečné býti, ale pravil dále: vaše prádlo bude bezpochyby také promoklé, byla to dnes bouře, již přebývám v chatrči této přes deset let, ale nepamatuji se na tak strašnou bouři, jako tato dnešní <pb n="13"/> byla. Antonín zatim přehlížel prádlo své, ale vše bylo tímto náramným líjavcem promoklé. Tu pravil poustevník k Antonínovi, oblecte prozatím tento můj sváteční oděv, snad vám váš do zejtří uschne.</p>
+
+			<p>Nyní tu ponechal starec samého Antonína, pravě, že se brzy navrátí, a netrvalo to dlouho, přinesl mléko, kus černého chleba a trochu jahod.</p>
+
+			<p>Přijměte tento sprostý pokrm, jest vše, co vám v této samotě dáti mohu, jest vám ze srdce přáno. Antonín vlídně poděkoval za jeho přátelství, sednul chutě k jídlu, neb již dalekou cestou a náramným strachem vyhladověl.</p>
+
+			<p>Dovolte mladíku, pravil poustevník, odkuď jste a kam vaše cesta? I odpověděl Antonín, jdu z Prahy do Teplic, myslil jsem, že tam dnes dojdu, ale ta silná bouře mně v tom překážku učinila a teď jsem rád, že jsem se pod střechu dostal.</p>
+
+			<p>Poustevník pozoroval mladíka se zalíbením a dřív než hodina uplynula , odvíral jeden před druhým srdce své.</p>
+
+			<p>Po chvíli pravil poustevník, byť by vás i tato strašná bouře nebyla zastihla , máte ještě odtuď celých pět hodin cesty, vy by jste tam byl beztoho nedošel, a snad nemáte tak tůze na spěch?</p>
+
+			<p>To nemám, odpověděl Antonín.</p>
+
+			<p>Již se mezi rozprávkou počalo schylovati k večeru, poustevník žádal mladíka, by měl nějaké strpení, až by své malé hospodářství do pořádku uvedl. Nyní byl Antonín v světnici skorem celou hodinu samoten a měl dosti času v tomto malém obydlí se ohlédnout. Tato světnička byla dosti malá, jedno lůžko ze sena a <pb n="14"/> listí, dvě malé lavičky a stolek bylo celé nářadí, malý dřevěný křížek co nejlepší ozdoba visel na dřevěné stěně.</p>
+
+			<p>Antonín přemejšlel přes všechny příhody tohoto dne, jak se mu zdálo v této malé poustevně tak volno. I rozjímal si příjemné tahy starcovo, k němuž jej jakási outlá náchylnost tak mocně táhla. Byl to také muž ctihodný, stáří jeho mohlo býti něco přes padesát, tahy obličeje jeho byly velmi příjemné, zdál se býti na svá léta tůze stár, neb jak se zdálo, že mnohá bouře života přes jeho hlavu se přenesla.</p>
+
+			<p>Nyní přišel do světnice, přinesl chleb, máslo a mléko a pravil, teď budeme pospolu večeřet, ale prosím vás, mladíku, jak jest jméno vaše? tento odpověděl Antonín.</p>
+
+			<p>Antonín, opakoval starec s bolestným vzdechnutím. Ale prosím vás, Antoníne, nebyl vám zde ten čas dlouhý, než jsem se navrátil? vy jste ve velkých městech na hlučné společnosti uvyklý , a zde panuje hrobové ticho.</p>
+
+			<p>Ne, muži ctihodný, volil bych zde s vámi žíti, mne nebavějí hlučné společnosti, těm jsem se vždy hleděl vyhnouti, myslíte, že takové hlučné živobytí přináší rozkoš? jen vědomí, že jsme dobře činili, dělá nás spokojené.</p>
+
+			<p>Jaká to řeč, mladíku? vy v takovém víru hlavního města vychován, kde rozkoše všeho druhu se střídají , vy o takové vznešené ctnosti mluvíte? byl jste snad v nějakém klášteře vychován? neb se řídka najde obyvatele hlavních měst, by tak mluvili a jednali.</p>
+
+			<p>Ne, odpověděl Antonín, já nejsem rodič z Prahy, ačkoliv jsem se tam od dětinství zdržoval, já již před mnoha lety osiřel a teď nemám na celém šírém světě žádného přítele, <pb n="15"/> než jediného strýce, bratra matky mé v Teplicích. A odkuď jste tedy, tázal se starec s napnutou pozorností.</p>
+
+			<p>I pravil Antonín, bych žádosti vaší zadost učinil, vypovím vám zkrátka osudy mé, a tu začal vypravovati, co již čtenáři vědí.</p>
+
+			<p>Sotva počal Antonín vypravovati, chvěl se starec jako osika , při vyřknutí Ratibora a Kateřiny rozpřáhl rámě své, by syna svého obejmouti mohl a málem by byl omdlel, o, synu můj, můj nejdražší Antoníne! Vypravuj dále, kde jest manželka má, kde ostatní dítky?</p>
+
+			<p>Já jsem pozůstal samojediný ze všech.</p>
+
+			<p>Starec ostal jako omámený státi a nevěděl, co činiti má, tu padnul jinoch otci okolo krku, objímal jej, hladil šediny jeho a prosil , by strpěl na nějaký čas tyto bolestné rány, by mu všechny ouskoky Radislavovy vypravit mohl. Ostatní bratr a sestra ostali v plamenu, neb se na ně v tom velikém zmatku zapomělo, a pak více nebylo žádného přístupu, já jen sem samojediný divem ušel.</p>
+
+			<p>Ratibor poslouchal uchem pozorným a mnohokrát se obličej jeho hněvem zarděl. Pak když Antonín všechno vypověděl, pravil otec hlasem zlýkavým. Tak ani vás msta jeho neušetřila?</p>
+
+			<p>Nyní počal starec plakati, objal poznovu syna svého, tiskl jej k srdci, ach, mé jediné dítě, pravil k němu, nyní se víc od sebe neodloučíme a já se budu o to starat, bych opět ku mnění mému přijíti mohl. Bůh jest spravedlivý a nenechá, by takové bezpráví, taková bezbožnost na světě obstáti mohla.</p>
+
+			<p>Bych ti ale pověděl, co jej k takovému zločinu pohnulo. Moje matka byla vlastní sestra jeho <pb n="16"/> otce. Rodičové byli velmi bohatí, ten dvůr, co má Radislav, vzdálený dvě hodiny cesty od našeho, jim patřil a který napotom Radislavův otec za dědictví obdržel. Ale pro Boženku chystali rodiče mnohem více, neb jim byla velmi milá.</p>
+
+			<p>Náhodou se dozvěděli o tomto krásném dvoře, u kterého se o padesát jiter, polí a luk, tež jedna vinice více nachází, jest v krásném položení, půda výborná a ourodná.</p>
+
+			<p>Tento krásný dvůr dostala Boženka za věno, ale Vojtěchovi, bratru jejímu, to tůze dobře nebylo a skrze to válčil proti rodičům; on se i konečně odepřel jim ustanovený výminek dávati, což sobě tito u ouřadu dobývati musili, a skrze to ztratil celou jejich lásku.</p>
+
+			<p>Nyní teprv ostala celá mohovitost mé matce, též i peníze na hotovitosti, za to si jich uměli moji rodičové vážit.</p>
+
+			<p>Ale ve Vojtěchově rodině ostalo takové záští, které se více vykořenit nedá, jeho tři dcery byly na rozličná místa dobře usazené, Radislav, jediný syn, obdržel dvůr s tím doložením, by se hleděl do našeho statku jakým koliv způsobem osaditi. Tento Radislav, bez toho již od přírody hrubý a nevzdělaný, plnil v tomto pádu věrně přikázaní otce svého.</p>
+
+			<p>Když se tam můj otec přiženil, kladl mu Vojtěch rozličné ouklady v cestu, jak by mu uškoditi mohl, ale nechtělo se mu to nijak podařiti. Já jsem byl jediný se sestrou, která se též Boženka po matce jmenovala, ta se provdala pět hodin cesty od našeho dvora na velké hospodářství a v několika letech bez dítek zemřela, já jsem s jejího přínosu nic nazpět nežádal, ačkoliv mně můj svat polovičku jejího věna naspět dáti chtěl.</p>
+
+			<p><pb n="17"/> Mezi tím časem naučil jsem se matku tvoji znáti, nebyla tůze bohatá, ale její slíčnost a ušlechtilé mravy učinily ji srdci mému velmi milou.</p>
+
+			<p>Mezi tím časem, co jsme my v našem dvoře šťastně a spokojeně žili, jsouce podporou chudších obyvatelů krajiny této, vymejšlel Radislav tu nejstrašnější pomstu, kterou také v krátkém čase v skutečnost uvedl.</p>
+
+			<p>Bylo to as tři měsíce před onou hrůzoplnou nocí, když jsme se nenadále setkali, tu se tvář jeho hněvem zarděla a on pravil ke mně: Ratibore, ty se strachuj nyní mé msty, čas přišel, bych tě odplatil, co tvá matka zavinila, a já se statku tvého zmocniti musím, kdybych se jakého koliv hanebného skutku dopustiti měl, bych splnil, co jsem mému umírajícímu otci přislíbil. Já jsem nad touto řečí ostal jako skamenělý státi nemoha ani jediného slova promluviti, on ale ještě vztekem řval a pak se ubíral mezi hrozným proklínáním svou cestou dále.</p>
+
+			<p>Teď jsem již věděl, co k očekávání mám a tudy jsem se stále strachoval.</p>
+
+			<p>Žně byly roku toho výborné, já měl plné stodoly a ještě mnoho obilí ležatého, hojnost dobytka a ovoce pěkného, mnoho sudů vína, z krátka mne nescházelo nic k mému štěstí. Ale ta strašná slova z úst Radislavových pokazila celou mou spokojenost.</p>
+
+			<p>Bych manželce mé strachu a žalosti uspořil, zamlčel jsem jí vše. Ona ale předc pozorovala jakousi trudnomyslnost na mně a ptávala se za časté, co by mně chybilo.</p>
+
+			<p>Já ji ale vždy uchlácholil, předstíraje jaké koliv starosti.</p>
+
+			<p><pb n="18"/> Tak uplynuly , jak jsem pravil, od té doby co jsme se s Radislavem posledně viděli, tři měsíce . Na to čekal padouch tento, až bych všechno s polích sklidil, by msta jeho tím strašnější byla. On má četnou rodinu a rád by byl dítky své na dobrá místa usadil, ale nedostávalo se mu peněz, které vždy sliboval, a nikdy splatiti nemohl, neb sám ve své mladosti mnoho prohejřil, též nápotom jeho nezdární synáčkové.</p>
+
+			<p>Bylo to na podzim ku konci měsíce října , ačkoliv náš dvůr vysokou zdí ohražen a co nejpečlivějí na noc se uzavíral.</p>
+
+			<p>Ale co naplat, žádné zdi, žádné závory nejsou postačitelné proti mstě a zuřivosti lidské. Vysoká zeď byla přelezená, stavení a chlévy na několika místech zapálené a než se kdo nadál, stál celý dvůr v plamenu. Já se vytrhl ze spaní, volaje manželku , by se spěšně oblekala, že vyšel ve dvoře oheň. Ale, ó, hrůza, ó, zděšení, tu vidím celé hejno zakuklenců, jenž mne v okamžení uchopili a vlekli ze dvora, mezi nimi Radislava, tento pravil zlostně ke mně: poznej mne nyní docela, teď přišla hodina odplaty a já jsem splnil, co jsem byl otci mému přislíbil, není-li pravda, že se zná Radislav výborně mstíti.</p>
+
+			<p>Byl jsem odevzdán jedinému člověku, který mne zavražditi měl, byl jsem ale dříve silně provazy svázán, bych sebou hnouti nemohl. Pak pádila tato ďábelná hlůza se smíchem a jásáním spátky do dvora.</p>
+
+			<p>Nyní byl život můj v nebezpečenství, já viděl nevyhnutelnou smrt před sebou a vzýval jsem Boha, by mu nedal klesnouti tak násilnou smrtí ! A hle! Bůh vyslyšel prosbu <pb n="19"/> mou a právě tento člověk byl mým vysvoboditelem.</p>
+
+			<p>Jeho spurný hlas naháněl mi dosti strachu, já jej prosil, by uchránil života mého, by pamatoval na spasení své. Když se již byla tato zbřež lotrovská docela vzdálila, pravil ke mně hlasem mírným a přívětivým: Mne se nemáte, Ratibore, co strachovati a děkujte nebi, že mne úloha tato dána byla. Poslyšte mne v krátkosti, jak se to udalo. Jsem Hynek, sluha Radislavův, a snad se ještě na mne budete vědět pamatovat, že jste byl v mém dětinství mým osvoboditelem. Bylo to na jaře, když mne oni nešlechetní chlapci pro jakousi maličkost ubili a do Labe uvrhli. Vy jste právě toho času chytal ryby na udici, skočil jste pro mne do vody a z nebezpečenství vlastního života zachoval jste můj a donesl jste mne do dvora. Jak bych mohl zapomenouti takové dobrodiní. Když jsem povyrostl, přišel jsem do služby k Radislavovi, u kterého již dlouhý čas sloužím. Již dávno jsem pozoroval záští jeho proti vám a dával jsem na každé jeho pronešené slovo dobrý pozor, bych vám časem výstrahu dáti mohl. Konečně včera večer zavolal všechnu mužskou čeleď do velké síně a pravil, kdo by byl asi s to mezi námi vykonati to, co od nás žádati bude, velká odměna bude tomu, kdo mou vůli vyplní. Všichni jsme poslouchali uchem napnutým . Kdo se odváží Ratibora zavražditi, toho hojně obdaruju. My hleděli jeden na druhého a žádná odpověd nenásledovala, já prosil po tichu Boha, by mi dal srdnatost, a hle, v tu chvíli pravil ke mně jakýsi vnitřní hlas, vem sám tu úlohu na sebe a vysvoboď jej. I vystoupím srdnatě a pravím, já sám vezmu úlohu <pb n="20"/> tu na sebe, neb již mám od mnoha let jakousi kyselost proti Ratiborovi a tudy se mu nejlepší pomstím. Radislav uvěřil slovům mým, neb viděl na mne všechnu opravdivost. Tu bylo usnešíno, že se dvůr váš zapálí a vy že budete vyvlečen ze dvora ven až k Labe. Tam že mne nechají s vámi samého, neb jsem nechtěl míti žádného svědka mé důmělé ohavnosti, pak že po zavraždění mrtvolu vaši do řeky uvrhnu. Zatím žádal jsem Boha, by mně přispěl, bych váš život drahý zachrániti mohl. Nyní jste svoboden, ale zapřísáhněte se mně, že chcete krajinu tuto na vždy opustiti a že budete u vzdálenosti od světa žíti, by váš drahý život opět v nebezpečenství neupadl, neb znáte Radislavovu mstu, čiňte to skrze nás oba.</p>
+
+			<p>Zde, milý pane, máte nějakou maličkost, kterou jsem si za mnoho let ve službě uspořil, to jest vše co vám obětovati mohu, a nyní s Bohem.</p>
+
+			<p>Já mu chtěl děkovati, ale tak jsem byl činem tím zaražen, že jsem slova promluviti nemohl, a když jsem se spamatoval, byl již Hynek opět ve dvoře. Teď nezbývalo nic jiného než ubírati se do vzdáleného světa, zdali jsem do nového nebezpečenství upadnouti nechtěl, ohledl jsem se ještě jedenkráte na hořící dvůr a ubíral jsem se z té tak milé krajiny, kde jsem vše stratil, co mne milého bylo. Kráčel jsem krokem silným, ale brzy jsem spozoroval, že mne síla a zmužilost opouští. Noc byla tmavá, chladný vítr fičel, obloha se potáhla mrakem a než jsem se nadál, počalo silně pršeti. Skrýti se nebylo kam, neb širá tma mně zabránila krajinu viděti, tak jsem kráčel následující <pb n="21"/> celý den, boje se, bych nebyl vyzrazen, celý jsa na skrz promoklý bez jídla a bez pití, zdálo se mně, že samým zármutkem a ouzkostí pojíti muším. Již se schylovalo silně k večeru, když jsem se v tomto místě octl. Jakýsi šedivý stareček vyšel mně vstříc; já nemohl velkou mdlobou dále. Hrůzy předešlé noci, špatná cesta, silný, celý den trvající déšt, chladné povětří tohoto podzimního dne takový nepříjemný outisk na mne učinily a vybraly docela moji sílu, že jsem se na nohou udržeti nemohl. Omdlevše, klesnul jsem starci k nohám, tento spěchal k přispění mému a než mne opět k novému životu vzkřísil, trvalo hodně dlouho. Když jsem k sobě přišel, uvedl mne do své chatrče, převlekl mne do svého svátečního oděvu, poněvadž můj na skrz promoklý byl. I spěchal, když mne byl na toto chatrné lůžko uložil, zatopiti.</p>
+
+			<p>O! jak jsem si liboval, tak příjemné teplo po takovém nastydnutí .</p>
+
+			<p>Po nějaké chvíli přinesl mně jakýsi sílící nápoj, ptal se mi , jestli bych měl na něco chuť, bych mu jen vyjevil, ale já jsem byl tak seslábnut, že jsem sotva promluvit mohl a zdálo se mně, kdyby v tom okamžení přišla smrt, že by mne byla vítaný host.</p>
+
+			<p>Tu pravil nábožný stareček ke mně, synu můj, vy jste nemocen, a v pravdě byl jsem nemocen, neb se mne pomatenost zmocnila a já vyprávěl se známkou strašnou hrůzy předešlé noci. Dobrý stareček seděl celou noc u mé postele a pozoroval na každé mé hnutí . Od toho dne uběhly dvě neděle a zimnice byla stále větší, tak že se stareček o můj život obával. I spěchal do blízké vesnice pro duchovního <pb n="22"/> , by mne svátostí umírajících na tak dalekou cestu posilnit mohl, a v pravdě byl jsem již na kraji hrobu, aniž jsem to sám znamenal. Stareček od první chvíle znamenal na mně velké nebezpečenství, znal se v lékařství, a tudy připravoval sám pro mne léky.</p>
+
+			<p>Po několika nedělích počal jsem opět přicházeti k sobě, tu jsem starečkovi za jeho péči děkoval, onen mne přinášíval sílící pokrmy, a tak pod jeho péčí nabýval jsem opět zdraví.</p>
+
+			<p>Jednoho dne seděl dobrý stareček u mé postele, já uchopil jeho ruku, děkoval jsem mu a prosil jsem jej, by vyslechl příhody mé, on ale pravil, bych toho ponechal, až bych byl zdravější, že již hned od prvního okamžení znamenal, že nešťastný býti musím.</p>
+
+			<p>Již se blížilo k vánocům, když jsem počal z lůžka povstávat. O, jak se dobrý stareček radoval z mého přibývajícího zdraví.</p>
+
+			<p>Jednoho večera seděli jsme u teplých kamen, stareček přiložil něco více dříví než obyčejně, neb venku burácela vichřice hrozným vztekem. Já jej prosil, by mne nyní vyslechl, že již dosti síly v sobě cítím k vypravování mých nehod. Stareček vyslechl nehody mé pokojně a pravil: lituji vás, synu můj! vy jste tůze nešťastný , ale Bůh to na vás dopustil, by zkoušel vaši trpělivost, vzdávejte mu díky za všechno. Bůh vám může časem vše navrátit, a kdyby se to nestalo, tak máte to vědomí, že jste to nezavinil. Co hodláte nyní činiti? ptal se dále. Já jsem byl na rozpacích, co činiti mám, byl jsem opuštěn, bez peněz, bez přítele. Já ostal celý zaražen. Dobrý stareček pozoroval, co se v srdci mém děje. Pravil ke mně, vy <pb n="23"/> ostaňte se mnou, Bůh sám ví , jaké ohledy s vámi má. Budeme jeden druhému nápomocen, hleďte málomyslnost vaši ze srdce vypudit a odevzdejte se do vůle boží a shledáte, že se mír a pokoj do srdce vašeho navrátí. I všechno bych rád oželel, jen kdybych se dozvěděti mohl, jak se mým milým vede. Nyní jest to zcela nemožné, ponechte péči svou Bohu, on jest otcem vdov a sirotků a sám je chrániti bude.</p>
+
+			<p>Tak nám mezi prácí a modlením uplynula zima, aniž se jaký mír do srdce mého navrátil . Mezi tím časem nabyl jsem nové síly. Jaro přicházelo v rouše spanilém, líbezné věterky vanuly polem.</p>
+
+			<p>Nyní stareček vycházíval za časté, by od vlídných obyvatelů krajiny této něco potravy přinesl. O, jak rádi přijímali radu jeho, jeho lékařskou pomoc. Pohled jeho byl příjemný, jednání jeho velmi laskavé, postava velká a cti hodná, mohl míti asi sedmdesáta roků, a již na čtyryceti let chatrč tuto obýval. Já jej zamiloval co svého otce a on mne také za časté těšil, tak že jsem opět nabyl lepší mysle. Tak nám uplynulo v pospolitosti pět let, já míval péči o domácnost, když stareček vycházíval do okolních krajin, a tak jsme za ten celý čas žádnou nouzi nepocítili.</p>
+
+			<p>Mnohokráte jsem žádal starečka, by mne dovolil, bych se mohl do mé otčiny podívat, jak se mým milým vede, ale on mne stále zdržoval, bych toho nečinil, že bych mohl poznán býti, bych se bez příčiny do nebezpečenství nespouštěl.</p>
+
+			<p>Tak nám uplynulo pospolitě pět let. Jednoho dne viděl stareček jakousi trudnomyslnost na <pb n="24"/> mně, pravil ke mně hlasem laskavým: Já vím, že stále toužíte po domovu, já vás od sebe propouštím, ale nerad, neb jsem vám tak uvykl , že by mně těžko bylo na vás zapomenouti. Nyní se můžete bez nebezpečenství pro vás tam podívati, znám takovou bylinu , jejížto šťáva vás v docela jiného člověka promění. Ale přislibte mně, zdaž by jste nic k prospěchu vašemu nevypátral, opět do této pouště se navrátiti.</p>
+
+			<p>Já mu to přislíbil laskavým tisknutím ruky, v kterém se celá duša má jevila. On mně rozuměl a brzy tekly slze jeho zároveň s mýma. Ještě jsem si toho dne vše k nastávající cestě připravil a na druhý den ráno byl jsem, než se slunce docela objevilo, skorem z lesa venku.</p>
+
+			<p>Tak jsem kráčel plný strachu a naděje celý den. Již se chýlilo slunce k západu, když jsem přišel do vesnice blíže našeho dvora. Zašel jsem tam do jednoho statku, bych tam o nocleh požádal.</p>
+
+			<p>Byl jsem od těch dobrých lidí vlídně uvítán.</p>
+
+			<p>Při večeři uvedl jsem rozprávku na můj dvůr, který se právě ze světnice viděti mohl, ptal jsem se hospodáře, komu by tento krásný nově vystavený dvůr přináležel? I odpoví sedlák: Ten patří nyní Radislavovi. Jak že pravíte, táži se prudce. Ovšem ne dlouho, odvece on, teprv něco přes čtyry roky. Což mu dříve nepatřil, táži se ho. Ovšem že ne, před pěti lety měl jiného majitele. Nějaký Ratibor byl pánem tohoto dvora. A kde jest ten nyní? táži se.</p>
+
+			<p>Bych vám z krátka pověděl tuto udalost, an jsme již do té rozprávky přišli. Před pěti roky v jedné noci na podzim vyšel ve dvoře veliký oheň, pravilo se, že jej loupežníci přepadli, <pb n="25"/> neb nebyl ani jeden z nich k poznání, poněvadž všickni zakukleni byli, někteří sousedé spěchali na pomoc, ale již bylo pozdě.</p>
+
+			<p>Této noci se dobrý Ratibor stratil, žádný neví kam, kterého ještě mnozí želejí.</p>
+
+			<p>Což se stalo s manželkou a dětmi? táži se kvapně. Sedlák na mne chvíli s podivením hleděl. Pak pravil dále: dvě dítky ostaly v plamenu, jen ten nejstarší chlapec ušel. A kde se nyní manželka toho nešťastného zdržuje? táži se. To vám vlastně říci nemohu. Neb jak se praví, že po vystavení dvora do městečka se odstěhovala, poněvadž dvůr dobrovolně Radislavovi propustila, praví se všelijak o tom, ale on má na to úpis, v kterém se Kateřina sama podepsala, a jak jsem slyšel, že se ztratila, žádný neví kam. A již dávno? Bude tomu několik měsíců, co odešla, nábytek, který měla, prodala . Tu jsem měl co dělat, bych se od pláče zdržel, tak jsem byl pomaten, že jsem ani jísti ani spáti nemohl. V noci jsem přemejšlel, jak by se to opět napravit dalo, bych se byl o to sám ucházel, bylo docela nemožné, žádný by mně byl neuvěřil a tak bych se byl do nového nebezpečenství odvážil , musil jsem to všechno Bohu poručit, nevěděl jsem, zdaž manželka má ještě na živě a neb kde se zdržuje. Byl jsem tedy rád, že jsem nebyl poznán, tak jsem ustanovil jíti do poustevny k mému milému starečkovi. Když se počalo rozednívat, oblekl jsem se spěšně, ty dobří lidé mne nutili, bych posečkal, já ale pravil, že mám naspěch, jmenoval jsem jakési vzdálené místo, kam ještě dnes dojíti musím, děkoval jsem jim za nocleh a ubíral jsem se z té hrůzy plné krajiny. Posuď, milý synu, co jsem <pb n="26"/> na té cestě vystál, pro pláč jsem sotva pěšinku před sebou viděl. Slunce se již sklánělo k západu, když jsem se tuto odctl. Přívětivý stareček vyšel mně vstříc a tázal se mne: Ratibore, čeho jste vypátral? Když jsem mu v krátkosti vše vypověděl, pravil ke mně, hleďte, to jsem předzvídal, ale upokojte se, poručte vše Bohu, i já jsem před lety zakusil veliké hoře, i mne msta nejkrutější uvedla v toto místo. Zejtřejšího dne zdělím vám své nehody a poznáte, že nebyla ztráta moje menší než vaše.</p>
+
+			<p>Na druhý den k večeru usadili jsme se na drnovou sedačku do malé zahrádky a stareček počal své vypravování jak následuje:</p>
+
+			<p>Já jsem hrabě rozený, dovolte bych jméno mé zamlčeti směl, mé křtící jméno jest Alfons.</p>
+
+			<p>Tam daleko v říši německé vypínal se můj pevný hrad na vysoké skále , kde se tok dvou říček dohromady sráží , které nápotom spojené do Nekaru padají. Já miloval v mladosti své dívku krásnou a ctnostnou, ač méně bohatou, se vším citem prvotiné lásky, i Adela mne milovala vroucně a tak jsme žili po taji dni krásné a blažené .</p>
+
+			<p>Hrabě Zdenek jsa ovšem bohatší nežli já, ale jak se ve vůkoli pravilo, nebyla pověst o něm ta nejlepší, neb měl býti po tají ve spolku s rotou loupežnou, kteří chodili počestným na přístihy. Mezi tím časem, co jsme my s Adelou o krásné budoucnosti snili , požádal padouch tento o její ruku. Otec mu ji přislíbil, posavád mne ta pohnutka známá nejní, byla to bázeň před jeho mstou a neb jej lákalo Zdenkovo veliké bohatství. Zavolal tedy jednoho dne Adeleidu do svého pokoje a vyjevil jí, <pb n="27"/> že jest ruka její Zdenkovi přislíbená, kterému to odepříti nemohl a nesměl.</p>
+
+			<p>Adeleida samým leknutím celá ubledla, omdlevše klesla užaslému otci k nohoum, ustrašen počal ji tento křísiti. Když opět k sobě přišla, objala otcova kolena a prosila hlasem zlíkavým, ach! drahý otče, neusmrcujte své jediné dítě, mne nelze Zdenka milovati, raděj všechny hrůzy smrti snesu, než tu myšlénku, že bych měla býti jeho manželkou. Miluji Alfonse se vším citem prvotiné lásky. Ach! drahý otče, nerozlučujte nás od sebe, nechcete-li viděti tělo mé na marách.</p>
+
+			<p>Tu ostal otec co hromem omráčený státi, byl na rozpacích, co činiti má.</p>
+
+			<p>Po chvíli pravil odhodlán, že on své rytířské slovo spátky táhnout nemůže.</p>
+
+			<p>Ubohá Adela zmáčená slzami objímala kolena otcovo, když jsem já náhle do komnaty vkročil i dovtípil jsem se pojednou, co se bylo přihodilo, neb Adelaidin ubledlý obličej nedal mne na nic dobrého soudit.</p>
+
+			<p>Když jsem ale v krátkosti vyrozuměl, co se bylo udalo, vrhnul jsem se též k nohám otcovým , žádaje ho snážně , by nás od sebe nerozlučoval. Otec jsa nad naší žalostí a prosbou pohnut , pravil po chvíli ke mně:</p>
+
+			<p>Alfonse! což jste nemohl mně dříve lásku vaši vyjevit, jak to nyní začít, tak zhola předc Zdenkovi říci nemohu, že jsem se jinák rozmyslil, neb on má mé slovo, které více na zpět vzíti nemohu a jaké zde rady a jaké pomoci, zde se musí jen lstí užívati.</p>
+
+			<p>My objímali poznovu kolena jeho, on jsa ještě více obměkčen, pravil posléz třesoucím se hlasem:</p>
+
+			<p><pb n="28"/> Vidíte, Alfonse, já jsem si vás vždy vážil co muže šlechetného, ale proč jste dříve lásku svou k Adele nezjevil? Ale vy máte býti svoji, za to vám ručím mou ctí. Vy pojedete nyní domů a s večerem vyjde Adela na procházku, vy se opět vrátíte , uchopíte dívku, posadíte vedle sebe na koně a tak se bude zdáti, jako by jste ji byl unesl, ještě tohoto večera upevní knězké požehnání váš manželský sňatek, váš hrad, milý Alfonse, jest dosti pevný proti jakému koliv násilí a já ostanu bez viny.</p>
+
+			<p>My jsme objímali kolena jeho, nyní jsme ale prolévali u nohou jeho slze radosti.</p>
+
+			<p>Já jsa s večerem na blízku ukryt čekal jsem se strachem a netrpělivostí, až Adela z hradu vyjde. Ještě jsem nečekal dlouho, když vyšla, vysadil jsem ji spěšně na koně a než se kdo nadál, ujížděl jsem cválem k mému hradu, tam již bylo k sňatku našemu vše připraveno, zámecký kaplán spojil nás na věky. Již druhého dne se rozhlásilo ve vůkolí, že jsem Adelaidu unesl, což se také hned druhého dne hrabě Zdenko dozvěděl. On přijel ještě toho dne do hradu tchána mého, ale již bylo pozdě, neb tento držel ještě psaní ode mně, že jest sňatek manželský upevněn, v ruce.</p>
+
+			<p>Vztek Zdenkův popsati nebylo by žádné péro s to, on zuřil proti tchánu mému a mně přísahal věčnou pomstu, kterou také v několika letech strašné vyplnil.</p>
+
+			<p>Můj hrad byl dosti pevný vzdorovati nástrahám jeho. Tak jsme žili v lásce a svornosti již osm let, aniž se Zdenkovi poštěstila lest hradu se zmocniti, na polích, lesích a vinicích činil velké škody, což jsem mnohokráte hořce oželel. Ale tímto, že mně škodil, nebyla ještě <pb n="29"/> msta jeho naplněná, on se chtěl jen hradu mého zmocniti, což se mu nijak povésti nechtělo, byl kolikráte s velkou strátou svých zbrojnošů od hradu odehnán.</p>
+
+			<p>Já jsem neměl se žádným z mých sousedů žádnou půtku, a proto jsem žil jen v mé rodině, žádného navštívení nepřijímaje. Jednoho dne se udalo, že jsem musil nemocného strýce navštíviti, váhal jsem několik dní , ale již se to odložit nedalo. S jakýmsi bolným citem jsem se ubíral z mého hradu, Adelaida mne padla okolo krku, jako by již byla což strašného předzvídala, o, jak jsem tiskl mé čtyry dítky jedno po druhé k srdci a málem bych byl doma ostal, ale posel čekal na mne, neb se ta cesta odložit nedala. Rozžehnal jsem se s Adelaidou s pláčem, neb to bylo posledníkráte, co jsem ji živou viděl. Přislíbil jsem, že se s večerem vrátím, přikázav hradnímu, by tento celý den, až do návratu mého, žádného nepustil.</p>
+
+			<p>Nevzav než jediného zbrojnoše sebou, spěchal jsem jak jen možná bylo, bych se v ustanovený čas domů navrátil. Já jsem se ale proti mé vůli opozdil. Již se hodně setmělo, když jsem přijel na planinu, odkuď jsem hrad můj viděti mohl, ale ó, hrůza! ó, zděšení! plamen žírající zdál se až k oblakům dosahovati. Zdeněk se dozvěděl o mé nepřítomnosti, použil lsti, jeda sám s jedným zbrojnošem v přibývající tmě ku bráně mého pevného hradu, an zatím ostatní hlůza pekelná před hradem rozchovávana byla. Hradní mysle, že já se zpět vracím, otevřel tomuto padouchovi hrad, za kterým se pacholci jeho hrnuli. Hradní hnedle nahlídl svůj omyl, ale již bylo pozdě, <pb n="30"/> hrad byl vydrancován a zapálen, moje čtyry dítky zavražděny, manželku mou nechal padouch tento na svůj pevný hrad odnesti.</p>
+
+			<p>Než jsem já se vrátil, byla již celá tato hanebnost vykonaná. Já zuřil, potkaje se ve bráně s tímto lotrem, ale co jsem mohl sám činiti, lid můj byl dílem pobit neb poraněn, on měl mnoho pacholků sebou, a tudy by byl býval můj odpor velmi slabý. On pravil ke mně takovým hlasem, v kterém se ďábelná radost jevila. Není-li pravda, že se zná Zdenko výborně mstíti? Odcházeje pryč, mé ubohé dítky ležely ve své krvi na náhradí, i uvrhna se v strašlivé bolesti na tyto malé mrtvoly, které jsem slzami smáčel, chtíce je opět k novému životu vzkřísiti, ale všechna moje péče byla marná. Tu jsem se teprv dozvěděl, že lotr ten manželku mou do svého dravého hnízda odnésti nechal. Posuďte, milý Ratibore, mou bolest této noci. Hradní se vrhnul k mým nohám , podával s pláčem svůj život, bych mstu svou na něm vylil. Já mu dal jakousi domluvu skrze nepozornost jeho. Celou tuto noc probděv u mých drahých dítek, které jsem tak hanebným spůsobem stratil. Oheň již ochabl, což jsem se ani nezdál pozorovati, což mně bylo nyní po všem, an jsem to, co mně na světě nejmilejšího bylo, stratil.</p>
+
+			<p>Mohlo se blížiti druhého dne as k polednímu, když se zástup zbrojnošů do hradu přihrnul, nesouce nosidla, na nichž něco přikrytého leželo.</p>
+
+			<p>Jeden z nich podávaje mi list od hraběte Zdenka, který mi jak jsem mile do něho nahledl, z ruky vypadl a já omdlel. Když jsem opět užívání mých smyslů nabyl, vzdálila se <pb n="31"/> tato pekelná hlůza. Posuďte bolest mou, neb jen ten, který stejného hoře zakusil, může to pocítiti.</p>
+
+			<p>Moje drahá Adela ležela mrtvá na nosidlech, její bledé rty zdály se šeptati, pomsti mne, drahý Alfonse. I pomstím, pomstím, drahá Adelo, neb taková nepravost nemůže bez trestu ostati.</p>
+
+			<p>Po unešení nechal ji Zdenko do jednoho pokoje zavříti, ubohá ale samým strachem do rána zemřela. I nemeškal padouch tento mrtvolu její mi odeslati, by se ještě více msta jeho naplnila. Nechal jsem ostatky mých drahých pochovati, několik pokojů vystavěti, a tak jsem žil v nejhlubším odstranění od světa jen s mou bolestí a očekával jsem příhodné chvíle, kde bych se na Zdenkovi náležitě pomstiti mohl. Tchán můj již před několika lety zemřel a já hrad jeho prodal, poněvadž jsem se obával Zdenkovo msty.</p>
+
+			<p>Již uplynulo asi rok od oné strašné udalosti, když jsem Zdenka, vraceje se s honby jen s jedným zbrojnošem, na planině potkal. Tu dodal vztek ramenu mému síly. I vytasím meč, ženu se s prudkostí proti němu a než se kdo nadál, strhla se mezi námi strašná půtka. I pravím k němu s výrazem největšího vzteku: Nyní přišel čas, bych ti vše odplatil, ty zhoubce štěstí mého. Dlouho nebylo k rozhodnutí, na kterou stranu se štěstí kloní. Posléze , jak se po mně strašlivě hnal, zasadil jsem mu do srdce smrtící ránu. Tu se hned černá krev z rány valila a skropila zelený pažit. A tak padouch tento mezi hrozným proklínáním duši svou černou vypustil. To uzřev zbrojnoš, ujížděl spěšně k hradu pána svého, nechtěje se do boje spustiti, an jsem samoten nebyl.</p>
+
+			<p><pb n="32"/> Já se navrátiv do hradu mého pln radosti, teď byla msta má naplněná, ale já nyní jen toužil po samotě, kde bych odstraněn od všeho jen své žalosti žíti mohl.</p>
+
+			<p>Ve dvou dnech jsem uvedl vše do pořádku, odkázav jakémusi vzdálenému příbuznému můj hrad se vším, což k němu patřilo. Rozžehnal jsem se s ostatkami drahými, vzav nějakou částku peněz, neřekl jsem žádnému nic, ubíral jsem se při východu slunce, což jsem skorem každodenně činíval, z hradu ven, aniž si toho kdo povšiml. Tak jsem se ubíral do vzdáleného světa. Šel jsem pořáde, až jsem přišel do této pustiny. Již zde přebývám čtyrycet let, za ten čas jsem nabyl přesvědčenosti, že vše ve světě marné jest, prosil jsem Boha o útěchu, a hle, bolest srdce mého se umírnila.</p>
+
+			<p>Tak hle, milý Ratibore, tak i rány srdce vašeho se zcelejí a vy budete v odevzdání do vůle Boží žíti. I já nabyl jsem této nebeské útěchy.</p>
+
+			<p>Tak mne začasté těšíval, pravě, že se ještě v žití mém můžu radosti dočekati a že snad ještě vše docela pro mne ztracené není.</p>
+
+			<p>A hle, již se jeho prorocká slova vyplnila. Tak jsme žili ještě tři roky pospolitě, můj drahý otec Alfons byl stále zdráv, vycházíval častěj do vůkolních vesnic, a neb obyvatelé přinášívali sami pro nás potravu.</p>
+
+			<p>Než jednou na jaře pravil ke mně ráno, když jsem z lůžka povstal. Milý Ratibore, já jsem měl dnes hrůznou noc, zdálo se mně, že jsem byl v mém hradu, viděl jsem mou drahou Adelu v rouše bílým, po jejím boku kráčely mé milé dítky celý krví skropeny.</p>
+
+			<p>Adela pravila laskavě ke mně: Drahý Alfonse, čas tvého vypovězenství již se dokonává, <pb n="33"/> což tobě přicházím oznámiti. Já oplýval nad těmi slovy radostí, chtíce ji obejmouti, a hle, stín její se rozplynul v mlhu a ona i s dítkami zmizela, a v skutku, když jsem procitl, cítil jsem na sobě nějakou neobyčejnou slabost, nechtíce vás buditi, snášel jsem silné mdloty až do dne. Buďte tedy tak dobrý, dojděte do vesnice pro duchovního, by mne na tak dalekou cestu pokrmem zaopatřil.</p>
+
+			<p>Já jsem se dal do hlasitého pláče, pravil jsem, že jej v takovém stavu nemohu samotného nechat, on ale mne těšil a pravil, já jsem jist, že to ještě nebude, bych jen vůli jeho vyplnil.</p>
+
+			<p>Já spěchal, co jsem jen mohl, an vesnice předc trochu vzdálená byla, a ještě ani hodina neuplynula , byl jsem tu zpět.</p>
+
+			<p>Když jsem vkročil s duchovním do světnice, stareček se z lehýnké dřímoty probudil.</p>
+
+			<p>I vyznal se v krátkosti, byl posilněn na tak dalekou cestu k věčnosti. Nebeská útěcha rozlila se po obličeji jeho, on dobrořečil Pánu za všechna mu na tomto světě prokázaná dobrodiní, za všechny radosti, též žalosti; po odchodu duchovního pravil ke mně, nu Ratibore! již přišel čas, že se spolu na věky rozloučit musíme, neplačte příliš pro mne, já již cítím, že se konec života mého blíží a s rozkoší hledím k věčnosti. Až zemřu, tělo mé pohřběte v malé zahrádce pod růžový keř, neb kde jsem takové nebeské útěchy po tak strašných bouřích života mého nabyl, tam chci také odpočívati. Po malé přestávce pravil ke mně hlasem slabým dále. Milý Ratibore, kdyby vám nebem usouzeno bylo a vy jste k vašemu statku přišel, nenechávejte toto místo pusté, usaďte sem <pb n="34"/> nějakou chudou rodinu. A ještě mám na vás nějakou žádost, vemte modlicí knihu a čtěte modlitby při umírajících, by se mně ten čas ukrátil, neb dychtím po jiné vlasti, v které má drahá Adela a mé dítky přebývají. Já mu za všechno děkoval, uchopil jsem se dle žádosti jeho knihy a bylo viděti na něm, jak vroucně se po tichu modlil.</p>
+
+			<p>Tak to trvalo as hodinu a zdálo se, jako by lehounce dřímal , pak otevřev ještě jedenkráte oči a pravil hlasem mdlým, již jdu! již jdu! drahá Adelo, s Bohem milý Ratibore, již přišel čas, že se musíme na věky rozloučit. V tom jej zarazil silný chrapot, on sobě z hluboka vzdechl a nebylo jej více. Já jej volal tím nejsladším jmenem, ale on mne neslyšel, uprchlá duše jeho ubírala se k věčnosti.</p>
+
+			<p>Já ostal v takovém stavu, který popsati není mi lze. Celou tuto noc probděl jsem u mrtvoly jeho. Teď jsem byl docela opuštěn. Ale modlil jsem se k Bohu, by mne jen dal vytrvalost v dobrém, modlil jsem se za duši Alfonzovo, a hle, cítil jsem, jak se pokoj a útěcha do duše mé vrací a slíbil jsem Bohu, že jestli by žádný z mých milých na živě nebyl, můj věk zde strávit . Druhý den ráno pochoval jsem pomocí jednoho chudého ze vsi mrtvolu do malé zahrádky, spořádal jsem si vše v mém obydlí.</p>
+
+			<p>Nyní jsem se opět prácí a modlitbou obíral, vůkolní obyvatelé mne za časté navštěvovali jako druhdy Alfonza, a žádný nepřicházíval s práznem. Já jsem se za ten čas mého přebývání zde naučil užitečnost bylin znáti , což mně v samotě mé velmi prospělo. Tak mne uplynuly od smrti Alfonzově čtyry roky. Mezi takovou rozprávkou jim uplynula půl noc. Jinoch <pb n="35"/> takovou změnou a trmáckami předešlého dne usnul brzy tvrdě, an zatím Ratibor přemejšlel, jak by to začíti měl, by opět k statku svému přijíti mohl. Když se objevil první ranní červánek, vstal Ratibor zlehýnka z lože, by tvrdě spícího syna neprobudil, a šel obstarávati své malé hospodářství.</p>
+
+			<p>Antonín se probudil, oblékl se spěšně a vyšel, by hledal otce svého. Tento jej vedl do malé zahrádky, kde byl krásný keř celý růžemi osypán zasazen, kde se společně za duši Alfonzovu pomodlili.</p>
+
+			<p>Teď se dělaly přípravy k nastávající cestě, neb chtěli jíti nejprve do oné vesnice, kde tyto nepraví svědkové bydleli. Ty chtěl Ratibor hnáti na přísahu, zdaž by zapírati chtěli, že o žádném podvodu nevědí, a pak právo a spravedlnost u ouřadu hledati. Chtěli jíti již na druhý den ráno, ale v noci počalo silné pršeti, tak že musili cestu svou až na ten čas, kdy by se povětří změnilo, odložiti. Ratibor odešel do blízké vesnice a odevzdal chatrč té nejchudší rodině se vším, jak byla.</p>
+
+			<p>O! jak mu ty ubozí lidé za všechno děkovali a Ratibor cítil při tom jakousi sladkou útěchu.</p>
+
+			<p>Po třech dnech se obloha vyjasnila a Antonín s Ratiborem nastoupili svou cestu do vesnice blíže dvora. Po mnohých obtížnostech tohoto dne a po náramném parnu přišli posléze do vesnice nemálo před západem slunce, šli zrovna do toho statku, v kterém byl Ratibor před pěti lety přes noc, žádali o nocleh, který jim obyvatelé tito rádi poskytli. Když se byli usadili, pravil Ratibor, buď Bohu díky, že jsme již jedenkráte v bezpečnosti, neb dostaneme <pb n="36"/> této noci, jak se mne zdá, silnou bouři, a v skutku bylo z okna viděti, jak se černá mračna vznášejí.</p>
+
+			<p>Hospodyně přinesla večeři na stůl, zvala pocestné, by s nimi také k stolu přisedli.</p>
+
+			<p>Tu pravil Ratibor k hospodáři: zdali se víte pamatovat, že jsem u vás také před pěti lety přenocoval, víte, jak ste mne vyprávěl mnohé události stranu tohoto dvora?</p>
+
+			<p>I vím již, odpověděl hospodář, ale málem bych vás byl nepoznal.</p>
+
+			<p>Zdali pak jste se o Ratiborovi co dozvěděl? Ještě nic, odpověděl sedlák. Jestli pak by jste jej poznal? Poznal bych jej, ale on již bude asi dávno pokrmem červů.</p>
+
+			<p>Prosím vás, nemohl byste mne říci, zdali ještě oba svědkové na živě jsou.</p>
+
+			<p>Jsou ještě na živě, ale nevede se oboum tůze dobře, a jak kmotr Šimon již mnohokráte pozdálí prohodil, že toho lituje, že se byl kdy podepsal, tak z toho nahlížím, že v tom nějaká šalba bude. Kdyby Ratibor ještě na živě byl, ten by tomu jistě na stopu přišel.</p>
+
+			<p>Což kdyby předc byl na živě, já vás ale ujišťuji, že je. Což tedy nejde hájiti práva svého? I to učiní a již stojí před vámi. Sedlák se na chvíli zarazil a hleděl naň s podivením. Vy že jste Ratibor? pravil po chvíli. Ano, jsem; trápení a nesnáze všeho druhu mne před časem sestárly a hlava má sešedivěla.</p>
+
+			<p>Sedlák na něj hleděl okem neodvratným a zvolal: v skutku jsou to tahy Ratiborovy, již vás poznávám, i pojďte na srdce věrného přítele, neb vám jsem měl také mnoho co děkovati. Teď bylo dotazování z obou stran a Ratibor vyjevil, co jen hlavně za dobré uznal <pb n="37"/> a představil jim syna svého Antonína. Co se takto ve světnici rozprávělo, bylo již z daleka slyšeti silné hřímání.</p>
+
+			<p>Již také přicházel čas, by se na odpočinutí odebrali. Ještě neleželi dlouho, když se silně na dvéře tlouklo, hrom vždy víc a více rachotil. Tu však sedlák rychle vyšel, by nahlédl, kdo se tak nezvedeně venku chová.</p>
+
+			<p>Byla to děvečka od kmotra Šimona s tím vzkázaním, že se onen z večera těžce rozstonal, že takové pomatené řeči mluví, kterým žádný nerozumí. I máte k němu pospíšit, že by vám ještě rád něco před svou smrtí svěřil.</p>
+
+			<p>Tu se hospodář spěšně oblékl a mezi silným deštěm a blýskáním spěchal k nemocnému kmotrovi, neb se mu zdála tato doba velmi důležitá. Když přišel do světnice, v které nemocný ležel, přehlédl spěšné celý bídný stav tohoto ubohého člověka a poznal okamžitě, že musí kmotr jeho něco zlého na svědomí míti, neb měl stále vdovu Ratiborovou a synáčka jejího na paměti. Prosil Kateřinu, by jej netrápila. Pryč s tímto šeredným podpisem, odhoďte peníze Radislavovi, bych je neviděl. O! já jsem netvora, kam jsem to přivedl! ó, já nešťastný člověk, kam jsem to přivedl, že jsem se nechal nalákat k zlému, o, jak bych nyní pokojně umíral, o! kýž je možná napravit mé provinění.</p>
+
+			<p>V tom se silně zablesklo a rána hromová udeřila blíže vsi. Šimon celý ustrašen chtěl se mocně vzchopiti s postele, ale taková slabost se jej zmocnila, že se ani hnouti nemohl; pravil hlasem zlíkavým, Bůh přichází, by mne v této hrůzné noci do muk věčných odsoudil, o, já nejsem hoden žádného smilování za moji nepravost.</p>
+
+			<p><pb n="38"/> Jděte pro Jakuba, by přišel ke mně a spatřil všechny hrůzy mé, by i v něm svědomí procitlo. Venku to stále bouřilo vždy více a více a Šimon byl přibývající bouří nepokojnější. O, jakou radostí bych napravil křivdu, kterou jsem ubohé Kateřině učinil. Bůh dost dlouho schovíval se mnou, hrozným hříšníkem, já jsem byl zisku žádostiv, nerozvážil jsem, jaké to pro mne hrozné následky budou, zaprodal jsem za mizerný zisk duši svou, nyní ale za to snáším muky pekelné. Sedlák jej tak chvíli poslouchal , pak přistoupil k posteli a pravil k nemocnému: utište se kmotře, vždyť ještě není všechno straceno; Bůh odpouští kajícím hříšníkům, když skroušeně hříchy své vyznávají a jich litují, vám může ještě odpuštěno býti, za to vám stojím.</p>
+
+			<p>Mezi jejich rozprávkou vkradl se Jakub celý ustrašen do světnice, viděl co se stalo, přistoupil k lůžku nemocného a tázal se mezi silným pláčem, co se vám, milý sousede, stalo? Co se i vám může stát, pravil Šimon, i vy jste v tom samém uložení jako já, optejte se svědomí vašeho a ono vám jistě odpoví, že jste se rovně jako já prohřešil proti rodině Ratiborově. Soud Boží mne již dostíhl, což i vy k očekávání máte, tedy i vy napravte a odvolejte, co jste provinil, učiňte i vy vyznání, zdaž se pokojného skonání nadíti chcete, neb nás stejná vina stíhá.</p>
+
+			<p>Ale jak to napravit, Kateřině se víc dvůr navrátit nemůže, Bůh ví, kam se ubohá poděla, zdali ještě na živě neb ne, o! sradostí bych učinil vyznání, že jsem se neprávě do spisu nepravého podepsal, ale tím již žádnému pomoci nemohu, o, já bídník, že jsem se nechal <pb n="39"/> nabatkat k takové nepravosti, teď nahlížím křivdu, kterou jsem ubohé vdově učinil. Zlíkavý pláč zarazil jeho řeč a on klesnul na židlici do kouta blíž postele.</p>
+
+			<p>O, já bídný hříšník, nejsem hoden slitování božího, já již vidím, jak se peklo přede mnou otvírá, vidím celé hejno ďáblů, jak po mne své drápy natahují, braňte mne, kmotře, což nevidíte plačící Kateřinu, jak mne zlořečí, odstraňte toho malého sirotka, ať ho nevidím, o, hrůzo! o, hrůzo! o, muky, které snáším. Volejte k Bohu a nezoufejte, onť jest milosrdný, on vám vše odpustí.</p>
+
+			<p>Já nejsem hoden k němu volati, neb jsem se těžce proti dobrotě jeho prohřešil, přestoupil jsem přikázaní jeho.</p>
+
+			<p>O, kdyby tu Kateřina byla, snad by měla předc outrpnost se mnou. To jest docela nemožné, ona již mnoho let hnije .</p>
+
+			<p>Tak vy to víte? tázal se Šimon spěšně. Odpověděl onen, ovšem že vím, ale utište se, kmotře, já vás ujišťuji jmenem Ratiborovým docela odpuštění vaší viny.</p>
+
+			<p>Jak! což víte o něm? skříkli oba.</p>
+
+			<p>Ovšem že vím, a jestli chcete, půjdu pro něho, neb jest v mém statku, ale jen učiňte věrně vyznání.</p>
+
+			<p>Šimon na něj nedůvěřlivě hleděl a pravil po chvíli: kmotře, vy mne šálíte , to není možná, Ratibor bude již dávno shnilý jako Kateřina.</p>
+
+			<p>Ne, nešálím vás, jestli jste žádostiv, ještě této noci vám jej přivedu. Šimon se trochu upokojil a prosil snažně kmotra, by jej přivedl, že mu mnoho ulehčí. Jakub stále seděl plačíce v koutě. Bouře ještě ustavičně trvala a při <pb n="40"/> každém udeření sebou Šimon silně trhl, blíže jeho postele stála plačící manželka a dítky, teď se ubohý drobet upokojil, oči jeho byly stále na dvéře upřené. Ještě ani půl hodiny neuplynulo , když se sedlák s Ratiborem navrátil.</p>
+
+			<p>Jak jej tito hříšníci uzřeli, zarazili se na chvíli, Jakub spěchal uvrhnouti se mu k nohoum a Šimon úpěl na loži svém. Ratibor již o všem spraven přislíbil jim odpuštění, když se všechno vyznají, an by právem zasloužili potrestáni býti, že je k úřadu neudá, by jen vše vyjevili, kdo je k tomu měl. Tu počal Jakub vypravovati.</p>
+
+			<p>Když byl váš dvůr zapálen a Kateřina jej opět vystavěla, přišel Radislav jednoho dne do vsi , šel k Šimonovi, u kterého jsem se nacházel, a pravil, by všechny ze světnice se odstranili, že má něco důležitého s námi vyjednávati.</p>
+
+			<p>To když se stalo, pravil hlasem tajenným, vy by jste mne mohli v něčem posloužit, já vás darmo žádat nebudu, nýbrž se vám za to hojně odměním, tu vypravoval z krátka, že mu chce Kateřina dvůr pronajmout , on ale že by jej rád od ní dostal, an mu bez toho již dávno patří a který jen Ratiborův otec ouskokem obdržel, a proto že jej nelze leč lstí spět obdržeti, ale zdaž by jste se mne do této smlouvy podepsali, což svědkami potvrzeno býti musí, dám vám, cožkoliv ode mne požádáte. Mně bylo s jakýmsi dluhem ouzko a já nevěděl, co činiti mám, dobrá odměna mne lákala, já hleděl na Šimona a onen na mne a nevěděli jsme oba, co činiti máme.</p>
+
+			<p>Radislav spozorovav naše rozpaky a pravil po chvíli: vy budete oba bez viny, Kateřina <pb n="41"/> podepíše tuto smlouvu svou vlastní rukou, a kdo vás bude vinit z nějaké nepravosti, já vím, Jakube , že potřebujete peníze, by jste dluh váš zapraviti mohl, tu se zbavíte jednoho břemena, a vy, Šimone , nemáte také mnoho nazbyt, učiňte mne to k vůli, vždy vám můžu ještě v mnohém nápomocen býti. Tak nás oba chlácholil a přemlouval, až jsme po mnohém vzdorování obá přivolili. Ale draze jsme museli těch několik slov zaplatit, já jsem si ovšem můj dluh z obdržených peněz zapravil, ale mnoho větší jsem na mou bídnou duši uvalil, posuďte, co jsem snášel od té doby, co se Kateřina stratila, žádný nevěděl kam, vás držel každý za mrtvého, od koho jsem měl někdy odpuštění obdržet. Šimon jen tiše úpěl na svém loži. Nyní prosili oba pro milosrdenství boží, že chtějí všechno před právem vyznat a odvolat, že se to jen z návodu a pro bídný zisk stalo, který draze svým svědomím zaplatit musili. Ratibor se chvíli rozmýšlel , ale jeho dobré srdce nedalo mu dlouho prodlévati a pravil hlasem polo přísným, vy by jste zasloužili oba velkého trestu, ale já vám všechno odpouštím s tím doložením, by jste u práva vše udali, jak se to v skutku stalo. Odpouštím vám, by vám i někdy Bůh odpustil. Zítra pošlu do zámku pro právního úředníka, an Šimon z lůžka povstati nemůže, outraty všechny já na sebe vezmu. Upokojte se Šimone, vždyť bude opět dobře a po věrném vyznání se svědomí vaše zase utiší jako tato bouře. Po odchodu Ratiborovu odstranil se i Jakub a Šimon odpuštěním Ratiborovým ujištěn usnul as na dvě hodiny přede dnem.</p>
+
+			<p><pb n="42"/> Druhý den ráno poslal Ratibor do zámku, by jeden úředník do vesnice přijel, že jest zde něco důležitého k vyjednávání.</p>
+
+			<p>Poslalo se pro Radislava a pro Hynka, který byl již několik let ženatý v jedné blízké vesnici. Oba se dostavěli bez prodlení.</p>
+
+			<p>Radislav se nenadál, že by Ratibor ještě na živě byl, on hleděl s úžasem na něho a tak byl zaražen, že ani slovo z úst vypraviti nemohl.</p>
+
+			<p>Celý ubledlý pravil po chvíli, což i mrtví vstávají z hrobu? Ratibore, či mne nějaký přelud mámí?</p>
+
+			<p>Nejsem mrtev, odpověděl Ratibor, ale přicházím, by jste mne nyní vydal počet z vašeho hanebného jednání a by jste mne to, oč jste mou ubohou manželku ošidil s takovým ouskokem, navrátil, mám tu tři svědky vaší nešlechetnosti. Zapírejte, zdali vám možná. Tomuto šlechetnému člověku mám co děkovat mé živobytí, bez jeho pomoci byly by již kosti mé spráchnivěly, kterého jste k mému zavraždění zjednal a který se jen proto k tomu sám hlásil, by život můj zachrániti mohl.</p>
+
+			<p>Nyní vystoupil Hynek a vyprávěl všechny události, jak již svrchu povědíno , pak vypravoval dále: Brzy po oné hrůzy plné noci jsem vystoupil ze služby, neb jsem v takovém domě, v kterém mne vše upevnilo na takové zločinství déle hleděti nemohl a Radislav mne nezdržoval, neb byl jedným dílem rád, že mu více na očích nebudu, vyplatil mne mou mzdu, chtěl mne i umluvené peníze dát, a já je ale nepřijmul, neb tato krvavá mzda by byla tak těžce na duši mé ležela, jako bych byl v skutku takový čin spáchal; já jsem chtěl mít svědomí <pb n="43"/> čisté. Od té doby, co jsem ze služby vystoupil, jsme se jen několikráte viděli a Radislav se po každé tak zarazil, jako když do něho hrom hodí, tu jsme se jeden druhému z daleka vyhybal.</p>
+
+			<p>Právní ouředník vyslechl Hynka pozorně a pravil k Radislavovi: Co vy tomu říkáte, jest tomu tak, neb ne? zapírání by vám k ničemu dobrému neposloužilo. On ale stál ještě co kamenná socha. Tu k němu promluvil Ratibor slovem tichým: Radislave, proč jste mne připravil takové hoře, vy jste mne připravil o statek, o dítky, o manželku, a ještě jste chtěl člověka uplatit, by mne o život připravil; hle, manželka má v cizině zemřela a ještě nebylo na tom dost, že jste sám takové nešlechetnosti páchal, pohleďte tamto na ty dva, které jste penězi a lichocením jejich svědomí porušil a jich o pokoj duše připravil; což jste nepoměl, že Bůh každý nešlechetný skutek časem vyjeví a jej hrozně potrestá, vejděte jednou do sebe a zachraňte duši vaši.</p>
+
+			<p>Svědkové byli vyslýcháni a vyznali všecko upřímně, tak že kdyby byl chtěl Radislav zapírati, bylo by mu bývalo zcela nemožné.</p>
+
+			<p>Tu stál ještě ošemetník ten lítostí a hanbou sklíčený, proud slzí valil se mu z očí a nemoha se déle zdržeti, vrhnul se Ratiborovi k nohám a prosil jej hlasem zlíkavým a třesoucím pro milost Boží za odpuštění a že mu dvůr se vším odevzdá a že mu ještě náhradou bude.</p>
+
+			<p>Ratibor touto pozdní lítostí Radislavovou až do dna duše pohnut, pravil k němu: zasloužil by jste přísného potrestání, ale já vás vyššímu právu neudám, aniž chci jaké náhrady na <pb n="44"/> vás, jen mně odevzdejte, co mně právem přináleží, a učiňte slib, že mne více pronásledovat nebudete. Odpouštím vám, by i mně Bůh někdy odpustil, všechno nepřátelstvo budiž na vždy mezi námi odstraněno, neb nechci vám to odplatit, co jste mne ublížil, aniž se na vás neb na rodině vaší mstíti, msta přináleží jen Bohu, vstaňte a odprošte i tyto tři svědky vaší nešlechetnosti.</p>
+
+			<p>Radislav ještě pořáde klečel zničen před Ratiborem, až jej onen ze země pozdvihl.</p>
+
+			<p>Musím se vám vyznati, pravil Radislav, že již byla tato nenávist proti rodině vaší hned v outlém věku dítěcím od otce mého do srdce vštípena a jež s věkem ve mne zrůstala, které jsem nemohl stůj co stůj odolati.</p>
+
+			<p>Hledaje příhodného času, až všechno do stodol sklidíš, umínil jsem dvůr zapáliti a sám jsem žížavý ohar pod střechu strčil, která se brzy prudkým větrem chytila, já nezapírám, že jsem tě o život připraviti chtěl, Hynek se sám k tomu nabídl, že tě zavraždí, ale díky nebi, že se to nestalo. Dvůr tvůj, milý Ratibore, jsem jen ouskokem na ubohé Kateřině vyšálil , tito dva muži pro tak poctivé naklonil jsem na svou stranu, zmámil jsem je sliby, bych jen svého hanebného cíle dosáhl, nepravý úpis byl vyhotoven, Jakub a Šimon podepsali se do něho.</p>
+
+			<p>Konečně jsem byl u cíle. Krásný dvůr byl můj, ale já jsem byl méně šťastný ; mé hospodářství se špatně dařilo, brzy mne obilí vymohlo neb náramným parnem vyhořelo, tu zase zrostlo na poli a nebo jej kroupy potloukly, tam <pb n="45"/> zas následoval silný pád dobytka a tak jedna škoda druhou stíhala, já provdal a ženil mé dítky, ale ani jedno z nich šťastné nebylo, a tak jsem přicházel čím dále tím více o můj vlastní statek a již dávno jsem, milý Ratibore, uznával tobě učiněné bezpráví, ale jak to napraviti, tebe jsem měl za mrtvého a Kateřina odešla, žádný nevěděl kam. Co jsem měl nyní dělati, ustavičný červ hryzl svědomí mé, často v tmavé noci vidíval jsem vaše podoby co stíny bloudící, tenkrát jsem býval poděšen, neb jsem viděl, jak mne, Ratibore, zlořečíš, a tak jsem neměl ve dne ani v noci žádného pokoje, žádného odpočinutí.</p>
+
+			<p>Posuďte tedy stav můj, když jsem spomenul, že mám tři svědky mé nešlechetnosti a mé vlastní syny. Myslíval jsem v dobách nočních, což kdyby v některém svědomí procítla a on mne před právem vyzradil, že musím zemříti rukou katovou. Před pěti měsíci okusil jsem nové hoře, syn můj nejstarší koupil tříletého koně, on ale nebyl jízdě uvyklý , splašil se a Vojtěch nemoha si ze třemenu pomoci a na koni se udržeti nemohl, tato netvora jej vlíkla za sebou přes kamení a padrtí a dříve, než mu někdo mezi polma ku pomoci přijíti mohl, vypustil duši. Posuďte bolest srdce mého, jsem předc otec, po ubohém Vojtěchovi ostala manželka s pěti dítkami. O, jak jsem bědoval a viděl jsem patrně, že Bůh všechny ty strašné rány na mne sesílá, by jen svědomí mé pohnuly, co jsem za dlouhý čas v srdci mém snášel, to popsati není mi lze. Tu jsem zřídka vycházel ze dvora, boje se, bych se jen se žádným z těch třech svědků mé hanebnosti nesetkal.</p>
+
+			<p><pb n="46"/> Když jsem do této světnice vstoupil, uzřel jsem tebe, Ratibore, a tyto tři muže , tak jsem se zarazil, že jsem ani slova z úst vypraviti nemohl.</p>
+
+			<p>Stud, bázeň a lítost střídaly se ve mně, zdálo se mi, že stojím na posledním soudu, před Bohem, kterému oučet z jednání mého skládati musím, a teď uznávám, že není lepší než dobře činiti. Nyní odprošoval Ratibora a svědky a nové upsání bylo vyhotoveno, že mu dvůr opět nazpět odevzdává, potvrzeno vše a podepsáno třemi svědky, kteří se nyní velkou radostí podepsali.</p>
+
+			<p>Ale Radislav od toho dne tak chřadl a než tři měsíce uplynuly , nebylo jej více.</p>
+
+			<p>Vezmeme si z bídníka toho příklad, kam jej msta a dychtivost po cizím jmění přivedla, a co z toho konečně měl? trapné noci a nepokojné svědomí. Chraňme se, jak nám možná bude, takovým a těm podobným nešlechetnostem, byť by nám to sebe větší zisk přinášelo, konečně se předc trestu obávat musíme .</p>
+
+			<p>Po několika dnech se Ratibor se svým synem odstěhoval do dvora, který mu Radislav vyprázdnil, ale nalezl tam takovou spoustu, že se tomu podivil; dobytek byl velmi špatný a vše v hrozném nepořádku, tak že se hned peníze vydlužiti musil, by to opět v dobrý stav uvedl. Po několika dnech zemřel také Šimon, jsa smířen s Bohem a svým svědomím.</p>
+
+			<p>Hynka vzal Ratibor do dvora, by se tomu dobrému člověku odměnil, že mu před lety život <pb n="47"/> zachránil. Hynkova manželka musila prozatím hospodářství obstarávat, až by se Antonín oženil. Ratibor by mu byl rád nějakou hodnou průvodkyni opatřil, ale Antonín vyjevil otci, že jej srdce táhne do Prahy k dceři mistra svého, kterou doufá, že obdrží.</p>
+
+			<p>Marie byla dívka hezká a ctnostná a otec měl pro ni také krásné věno, tyto dvě srdce zdály již od dětinství pro sebe určené býti.</p>
+
+			<p>Marie ovšem nerozuměla venkovskému hospodářství, neb byla stále v Praze a ještě až posuď z města nepřišla. Ratibor počal dělat stranu toho jakési námitky , ale Antonín jej žádal snažně, by je od sebe nerozlučoval a časem že se všechno Marie naučí .</p>
+
+			<p>Konečné přivolil Ratibor a jel s Antonínem pro nevěstu. Mistr potěšen nad nenadálou změnou o Antonínovo osudu a nad žádostí jeho přivolil k jich sňatku velmi rád. Teď bylo vypravování a dotazování .</p>
+
+			<p>Marie se Ratiborovi velmi líbila a několik neděl uplynulo, byla chotí Antonínovou.</p>
+
+			<p>Za rok by byl Marii žádný nepoznal, neb se naučila od Hynkovo manželky tak dobře venkovskému hospodářství rozuměti, jako by v něm od dětinství vychována byla.</p>
+
+			<p>Blízští obyvatelé chválili to nové manželstvo skrze jich dobré srdce, neb žádný chudý nešel odtamtuď s prázdnem, a tak bylo v krátkém čase vidět požehnání na polích i ve dvoře. Hynek dohlížel k hospodářství a manželka jeho byla Marii nápomocna, a tak tyto dvě šťastné rodiny žily pospolitě v svornosti.</p>
+
+			<p><pb n="48"/> Ratibor teď požíval po takových bouřích života sladkého pokoje, byl stále zdráv a těšil se ještě několik let s dítkami syna svého, až konečně ve vysokém stáří ubíral se pokojně a utěšen do sídel nebeských, oželen od svých dobrých dítek.</p>
+
+			<p>Tak jen ctností a nábožností můžeme se nadíti dobrého skonání, an zatím nešlechetník svým vlastním svědomím mrskán poslední hodinu si strpčuje.</p>
+
+			<p>Antonín a Marie dosáhli vysokého stáří, jsouce oplakáni od svých dobrých dítek a od všech nuzných, též sousedů celého okolí.</p>
+
+		</div>
+	</body>
+</text>
+</TEI>

@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0001" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Bitva u Nýrska</title>
+			<title xml:lang="en">The battle at Nýrsko</title>
+			<author>Formánek-Činoveský, Jan (1809-1878)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">26395</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="https://play.google.com/books/reader?id=molHAQAAMAAJ&amp;hl=cs&amp;pg=GBS.PP1"></ref>
+				<publisher>Google Books</publisher>
+				<idno type=""></idno>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Bitva u Nýrska: povídka z časů kralování Jiřího Poděbradského</title>
+						<publisher>Kat. Jeřábková</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1858</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="M"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T1"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<body>
+
+		<div>
+
+			<p><pb n="1"/> <hi rend="formated">Právo k překládání do cizích jazyků si vyhrazujeme.</hi></p>
+
+			<p><hi rend="formated"> <pb n="2"/> BIBLIOTHEKA ČESKÝCH PŮVODNÍCH ROMÁNŮ historických i novověkých.</hi></p>
+
+			<p><hi rend="formated">Ročník 4. – Svazek 7. </hi></p>
+
+			<p><hi rend="formated">BITVA U NÝRSKA.</hi></p>
+
+			<p><hi rend="formated">V Praze 1858.</hi></p>
+
+			<p><hi rend="formated">Tisk a sklad Kat. Jeřábkové.</hi></p>
+
+			<p><hi rend="formated"> <pb n="3"/> Bitva u Nýrska.</hi></p>
+
+			<p><hi rend="formated">Povídka z časů kralování Jiřího Poděbradského.</hi></p>
+
+			<p><hi rend="formated">Od J. F. Činoveského.</hi></p>
+
+			<p><hi rend="formated">V Praze 1858.</hi></p>
+
+			<p><hi rend="formated">Tisk a sklad Kat. Jeřábkové.</hi></p>
+
+			<p><hi rend="formated"> <pb n="4"/> </hi></p>
+
+			<p><hi rend="formated"> <pb n="5"/> Klatovským měšťanům, svým milým krajanům, obětuje spisovatel.</hi></p>
+
+			<p><pb n="6"/></p>
+
+			<p><pb n="7"/></p>
+
+		</div>
+
+		<div>
+
+			<head>1.</head>
+
+			<p>Bylo krásné příjemné jitro měsíce července roku 1468, z jakéhož se obyvatelé oudolí Ouhlavského často těšívají; paprskové sluneční zaháněli právě poslední chmury nočního deště za hory šumavské a zhlíželi se v tisícerých kapkách dešťových po stromech a květinkách visících. Pole, luka a lesy vydychovaly ze sebe líbeznou vůni, jakáž po dešti celou přírodu tak líbezně provívá, tělo naše sílí a ducha zotavuje. Obloha nebeská byla čistá a jasnomodrá, den parný slibujíc. Líbezné zpěvy ptactva vítaly nový den. A zajisté jest oudolí Ouhlavské rozkošné a malebné!</p>
+
+			<p>Na jihozápadní straně, asi čtvrt hodiny <pb n="8"/> cesty od Klatov, vypíná se neveliký osamělý, jedlovým a smrkovým lesem pokrytý vršek, jemuž „Hůrka“ říkají.</p>
+
+			<p>Za nejprvnějších dob měli zde pohanští obyvatelé modlitebnici, modle „Klivině“ zasvěcenou, kterážto ctitelům svým budoucí věci věštila, až ji pak později kněz jeden zaklel a zlého ducha z ní vymítl.</p>
+
+			<p>Nyní stojí zde malý sice, ale ozdobný kostelíček sv. Anny. Od kostela toho se rozkládá ctiteli přírodní krásy rozkošná vyhlídka do údolí od jihu k severu se táhnoucího.</p>
+
+			<p>Řeka Ouhlava, počátek svůj nedaleko Dešenického jezera beroucí, vine se co stříbrný pás tímto oudolím od jihu k severu, na jejíchžto břehách mlýn za mlýnem proudy její k poddanosti a k službě nutí; ourodná pole, zelené nivy, strakaté louky, mnohými dvory, vesnicemi a městečky protkané, dodávají krajině malebné rozmanitosti.</p>
+
+			<p>V pravo a v levo se rozkládají pahorky, buďto příjemným zelením, neb tmavými lesy pokryté, jež rozkošná a úrodná oudolí tvoříce, <pb n="9"/> vždy výše a výše vystupují, až pak se k jihu s velikány šumavskými spojují, a tu utkví oko na tmavém, hustými pralesy pokrytém obzoru pravěké Šumavy, která co přirozená hráz vlast naši od severu k jihu lemuje.</p>
+
+			<p>K východu se rozkládá po malém návrší oupravné město Klatovy, již v pohanském věku Klatovkou založené.</p>
+
+			<p>V tom čase, o kterémž mluvíme, to zde však zcela jináče vyhlíželo.</p>
+
+			<p>Pralesy šumavské, nejsouce rukou lidskou tak zhusta pleněny, ještě daleko do země zasahovaly a mnohé nivy, nyní rukou lidskou pilně vzdělávané, pokrývaly, tak že tam ještě tmavé lesy stály, v nichž se množství divoké zvěře zdržovalo a svobodně prohánělo.</p>
+
+			<p>Ouhlava svobodná tvořila mnohé bařiny a zátoky, v nichž sobě divoké ptactvo libovalo. I město mělo docela jiné tvářnosti.</p>
+
+			<p>Obyvatelé klatovští, jsouce blíže hranic, podléhali začasto všelikým návalům nepřátelským a loupeživým rotám, i dbali záhy o to, aby město své pevnými hradbami dle tehdejšího <pb n="10"/> obyčeje obehnali, za nimiž by v čas nebezpečenství proti přesile ochrany nacházeli, což se nezřídka stávalo.</p>
+
+			<p>Tak spatřujeme nyní to město trojí zdí a dvanácti dosti pevnými baštami a širokými příkopy obehnané, tři brány vedou na rozličné strany k jihu, k severu a k západu, krom těchto jsou ještě dvě malé branky, pro tajné výpady ustanovené. Domy jsou naskrze z kamene vybudovány a taškami kryty, tak že za zlatých časů Karlových město to „Červený Hrádek“ zváno bylo, poněvadž se střechy již z daleka červenaly.</p>
+
+			<p>Hledíce bezpečnosti, nezanedbávali také Klatovští v čas pokoje řemesel, průmyslu a obchodu.</p>
+
+			<p>Za časů Karlových vedlo město znamenitý obchod v obilí a ve chmeli se sousedními Bavory; a byl chmel klatovský velmi dobrý a nestál daleko za žateckým. Blíže samého města se pěstoval chmel, kdež se nyní zahrady rozkládají, jimž dosaváde „v Chmelnici“ říkají. Klatovští dbali také horlivě o dobrou pověst <pb n="11"/> chmele svého, protož jej vždy při prodeji zvláštní pečetí znamenali, kterážto pečeť dosaváde u městské rady se chová.</p>
+
+			<p>V ten den bylo v okolí města velmi živo; na polích vlálo červencovým sluncem dozrávající obilí, jako by hospodáře ke žněm vyzývalo, a vskutku bylo sem a tam na přívrší viděti lidí, kteří ostrými srpy požehnané obilí k zemi kladli, vesele prozpěvujíce.</p>
+
+			<p>V městě však bylo před polednem velmi živo. Zdálo se, jako by pod vládou statného krále Jiřího Poděbradského blahé doby Karlovy do Čech se vraceti chtěly; obchod, dlouhými válkami a domácími nepokoji skleslý, nabýval přízní a moudrými zákony královými opět živosti.</p>
+
+			<p>Celá společnost bavorských kupců přijela do Klatov, aby tam potřebného obilí a chmele nakoupila. Že však tenkráte opět válečné bouře se připravovaly, nepustili Klatovští cizích těch kupců s vozy do města; obávajíce se nějakého nebezpečí, obsadili brány a kupčili <pb n="12"/> s cizinci na předměstí špitálském, nyní říšském.</p>
+
+			<p>Tenkráte ale byla opatrnost jejich marná; neboť bavorští kupci, opatřivše sobě, čehož žádali, chystali se k poledni k odchodu a brzy jich spatříme řadou vrzajících vozů a hulákajících čeledínů s četnou družinou po cestě k Šumavě vedoucí pokojně k domovu se ubírati.</p>
+
+			<p>Po odjezdu cizích kupců opět obyčejný klid do města se navrátil. Kdo nemusel ven, zůstal doma, skrývaje se před velkým horkem, neboť zajisté velmi parný den byl, a mnohý po tak dlouhém smlouvání a sem a tam běhání odpočinku hledal.</p>
+
+			<p>V prostranné komnatě seděl primator města Klatov v křesle s vysokým opěradlem, požívaje dle svého obyčeje odpoledního spánku.</p>
+
+			<p>Byla to postava šlechetná muže obstárlého, jakouž tak rádi vídáme a která nás mimovolně jakousi úctou a náklonností naplňuje; obličej, ač věkem vráskovitý, jevil červenou svou barvou zdraví a vyzrazoval ducha pevného, jenž již mnohé návaly příkrého osudu překonal. <pb n="13"/> Skráně pokrývaly zřídlé šediny, dle tehdejšího obyčeje k zadu sčesané, jež červená domácí čepička kryla. Šat byl zcela černý a přilehal těsně k plnému, silnému, avšak nepříliš masitému tělu.</p>
+
+			<p>Na druhé straně blíže okna seděla dívka, kteráž svou vnadnou sličností na první pohled každého k sobě vábila.</p>
+
+			<p>Ji zevrubně popisovati, byl by pokus marný; neboť dívky podobné leposti popisovati nesnadná věc jest; člověk musí takovou krásu často a mnohokráte pozorovati, nežli pravý úsudek o ní pronésti může.</p>
+
+			<p>Řekneme tedy, že byla dívka prostřední výšky a souměrného zrostu, vlasů tmavokaštanových a očí modrých, z nichž se spanilá dobromyslnost a čilá mysl jevila; polootevřenými růžovými rty prohlížely dvě řady malounkých bílých zoubků, a kdykoliv se usmála – což mimochodem řečeno z přirozené dobromyslnosti velmi zhusta se stávalo – utvořily se v tvářinkách jejích malé půvabné dolíčky a zdálo se, jako by z nich bůžek milosti <pb n="14"/> svou zbraní hroziI. Doložíme ještě, že outlé tělo její řásný šat tmavozelené barvy odíval a malé nožky v pěkných vyšívaných trepkách s vysokými podpatky vězely.</p>
+
+			<p>Milostná tato dívka seděla u malého stolku, jakousi ženskou prací zaměstnána, která jí však tak příliš od ruky nešla; zdála se býti roztržitá a jakousi myšlénkou dojatá, neboť často v práci ustála a pozdvihnouc obličej do jakéhosi blouznivého přemýšlení se zabrala.</p>
+
+			<p>Otevřenými okny polo zacloněnými přinášel lehký větýrek vedro červencové a jasné paprsky sluneční, pronikající tenké záclony, padaly temně na pěkného černého psa, jenž na podlaze leže pohodlně se vyhříval, chvilkami po mouchách spánek jeho rušících lapaje.</p>
+
+			<p>Byl to obraz klidné domácnosti , z jakéž se vždy těšíváme a jakáž nás vždy tak mocně dojímá, kdykoliv se jí zoučastniti můžeme.</p>
+
+			<p>Nábytek ve světnici byl naskrz z tvrdého dříví dle ozdobných pravidel slohu gothického velmi uměle vyřezaného a sem i tam lesklým cínem řemeslně vykládaného.</p>
+
+			<p><pb n="15"/> V jednom koutku však stál stoleček malý, nad jiné skvostně zdobený, na ploše bylo viděti šachovnici, bíle a červeně vykládanou, kteráž toho času v žádném domě nechyběla; neboť byli Klatovští výborní hráči v šachy a hru tuto nad jiné sobě libovali.</p>
+
+			<p>Byla však také ještě jiná příčina toho, proč tuto hru tak ctili. O tom se následovně vypravuje.</p>
+
+			<p>Stalo se totiž jednoho času, že kníže český Vladislav, přijda do Klatov, s tehdejším primatorem třikráte o žlutý peníz zahrál a vždy prohrál. Na památku toho dal prý Klatovským šachovnici do městského erbu, jakouž skutečně až posud mají.</p>
+
+			<p>Ticho v komnatě panující se přerušilo. Pes vyzdvihna hlavu, ke dveřím hleděl a ohonem o podlahu klepal, jako by nějakého známého příchozího čenichal, a vskutku hned na to se ozývaly kroky na síni a dvéře se polehounku otvíraly, do nichž jinoch švarný vstoupil, zvědavě se po komnatě ohlížeje.</p>
+
+			<p>Celé počínání jeho vyzrazovalo, že jest <pb n="16"/> pořádku domácího úplně povědom a že ví, jak sobě v tento čas pan primator hovívá; přistoupiv po prstech k dívce, něco jí do ucha pošeptal, načež tato se usmívajíc prstem mu hrozila a na posud spícího ukazovala.</p>
+
+			<p>Pes svého pohodlí opustil a lichotě se k jinochu, vítati jej se zdál.</p>
+
+			<p>Ačkoliv toto vše v největší tichosti se dělo, předc šumot a dílem také, že obyčejný čas spánku uplynul, primatora z lehkého spaní probudil.</p>
+
+			<p>„Dobré jitro! drahý strýče!“ žertoval jinoch. „Copak se tak časně ze spánku probíráte?“</p>
+
+			<p>Primator, pošoupna čepičku s čela, zcela ze spaní se probral.</p>
+
+			<p>„Není divu, že jsem tak dlouho spal,“ pravil, „a byl bych rád ještě déle spánku požíval, neboť jsem měl velmi podivný sen, jehož konce bych se byl rád dočkal.“</p>
+
+			<p>„Aj, to nám vypravuj, milý otče! ten podivný sen,“ zazněl hlas dívčin nad míru příjemný. <pb n="17"/> „Říkávají, co se člověku k ránu neb odpoledne zdá, že se to vyjeví.“</p>
+
+			<p>„Zdálo se mi o našem milostivém králi,“ vypravoval primator, pozdvihna čepičku na znamení úcty ku králi. „Byl jsem u něho v Praze, a však to v těch královských komnatách docela jináče vyhlíželo, než toho času, když jsem tam byl při nastoupení trůnu jeho, abych mu ve jmenu města našeho holdoval. Bylo to tenkráte v Králově dvoře, na rozhraní Starého i Nového Města pražského, nebo pan Jiří oblíbil si raději chudé, nepatrné sídlo v středu měst svých, než pyšnou výšku nádherného hradu, by bydlel v středu, blíže u srdce svého národa. Tenkráte však již větší panovala skvostnost v šedých síních dvoru královského. V holdovní síni jsem se ve snu opět octnul. Král sám byl opět tak přívětivý a milostivý, ale lidé okolo něho byli tak podivní, že jsem se toho zhrozil, a síň, ve které jsme byli, byla tak prostranná a děsná, až člověku úzko bylo. Z jednoho konce vykukovala jakási děsná zpustlá hlava, která po králi neustále ohnivé zraky <pb n="18"/> vysílala , jako by mu ublížiti chtěla. Já jsem se pořád před ní stavěl, aby ji král nespatřil. V tom se počalo všecko hemžiti, a tak to dohromady splývalo, že nebylo možno nic rozeznati, leč krále, který pevně a upřeně do té smíšeniny hleděl. Najednou pohledl ke mně a přívětivě mi kývaje ruku mi podával. V tom jsem se probudil.“</p>
+
+			<p>„To jest ovšem podivný sen,“ pravil po chvíli jinoch, „avšak se mu zcela nedivím. Nač prý člověk ve dne myslí, o tom v noci snívá, ačkoliv obyčejně docela v jiné podobě. Časy jsou povážlivé, slyšíme to a ono, a že jste o všelikých pletkách slyšel, které se proti králi našemu strojí, máte to v hlavě a tak sen ten také dle toho byl.“</p>
+
+			<p>„Sny přichází od Boha!“ odpověděl primator vážně. „Dejž Bůh, aby nás nic zlého nepotkalo! Časy jsou v pravdě povážlivé! Kdož ví, co nám z toho slavného sněmu Norimberského pojde, kdež legat papežský tak úsilně kříž proti nám kázal.“</p>
+
+			<p>„Vždyť víme, jak to vypadlo,“ pravil jinoch, <pb n="19"/> „a nemáme se čeho báti. Říšští páni se vyjádřili proti tomu, pročež také nic nepodniknou.“</p>
+
+			<p>„Ale ten císař Fridrich,“ rozvažoval primator, „ten jest proti králi s Římem ve spolku a zajisté nějaké pletky upřede. Což nevíš, že dal ve svých zemích kříž proti nám kázati?“</p>
+
+			<p>„Avšak máme dobré meče a chrabré srdce,“ odpověděl jinoch lehce. „Ať přijdou, ukážeme jim cestu, že se rychleji vyklidí, než přišli. Zahrajeme si raději v šachy, abychom marné vrtochy vyhostili!“ doložil usmívaje se.</p>
+
+			<p>Bylo to vybídnutí, jakéž primator nikdy neodepřel, kdykoli se od někoho stalo. Byl hráč výborný a hru tu miloval.</p>
+
+			<p>Dívka pohledla vděčně na jinocha, jako by mu za to děkovala, že starosti otcovy rozehnati se snaží, a přiskočivši, postavila ochotně stolek se šachovnicí před otce a brzy na to zabrali se oba do oblíbené hry.</p>
+
+			<p>Opět nastalo v komnatě ticho.</p>
+
+			<p>I my buďme hře této povděčni, neboť se <pb n="20"/> nám tu dává příležitost s přítomnými osobami se trochu seznámiti.</p>
+
+			<p>Jan Vorel, otec našeho primatora, byl v městě Klatovech muž na slovo vzatý a počítali jej lidé mezi nejbohatší měšťany, což i také skutečně byl. Jsa horlivý kališník držel se přísně artikulů pražských, a kde se mu příležitost nahodila, dbal horlivě o přísné jich zachování.</p>
+
+			<p>Dle obyčeje tehdejšího čítal pilně v písmě svatém a v jiných spisech náboženských a brával často mnohé doslovně, co jen obrazně naznačeno bylo. Z toho pošlo, že ve svém jednání velmi přísný, ba i někdy zatvrzelý býval, mnohé radosti dosti nevinné za osidla ďáblova považoval a každé náruživé hnutí mysli potlačoval.</p>
+
+			<p>Ačkoliv ve své spravedlnosti nikomu neubližoval a chudým dosti mnoho dobrodiní prokazoval, měl předce málo lidí k sobě nakloněných, každý se mu raději pro jeho přísnost vyhýbal a jej mravokárcem nazýval.</p>
+
+			<p>Žena jeho byla opak manžela svého, byla <pb n="21"/> též nábožná, avšak veselá, jemného srdce a citlivé mysli. Vřelé city pro všecko dobré naplňovaly srdce její; pro zachování domácího pokoje musela však mnohé tajiti před manželem, jehož velice si vážila, znajíc lépe nežli každý jiný šlechetnost jeho.</p>
+
+			<p>Jediný syn těchto manželů byl Ladislav, náš primator, jenž ku podivu přísnou neoblomnou opravdivost otce svého a jemné srdce matčino spojoval.</p>
+
+			<p>Že takoví rodičové jediného synáčka svého nad míru pečlivě vychovali, každý může si pomysliti. On pak splácel péči tuto rodičům svým neobmezenou oddaností a láskou.</p>
+
+			<p>Připomenouti lze, že měli ještě jednu mladší dceru, kteráž tělesným neduhem sklíčená z obzvláštní lásky a péče matky své se těšila.</p>
+
+			<p>Když Ladislav dorostl, byl do Prahy poslán, kdež se nejen liternímu umění, ale i rytířským věcem oddal. Po nějakém čase navrátil se opět do otčiny, aby se též v domácích pracích zasvětil a co hodný nástupce <pb n="22"/> někdy znamenitý statek po otci přejmouti mohl.</p>
+
+			<p>Přistárlý již otec domnívaje se, že štěstí synovo dovrší, když mu dle náhledu svého dobrou choť vyhledá, ustanovil mu jednu dívku svého s ním rovně smýšlejícího souseda, a spoléhaje se na poslušnost synovu, oznámil mu úmysl svůj.</p>
+
+			<p>Tu však nalezl neočekávaný odpor. Ladislav již miloval, horoucně miloval dívku ctnostnou a krásnou, sestru nerozdílného přítele svého Zdaslava. Jí se věnoval první láskou svou a uzavřel u sebe, že jenom ji za choť svou pojme; čekal pouze příhodného času, aby otci svému úmysl svůj vyjevil.</p>
+
+			<p>Jako blesk zdrtilo jej zvěstování otcovo, že ten již pro něho vyvolil a že sousedu slovo dal. Nadarmo předstíral syn, že ji nemiluje. Slovo dané bylo Vorlovi svaté, syn nemohl od něho nic jiného nežli odložení té věci na delší čas vymoci.</p>
+
+			<p>Událost tato působila na Lidmilu, milenku Ladislavovu, tak mocně, že navzdor přísahám <pb n="23"/> a slibům svého milence od toho času chřadla, až v květu mladosti v studený hrob sklesla.</p>
+
+			<p>Zdaslav byl jedinou podporou Ladislavovou, bez něho by byl tento v šílenost upadl. U hrobu své milenky přisahali sobě oba přátelé věčné a věrné přátelství, načež hned Ladislav do těžké nemoci upadl.</p>
+
+			<p>Starý otec litoval nyní přenáhleného kroku svého, ale blouznivé zásady náboženské mu nedovolovaly slova svého zrušiti, i kdyby byl tím syna svého vykoupil, považovalť to vše za řízení božské.</p>
+
+			<p>Neskonalá láska matčina a péče sestry Lidmily vytrhly Ladislava z jícnu smrti, ale v srdci jeho bylo prázdno, jediný bolný cit nevyplněné touhy svíral ducha druhdy jarého. I vyžádal si od otce nyní povolnějšího dovolení, aby se mohl na nějaký čas do světa podívati, po svém návratu že mu po vůli bude.</p>
+
+			<p>Odebral se především do Prahy.</p>
+
+			<p>Téhož času zuřila za panování krále Albrechta turecká válka. Rytíř Jiskra sbíral <pb n="24"/> branný lid. To bylo Ladislavovi vítáno; připojil se k zástupu tomu a táhl do Uher, chtěje si tam hrob vyhledati.</p>
+
+			<p>Vyznamenal se svou chladnou bojovností tak, že brzy pozornost věhlasného vůdce na sebe obrátil. Jiskra, považuje za udatnost, co pouze chladnou zoufalostí bylo, vzal Ladislava ku své osobě a mnohé důležité věci válečné mu svěřil, kteréž Ladislav vždy ku spokojenosti příznivce svého provedl.</p>
+
+			<p>Sláva Ladislavova se donesla potloukajícími vojíny až do otčiny jeho, tak že když se po několika letech domů navrátil, ode všech měšťanů klatovských s velkou úctou a vážností přivítán byl.</p>
+
+			<p>Stařičký otec dočkal se ještě té radosti, že slovo jeho splněno jest, a nedlouho na to umřel; manželka jej v krátkém čase následovala. Chorou sestru Lidmilu vzal Ladislav k sobě a bratrsky o ni pečoval.</p>
+
+			<p>Manželka Ladislavova byla dobromyslná žena a znajíc všecky okolnosti manžela svého, velmi šetrně se k němu chovala, tak že sobě, <pb n="25"/> když ne lásky, aspoň vážnosti jeho získala. Ladislav, znaje též povinnosti své manželské, měl se k ní vlídně a byl jí za její shovívavost vděčen.</p>
+
+			<p>Po dvou letech mu porodila dceru, již Ladislav na upamatování lásky své Lidmilou nazval.</p>
+
+			<p>Nový závazek tento se zdál, jako by byl v srdci manžela lásku opravdivou k choti své vzbudil, avšak ubohá se dlouho z toho netěšila, v krátkém čase zemřela.</p>
+
+			<p>Ladislav ji srdečně oplakal, avšak nyní celou lásku svou na jediné dítě přenesl a ji co skvostnou a drahou květinu pěstoval, v čemž mu sestra jeho upřímně napomáhala.</p>
+
+			<p>Svou snášelivostí, přímostí a zkušeností získal sobě vážnosti a lásky celého měšťanstva, tak že mnozí v domácích záležitostech svých jej nejen o radu žádali, ale také návrhy jeho rádi plnili.</p>
+
+			<p>Tím se stalo, že brzy do městské rady povolán a v krátce na to, když primator zemřel, na místo jeho zvolen jest, kterýžto ouřad <pb n="26"/> k nemalé pochvale a spokojenosti měšťanů v bouřlivých časech za nedospělosti krále Ladislava a pak později za kralování Jiřího Poděbradského věrně a spravedlivě zastával.</p>
+
+			<p>Věrný přítel Ladislavův Zdaslav se také k nemalé bolesti jeho s tohoto světa odebral a Ladislav mu na smrtelném loži rukou dáním slíbil, že se bude o jediného syna jeho, osiřelého Hynka, otcovsky starati. Aby slovu svému lépe dostáti mohl, pojal jej co pachole desítileté do domu svého a otcovsky jej co posvátné dědictví po milovaném příteli svém vychovával.</p>
+
+			<p>Lidmila, tenkráte šest let stará, projevovala již záhy budoucí krásu svou. Obě dítky činily sestárlému Ladislavovi velké potěšení.</p>
+
+			<p>Hynek přilnul v krátkém čase k Lidmile, již co sestru svou považovati přivykl, i ona se k němu skláněla, tak že se otec často obíral myšlénkou, jak by byl blažen, kdyby pevnější svazky oba tyto miláčky k sobě vázaly.</p>
+
+			<p>Tato obapolná náklonost mezi Hynkem a Lidmilou se nezmenšovala, když i k dospělejšímu <pb n="27"/> věku dorůstali, ano zdálo se, jako by více důvěrnosti nabývala.</p>
+
+			<p>Ladislav, věda z bolestné zkušenosti, co z přenáhleného kroku pojíti může, ponechal všecko osudu, ačkoliv by byl rád něčím k uskutečnění svého žádoucího přání napomáhal.</p>
+
+			<p>Tak se blížily obě tyto osoby k dospělejšímu věku. Hynek byl příjemné postavy, ze všech oudů jeho pučela bujará síla mladistvá, srdce jeho čisté neznalo klamu ani podvodu, mravů byl neouhoných a ku každému se měl vlídně a přívětivě, pročež jej také všude rádi měli.</p>
+
+			<p>V takovém poměru nacházíme ty tři osoby v nadjmenované komnatě seděti.</p>
+
+			<p><pb n="28"/></p>
+
+		</div>
+
+		<div>
+
+			<head>2.</head>
+
+			<p>Hra v šachy ještě trvala, bylo ale viděti, že se již ku konci schyluje; několik sedláků, běhounů a koníčků, ze slonové kosti ozdobně a mistrně vysoustružených, leželo porůznu co obět nehod válečných. Hynek, ač se byl statečně bránil, byl v patrných nesnázích; primator, výborný hráč, svíral krále jeho nemilosrdně.</p>
+
+			<p>Lidmila přihlížela s oučastenstvím ke hře, v níž se jako mnohé jiné dívky a paničky klatovské dobře znala, a jak to při hře bývá, že nestranný pozorovatel vždy více nežli hráči sami pozoruje, často jí to škublo, kdykoliv některý nedobře táhl, což se velmi často Hynkovi stávalo. Pan Ladislav však pozorně a <pb n="29"/> opatrně každého omylu soka svého k svému prospěchu používal.</p>
+
+			<p>„Královně se hrozí!“ upozornil Hynek.</p>
+
+			<p>„Aj! aj! dej pozor, Hynku!“ pravila Lidmila usmívajíc se. „Tys k paním nešetrný, ať nedojdeš zaslouženého trestu.“</p>
+
+			<p>A v skutku trest šel v zápětí.</p>
+
+			<p>„Šach králi i královně!" zvolal primator se smíchem.</p>
+
+			<p>S úžasem na to hleděl Hynek, koníček držel krále i královnu jeho v šachu; nebylo pomoci, ještě jeden tah s královnou se strany primatorovy a Hynkův král byl zatažen.</p>
+
+			<p>„Zdá se mi, milý strýče! že byste byl knížete Vladislava o mnohem více žluťáků připravil, nežli tehdejší primator učinil!“ pravil Hynek skládaje opatrně šachovní figury do zvláštní skřínky. „Nevím, dočkám-li se toho, abych jednou na vás vyhrál. Pan Ambrož jest zajisté dobrý hráč, ale předce na něm někdy vyhraji, s vámi však mám neštěstí.“</p>
+
+			<p>„Co se prvního týče,“ pravil primator, „nevím, zdali to úštěpek neb poklona; to však <pb n="30"/> vím, že bych se všemožně bránil, třeba by to náš král Jiří byl. Ze svého neštěstí si však mnoho nedělej, časem se tomu také přiučíš.“</p>
+
+			<p>„Jen si to neber tak příliš k srdci, škodilo by ti to!“ posmívala se žertovně Lidmila.</p>
+
+			<p>„Máš-li neštěstí, o posměch se nestarej!“ zvolal Hynek v směšné zoufalosti. „Ty, Lidmilo, však se mi nemáš posmívat, tobě se daří se mnou, jako mně s otcem. Kolikrát jsi na mně vyhrála?“</p>
+
+			<p>Lidmila chtěla něco odpověděti, lehké zaklepání na dvéře přetrhlo řeč její a na vyzvání vstoupil do komnaty jinoch vysokého krásného zrostu v zeleném oděvu; z výrazného obličeje hledělo dvé pěkných modrých očí, v nichž se dobromyslnost a rázná pevnost ducha jevily.</p>
+
+			<p>Přes mohutná prsa se mu vinul kožený pás k levému boku, na němž zbraň jeho visívala; nyní byl bez ní, nepochybně že ji z úcty odložil, jda do domu primatorova.</p>
+
+			<p>Všech zraky se obrátily k němu, jej přívětivě <pb n="31"/> vítajíce; jenom Lidmila sklopila hned oči, jak mile příchozího spatřila, a kdo by ji byl ostře pozoroval, byl by spatřil lehký ruměnec, jenž tvář její co blesk přejel a jakési zachvění těla, kteréž obzvláště na růžových prstech jejích seznati bylo; mžikem však to všecko zmizelo.</p>
+
+			<p>I na jinochu bylo jakousi rozpačitost pozorovati, kteráž se však vážnosti před nejvyšší osobou ouřední přičísti mohla. Jenom zářící plamen zraků jeho mohl o něčem jiném svědčiti, jak mile se k Lidmile obrátil. To však všecko ušlo pozornosti ostatních osob, pouze rozpačitost jinochovu přikládali skromnosti jeho.</p>
+
+			<p>„I vítám tě, Jiříku! synu milého přítele mého,“ pravil primator přívětivě. „Těší mě, žes nás opět zas jednou navštívil.“</p>
+
+			<p>„Díky vaší Milosti!“ odpověděl Jiří s hlubokou poklonou.</p>
+
+			<p>„I nech milost mou na straně,“ káral jej přívětivě primator, „jsme doma a máme v skutku málo příležitosti milosti prokazovati. Pojď a přisedni k nám a povídej, co dělá otec tvůj a co tě k nám vede?“</p>
+
+			<p><pb n="32"/> Hynek vstal a podávaje Jiřímu ruku jako známému, uvedl jej k stolku, kdež se také tento slušně posadil.</p>
+
+			<p>„Přináším srdečné uctivé pozdravení od otce mého Vašnosti,“ mluvil Jiří dále, „jenž mne sem s důležitou zprávou posílá .“</p>
+
+			<p>„Musí to býti zajisté důležitá věc,“ dí primator, „znám opatrnost otce tvého. Nuž, vypravuj, co to jest! Avšak –“ obrátil se k Lidmile – „přines něco k občerstvení. Dnes jest parný den, a jak vidím, Jiří pospíchal.“</p>
+
+			<p>Lidmila se zdvihla a brzy se vrátila, nesouc na velkém cínovém talíři konvici dobrého piva, bílý chleb nakrájený, nové máslo a sůl, jak to tehdáž v domácnostech bývalo, když se v prvním okamžení vítaný host poctiti měl.</p>
+
+			<p>Zatím vypravoval Jiří:</p>
+
+			<p>„U nás venku se roznášejí všeliké pověsti o válečných věcech, jimž otec až posud nižádné víry ani váhy nepřidával. Avšak neušlo pozornosti naší, co se v posledních dnech dělo, a což slušno, abychom to Vašnosti oznámili. Před osmi dny jsem nalezl ostatky zabitého <pb n="33"/> jelena ve vlčí jámě a za Točnickou skalou ostatky ohně, kdež se maso peklo, a jak ze stop poznati bylo, nepochybně mnoho hostů při tom kvasu bylo. Z počátku jsme se domnívali, že jsou to pytláci, avšak jsme se brzy dověděli, že to jakási loupežná rota. Ačkoliv dosaváde o žádné loupeži slyšeti není, ukázaly se předce tu a tam neznámé osoby, které podezření vybuzují. Já sám spatřil včera k večeru člověka v lese, jenž se mi zcela nelíbil. Šat jeho byl sprostého vojína, ošumělý; on mě neviděl, já jej však dobře pozoroval; tvář jeho byla jízvami rozervána a z očí mu sršely jiskry, jež o zpustlém duchu svědčily, a mohl bych slovo na to dáti, že chlap tento i nejohavnějšího skutku schopen jest. Že jsou časy nepokojné a mnohá nevázaná čeládka se po kraji potlouká, myslí otec, aby se nějakých prostředků uchopilo, by se nám snad zde nějaká rota nezahnízdila, protož mne k Vašnosti posílá , abych to slušně oznámil.“</p>
+
+			<p>Primator, poslouchaje pozorně, zabral se po skončené zprávě do hlubokého přemýšlení.</p>
+
+			<p><pb n="34"/> Hynek pravil: „Totě nepochybně tentýž chlap, jehož jsem dnes dopoledne mezi Bavory spatřil. I mně se nelíbila ta jeho tvář rozervaná, a když jsem se na něho ostřeji podíval, ušklíbl se na mne tak drze, že jsem jej chtěl na místě lepším mravům ponaučiti; on mi však zmizel v davu lidstva tak rychle, že po něm ani stopy nebylo.“</p>
+
+			<p>Konečně promluvil primator: „Časy jsou nepokojné. Nejen venkovští nepřátelé, ale bohužel i mnozí ze šlechty naší počínají proti králi našemu vystupovati, ač jich tento mocnou rukou svou potlačiti umí. My máme na jedné straně Bavory, z nichž snad se co nevidět nějaké hejno křižácké na nás vyřítí; na druhé straně opět obojetnou Plzeň, jež pouze příhodné příležitosti čeká, ačkoliv nyní v příměří stojí. Může býti, že na tom všem, co vypravuješ, nic není, může býti, že také jest, kdož to ví! My však budeme s pomocí Boží opatrnosti užívati beze všeho hluku. Vy oba o tom, co jste pozorovali, pomlčte, aby se to v městě nerozneslo a k mnohým nepokojům a strachům <pb n="35"/> příčiny to nezavdalo. – Hynku, budeš tak laskav a dojdeš mi pro pana Ambrože, s nímž se o přípravách válečních a o bezpečné střežení města našeho poradím.“</p>
+
+			<p>To když primator domluvil, svraštilo se čelo jeho a on se zabral opět do přemýšlení; to bylo pro jinochy oba znamení, oba vstali a rozloučivše se z komnaty se ubírali.</p>
+
+			<p>Jiří a Hynek spolu rostli, spolu co pacholata radostí dětských požívali a obapolně k sobě přátelsky nakloněni byli; náklonnost tato zrostla v pozdějším věku v upřímné přátelství.</p>
+
+			<p>Hynek bydlel v domě primatorově, Jiří však asi hodinu od města na okrají lesa blíže vsi Točníku, kdež otec jeho co polesný obydlí své měl. Oba byli rádi, kdykoliv se sešli a spolu pohovořiti mohli.</p>
+
+			<p>Když na ulici vyšli, pravil Hynek: „Milý Jiříku, již jsme se několik dní neviděli, pojď, zajdeme k zlatému soudku, dostaneme tam pintu dobrého a jest tam několik společníků, kteří tě rádi uvidí.“</p>
+
+			<p>„Víš dobře, milý Hynku, že jsem rád ve <pb n="36"/> tvé společnosti,“ odpověděl Jiří, „ale dnes toho na mně nežádej. Ačkoliv ti povědomo, že strachu neznám, musím se ti tenkráte přiznati, že mne od toho času jakési smutné tušení svírá, co jsem toho chlapa v našem okolí spatřil. – Slunce se schyluje k západu, otec jest samoten doma, nerad jej nechám o samotě, pročež raději pospíším, abych se záhy domů dostal.“</p>
+
+			<p>„Dobře tedy!“ řekl Hynek. „Půjdeme okolo příbytku pana Ambrože, já mu vyřídím poselství a doprovodím tě kus cesty. Zlatý soudek se mi neodvalí!“</p>
+
+			<p>A tak vskutku učinili.</p>
+
+			<p><pb n="37"/></p>
+
+		</div>
+
+		<div>
+
+			<head>3.</head>
+
+			<p>Byla neděle.</p>
+
+			<p>Všecky práce všední odpočívaly, lidé v svátečním oděvu přecházeli po městě, buď známé své navštěvujíce, buď na počátek služeb Božích čekajíce.</p>
+
+			<p>Tuť bylo viděti mnohého mladíka, jenž sobě na skvostném šatě zakládaje hrdě si vykračoval, neb na skupení slepých dívek pohlížel, jež pohromadě stojíce, oděv si prohlížely a o všelikých podobně důležitých věcech mezi sebou rozmlouvaly. – A vskutku bylo zde mnoho krásných a vnadných panen a paní viděti, oděných v šaty vlněné neb hedbávné, mnohem větší ráz národní jevící, nežli oblek <pb n="38"/> zámožnějších mužů, již od časů krále Jana a Karla 4. nejvíce zpanštělý.</p>
+
+			<p>V celku bylo v oblecích pozorovati ještě spíše usedlou bohatost měšťanskou, než vyfintěnou uhlazenost přepychu, pitvořící se dle nádherné šlechty.</p>
+
+			<p>Kol chrámu rozestaveny byly kotce, okolo nichž venkovský lid se pohyboval; buď za hotové kupoval rozličné náčiní a šperky, nebo je vyměňoval za rozličné výrobky vlastní.</p>
+
+			<p>Městský strážník však obcházel, širák na hlavě, silné kopí na pleci, a přihlížel, zdali prodavači v kotcích neprodávají lidu snad proti vůli pánů vína nebo pálenky, ba přihlížel i ke krčmám, zdali tam snad někteří bohaprázdní synkové v čas služeb Božích nedřepí při kostkách a při pivě městském, kteréž tehda velkou slynulo pověstí a daleko široko z Klatov se vyváželo.</p>
+
+			<p>Konečně se rozlehly zvučné hlasy zvonů po městě, vyzývajíce k službám Božím, a všecko se hrnulo do chrámu Páně.</p>
+
+			<p>Po skončených službách Božích spatřujeme <pb n="39"/> opět velký dav lidu, jenž se dílem v domech ztrácí, dílem z města hrne.</p>
+
+			<p>Mezi poslednějšími vidíme Lidmilu s tetou k Loubské bráně se ubírati, za kterouž primator velkou zahradu s chmelnicí měl.</p>
+
+			<p>Když vyšly za bránu, potkal se tu s nimi náš známý Jiřík jako náhodou. Že se hned k nim přiblížil a k doprovázení nabídl, žádala zdvořilost, že to však z jeho strany více než zdvořilost byla, mohl každý z celého jednání jeho pozorovati; nejvíce však jej prozrazovala radost, jakáž se z každé žilky oblíčeje jeho jevila.</p>
+
+			<p>Že to panně Lidmile také proti mysli není, bylo též skoro patrno. Horký ruměnec polil krásný oblíčej její, pohledla dříve na jinocha okem, v němž se mu celé nebe otvíralo, pak ale sklopila oči, jako by se na něho ani podívati nemohla.</p>
+
+			<p>Dobrá teta, znajíc jinocha ode dávna, přijala zdvořilé nabídnutí jeho velmi přívětivě, a že oba tito mladí lidé nic nemluvili, musela hovor skoro sama vesti, což jí však příliš těžké <pb n="40"/> býti se nezdálo; neboť ačkoli velmi krátké a někdy docela žádné odpovědi nedostávala, mluvila předce pořád něco, k jakéžto řeči jí mnohý okolojdoucí dosti příčiny zavdal, ačkoliv ani jediného utrhačného slova jí z úst nevyšlo; neboť byla příliš dobrá a nábožná, aby byla někomu úmyslně slovem ublížiti chtěla.</p>
+
+			<p>Mezi tím se dostali do zahrady.</p>
+
+			<p>Na pokraji stál domek, v němž dohlížitel a spolu zahradník bydlel, od domku se táhla prostranná, dobře spořádaná zahrada a za zahradou chmelnice až k potoku, západní stranu města obíhajícímu, jemuž „drnový potok“ říkají.</p>
+
+			<p>Teta majíc se zahradníkem co jednati, vešla do domu; Lidmila a Jiří šli dále do zahrady, kdež se brzy v příjemném stínu košaté jabloně octli. Z celého jednání jejich nyní pozorujeme, že shledání toto ani náhodou se nestalo, jak jsme se domnívali, ani že první nebylo.</p>
+
+			<p>„Jak jsem šťasten, drahá Lidmilo! že tě opět spatřiti mohu; již jsem počítal hodiny, <pb n="41"/> nemoha se okamžení tohoto dočkati,“ pravil Jiří.</p>
+
+			<p>„Dávno-li pak jest tomu, co jsi mne viděl? Jest touha tvá po mně tak přílišná?“ ptala se dívka jako v žertu.</p>
+
+			<p>„Ach, viděl jsem tě a duše má okřála při tomto pohledu; a však mne bolelo, že jsem blaženost svou tajiti musel.“</p>
+
+			<p>Oko Lidmilino se zakalilo; zpozorovav to Jiří, pravil jemným hlasem:</p>
+
+			<p>„Odpusť, Lidmilo, nechtěl jsem ti žádných výčitek činiti!“</p>
+
+			<p>„Nikoliv, milý Jiříku,“ pravila děva, „ty mi žádné výčitky nečiníš. Slova tvá byla pouze ohlas toho, co i já na mysli své každodenně přemítám. – Miluješ-li mě, Jiříku, tak jako já tebe, musí tyto naše schůzky přestati.“</p>
+
+			<p>Oko se jí zarosilo a bylo viděti, jaké přemáhání jí poslední slova stála.</p>
+
+			<p>Jiří se zachvěl a bledost přetáhla oblíčej jeho, po chvíli pak pravil smutným hlasem:</p>
+
+			<p>„Miluji tě co duši svou! Tys jediná myšlénka, jediná spása moje; bez tebe mi bude <pb n="42"/> život můj pouští, plamenem slunečním vysmáhlou. – Avšak rozumím ti a podrobuji se vůli tvé. Tvá láska jest pramen života mého; jsem přesvědčen, že mě nesklameš.“</p>
+
+			<p>„Díky tobě, Jiříku, vroucí díky za tvé šlechetné smýšlení!“ zvolala dívka okem plným milosti na něho hledíc. „Již dávno jsem ti chtěla úmysl svůj vyjeviti; tvá láska ulehčila úkol můj. Musíme se na krátký čas rozloučiti, abychom se pak tím radostněji shledali.“</p>
+
+			<p>„Kýž by to Bůh dal!“ vzdychl Jiří. „Co se mne týče, chci se přičiniti, abych se tebe hodným učinil. Zatajím lásku svou vroucí k tobě tak dlouho, až dojdu nějaké hodnosti, bych se pak směle o tvou ruku u otce ucházeti mohl. – Jak toho dosáhnu, spočívá v rukou božských. Vůle má jest pevná.“</p>
+
+			<p>„Doufej, Jiříku, doufej!“ těšila ho Lidmila. „Otec jest dobrý, miluje mě a váží sobě otce tvého. Nehledí ani na statky pozemské, ani na důstojenství, u něho platí více šlechetná mysl. On zajisté neodolá prosbám jediné dcery své. – Teta Lidmila jest ti nakloněna; já jsem <pb n="43"/> se jí sice dosaváde s ničím nesvěřila, chci však se k ní obrátiti s ouplnou důvěrou, jako k matce své, a jsem jista podpory její.“</p>
+
+			<p>„A Hynek?“ tázal se jaksi nesměle Jiří.</p>
+
+			<p>„Hynek jest šlechetný jinoch,“ pravila Lidmila, „miluji jej co bratra svého. Láska jeho nepřekročila dosaváde meze bratrské náklonnosti,“ doložila jaksi s pochybnou rozpačitostí.</p>
+
+			<p>„Ó Hynek jest zajisté šlechetný muž!“ zvolal horlivě Jiří. „Mně se ale zdá, že tebe již miluje, a mně přichází, jako bych se dopouštěl svatokrádeže na přátelství našem. On jest vždy tak přívětivý, tak upřímný ke mně, a já – já musím něco před ním tajiti.“</p>
+
+			<p>„Ať se děje co koli, drahý Jiříku, srdce mé jest tvoje na věky,“ pravila Lidmila vážně a odhodlaně, ruku mu podávajíc.</p>
+
+			<p>Jiří, políbiv ruku její, hleděl blaženě do oka jejího, v němž se mu celá krásná duše Lidmilina zjevovala; objav ji druhou rukou vtiskl první vřelé políbení na panenské rty její.</p>
+
+			<p>„Bez tebe smrt!“ zašeptal.</p>
+
+			<p><pb n="44"/> V tom ozývaly se kroky v písku, teta se blížila, a pozorovala-li něco, neb nic, nevíme; začala hned vypravovati o hospodářství.</p>
+
+			<p>Prošli zahradu, podívali se do chmelnice, a že se poledne blížilo, vrátili se opět domů.</p>
+
+			<p>Jiří je vyprovodil opět ke bráně, kdež se s nimi rozloučil a okolo městských zdí se k Točníku ubíral, pohřížen jsa v hlubokých myšlénkách.</p>
+
+			<p>Jan Lubánský, otec Jiříkův, byl zámožný měšťan klatovský. Maje dům v městě živil se poctivě obchodem v obilí a v chmeli. Pilností a přičinlivostí svou shromáždil si hezkou mohovitost a svou poctivostí sobě získal náklonnost svých spoluměšťanů a v obchodu platilo slovo jeho více nežli mnohého jiného peníze; avšak dvojím ohněm přišel o celé své jmění.</p>
+
+			<p>Po prvním ohni, jenž se nepovědomým způsobem v domě jeho zňal, vystavěl dům opět; sotva však dostavěl, vypukl opět v domě jeho jednou v noci oheň tak prudce, že sotva pouhý život zachoval, a že právě v ten čas <pb n="45"/> znamenitou zásobu chmele a obilí doma měl, shořelo a zkazilo se i to, tak že Lubánský skoro žebrákem zůstal a pouze ochotnou laskavostí svých sousedů oděvu dostal.</p>
+
+			<p>Každý uznával v tom nějakou zlomyslnou mstu, odkud by ale byla přišla, žádný netušil.</p>
+
+			<p>Ve své nouzi se obrátil k obci, prose o právě uprázdněné místo polesného, neboť se v myslivosti znal. Obdržev je, usadil se, jak jsme již pověděli, v myslivně na pokrají lesa Točníckého stojící, kdež s jednou obstárlou příbuznou hospodařil, ježto mu manželka jeho po druhém ohni z leknutí umřela.</p>
+
+			<p>Jiří, jediný syn jeho, docházeje často za mnohými záležitostmi do domu primatorova, spatřil Lidmilu a vroucí láskou k ní zahořel, i ona jej milovala z plného srdce. Brzy našli milenci příležitost, kteráž se jim svátečním navštěvováním zahrady naskytla, že sobě mohli lásku obapolnou zjeviti.</p>
+
+			<p>Dobrá teta Lidmilina to ovšem dobře pozorovala, ale dílem z vřelé náklonnosti k Lidmile, <pb n="46"/> aby jí nějakého vyražení dopřála, dílem že sama lásku nikdy nepoznala, a tudíž nevěděla, jak daleko cit ten dosahuje, nekladla na to příliš velké váhy; s bratrem o tom také nikdy nepromluvila, an málokdy do příbytku jejího přicházel, kdež větší díl života svého trávila.</p>
+
+			<p>Ačkoliv Jiří Lidmilu nad míru miloval, nemohl si předce zatajiti překážky, jemu se v cestu kladoucí. – Primator byl ouřadem svým vznešený a bohatý muž, Jiří však chudý, tudíž sobě nemohl na to pomysliti, že by mu jedinou dceru svou dal.</p>
+
+			<p>Jediná naděje jeho spočívala v tom, aby sobě ve světě nějakého štěstí hledal, aneb věrnou službou náklonnost otce milenky své získal.</p>
+
+			<p>Toť byly ovšem vetché obrazy přeludné obraznosti, ale v prvním okamžení návalu citů neviděli oba překážky, kteréž se jim čím dále, tím strašlivěji objevovaly. Těšili se oba sladkou nadějí, že se jich dobrá budoucnost přívětivě <pb n="47"/> ujme a k dosažení cíle žádoucího jim pomůže.</p>
+
+			<p>Ačkoliv láska jejich čistá a nevinná byla, ačkoliv se oba pouze u přítomnosti tetiny vídali, kázala předce tehdáž panující přísná kázeň mravů od takových tajných schůzek upustiti. – Nespouštějíce se proto naděje, rozešli se dnes od sebe.</p>
+
+			<p>Smutné myšlénky se kolotaly Jiřímu v hlavě, an s těžkým srdcem k domovu kráčel.</p>
+
+			<p><pb n="48"/></p>
+
+		</div>
+
+		<div>
+
+			<head>4.</head>
+
+			<p>Několik dní uplynulo beze vší změny. Počasí bylo krásné a pohodlné, lidé si pospíchali se sklizením obilí, na všech polích bylo velmi živo a veselo, lidé žali, vázali a sváželi obilí do stodol a radostné hlaholy a zpěvy se rozléhaly v celém okolí.</p>
+
+			<p>Pro práci neměli ani kdy o jiných věcech mluviti a přemýšleti. O cizích podezřelých lidech, jež ten neb onen byl viděl, nebylo ani pohádky, a tak přišli v krátce v zapomenutí.</p>
+
+			<p>Jenom pan Ambrož neustál ve své bdělosti a opatrnosti; obzvláště v noci, říkával, opatrnosti nezbývá, zkušenost učí, že často z malého mráčku blesk udeří, aniž se toho nadějeme.</p>
+
+			<p><pb n="49"/> Byl však pan Ambrož Pohanka muž, jenž dosti zkušenosti ve světě nabyl. Hned od svého nejmladšího věku nosil zbraň a mnoho zemí ve svém válečním živobytí dobrodružně prošel.</p>
+
+			<p>Jak to tenkráte mnozí Čechové, duchem válečním puzeni, činívali, sloužil pod mnohými vůdci v Německu, v Rakousku, v Uhřích a v Polsku a znal se dobře ve válečních věcech. Velkého zrostu, silných kostí a síly neobyčejné odolal všelikým nehodám polního potulování, ačkoliv mu nepřátelé kůži nemálo sešramotili, o čemž mnohé jízvy svědčily.</p>
+
+			<p>Zatouživ konečně opět po domovu a poznávaje, že již jakéhosi odpočinku potřebuje, vrátil se do rodného města svého, kdež skrovný domek měl.</p>
+
+			<p>Poznavše Klatovští zkušenost jeho ve zbroji, učinili jej hejtmanem nad skrovným zástupem zbrojného lidu, jenž brány a bašty opatrovati měl. Větší čest a radost se mu nemohla státi.</p>
+
+			<p>Jsa vždy veselého rozmaru, získal sobě brzy obecnou lásku, obzvláště přízeň měšťanských <pb n="50"/> synků, kteříž se u něho scházívali a jež pak starý vojín v zbrani cvičil.</p>
+
+			<p>U vykonávání povinností svých byl velmi svědomitý a přísný; ve všem podřízené své příkladem předcházeje, netrpěl od nich ani té nejmenší nedbalosti.</p>
+
+			<p>Od toho času, co mu pan primator ostrou dohlídku města nařídil, vídáme jej často v noci zdi obcházeti a dohlížeti, zdali každý na svém patřičném místě; zbrojnoši měli před ním náležitou úctu, protož mu také nikdy značné příčiny k nespokojenosti nezavdali.</p>
+
+			<p>Dnes vidíme pana Ambrože, jak jej vůbec nazývali, pohodlně mezi říšskými branami na kamenné lavici seděti. – Tělo jeho kryl silný kožený kabátec o mnohých nehodách svědčící, spodky též kožené splývaly do bot, kteréž nad lýtka dosahovaly a zde překlopeny byly, přes silná prsa se mu vinul pás z červené kůže a stříbrem pobitý, na němž mohutný meč visel. Tenkráte však držel meč mezi nohama; opíraje obě ruce o jílec, měl zarostlou bradu na nich položenu a zdálo se, jako by dřímal, neboť chvílkami <pb n="51"/> oči otvíral a opět je přihmuřoval. Nepochybně chtěl poněkud nahraditi, čeho noční hlídkou zameškal.</p>
+
+			<p>Tu se k němu přiblížil lehkým krokem Hynek a ruku mu na rameno položil.</p>
+
+			<p>Pan Ambrož se vzchopil a vida Hynka před sebou, zdálo se, jako by se byl mrzel, že jej zastihl dřímajícího.</p>
+
+			<p>„Vy máte zpropadeně lehký krok, pane Hynku, že jsem vás v myšlenkách pohřížen ani přicházeti neslyšel,“ pravil.</p>
+
+			<p>„Aj, aj! pane Ambroži,“ řekl Hynek žertovně. „Musíte se šetřiti, celé noci se ploužíte po hradbách a ve dne se oddáváte před branou sedě hlubokému přemýšlení. Nepochybně jste rozjímal jakési vojenské tažení! – No, a jak se vede?“</p>
+
+			<p>„Inu jako starému oklestěnému dubu,“ odpověděl Ambrož povděčen, že řeč na jinou obrací; „žene sice, ale již to nic nevydá, nedostává se síly.“</p>
+
+			<p>„Avšak to u vás ještě tak zlé není. Ostražitost vaše jest toho důkazem!“ zasmál se jinoch.</p>
+
+			<p><pb n="52"/> „Aby vás ďas, Hynku!“ usmál se dobromyslný Ambrož; „vždyť to bylo jen okamžení.“</p>
+
+			<p>„Nyní vyklepejte ze sebe všecko přemýšlení a pojďte se mnou k panu primatorovi, jenž mne pro vás posílá .“</p>
+
+			<p>Pan Ambrož vztyčil svou dlouhou kostnatou postavu a byl hned k odchodu připraven.</p>
+
+			<p>„Nevíte, pane Hynku, co se zas přihodilo?“ vyzvídal po cestě Ambrož.</p>
+
+			<p>„Nevím, je to nepochybně ale něco důležitého,“ odpověděl Hynek. „Otec můj svolal na kvap několik pánů konšelů a čekají na vás v radním domě.“</p>
+
+			<p>A tak tomu také skutečně bylo.</p>
+
+			<p>Ve velké síni seděl pan primator se čtyrmi konšely u dlouhého stolu, okolo něhož několik sedadel s vysokými opěradly stálo; níže od nich seděl písař městský, obíraje se písmy.</p>
+
+			<p>Proti vysokým dubovým dveřím, mnohými řezbami ozdobeným visel obraz císaře Karla 4. ještě od staročeského malíře Kunše, štítaře dvorního, na javorovém dřevě malovaný, tak že celou zeď mezi dvěma okny zakrýval; pod <pb n="53"/> ním menší obraz syna jeho, krále Václava , přítele a ochránce stavu městského, malovaný na pergameně rukou tak obratnou, že každý poznal výbornou školu mistra Zbyška z Trotiny, jenž ještě pro slavné paměti císaře Karla 4 a pro nábožného arcibiskupa Arnošta z Pardubic byl pracoval.</p>
+
+			<p>Nad vchodem skvěl se znak městský, ne tak uměle jako pestře živými barvami a hojným pozlátkem vyvedený; nad znakem městským zavěšeno bylo několik erbů, patrně z rozličných dob pocházejících; byli to erbové bývalých královských podkomoří. Nejstarší, již silně zašlý obsahoval sviní hlavu a zajíce a upomínal na slavného Buzovce Viléma z Valdeka, proslaveného hrdinu z doby krále Jana. Nejčerstvějším však leskem skvěli se erbové Oldřicha Pfluga z Rabenšteina a Václava z Valečova.</p>
+
+			<p>V malém výklenku stála pozlacená socha Matky Boží u prostřed skládacího oltáře, na jehožto křídlech viděti bylo jaré obrazy sv. Václava a sv. Palmacia. U oltáře toho konali <pb n="54"/> konšelové vždy před důležitým zasedáním krátkou pobožnost a při soudu se tu skládávaly přísahy.</p>
+
+			<p>Opodál stolu vedle primatora seděl měšťan, jehož vypravování všickni přítomní s napnutou pozorností poslouchali.</p>
+
+			<p>Měšťan ten byl obchodník v chmeli a časté cesty do sousedních Bavor ve svých záležitostech konal; právě se byl dnes ráno ze své cesty navrátil a důležité zprávy přinesl.</p>
+
+			<p>Vypravoval:</p>
+
+			<p>„V Řezně jsem se dověděl, že se mnoho lidu zbrojného u Pasova shromažďuje a k tažení na nás co na kacíře chystá; odtuď mě vedla cesta do Regnu, kdež jsem skutečně velký ruch spatřil. Se všech stran se tam hrne mnoho lidu, avšak jsem se přesvědčil, že jest to samá luza ze všech končin světa sehnaná a že se Bavoři a vůbec celé Německo toho tak příliš neujímá, ano i reptati na to jsem na své uši slyšel. Obzvláště Bavoři to neradi vidí, bojíce se, že se touto válkou obchod přetrhne; žně tam nejsou příliš valné a <pb n="55"/> oni vidí, že obilí od nás potřebovati budou. Na kterou stranu se vojsko to obrátí a kdo mu veleti bude, toho jsem se dověděti nemohl. Mluví se, že prý jsou v tom nějaké neshody. I chvátal jsem domů, abych novinu tuto v čas přinesl, by se u nás nějaké přípravy učinily, kdyby se jim do naší krajiny zachtělo.“</p>
+
+			<p>Zaklepáno na dvéře a do nich vstoupil Ambrož; zašramotil mohutnou nohou o podlahu, což poklonou býti mělo, postavil se podál dveří a pravil:</p>
+
+			<p>„K rozkazu Vaší Milosti přicházím k službám.“</p>
+
+			<p>Primator poděkoval měšťanu za jeho ochotnost a doprovodiv jej ke dveřím, obrátil se k panu Ambrožovi a pravil:</p>
+
+			<p>„Milý Ambroži, tuto spolusoused náš nám přináší noviny, že se v okolí pasovském četné vojsko proti nám stahuje. Bude třeba, abychom náležitých prostředků uchystali, kdyby snad touto stranou do země naší vtrhli. Znám ostražitost vaši, není třeba, abych vás k opatrnosti vybízel. Abyste pak službu lépe konati <pb n="56"/> mohl, vyzveme naše spolusousedy, by vám při hlídce nápomocni byli. Zbraně schopná mládež naše se vám dostaví k vašemu rozkazu. – O ostatní věci se opatrná obec postará.“</p>
+
+			<p>Tím se skončila rada a shromáždění se rozešli.</p>
+
+			<p>Odpoledne se strhl v městě velký hluk. Měšťané přecházeli na kvap a v rozjitření po městě, aneb se v kupách shromažďovali; rozličné pověsti se roznášely o nastávající válce a o nebezpečí městu hrozícím; mnozí tvrdili, že vojsko velké na hranicích stojí, jiní opět, že již hranice přešli a všude ukrutně pálí, drancuje a vraždí.</p>
+
+			<p>Bylo pohnutí velké.</p>
+
+			<p>V radním domě se shromáždila celá obec velká; posel z Prahy přišlý přinesl od krále dopis obsahu následujícího:</p>
+
+			<p>„Jakož jsme se dověděli, že se na bavorském pomezí našeho království četné vojsko nepřátelsky stahuje a do země naší vtrhnouti se chystá a že zanepráždněni jinými záležitostmi <pb n="57"/> na ten čas sami do pole se vypraviti nemůžeme a tudy na místě našem hejtmany s vojskem královským posíláme , nařizujeme opatrné obci a všem věrným obyvatelům královského města našeho, aby vojsko naše ochotně a laskavě přijali a vším obrokem hojně opatřili a ve všem jemu nápomocni byli, lid branný sbírajíce a k odporu všelikému proti nepříteli se chystajíce.“</p>
+
+			<p>Rokování trvalo dlouho do noci; konečně se ustanovilo na tom, aby se potřebná zásoba pro vojsko královské hned opatřila a všecky přípravy k přijmutí vojska učinily. K rozmnožení posádky města aby se mládež ozbrojila; tři sta zbrojného lidu aby však se sebralo a do pole k sesílení vojska královského na městské útraty postavilo.</p>
+
+			<p>Vyplnění rozkazu posledního se dostalo panu Ambrožovi, zásobování však přijali ochotně měšťané klatovští sami.</p>
+
+			<p>Přijda Ambrož domů složil kostnaté tělo své do lenošky, jež kůží, dlouhou službou již příliš vyhlazenou, potažena byla. Světnice tato <pb n="58"/> ve bráně byla neveliká, klenutá a kulatá, jedno okno vedlo do předměstí, druhé do města. Krom této lenošky byly zde ještě dvě židlice, dubový kulatý stůl a v koutě stála postel vysoká s nebesy bez záclon, v níž pohodlně tři takové osoby jako pan Ambrož místa měly. Po zdi visely všeliké zbraně a nedaleko dveří na mohutné železné skobě svazek klíčů; prkna na podlaze byla značně vyšlapána.</p>
+
+			<p>Pan Ambrož, položiv dva prsty do úst, pronikavě zahvízdl a hned na to se ozývaly venku pádné kroky a do světnice vstoupil sprostý zbrojnoš neveliké, ale silné, složité postavy.</p>
+
+			<p>„Součku!“ oslovil jej vážně Ambrož, „rozličné věci se připravují a my se snad ještě na svá stará kolena dočkáme časů, že zdi tyto dusné opustíme a pod jasným nebem ostrými meči se oháněti budeme.“</p>
+
+			<p>„I aby to kat spral!“ zahučel Souček, jenž byl důvěrný příručí Ambrožův. „Nám zde nic neschází, ale veselejší jest předc živobytí v hlučném táboře. Jen kdyby se to pořádně <pb n="59"/> semlelo; zdá se mi však, že bude brzy té radosti konec.“</p>
+
+			<p>„Jak to myslíš?“ ptal se Ambrož.</p>
+
+			<p>„Inu,“ zaškrábal se Souček za uchem, „lecos se povídá, ale to jest jisto, že to křižácké vojsko za mnoho nestojí; je prý to jenom samá holota, žádný pořádný žoldnéř, a takoví poběhlíci hledí si více loupeže, nežli pořádného boje. Na takové potřebujeme jenom na stehna zatřepat a již běží. Aby je kat spral!“</p>
+
+			<p>„Ať jest to tak nebo tak, my musíme královský rozkaz vyplniti,“ pravil Ambrož. „Slavná obec naše ustanovila tři sta zbrojného lidu do pole postaviti a mně naříditi ráčila, abych lid ten sebral. Znám tě, Součku, že jsou ti všecky spády povědomy a že se v takových věcech výborně znáš; pročež se o to postaráš, aby se pověst o tom náležitě roznesla, bychom řádných lidí sebrali, s kterými bychom v čas potřeby se ctí obstáli. Plat bude dobrý!“</p>
+
+			<p><pb n="60"/> Souček přimhouřil oči, ušklíbl se a máchnul rukou do povětří.</p>
+
+			<p>„I aby to kat spral! Známť několik chlapů až mílo; nejsou sice mladí, ani příliš zdvořilí, ale umějí se v boji otáčet, že se ani čerta nebojí. Museli již pečeni cítit; neboť se zde již několik dní potulují, jako by byli věděli, co se stane.“</p>
+
+			<p>„Dobře,“ pravil Ambrož, „kolik je jich a kde jsou?“</p>
+
+			<p>„Jest jich dvadcet a jsou v Klatovce, a chlapi, že by mohli skály lámat,“ odpověděl Souček.</p>
+
+			<p>„Ať tam zůstanou, beztoho se tam bude sbírat. Nyní jdi po své práci,“ propouštěl jej Ambrož.</p>
+
+			<p>Souček však otálel, jako by měl ještě něco na srdci; na otázku Ambrožovu, co chce? odpověděl:</p>
+
+			<p>„I aby to kat spral! Chtěl jsem jenom podotknouti, že jest tam ukrutné horko.“</p>
+
+			<p>Při tom si notně odfukoval.</p>
+
+			<p><pb n="61"/> „Rozumím! rozumím!“ usmíval se Ambrož, „pro svou osobu máš v Klatovce ouvěrek.“</p>
+
+			<p>Tvář zbrojnošova, ječmínkovinou dosti zbarvená se vyjasnila, a mumlaje, aby to kat spral, rychle se ze dveří ubíral.</p>
+
+			<p>Souček, zůstaviv bránu, zaměřil přímo do Klatovky, dílem aby žízeň svou laciným způsobem zahnal, dílem aby zahálčivým zbrojnošům oznámil, že brzy najati budou.</p>
+
+			<p>Na konci města pod tak zvaným „křesťanským vrškem“ stojí dosti oupravné stavení, jemuž „lázeň“ říkají; jest tam skrovná hospoda a pak koupele s pěknou zahradou otevřenou. Litovati jest, že jmeno „Klatovka“ se vždy více z obecenstva tratí, jakýmž způsobem také mnohá historická památka místní v zapomenutí přichází. V těch místech se nachází dosti velká studánka velkým plochým kamenem přikrytá, v níž se vždy hojnost výborné vody nachází.</p>
+
+			<p>O studánce této se vypravuje následující pověst:</p>
+
+			<p>Klatovka, paní z rodu Bytišova, majíc sídlo své, kde nyní dvůr „Beňovy“ stojí, procházela se <pb n="62"/> jednoho dne na blízkém návrší a spatřila jakous neobyčejnou duhu na jednom místě. I považovala to za nějaké znamení jí od bohů dané, pročež šla v to místo a nalezši studánku plnou čisté a dobré vody, poručila ji vyčistiti.</p>
+
+			<p>Když se pak později ukázalo, že voda ta uzdravující moci do sebe má, kázala zde dvůr vystavěti, jenž se za první počátek města Klatov považuje.</p>
+
+			<p>Pověst o uzdravující vodě se brzy roznesla a mnozí tvrdili, že požíváním vody této svého zdraví nabyli. Studánka přišla u velikou vážnost a z úcty pro paní Klatovku jak dvůr, tak i studánku „Klatovkou“ nazvali.</p>
+
+			<p>Dlouho léčivá síla její trvala, až pak se jednoho času přihodilo, že kat jda od popravy okolo, krvavý meč svůj v ní omyl; od toho času ztratila prý voda uzdravující síly.</p>
+
+			<p>Za těch dob stál zde domek dřevěný, v němž se dobré pivo prodávalo, za kteroužto příčinou se tam mnozí hosté scházívali obzvláště letního času; okolo domku se rozkládaly veliké <pb n="63"/> lípy, v jejichž stínu stoly a lavice stály, tak že tam příjemno bylo poseděti.</p>
+
+			<p>Hospodský se svou čeledí byl člověk, jenž prospěchu svému velmi dobře rozuměl; ať přišel kdo koliv, žádného se neptal na záležitosti jeho, protož také, když chtěl, žádných svých hostů neznal. Není tedy divu, že se zde časem také mnozí lidé scházívali, jichž záležitosti pro veřejnost nebyly.</p>
+
+			<p>Dnes tam vidíme oněch dvadcet chlapů, jež Souček panu Ambrožovi tak schvaloval, dílem po lavicích seděti, dílem sobě v bujném trávníku hověti; nádoby před nimi stojící dosvědčují, jak se bavili.</p>
+
+			<p>Souček měl pravdu, řka, že jsou to chlapi, kteří se ani čerta nebojí. Z každé tváře čouhala drzost a zpustlost; žhářství, loupež, vražda hleděly z každého koutku potměšilých očí a zdálo se, že by se výborně k tomu hodili, čekan svými ohavnými těly ozdobiti; aspoň by se byla myšlénka tato v každém znateli tváří lidských zňala, kdož by byl výbornou společnost <pb n="64"/> tuto a čekan několik honů odtud vzdálený pozoroval.</p>
+
+			<p>Oděv všech byl žoldnéřů obyčejných, avšak tak zpustlý a ošumělý, že jej těžko popsati; svědčil pouze o tom, že se příliš mnoho ve společnosti pořádných lidí nepohybovali.</p>
+
+			<p>V těch časech válečních se však na takové věci mnoho nedbalo, každý to považoval za nevyhnutelný následek dlouhého se potulování v táboře a v boji; zdravé a hmotné hnáty byly hlavní věcí.</p>
+
+			<p>Vojska stálého nebylo; mnozí náčelníci, sebravše na svou ruku bojovný lid, sloužili brzy tomu, brzy onomu, kdo lépe platil, a když se peněz nedostávalo, bralo se, kde co bylo, příteli i nepříteli; pěst silná panovala.</p>
+
+			<p>Souček seznámiv se s těmito lidmi, považoval je ze všeho jejich jednání a dle oděvu jejich za chlapy, kteří se výborně k nastávajícímu boji hodí, v jakémž mínění jej lid ten všelikými řečmi a vychloubáním hrdinskými skutky svými utvrditi se snažili; domníval se ve své sprostotě, že veliteli svému velkou službu <pb n="65"/> prokáže, když jim nabídne, aby v službu městskou vstoupili.</p>
+
+			<p>Nabídnutí to přijali zbrojnošové velmi vděčně, slibujíce celá nepřátelská vojska pohubiti a zabiti, což Součkovi obzvláště se líbilo.</p>
+
+			<p>Vstoupiv nyní mezi ně, odfoukl si náramně, a popadna nejbližší plnou nádobu, až na dno ji vyprázdnil a oddechnuv si zahučel: „Aby to kat spral, je to parno!“</p>
+
+			<p>Když zbrojnošům oznámil, že je na přímluvu jeho městský pan hejtman do služby přijímá, nastalo výskání , hluk a hrubý zpěv mezi nimi.</p>
+
+			<p><pb n="66"/></p>
+
+		</div>
+
+		<div>
+
+			<head>5.</head>
+
+			<p>Jiří Poděbradský, král český, byl muž neobyčejného ducha, jenž by byl zajisté v méně bouřlivých dobách Zemi českou k veliké moci a slávě povznesl; avšak ze všech stran zradou a nepřáteli obklopen, nemohl úmysly své vlastenecké dle vůle provesti.</p>
+
+			<p>V bouřlivých dobách panování svého netratil nikdy zmužilosti a uměl dílem udatností, dílem moudrostí a střídmostí všecky nepřátelské pokusy zničiti aneb aspoň mocnou rukou potlačiti.</p>
+
+			<p>Téhož času měla domácí šlechta všeliká práva a výsady nejen ku škodě měst a jiného obecného lidu, ale i na ujmu moci královské, tak že v mnohých případnostech sám král od <pb n="67"/> ní závisel. Protož pečoval Jiří hned z počátku panování svého o to, aby moc tu překazil a přiměřenými zákony zpupnost a přepych panstva zamezil.</p>
+
+			<p>Pro tu příčinu obrátil obzvláště zřetel svůj k městům, jež všelikými výsadami nadal a jich sobě tím tak zavděčil, že mu s celou svou mocí a věrností oddána byla. Neboť v míru domácím jak přespolním, o jakýž se Jiří spravedlivě staral, počaly průmysl, obchod a řemesla rozkvétati, tak že se zdálo, jako by zlaté časy Karlovy opět do Čech navrátiti se chtěly.</p>
+
+			<p>Ne tak šťastně se mu vedlo v ohledu náboženství.</p>
+
+			<p>Tenkráte byly v Čechách dvě strany náboženské, jedna přijímající pod jednou neb katolická, druhá přijímající pod obojí čili kališnická, sněmem Basilejským zvláštními kompaktaty schválená.</p>
+
+			<p>Ačkoliv byl Jiří horlivý kališník, nedal tomu, aby jedni druhých potlačovali, a připouštěl zároveň kališníky i katolíky i k nejvyšším <pb n="68"/> důstojenstvím a úřadům, tak že mezi oběma stranama žádného rozdílu nečinil.</p>
+
+			<p>Tím sobě získal upřímnou náklonnost a lásku větší části přijímacích pod jednou, a ti mu tak věrně oddáni byli, že jej i v největších bouřích, proti němu se strhlých, neopouštěli a celou mocí svou podporovali.</p>
+
+			<p>Brzy po svém nastoupení trůnu českého vypravil král Jiří slavné poselství do Říma, žádaje papeže Pia 2. o schválení kompaktat a o stvrzení Rokycany na arcibiskupství Pražské.</p>
+
+			<p>Pius 2. odepřel žádosti jeho a vyslal do Prahy legata Fanatina, který k rozkazu papežovu krále vyzval, aby sám od přijímání z kalicha upustil a poddané své od toho odvrátil; legat to činil veřejně na sněmu tak nešetrným způsobem, že nejen krále, ale i pány české hrubě urazil.</p>
+
+			<p>Jiří jej dal proto na krátký čas zatknouti. Tím se však papež tak rozhněval, že krále Jiřího za kacíře prohlásil a jej před soud do Říma povolal; když však král toho rozkazu neposlechl, vydal na něho klatbu a nejen <pb n="69"/> okolní knížata, nýbrž i poddané české proti králi do zbraně volal.</p>
+
+			<p>Když však brzy nato papež Pius 2. umřel a na jeho místo papež Pavel 2. zvolen jest, ucházel se Jiří u nového papeže, aby od přísných kroků předchůdce jeho proti němu upustil, avšak nadarmo. Ani na přímluvu jiných mocností nedbaje, prohlásil papež Jiřího za zbaveného koruny a odvazoval všecky poddané od poslušnosti.</p>
+
+			<p>Následkem takového kroku nejen cizí nepřátelé, ale také mnozí domácí páni proti Jiřímu povstávali, z čehož mu krvavá válka nejen domácí, ale i zahraniční nastala.</p>
+
+			<p>Z návodu papežova povolal císař Fridrich velký sněm říšský do Norimberka za příčinou tureckých válek.</p>
+
+			<p>Jiří, vyslav tam své posly, zavazoval se, že sedmého muže do boje proti Turkům postaví a sám do pole potáhne, jen aby klatba od něho vzata byla. Přítomný legat Fantinus to zavrhoval a vybízel přítomné, aby na ten čas <pb n="70"/> válku proti Turkům odložili a raději proti kacířským Čechům zbraň obrátili.</p>
+
+			<p>Na to poručil císař Fridrich ve všech svých zemích kříž proti Jiřímu hlásati. Město Pasov bylo k shromáždění vojska křižáckého ustanoveno.</p>
+
+			<p>V měsíci červenci roku 1468 vidíme již první zástupy budoucího vojska křižáckého v Pasově se potloukati.</p>
+
+			<p>Výprava tato však se nechtěla hrubě tak dařiti, jak nepřátelé Jiřího sobě přáli.</p>
+
+			<p>Knížata němečtí , jsouce proti tomu, žádných valných příprav nečinili, aniž jaké vojsko do pole vedli, protož to také velmi zdlouhavě a nepořádně šlo.</p>
+
+			<p>Řádného vojska zde posaváde viděti nebylo, pouze dobrodruzi ze všech končin světa se zde scházeli, nadějíce se hojné kořisti v bohaté Zemi české. Avšak bylo se takového lidu tím více co báti, poněvadž všem ukrutnostem zvyklí jiného neuměli nežli loupiti, páliti a vražditi.</p>
+
+			<p>Ku konci měsíce srpna se hnulo konečně <pb n="71"/> vojsko toto z Pasova, táhnouc podél Šumavy nahoru, aby přes Vosí a Brod v okolí domažlickém, kdež se hory šumavské níží a volného přístupu do Čech poskytují, do vlasti naší se vedrali, již za kořist jistou považovali.</p>
+
+			<p>Bylo zajisté smutné znamení, že jsouce ještě v přátelské zemi, již mnohé loupeži se oddávali. V jednotlivých tlupách opouštějíce hlavní voj, kde se jim to zdařilo, loupili. Byli ale také často od rozhněvaného lidu bavorského několikráte citlivě potepáni.</p>
+
+			<p>Od Klatov se táhne pěkná císařská silnice přes Loučím a Kdýň k Bavorům; za Novým Trhem, městečkem na pomezí ležícím, jsou česká a bavorská cla pohraniční a hned za nimi stojí tak nazvaný „bavorský domek,“ v tomto okolí všem ctitelům bavorského dosti povědomý; v pravo k Domažlicům se táhnoucí rovina upomíná na mnohá vítězství, českou zbraní dobytá.</p>
+
+			<p>V pravo se vypíná vrch „Čerchov“, neomylný tlakoměr všech hospodářů okolních, v levo však ční z velikého skupení šumavských hor <pb n="72"/> „Sedlo“; mezi těmi horami se táhne rovina dále do Bavor u Brodu a u Vosí a vůkol spatřujeme ourodná pole a luka.</p>
+
+			<p>V tom čase však o takovém pohodlí nebylo stopy; cesta byla velmi nesnadná a obzvláště na podzim a z jara bahnitá a neschůdná; hluboké lesy, pouze porůznu blíže míst obývaných vymýtěné, přikrývaly krajinu tuto.</p>
+
+			<p>Není tedy divu, že tenkráte cestování touto krajinou, obzvláště pro vojsko se všemi potřebami a zavazadly velmi obtížné bylo.</p>
+
+			<p>Asi dvě hodiny za bavorským domkem spatřujeme v pravo s cesty v jedné mýti zástup branného lidu, předvoj křižáckého vojska působící.</p>
+
+			<p>Slunce se již sklánělo k horám a příjemný chládek se rozkládal po parném dnu v stínu mohutných kmenů. Bylo viděti, že lid tento neschůdnou cestou unaven jest, neboť se rozkládali porůznu v bujné trávě, každý dle své libosti, k odpočinku.</p>
+
+			<p>Na dvou místech dohořívaly mohutné klády, svědčíce, že lidé tito žaludky byli již upokojili.</p>
+
+			<p><pb n="73"/> Někteří přecházeli ještě sem a tam, někteří opět sedíce neb ležíce v kupách ledacos vypravovali; zbraň jejich buďto visela po stromech, buďto porůznu sem tam na zemi ležela.</p>
+
+			<p>Mezi třemi stromy stál chatrný plátěný stan, pohyblivé obydlí velitele této tlupy, několik koňů se páslo svobodně v trávě.</p>
+
+			<p>Na první pohled se nezdál zástup tento tak zpustlý býti, ano bylo viděti, že mezi nimi jakýs takýs obstojný pořádek panuje. Oděv jejich svědčil, že se zde sešli lidé z rozličných krajin a zemí. Na pokrají cesty, odkud v pravo v levo daleko cestu přehlednouti mohli, seděli tři mužové, hlídku působíce.</p>
+
+			<p>Pohled na to vše byl vskutku malebný!</p>
+
+			<p>V nadzmíněném stanu seděly dvě osoby.</p>
+
+			<p>Jeden byl vůdce tohoto zástupu, jmenem Nothaft, jenž jako mnozí jiní jeho druhu na svou ruku zbrojnoše tyto sebral a za dobrý žold se na čas tohoto tažení propůjčil.</p>
+
+			<p>Postava jeho byla silná a vysoká, obličej hustými vousy zarostlý vyzrazoval přísnost, avšak žádnou surovost; bylo by se mohlo souditi, <pb n="74"/> že jest i soucitu přístupen, kdyby z jednotlivých tahů jeho lakota nevyhlížela.</p>
+
+			<p>Tělo kryl volný kožený kabátec, místy brněním vytřený.</p>
+
+			<p>Druhý byl malé, avšak zavalité postavy o neobyčejné síle svědčící; v obličeji, zrzavými vousy zarostlém, kříž na kříž jizvami hnusně přerytém, vězelo pod hustým obočím dvé očí, z nichž pouze lest, surovost a zpustlá ukrutnost vyhlížela a jež časem děsné blesky vysílaly ; hlavu kryly husté, hrubé, zrzavé vlasy; šat měl kožený obyčejného vojína.</p>
+
+			<p>„Již jsem se domníval, že tě nějaká nehoda potkala, že jsi se tak dlouho nevracel,“ pravil Nothaft.</p>
+
+			<p>„Bylo opatrnosti třeba,“ odpověděl vojín. Ačkoliv mě uherské meče tak zpotvořily, že by mě ani vlastní matka má nepoznala, musel jsem se předce napřed přesvědčiti, zdali Klatovští svého bývalého miláčka nepoznají, nežli jsem k práci přikročiti mohl.“</p>
+
+			<p>„Nu a jak to tam v tvém rodišti vyhlíží?“ zněla otázka.</p>
+
+			<p><pb n="75"/> „Velmi dobře, jestli váhavost vaše všecko nezkazí,“ odpověděl zbrojnoš. „O nějakém vojsku ani potuchy. Král nemůže přijíti a vzkázal, aby se jenom sami ozbrojili, že jim něco vojska na pomoc vyšle. Jestliže je předejdete, máte vítězství jisté.“</p>
+
+			<p>„Ovšem, máš pravdu,“ přisvědčil vůdce, „to naše váhání pokazí naposled všecko; prvním návalem bychom vítězství lehce dobyli, ale kdož za to může, že ti naši páni si tak na čas dávají!“</p>
+
+			<p>„S takovým vojskem jest ovšem těžko postupovati,“ prohodil úšklebně vojín, „kteréž se samo o svůj žaludek starati musí, a okolní vesnice jsou tučné.“</p>
+
+			<p>Jako by to nebyl pozoroval, pravil vůdce: „A jak je to s tvými dvadcíti muži?“</p>
+
+			<p>„Lépe to býti nemůže!“ vypravoval vojín. „Klatovští chtí tři sta vojínů do pole postaviti, a já věda, že jim přijdu vhod, nasadil jsem jim tam hnízdo roztomilých dvadcet krkavců, z nichž každý nejednou šibenici zasloužil. Ti nám zajisté k vítězství pomohou přijde-li <pb n="76"/> k bitvě, a nepřijde-li, připravějí nám pěkné byty v městě. Na každý způsob se můžeme na jedno neb na druhé bezpečiti.“</p>
+
+			<p>Vůdce, jako by se byl zamyslil, na chvílku pomlčel, pak ale pravil:</p>
+
+			<p>„Čím více o té naší lsti přemýšlím, tím sprostější a hloupější se mi býti zdá. Ačkoliv jsou to ti nejodvážlivější chlapi, jakéž znám, zdá se mi jich býti proti celému městu tak dobře opatřenému málo a Klatovští by museli býti příliš hloupí, aby se tak snadně ohnouti dali. Co se týče lsti v bitvě, jest již příliš zvšednělá, aby se zdařila. Bylo by mi příjemněji, kdybysi něco podstatnějšího vymyslil.“</p>
+
+			<p>„Já však za to mám,“ odpověděl vojín lhostejně, „že dvadcet takových vtělených ďáblů více vydá, nežli sto městských pecivalů. Až jen přistoupíme k městu, uhlídáte, jak ti neohrabaní měšťáci i se svými cepy a sudlicemi s hradeb po hlavě dolů lítati budou a jak se brány s praskotem pohostinsky před vámi rozlítnou. Co se týče bitvy, vím ze zkušenosti, že mezi desíti takovými pokusy se jich devět <pb n="77"/> podaří, jen když se to chytře navleče. Tak roztomilý požárek některé vesnice v zádech nepřítele a zde onde vykřiknutí: „Bitva ztracena! spaste se!“ učiní ve vojště hezký nepořádek, jenž když se ho náležitě a v pravý čas použije, výborný následek přináší. To znám!“</p>
+
+			<p>Takovou řečí upokojený vůdce pravil: „Dobře! spolehám se na tvou opatrnost a chytrost. Hojná odměna ti neujde, jak mile se dále dostanem. Víš, že mi na tom záleží, abych se tam první dostal.“</p>
+
+			<p>„Však já vám rozumím,“ odsekl vojín; „za to však musí býti také má odměna hezky hojná; neboť jest město hezky bohaté a dá se tam něco uloviti. Strany odměny bych však z jistých příčin žádal, aby se mi hned vyplatila.“</p>
+
+			<p>„Aj, dávno-li jest tomu, aby se za taková služby napřed platilo, o kterýchž ještě nevíme, zdali se podaří čili nic? A kdo mi ručí za to, že jest všemu vskutku tak, jak pravíš?“ tázal se zhurta vůdce.</p>
+
+			<p><pb n="78"/> „Že chci odměnu napřed,“ odpověděl zbrojnoš lhostejně, „stává se, jak jsem řekl, z důležitých příčin; provedení věci záleží na vás, já vykonal svědomitě, co se ode mne žádalo, z té strany mne dostatečně znáte, a tudíž není žádného rukojemství třeba.“</p>
+
+			<p>„A jaké jsou ty příčiny, které tebe k takovým požadavkům nutí?“ ptal se opět vůdce.</p>
+
+			<p>„Já soudím tak,“ pravil vojín chladně: „my jsme lidé smrtelní, kdyby vás něco lidského potkalo, kdož by mně pak zaplatil?“</p>
+
+			<p>„Tyť jsi nad míru opatrný!“ pravil Nothaft mrzutě.</p>
+
+			<p>„Opatrnosti nikdy nezbývá!“ řekl vojín. „Také se pro jiné zaneprázdnění nemíním déle u vás zdržeti a musím ve svých záležitostech jednati. Snad se pamatujete, že dnešním dnem lhůta vypršela, až do kterého času jsem se vám službou zavázal?“</p>
+
+			<p>„Aj vskutku, umíš dobře počítati!“ zvolal nevrle Nothaft. „Déle se nemíníš u nás zdržeti? – Zdá se, jako by si se bál sudlic svých krajanů, aneb se v tobě svědomí zbudilo, <pb n="79"/> že nechceš proti vlasti své bojovati?“ doložil ousměšně.</p>
+
+			<p>Šero zatím v stanu se uhostivší nám brání v této chvíli oči vojínovy pozorovati, z nichž tak jízlivý a jedovatý plamen na vůdce vyšlehl, že by se byl každý zděsil.</p>
+
+			<p>Po chvílce pak zasípal, což se mu obyčejně stávalo, kdykoliv se v něm vášeň trochu zbouřila: „Pane Nothafte! kdyby to v jiný čas bylo, ukázal bych vám dostatečné důkazy své bojácnosti, jak to nazývati vám se líbí; však my se sejdem. Co se svědomí mého týče, nejsem ani vám, ani komuž jinému povinen, ze svých činů počet klásti. A nyní učiňte, co vašeho jest!“</p>
+
+			<p>Nothaft, jemuž jak vidíme, na dobrém srozumění s vojínem záleželo, brzy jej udobřil a hojnou mzdu mu udělil.</p>
+
+			<p>Na to se rozešli.</p>
+
+			<p>Vojín, opustiv stan, obrátil rychlé kroky své k pomezí českému.</p>
+
+			<p>Slunce právě zapadalo a časná tma zahalila krajiny tyto v tmavou roušku; mrtvé ticho <pb n="80"/> se rozhostilo, pouze chvílkami tu a tam houkáním noční zvěře přerušené. Na tmavomodré obloze vyskočilo množství jasných hvězd, jež temnou tuto noc poněkud objasňovaly.</p>
+
+			<p><pb n="81"/></p>
+
+		</div>
+
+		<div>
+
+			<head>6.</head>
+
+			<p>Vojín mumlaje chvílkami něco mezi zuby kráčel rychlým krokem k českému pomezí a zdálo se, jako by krajiny této úplně povědom byl; často se uhnul s vozové cesty, aby si nadešel, a to vždy bez všeho rozmýšlení a stejně pevným, neunaveným krokem.</p>
+
+			<p>Z vyjednávání s Nothaftem jsme již poněkud poznali, jakého druhu člověk jest; my však roušku, v kterouž se tak opatrně zahaluje, poněkud odhalíme, až jej z dalšího jednání jeho lépe poznáme.</p>
+
+			<p>Jmeno jeho jest Hrouda; že však měl vlasy příliš zrzavé, byl v dřívějších časech ve městě Klatovech pod jmenem „zrzavý Hrouda“ vůbec znám.</p>
+
+			<p><pb n="82"/> Odkud rodem byl, nelze udati. Do Klatov přišel a žádný nevěděl odkud, tam se z počátku nádennickými pracemi velmi pilně živil; žádný proti tomu nic neměl, a že ho všady k ruční práci dobře potřebovati mohli, neptal se nikdo, odkud by byl.</p>
+
+			<p>Z počátku to šlo všecko dobře, až pak později o něm všeliké nepříliš chvalné pověsti proskakovati počínaly, ačkoliv mu nikdo nic špatného dokázati nemohl.</p>
+
+			<p>Jenom to bylo nápadné, že se časem ztratil a po navrácení jeho bylo vždy pozorovati, že nad příjmy své vydává; on to ale omlouval tím, že má tu a tam zámožné přátele, jež prý navštěvuje a kteří mu lečímž nápomocni bývají. Uvěřilo se tomu.</p>
+
+			<p>Když však hejření jeho rostlo a on i jinou chasu k všelikým pletichám zaváděl, byl pokárán a pohroženo mu vyhnáním z města. Na to byl nějaký čas, když ne skromnější, aspoň ve svých prostopášnostech opatrnější.</p>
+
+			<p>Tu se stalo, že se nad svůj stav do jedné vznešenější dívky měšťanské zamiloval, kteráž <pb n="83"/> se však za lásku tak opovrženého člověka styděla.</p>
+
+			<p>Hrouda zaslepen náruživostí podlou, použil příležitého času a smělou rukou na dívku sáhl.</p>
+
+			<p>Na křik její sběhl se lid a Hroudu utíkajícího lapil.</p>
+
+			<p>Nectné chování takové se nad míru příčilo tehdejším mravům přísným. I byl biřicem vymrskán a z města vyhnán. Zahořel strašlivou pomstou na celé město, a potloukaje se ještě nějaký čas v okolí, hledal příležitosti, jak by se pomstiti mohl. Konečně zmizel s utajenou pomstou a brzy v zapomenutí přišel.</p>
+
+			<p>Dlouho se potloukal ve všech končinách evropských, až jej nyní opět v tomto okolí spatřujeme.</p>
+
+			<p>Že on to byl, jehož Jiří a Hynek pozorovali, není pochybnosti; a však dílem proto, že byli ještě oba mladá pacholátka, když Hrouda v městě přebýval, a dílem pro změnu jeho zevnitřnosti v tom okamžení ho nepoznali.</p>
+
+			<p><pb n="84"/> Že pomstu svou neodložil, částečně jsme se přesvědčili; jaké byly další záměry jeho a jak je provedl, budoucnost nám ukáže.</p>
+
+			<p>Nyní jej na jeho cestě opustíme, kteráž jej, jak poznáváme, ku Klatovům vedla, a o několik hodin jej předejdeme.</p>
+
+			<p>K půlnoční straně několik honů od města stojí na pravém břehu drnového potoka až posavade osamělé stavení, jemuž „pazderna“ říkají a v němž nyní hajný bydlí.</p>
+
+			<p>Toho času bylo stavení toto velmi chatrné, pouze z dřeva vybudované a říkali tam „na pastoušce“, poněvadž tam obecný slouha městský bydlel.</p>
+
+			<p>Důležitý ouřad ten zastával právě v ten čas muž, jemuž vůbec Vondra říkali, kterýž tuto službu po otci zdědil.</p>
+
+			<p>Byl člověk již letitý, malomluvný a velmi nespolečenský; rád se každému vyhýbal a často na něm bývalo pozorovati, že jej jakési trudné myšlénky tíží. Krom tohoto chování byl však každému k službám volný a kdykoliv jej někdo o něco požádal, rád mu vždy, však <pb n="85"/> mlčky, posloužil. Služba byla ovšem skrovná, poněvadž ale v mnohých případech všeliké nemoci dobytka léčiti uměl, vydělal si vždy tolik, že mohl po skrovnu živ býti. Pro tyto vlastnosti mu již lidé jeho zasmušilost odpustili a mnohého výdělku mu dopřáli.</p>
+
+			<p>K večeru onoho dne, když jsme Hroudu u Nothafta na pomezí spatřili, vracel se Vondra dle obyčeje svého mlčky po vykonané povinnosti domů; přijda k chalupě, pověsil na náspy svůj dlouhý, z řeménků upletený, na krátkém bičišti upevněný bič a troubu na hřebík a ubíral se do světnice, v níž u krbu asi patnáctileté děvče v sprostém plátěném, avšak čistém oděvu večeři pro něho chystalo.</p>
+
+			<p>Byla to jediná dcera jeho, jež mu po úmrtí matky hospodářství vedla.</p>
+
+			<p>Světnice byla skrovná; v jednom koutě stál hmotný, hrubý stůl a při něm lavice, okolo velkých kamen se táhla podobná lavice větší, v druhém koutě naproti stolu stála chatrná postel, v levo vedly malé nízké dvéře do <pb n="86"/> vedlejší komory; podlaha byla hliněná, dobře utlučená a strop dřevěný.</p>
+
+			<p>Vondra, přijda do světnice, sejmul široký hnědý klobouk z hrubé plsti zrobený od některého vesnického dělníka, otřel si pot s čela a toliko přívětivým pokynutím hlavy odpověděl dceři na laskavé uvítání; posadil se na lavici u kamen, založil ruce a skloniv hlavu na prsa do trudného přemýšlení se zabral.</p>
+
+			<p>Poslední paprsky zapadajícího slunce padaly malými otevřenými okny do světnice a příjemně osvětlovaly pořádek a čistotu v ní panující.</p>
+
+			<p>Ticho ve světnici rušilo pouze praskání ohně na krbu.</p>
+
+			<p>Byly ty myšlénky Vondrovy asi velmi traplivé; v tváři jeho vysmahlé a hubené se jevily tak bolestné známky a chvílkami se vydíraly ze sklíčených prsou jeho tak tesklivé vzdechy, že by ho byl každý politoval.</p>
+
+			<p>Dívka, znajíc již povahu otcovu, nevytrhovala ho z myšlének jeho, nýbrž přecházející ve svém zaměstnání sem a tam, často na něho <pb n="87"/> s outrpností pohlížela a vždy se jí oko zakalilo.</p>
+
+			<p>Konečně byla večeře připravena; na vybídnutí dívčino pojedl Vondra a hned na to se odebral na odpočinutí; neboť slunce již zašlo a tma se počínala nížiti.</p>
+
+			<p>Dívka ještě chvíli sem a tam přecházela, lecos spravujíc, až pak se také k spánku na podnebí odebrala.</p>
+
+			<p>Bylo v chalupě hrobové ticho.</p>
+
+			<p>Právě se ukazovala na obloze první záplava nastávajícího dne, an se dvéře do světnice Vondrovy vedoucí zlehka otevřely a do nich vstoupil muž, jehož na první pohled pro ranní šero poznati nebylo.</p>
+
+			<p>Vondra se vzchopil se svého lože a hleděl upřeným zrakem na příchozího, jenž se mlčky na lavici u stolu právě proti posteli posadil.</p>
+
+			<p>Chvílku jeden na druhého hleděl, konečně pravil Vondra:</p>
+
+			<p>„Kdo jste a co chcete?“</p>
+
+			<p>„Moudré otázky,“ odpověděl příchozí, „na něž každý cizí člověk odpověděti má, jenž jako <pb n="88"/> já beze všech okolků do cizího příbytku přichází. A však my nejsme cizinci, neboť se dobře známe!“</p>
+
+			<p>Opět se na něho Vondra podíval a pak jako s podivením pravil: „Já vás neznám!“</p>
+
+			<p>„Ovšem! ovšem!“ zasmál se cizinec. „Jsou to již hezká léta, co jsme se neviděli. Bývali jsme dobří přátelé, mnohý veselý kousek jsme spolu provedli; avšak se tomu nedivím, že mne již neznáš, milý brachu! já jsem se za tak dlouhý čas po čertech změnil! Jest více lidí zde, kteří mě neznají, ačkoliv jsem zde hezký čásek domovem byl.“</p>
+
+			<p>Když však Vondra v rostoucím udivení na cizince hledě, ničím na jevo nedával, že by jej znal, pravil tento:</p>
+
+			<p>„Již vidím, že musím tvé paměti trochu pomoci! – Podívej se dobře!“</p>
+
+			<p>V tom sejmul svou huňatou čepici a zrzavé vlasy jeho se mu zaleskly v ranním světle; hrubá postava, tvář rozervaná a šeredná a ty vlasy a vousy zrzavé činily celek, jenž by byl každého hrůzou a ošklivostí naplnil.</p>
+
+			<p><pb n="89"/> Pohled ten působil na Vondru strašlivě; všecky svaly obličeje se mu křečovitě skřivily, brada mu sklesla, z otevřených úst se mu dechy mocně prodíraly, oči div že mu z hlavy nevyskočily, vlasy se mu ježily a smrtelná bledost pokryla celý obličej jeho.</p>
+
+			<p>Najednou se s lože vymrštil a z úst se mu vynořilo: „Hrou–“</p>
+
+			<p>Další slovo mu překazila široká, mozolovitá ruka, jež se mu pádně na zsinalá ústa položila.</p>
+
+			<p>„Je-li ti život milý,“ zasípal zrzavý Hrouda, neboť on to byl, „nevyslovuj jmeno mé!“</p>
+
+			<p>Na to jej mocnou rukou na lože přitiskl, a vida, že Vondra jako bez sebe ležeti zůstal, posadil se opět na své předešlé místo.</p>
+
+			<p>Po tak mocném náruživém výbuchu zmocnilo se Vondry seslabnutí, zavřel oči a jenom mocné pohybování prsou svědčilo, že živ jest.</p>
+
+			<p>Hrouda hleděl na něho mlčky s utajenou ďábelskou radostí.</p>
+
+			<p>Konečně se Vondra vzchopil, posadil se na lože, sepnul ruce a hlasem nad míru prosebným <pb n="90"/> zvolal: „Pro Boha živého tě prosím, opusť světnici tuto, v níž již po patnácte let pykám činu svého! Smiluj se nade mnou a nad mým ubohým dítětem, jež zároveň se mnou trpí. Nerozmnožuj, muka, jež dnem i nocí prsa má strašně rozdírají. O smiluj se! smiluj se!“</p>
+
+			<p>Slzy hojně, z očí se mu řinoucí, nedaly mu dále mluviti; zakryl si tvář oběma rukama a vzdychal hlasitě.</p>
+
+			<p>V očích Hroudových se však jevil ďábelský úsměch, a přeloživ levou nohu přes pravou, pravil chladně:</p>
+
+			<p>„Takového uvítání jsem se nenadál! Měl jsem za to, že mne co dávného přítele s plesáním uvítáš! Inu časy i lidé se mění a každý má své libůstky. Já však v takovém babském naříkání žádného zalíbení dosavade nemám. Že tvou žádost vyplniti nemohu, jest mi věru líto. Víš dobře, že mají u mne Klatovští hezký vrub; přišel jsem, abych jej s nimi vyrovnal, a k tomu jest mi tvé pomoci třeba. Beru tedy svou důvěru k tobě a spoléhaje se na naše <pb n="91"/> staré přátelství, doufám, že se mi laskavě propůjčíš.“</p>
+
+			<p>„Nikdy! nikdy! raději smrt!“ úpěl Vondra.</p>
+
+			<p>„Hm!“ pravil Vondra chladně. „Nedělej žádné hlouposti! V mém polním živobytí jsem si přivykl vždy s úvahou jednati a vždy napřed všecky okolnosti uvážiti, než jsem k provedení úmyslu přikročil, abych nepochybil. U tebe jsem jist, že mi konečně povolíš. Jestli ne dobrovolně, najdeme jiných prostředků; vždyť víš, že potřebuji pouze nějakou maličkost o jakémsi Lubánském vypravovati, a přání tvé strany smrti se ti hnedle vyplní.“</p>
+
+			<p>Vondrou to trhlo, jako by se ho byl žhavým železem dotkl; pak ale pravil odhodlaně:</p>
+
+			<p>„Raději umru a budu svého trápení zbaven! Smrt má smíří a vymaže hřích můj!“</p>
+
+			<p>„Ovšem,“ pravil Hrouda, „a dcera tvá bude dítě paliče a šibeničníka!“</p>
+
+			<p>„O ďáble!“ zalkal otec a opět na lože klesl.</p>
+
+			<p>„Nebuď bláhový,“ pravil opět úsměšně Hrouda, „nebeř si to tak k srdci! Službička, <pb n="92"/> jakouž mi prokázati musíš, není tak hrozná, ani svědomí tvé tak příliš nestíží. Chci pouze, abysi mi v svém stavení asi pět mých přátel ukryl. Co oni podniknou, do toho ti nic není, jenom se postaráš o to, aby hlad netrpěli a aby jich nikdo nezpozoroval. O ostatní se postarám já! – Již vidím, že přivoluješ,“ doložil, když Vondra, na loži neodpovídal, duševnými bolestmi sklíčen. „A abychom věc tu záhy skončili, zavolám je hned, neboť již toužebně venku čekají.“</p>
+
+			<p>Otevřel okno a na dané znamení vstoupilo do světnice pět chlapů divého vzezření.</p>
+
+			<p>„Toto přítel můj,“ pravil k nim Hrouda, „jest tak laskav, že vám na nějaký čásek přístřeší popřeje. Chovejte se šetrně k hostiteli svému, abyste mu žádné příčiny k nespokojenosti nezavdali.“</p>
+
+			<p>Pak přistoupil k jednomu a něco mu do ucha pošeptal, načež tento jízlivým pohledem na Vondru se ušklíbl, a sáhna na pás, kdež mu široký nůž vězel, hlavou zakýval.</p>
+
+			<p>Hrouda odešel a příchozí se po světnici <pb n="93"/> rozhostili. Když však brzy na to dcera Vondrova do světnice vešla, na podnebí se odebrali.</p>
+
+			<p>Vondra zůstal s dcerou samoten; co se dále dělo, neví se. Žádný nezvěděl, jaké hosti Vondra ve své pastoušce přechovává.</p>
+
+			<p>Jasné slunce na čisté obloze ozařovalo nejkrásnější a nejpříjemnější jitro, jež křivánkové svým líbezným zpěvem oslavovali.</p>
+
+			<p><pb n="94"/></p>
+
+		</div>
+
+		<div>
+
+			<head>7.</head>
+
+			<p>V primatorově komnatě seděla Lidmila u svého stolku sama jediná; otec byl za svým povoláním v radním domě, kdež nyní v této tak důležité době větší díl času svého trávil. Jednou rukou podpírala hlavu o stůl, druhá jí odpočívala v klíně; byla v hlubokých myšlénkách pohřížena.</p>
+
+			<p>Slova Jiřího – „Zdá se, že tě miluje“ – ozývala se v prsou jejích. Dokavade pravou lásku, jakouž Jiří v ní roznítil, neznala, zacházela s Hynkem přímě a nenuceně; milovala jej co bratra a byla mu vděčná za všecku ochotnost a náklonnost jeho. Nyní však poznavši cit, jenž se docela od onoho lišil, jakýž pro Hynka měla, poznala také, že ji <pb n="95"/> Hynek více než bratrskou láskou miluje, přesvědčila se však též, že mu stejným citem spláceti nemůže.</p>
+
+			<p>Bolestně ji dojímalo, kdykoliv Hynek upřímným, vroucím okem na ni pohlédl, dělala si výčitky, že svým přívětivým chováním jej klame; neboť si ho nad míru pro jeho ušlechtilost vážila, protož se také nikdy jináče než přívětivě k němu chovati nemohla.</p>
+
+			<p>Kolikráte si předsevzala ve svém jednání opatrněji se míti, aby lásku jeho podněcovati se nezdála; kdykoliv však na něho pohlédla, nemohla jináče, než přívětivě a laskavě k němu se chovati.</p>
+
+			<p>Že ji miluje, nebylo jí více pochybno; bála se toho okamžení, kdy jí Hynek lásku svou slovy vyjádří, jakouž jinakerým způsobem projevoval, protož se všemožně takovému okamžení vyhýbala.</p>
+
+			<p>Kdyby byl Hynek v tomto ohledu zkušenější býval, snadno by byl rozpačitost její poznal, kdykoliv s ní rozmlouval, a jestliže to pozoroval, přičítal to panenské ostýchavosti <pb n="96"/> a k svému prospěchu to obracel, koje se blaženou nadějí, že jej miluje.</p>
+
+			<p>Aby byla Lidmila někoho jiného milovati mohla, to mu ani ve snách nenapadlo. Choval se k ní jako milenec, jenž tajně miluje a v štěstí své s jistotou doufati může; věděl také, že se u primatora, který jej co vlastního syna miluje, se žádným odporem nepotká. Jemu však nechtěl dříve nic svěřiti, až se s Lidmilou, o jejíž lásce nepochyboval, dorozumí; pak teprv chtěl před druhého otce svého předstoupiti a z ruky jeho štěstí své přijmouti.</p>
+
+			<p>Takové byly blažené sny jeho. Ubohý neměl ani zdání, že mu brzy jako pěna zmizí a že právě nejvěrnější přítel jeho tak hořkou bolest mu způsobí.</p>
+
+			<p>Čeho se Lidmila tak velice obávala, mělo se právě dnes vyplniti.</p>
+
+			<p>Všecka mládež měšťanská zbraně schopná dostala rozkaz, aby se pod dohlídkou a velením pana Ambrože v určitý čas ve zbrani cvičila, a pan Ambrož byl co starý, poslušnosti obvyklý vojín v plnění rozkazu tohoto tak <pb n="97"/> přísný, že se nikdo neopovážil tomuto cvičení se vyhnouti.</p>
+
+			<p>Ať bylo počasí jaké koli, musel každý v určitý čas se dostaviti a až do posledního okamžení setrvati.</p>
+
+			<p>Na klášterském – nyní pražském předměstí, dosti prostranném místě, jemuž „na rybníčkách“ říkají, vidíme zástup bujaré mládeže s meči, kopími, cepy, palcáty, sudlicemi a oštěpy obratně se proháněti. Pan Ambrož, parnem a horlivostí celý zapocen, tu opravuje, tam velí, zde zas napomíná, jak toho potřeba káže, a sám si jako mladík počíná.</p>
+
+			<p>Nejvíce mrzutosti mu působí Hynek, jenž druhdy mezi nejobratnějšími bývaje, dnes si velmi nejapně počíná. Kdyby však pan Ambrož věděl, jaké myšlénky dnes mozek Hynkův probíhají a jak se krev v něm proudí, zajisté by mu byl odpustil, neboť jej velmi miloval: že to však nevěděl, několikráte na něho netrpělivě zahučel, mumlaje nevrle do sebe: „Toť aby do něho ďas!“</p>
+
+			<p>Konečně hodina vypršela; každý hodil <pb n="98"/> zbraň přes rameno, neb na plece pověsil a šel, kam se mu líbilo. Pan Ambrož přistoupiv k Hynkovi, oslovil jej řka:</p>
+
+			<p>„Co pak to dnes s námi bylo, milý Hynku? Jindy tak obratný, tak hbitý, že je radost se podívat, počínal jste si dnes, jako byste byl měl ponejprv meč v ruce.“</p>
+
+			<p>„V skutku, pane Ambroži?“ zasmál se Hynek. „Počkejte, zejtra to půjde zas jináče!“</p>
+
+			<p>Na to se obrátil a lehkými kroky se k městské bráně ubíral.</p>
+
+			<p>Pan Ambrož se chvílku za ním díval, pak hlavou zavrtě, šel po svých.</p>
+
+			<p>My však necháme pana Ambrože a půjdem za Hynkem a nejlépe se dovíme, co asi bylo příčinou dnešní roztržitosti jeho.</p>
+
+			<p>Hynek se všemožně vynasnažoval, aby příležitosti nalezl, kde by s Lidmilou promluviti mohl; nevěděl však, čím to jest, že se žádné dopíditi nemůže.</p>
+
+			<p>Konečně však předce pozoroval, že se mu Lidmila, ač přívětivá, vyhýbá; to v něm zbudilo jakýsi trapný nepokoj, který jej bolestně <pb n="99"/> svíral, a následek toho byl, že nyní i jakousi rozpačitost na Lidmile pozoroval, kteráž se jí vždy zmocňovati zdála, kdykoliv na chvílku sami byli.</p>
+
+			<p>Žehravost se v něm ozývala, i předsevzal sobě, stůj co stůj, konec takovému traplivému stavu učiniti.</p>
+
+			<p>Věděl, že jest dnes pan primator velmi zaměstnán a že se tak záhy domů nenavrátí; toho uzavřel použiti a směle s Lidmilou promluviti. Tudy roztržitost jeho. Miloval Lidmilu náruživě a pochybnosti, nedávno v něm povstalé, bouřily klidnou mysl jeho.</p>
+
+			<p>Srdce mu mocně v prsou tlouklo, krev se mu hnala k srdci, čím více se k domovu blížil, tak že v síni postáti musel, až by se mysl jeho trochu utišila; konečně vešel do komnaty.</p>
+
+			<p>Spatříc jej, zarazila se Lidmila, avšak brzy se zpamatovavši, přívětivě jej uvítala.</p>
+
+			<p>„Tys dnes, Hynku, jaksi rozpálený,“ pravila jako v žertu. „Toť vás ten pan Ambrož dnes asi notně proháněl!“</p>
+
+			<p>„Není divu!“ odpověděl Hynek, sedna na <pb n="100"/> stolici proti Lidmile. „Dnes jest opět hezky horko a pan Ambrož má chladnější krev nežli našinec, protož nedbá na to, když se naše zpění.“</p>
+
+			<p>„Ráda bych ho jednou viděla, jak hrdinsky si počíná. Jest v skutku tak vážný a usedlý, že musí býti milo jej mezi vámi viděti.“</p>
+
+			<p>„Zajisté! viděla bys, že si nikdo nějaký žert s ním nedovolí. Vypeskuje hned každého, ať jest kdo koli. Já sám jsem dnes dostával!“</p>
+
+			<p>„Oho, toť jsi se musel velmi špatně držet, když jsi jej tak popudil, že ani mazánka svého nešetřil!“ smála se Lidmila.</p>
+
+			<p>„Kdybys věděla,“ řekl a oko jeho utkvělo tak milostně na Lidmile, že barvu změnila a po celém těle se zachvěla.</p>
+
+			<p>„Lidmilo!“ pravil Hynek jemným hlasem, „ty nejsi, ke mně více tak, jaks bývala a jak sobě přeji.“</p>
+
+			<p>„Jaké myšlénky se tě to zmocňují, Hynku?“ odpověděla temným hlasem.</p>
+
+			<p>„Hlas tvůj potvrzuje vyřknutí moje,“ řekl Hynek. „Ano, ty nejsi již ta. Již dávno pozoruji, <pb n="101"/> že se mi vyhýbáš a že tvá důvěra ke mně mizí. Řekni mi, co jsem u tebe zavinil, že mne tak rmoutíš?“</p>
+
+			<p>„Ty se trápíš marnými myšlénkami; miluji tě dosaváde co bratra svého.“</p>
+
+			<p>„Co bratra svého?“ zvolal Hynek. „Ano, drahá Lidmilo! i já tebe miloval do nedávna co sestru svou, a však city tyto se změnily ve mně ve vřelejší, světější city, jimž odolati nemohu a nechci, abych nebe blaženosti duši mou naplňující nezkalil. Ano, drahá Lidmilo! miluji tě vroucím a věrným srdcem, miluji tě nad život svůj; s tebou, jen s tebou chci žíti! Ty jsi moje blaho! O jak blažen jsem býval v společnosti tvé, jak mi vždy srdce plesalo, kdykoliv jsi se ke mně laskavě obrátila! V oku tvém jsem čítal tvé přání a nevýslovná slasť byla mi odměnou, kdykoliv jsem je vyplniti mohl. To byla více nežli bratrská láska, já ji však za tu považoval tak dlouho, až city tyto docela jiné tvářnosti nabyly, a s nevýslovnou radostí jsem poznal, že tě miluji.“</p>
+
+			<p>An Hynek před ní stoje, takto k ní mluvil, <pb n="102"/> kanuly slze bolesti z krásných očí jejích; hleděla do hlubiny čistého srdce a poznávala vroucí lásku jeho; tím bolestněji jí bylo, že jest jí nemožno žádost jeho vyplniti. Nevěděla slov, jakými by umírnila bolest, kterouž mu místo blaženosti podati musí.</p>
+
+			<p>„Hynku!“ promluvila konečně tiše, bledou, slzami skropenou tvář k němu pozvednouc. „Poznávám s bolestí tvou věrnou lásku ke mně a právě v tuto lásku, v mužného šlechetného ducha tvého důvěřuji, že nad sesterskou lásku ode mne více žádati nebudeš.“</p>
+
+			<p>Hynek stiskl oběma rukama prsa svá, zdálo se mu, jako by byl ledový mráz okamžením všecku krev v srdci jeho v led proměnil, obličej mu zbledl, konečně pravil: „Lidmilo, to jsi mi neměla učiniti!“</p>
+
+			<p>Tato tichá mužná bolest Hynkova dojala hluboce Lidmilu.</p>
+
+			<p>„O Hynku! odpusť!“ prosila slzíc. „Odpusť mi vinu, za kterou já sama nemohu a za kterouž již po delší čas trpím! Ó kdybysi věděl –“</p>
+
+			<p>„Nic, Lidmilo, dnes nic! Nechci dnes nic <pb n="103"/> věděti,“ pravil Hynek v chladné bolesti. „Nenacházím na tobě žádné viny. Můžem-liž hvězdám veleti, jakou dráhou jíti mají? Já nemohl rozkazovat srdci svému, ty svému. Kdož může za to, že se k sobě nesklánějí? Buď s Bohem, sestro má!“</p>
+
+			<p>Měl se k odchodu.</p>
+
+			<p>„Hynku!“ rozkřikla se Lidmila u víru bolestí „Hynku! pro Boha živého tě prosím, tak ode mne neodcházej!“</p>
+
+			<p>Hynek jí podal ruku, a pohlednuv na ni okem, v němž se nevýslovná bolest zklamané naděje jevila, pravil srdečně:</p>
+
+			<p>„Neodcházím v hořkosti od tebe, chci pouze bouři mysli své utišiti, abychom pak pokojněji spolu žíti mohli. Ztratil jsem milenku, bratr však sestru neopustí. S Bohem!“</p>
+
+			<p>Křečovitě mu stiskla Lidmila ruku a pak obličej si zakryvši tiše plakala a plakala ještě dlouho po odchodu Hynkově.</p>
+
+			<p>Slunce zapadlo, večerní soumrak se vloudil do komnaty a zahaloval ji v hustý plášť <pb n="104"/> svůj. Lidmila pohřízena v hlubokém, bolestném blouznění nepohnutě jako socha seděla.</p>
+
+			<p>Kroky se ozývaly na síni, jež vždy ráda slýchávala, tenkráte jich neslyšela.</p>
+
+			<p>Otec vstoupil do komnaty a vida Lidmila nepohnutou, domníval se, že spí. Tiše odložil svrchní šat svůj a posadil se, jak obyčejně, do lenošky své a oddal se přemýšlení.</p>
+
+			<p>Měsíc počal šero zaplašovati a zponenáhla temným světlem svým komnatu osvětloval.</p>
+
+			<p>Hluboké vzdechnutí se vyvinulo z prsou děvčete. Otec se tomu podivil.</p>
+
+			<p>„Lidmilo!“ zvolal přívětivě, „jaké sny tě tíží?“</p>
+
+			<p>Lidmila se vzchopila a vidouc otce před sebou brzy se zpamatovala; temnost nedovolovala obličej její pozorovati, jehožto bledosti by se byl otec zajisté zhrozil.</p>
+
+			<p>„Odpusť, otče!“ pravila, „že jsem tě nepozorovala. Jakási slabost se mne zmocnila, a já ani nepozorujíc, v jakési snění jsem upadla.“</p>
+
+			<p><pb n="105"/> „Pojď, posaď se ke mně!“ řekl otec laskavě. „Doufám, že to nebude žádná nemoc!“</p>
+
+			<p>Lidmila, vzavši nízkou stoličku, a jak to často činívala, posadila se k nohoum otce svého a hlavu mu na klín položila.</p>
+
+			<p>Plný měsíc, hledě přívětivě na domácí skupení toto, osvětloval komnatu dosti jasně, tak že se všecko pohodlně rozeznati mohlo; otevřeným oknem sem zasahoval chvílkami hluk z města.</p>
+
+			<p>Po chvíli pravil primator pohnutým hlasem:</p>
+
+			<p>„Lidmilo, dcero má! Již nějaký čas pozoruji jakousi změnu na tobě; býváš často zamyšlena a veselost tvá ti nejde tak od srdce, jako jindy. Z toho soudím, že tě něco hněte. Pověz otci, co tě rmoutí. – Vidíš, jsem již sestárlý; na dlouhý čas svého pobytí na tomto světě nemohu počítati, rád bych tě viděl šťastnou.“</p>
+
+			<p>Každé slovo otcovo bylo ostrý trn do srdce dívčina, bez toho již tak rozboleného, velké slzy se jí perlily z očí.</p>
+
+			<p>„Drahý otče, jak to mluvíš?“ odpověděla konečně. „Proč se zanášíš takovými neblahými <pb n="106"/> myšlénkami? Bůh zajisté takový zármutek tak brzy na mne nedopustí.“</p>
+
+			<p>Otec ji pojal za bradu a lehce hlavu jí pozdvihl, a vida obličej milované dcery slzami skropený, pravil pohnutým hlasem:</p>
+
+			<p>„Vždyť já také v dobrotivého otce nebeského doufám, že to ještě tak brzy nebude. Nechtěl jsem tě slovy svými zarmoutiti. Nebuď bláhová! Péče moje o tebe mi slova tato k srdci přivedla.“</p>
+
+			<p>Políbil ji v čelo.</p>
+
+			<p>Tu se rozskočily bolestné kruhy, srdce Lidmilino svírající, a duše její po soucitu prahnoucí otevřela se důvěrně laskavosti otcově.</p>
+
+			<p>Věrně a upřímně vyznala dcera v hořkém pláči u nohou otcových celou svou lásku, vypravovala o Jiříku a o Hynkovi, líčila mu svou lásku, své bolesti i obávání své.</p>
+
+			<p>Primator poslouchal, neodpovídaje; co v srdci jeho se dělo, nelze popsati; minulý život lásky jeho se mu rozvinoval opět živě před okem duševním, a však slovo za slovem dcery bořilo všecky blažené úmysly jeho strany <pb n="107"/> Hynka, jehož co oko v hlavě miloval a na němž – jak si pevně byl předsevzal – nevinný poklesek svůj nahraditi mínil.</p>
+
+			<p>Dlouho do noci seděl otec s dcerou svou.</p>
+
+			<p><pb n="108"/></p>
+
+		</div>
+
+		<div>
+
+			<head>8.</head>
+
+			<p>Druhého dne ráno se roznesla pověst po městě Klatovech, že celé vojsko křižácké meze české překročilo. Domažlice že jsou obklíčeny, všecky vesnice tohoto vůkolí že popelem lehly; nepřítel že všady ukrutně vraždí, plení a drancuje, lidé že strachem a hrůzou před nepřítelem v lesích se ukrývají. Hrozný strach šel před práporem bílým, na němž se červenal kříž krvavý, a před jeho urputnými, nelitostnými zástupy.</p>
+
+			<p>Následkem takových pověstí nastal v městě veliký zmatek a strach.</p>
+
+			<p>Brány města se zavřely a padací mosty vytáhly, na bašty se vyvezlo šest železných švihovek a mnoho háků a půlháků se připravilo; <pb n="109"/> kde kdo nějakou zbraň měl, ta se čistila a připravovala.</p>
+
+			<p>Přislíbená pomoc královským vojskem se dosaváde neukazovala; byli tedy Klatovští pouze na svou sílu a statečnost odkázáni.</p>
+
+			<p>Primator netratil zmužilosti, kázal okamžitě všecky přípravy k odražení útoků nepřátelských uchystané pohotovu míti.</p>
+
+			<p>V těchto dobách osvědčil pan Ambrož dostatečně svou schopnost. Byl na všech místech, všady dohlížel, napomínal, vzbuzoval a sám i pomáhal. Nejvíce přihlížel k opravování zdí, k připravování nových náspů a tarasů, pak k postavení pevných srubů dubových pro střelce s háky a s kušemi.</p>
+
+			<p>Dílem přípravami těmi, dílem že žádná další zpráva nepřicházela, kteráž by byla pověsti tyto potvrdila, upokojila se k polednímu rozbouřenost v městě.</p>
+
+			<p>Aby se dověděl, co na takových pověstech pravého jest, uzavřel pan Ambrož svého věrného Součka co vyzvědače do okolí nepřátely zaplaveného vyslati.</p>
+
+			<p><pb n="110"/> Právě stál s ním na městské hradbě blíže brány k západu vedoucí, dávaje mu poslední rozkazy a napomenutí, jak by se zachovati měl; tu spatřil člověka po silnici od Bavor rychlým krokem přímo k městu pospíchajícího.</p>
+
+			<p>Bylo na něm z daleka pozorovati, že všecku svou sílu napíná, aby cíle došel.</p>
+
+			<p>„Součku! vidíš člověka toho tam na tom návrší?“ tázal se Ambrož, ukazuje rukou v tu stranu.</p>
+
+			<p>Souček se ohledl a po chvíli odpověděl: „Zajisté! avšak, jak pozoruji, jest hezky utrmácen. Ten musel dnes již řádný kousek cesty uraziti, aneb se příliš velkým chvatem přehnal. Aby to kat spral!“</p>
+
+			<p>„Tuším, že to bude zvěstovatel nějakých smutných zpráv,“ pravil Ambrož. „Součku, pospěš mu rychle naproti, a je-li tomu tak, nedej mu se žádným mluviti, aby snad před časem zprávy se neroznesly, kteréž by strach a hrůzu plodily. Jdi, pospěš a přiveď ho sem!“</p>
+
+			<p>Souček se vyřítil jako střela, a než minulo <pb n="111"/> půl hodiny, stál posel mezi branou před Ambrožem, jenž jej přímo na radní dům dovedl.</p>
+
+			<p>Posel vypravoval:</p>
+
+			<p>„Silný zástup křižáckého vojska překročil hranice české před třemi dny; Nový Trh vydrancoval do čista, při kteréžto příležitosti několik lidí ukrutným způsobem o život přišlo; na to táhl ku Kdýni. Obyvatelé kdýnští co možná městečko zákopy, zásekami a sruby ohradili a sesíleni okolním lidem na odpor se postavili; bez cizí a rychlé pomoci se však nebudou moci na dlouho brániti. I žádají snažně Klatovských, aby se jim v tomto nebezpečí laskavě propůjčili. Hlavní vojsko stojí ještě daleko pozadu, počet zástupu tohoto nelze udati.“</p>
+
+			<p>Posel je cenil asi na čtyry sta.</p>
+
+			<p>Co se na to v městské radě uzavřelo, zůstalo tak tajno, že se o tom krom hlavních osob nikdo nedověděl, i zpráva o vpádu zástupu toho zůstala tajná.</p>
+
+			<p>Po dvou hodinách vidíme opět posla kdýnského touž cestou k domovu se ubírati.</p>
+
+			<p>Asi dvě hodiny před půlnocí téhož dne <pb n="112"/> seděl pan Ambrož ve své věžní komnatě na nízkém lůžku svém, srstnatou kůží medvědí pokrytém; seděl u těžkého dubového stolu, na němž vedle bible ležel pádný meč a vedle postilly stál ozdobný cínový džbán, jehož víko, poněkud rozviklané, svědčilo o přečasté jeho potřebě.</p>
+
+			<p>Tři osoby stojí před Ambrožem.</p>
+
+			<p>Kahánec na stole hořící dosti mdle je osvětluje, ačkoli mu v úřadu tom pomáhá lampa, na prostřední růži vysoké gothické klenby zavěšená; avšak klenba jest příliš vysoká a svit lampy té ozařuje nejvíce dva obrazy, vysoko nad Ambrožovým lůžkem zavěšené.</p>
+
+			<p>Ona živá tvář je Žižkova, jak z pásky nad okem a dle přimalovaného znaku kalicha lehko poznati, ostatně malíř tvář Jana Žižky patrně zpotvořil, ačkoli jen z nedovednosti, ne však z úmyslu, jak se později stávalo. Druhá podobizna pocházela od lepšího malíře; představovala druhého hrdinu Táborů, Prokopa Velkého, jehož holá lebka skoro příšerně se svítila na dolestojící.</p>
+
+			<p><pb n="113"/> Oni tři mužové u Ambrože byli Hynek, Jiřík a Souček, všickni tři v úplné zbrani.</p>
+
+			<p>Pan Ambrož byl na polo již ozbrojen; vedle na lůžku ležely železné rukavice a těžká přílbice, u nohou lůžka přiklopen štít, znakem města Klatov a průpovědí „Pravda vítězí“ ozdobený.</p>
+
+			<p>Pan Ambrož dává Hynkovi, Jiřímu a Součkovi poslední rozkazy, řka:</p>
+
+			<p>„Střežte brány jako oko v hlavě! Celou noc ať nikdo ani na okamžení oka nezamhouří; klíče mějte u sebe za pasem a nepouštějte žádného ani sem, ani tam, ať se děje cokoli. Kdyby se toho nejmenšího podezřelého stalo, kažte hned udeřiti na buben, hlásný ať troubí a hned se bude zvonit na poplach. Pan primator a čtyři páni konšelé budou dnes celou noc v radním domě bdíti; tam se obraťte o radu a o rozkazy. Světlo ať ve všech branách hoří, avšak zakryté, aby ho nebylo pozorovati a abyste je měli v čas potřeby hned při ruce. Ostatně důvěřuji ve vaši opatrnost. – Nyní buďte s Bohem a každý na své stanoviště, odkud ať <pb n="114"/> se nikdo až do mého návratu nevzdálí. Kdyby pak Bůh se mnou jináče naložil, vzpomeňte někdy na starého Ambrože. Žehnej vám Bůh!“</p>
+
+			<p>V pohnutí podal všem ruku, již tito srdečně a vřele na rozloučenou tiskli.</p>
+
+			<p>„Aby to kat spral!“ zahučel pro sebe Souček. „Ten pan Ambrož mluví tak, že to člověku podivně okolo srdce škrábe a zdá se mi, jako by mě oči nějak svrběly.“</p>
+
+			<p>Všickni se rozešli.</p>
+
+			<p>Říšská brána se otevřela, řetězy u mostu zarachotily a tmavým otvorem táhlo asi dvě stě dobře ozbrojených mužů, v jejichžto čele mlčky pan Ambrož kráčel.</p>
+
+			<p>Byla to výprava na pomoc Kdýnským.</p>
+
+			<p>Dle rady Ambrožovy, že jest vždy lépe v příležitý čas na nepřítele udeřiti, nežli outoku jeho očekávati, odhodlala se obec k tomuto kroku, avšak také uznala za dobré, aby se to v největší tajnosti stalo, by se o tom nepřítel nedověděl.</p>
+
+			<p>Správu nad výpravou svěřili panu Ambrožovi, <pb n="115"/> jenž nyní celé vedení do rukou vzal, a jak vidíme, velmi opatrně jednal.</p>
+
+			<p>Znal se výborně v podobných půtkách. Věděl dobře, že po půl noci nejlepší čas na nepřítele udeřiti a od posla kdýnského se dověděl všelikých podrobností, jichž k provedení záměru svého výborně použiti mohl. Polohu okolní také dobře znal, mohl se tedy dobrého výsledku nadíti.</p>
+
+			<p>Kdýnským vzkázáno, aby v této noci pohotovu byli, a když Klatovští z jedné strany na nepřítele udeří, aby oni z města vypadli a z druhé strany nepřítele tiskli.</p>
+
+			<p>Noc byla tmavá, tudíž podniknutí tomu příznivá. Vítr hučel a poháněl tmavé mraky po obloze, z nichž chvílkami dešťové kapky padaly; zřídka a jen na okamžení se objevila jednotlivá hvězda na tmavé obloze. Ostatně byla noc teplá.</p>
+
+			<p>Tiše jako nadvětrní duchové táhli vojínové hrbolatou cestou k Bavorům a míhali se v noční tmě co postavy tajemné.</p>
+
+			<p>Nothaft, již netrpěliv, že hlavní vojsko <pb n="116"/> tak vahavě si počíná, uzavřel sám na svou ruku jednati. Okolnosti se mu zdály býti příznivy.</p>
+
+			<p>Od Hroudy se dověděl, že posaváde v celém okolí žádného řádného vojska není a že branného lidu na hranicích nebylo, o tom se sám přesvědčil. Soudil také dobře, že by se snadno vyzraditi mohl, kdyby zde déle prodléval a že by pak snadno na odpor vraziti mohl, anebo že by lid okolní bohatství své ukryti mohl, po kterém se mu velmi chtělo a což jej hlavně k podniknutí mělo.</p>
+
+			<p>I hnul se ku předu. Městečko Nový Trh hned vydrancoval a poplenil a v krátce před Kdýň se postavil.</p>
+
+			<p>Kdýnští, ačkoliv věděli, že se neubrání, usnesli se na tom, že aspoň prvnímu návalu se na odpor postaví, aby snad potom smlouvou něco zachovali.</p>
+
+			<p>Lid okolní se sem sběhl a to jim dodalo zmužilosti, když viděli počet síly své přibývati; i žádali Klatovské o pomoc.</p>
+
+			<p>Nothaft, vida Kdýň dobře obsazenou, předsevzal si hned na městečko udeřiti; maje za <pb n="117"/> to, že nezkušený zbraně lid venkovský snadno přemůže. Outok jeho první byl však odražen.</p>
+
+			<p>To jej mýlilo; avšak od úmyslu svého neupustil.</p>
+
+			<p>Položil se zde polem a zatím vesnice okolní vybíjel.</p>
+
+			<p>Uzavřel, silným outokem městečka dobyti, což se právě druhý den na to státi mělo, když kdýnský posel do Klatov přikvapil.</p>
+
+			<p>Když se večer přiblížil, rozestavil stráže na všecky strany a celý tábor se ubíral k odpočinutí; ohně dohořívaly, tma se rozkládala a hluk zponenáhla umlkoval; jenom v městečku se tu a tam světla zakmitla, až se všecko tak usadilo, že se zdálo, jako by byla celá krajina nejlepšího míru požívala.</p>
+
+			<p>Zde a tam se ještě houknutí jednotlivé stráže ozvalo, až i to umlklo.</p>
+
+			<p>Půlnoc již byla minula a hustá tma, z okolních vod vystupující, počínala svým tmavým vlhkým závojem krajinu tak pokrývati, že nebylo ani na pět kroků viděti.</p>
+
+			<p>Na jednom pahorku, asi dvě stě kroků od <pb n="118"/> tábora vzdáleném, stál o silný kmen podepřen vojín na stráži s hlavou na prsa svislou a podřimoval, chvílkami se probral ze spánku, avšak se mu hlava vždy hned opět sklonila; konečně jej jakýsi šustot na blízku z dřímoty vytrhl, pro mhu nemohl však nic pozorovati.</p>
+
+			<p>Předc však zvolal: „Hej! kdo to?“</p>
+
+			<p>Najednou se mu něco před očima mihlo, a než se zpamatoval, projela mu ostrá ocel prsa, krev mu vystříkla a on se mlčky na zem svalil.</p>
+
+			<p>Hned na to se míhaly postavy, jež se rychle ku předu hnaly.</p>
+
+			<p>Netrvalo to dlouho a křiky, nářky, klení a lomoz zbraně se rozléhaly a celá krajina najednou v děsném lomozu procitla.</p>
+
+			<p>V Kdýni se rozlítla světla jako blesk, znamení to, že připraveni jsou.</p>
+
+			<p>Přepadnutí se výborně podařilo.</p>
+
+			<p>Klatovští se řítili v prvním okamžení jako proud do ležení nepřátelského a v prvním návalu všecko před sebou poráželi, co se jim v cestu stavělo.</p>
+
+			<p>Nothaft vyskočil na první pokřik ze stanu <pb n="119"/> a sbíral okolo sebe lid svůj k odporu, což se mu po mnohém namáhání konečně podařilo.</p>
+
+			<p>Tu se však z druhé strany Kdýnští vyhrnuli a jej udatně tepali.</p>
+
+			<p>S dvou stran obklíčen bránil se Nothaft statečně, nemohl však přesile odolati.</p>
+
+			<p>První paprsky sluneční osvětlovaly ouplné vítězství Klatovských; asi sto nepřátel leželo porůznu pobito, mezi nimi i Nothaft; mnozí poranění přišli do zajetí, ostatní se skrývali, kde mohli, utíkajíce k Bavorům.</p>
+
+			<p>Radost z vítězství byla veliká a rozněcovala zmužilost a bujarou mysl okolních obyvatelů, kteří se ze všech stran do táboru Klatovských hrnuli a důkazy vděčnosti jim přinášeli.</p>
+
+			<p>Obzvláště toho byli Kdýnští nadmíru povděčni a častovali vojíny v domech co nejpřívětivěji.</p>
+
+			<p>Domažličtí, kteříž k svému zármutku Kdýnským na ten čas pomoci nemohli, poněvadž se jim branného lidu nedostávalo a města svého opustiti nesměli, osvědčili ochotnost tím, že <pb n="120"/> s Kdýnskými úmluvu k obhájení obapolnému učinili.</p>
+
+			<p>Pan Ambrož, jemuž se právem šťastné povedení výpravy této přikládalo, docházel všady znamenité uznalosti a pocty. Ale i nepřítel jej poctil.</p>
+
+			<p>V boji s Nothaftem, jehož vlastní rukou mečem svým probodl, dostal ránu do hlavy, která snadno dosti nebezpečná býti mohla, kdyby se nebyl záhy mečem kryl. Nosil hlavu obvázanou.</p>
+
+			<p>Klatovští, odpočinuvše sobě několik hodin v Kdýni, vydali se odpoledne k rozkazu pana Ambrože na pochod k domovu, jsouce hodný kus cesty četným obyvatelstvem provázeni.</p>
+
+			<p>Pan Ambrož, maje po boku vojína, dobytý prapor Nothaftův nesoucího, kráčel v čele svého zástupu, z něhož mu jich několik na poli před Kdýní ležeti zůstalo, s jakýmsi nepokojným chvatem, jenž jej neopustil, až věže klatovské s jednoho vršku spatřil.</p>
+
+			<p>Tuť sobě oddechl, jako by byl těžké břemeno se sebe svalil, a nyní volněji kráčel.</p>
+
+			<p><pb n="121"/> Bubny rachotily, trouby zněly a množství obyvatelů klatovských pokrývalo náspy městské, šátky kývajíce a radostně pokřikujíce, když se zástup vítězný k městu blížil.</p>
+
+			<p>Opět se brána otevřela, opět řetězy u padacího mostu zařinčely a vesele kráčel zástup do města. Ulice byly lidem naplněny, jenž radostným pokřikováním vítězné vojíny vítal.</p>
+
+			<p>Pan Ambrož s hlavou obvázanou a vojín prapor dobytý nesoucí byli hlavním předmětem srdečné radosti.</p>
+
+			<p>Na náměstí byla tlačenice největší; každý chtěl viděti a slyšeti, co se díti bude, a každý dělal všemožně hluk tak velký, že soused sousedu nerozuměl, co mluví.</p>
+
+			<p>Před radnicí se vojínové seřadili, pan Ambrož vzal prapor a vešel s ním do domu, kdež jej celá obec očekávala a slušně uvítala.</p>
+
+			<p>Brzy na to vystoupil pan primator na výpustek a ve jmenu obce a celého města vojínům slušnými slovy za jejich statečné chování děkoval.</p>
+
+			<p><pb n="122"/> Radostný pokřik obecného lidu skončil výjev tento.</p>
+
+			<p>Počali se rozcházeti; tuť vystoupili přednější měšťané a vojíny k sobě na hostinu zvali, z jakéž cti tito se radujíce, pozvání vděčně přijímali.</p>
+
+			<p>Druhého dne se prapor dobytý s velikou slavností v hlavním chrámě Páně vedle hlavního oltáře upevnil, kdež až do novějších dob visel. Při příležitosti bílení a opravování kostela odtud později zmizel.</p>
+
+			<p><pb n="123"/></p>
+
+		</div>
+
+		<div>
+
+			<head>9.</head>
+
+			<p>Nastalo nepříjemné deštivé počasí; vítr proháněl tmavošedé oblaky po obloze a rozdmychoval déšť hustý na všecky strany; každý se raději držel pod přístřeším; kdo nemusel ven, seděl doma a hleděl z okna na tu nehodu.</p>
+
+			<p>Málo kde bylo v poli člověka spatřiti, jenž v plášti až po uši zahalen a ku předu nahnut rychlým krokem pospíchal, aby se pod krov dostal.</p>
+
+			<p>Dvéře u pastoušky se lehce otevřely a muž vystrčil hlavu a jakoby vyzvídal, není-li nikdo v cestě, na všecky strany opatrně se ohlížel.</p>
+
+			<p>Opatrnost jeho byla marná. Kdož by byl v tomto lijáku cestou blátivou a vodou přeplavenou šel!</p>
+
+			<p><pb n="124"/> Přesvědčiv se k spokojenosti své, že tu nikdo není, vystoupil v hrubý plášť zahalen, hlavu maje širokým kloboukem přikrytou, zavřel opatrně dvéře za sebou a přímo ku Klatovce kráčel.</p>
+
+			<p>Tam seděl u stolu jeden muž z oněch dvadcíti, jež jsme již byli poznali.</p>
+
+			<p>Bylo patrno, že někoho netrpělivě očekává, neboť často vstával a malým okénkem vždy v onu stranu pohlížel, kde pastouška ležela, a pak vždy netrpělivě mumlaje na předešlé místo se posadil.</p>
+
+			<p>Konečně vstoupil onen muž do dveří, jehož jsme tak opatrně z pastoušky vyjíti viděli.</p>
+
+			<p>Sejmul široký klobouk, s něhož pak vodu otřásal, a plášť deštěm hojně namoklý přes bidlo nad kamny přehodil, aby uschnul.</p>
+
+			<p>„Již jsem myslil, že nepřijdeš! Čekám již přes hodinu na tebe!“ oslovil jej u stolu sedící.</p>
+
+			<p>„Měl jsem s choulostivým Vondrou co <pb n="125"/> vyjednávati,“ odpověděl mrzutě příchozí, jenž nikdo jiný nebyl nežli zrzavý Hrouda.</p>
+
+			<p>„Není zde nikdo jiný krom tebe?“</p>
+
+			<p>„Nikdo!“ odpověděl první. „Kdož by sem v té plískanici šel!“</p>
+
+			<p>Hrouda se posadil ke stolu a začala se rozprávka přidušeným hlasem, tak že hlas jejich ani přes celou světnici nepřesahoval.</p>
+
+			<p>„Co o té radosti těch městských hlupáků soudíš?“ ptal se neznámý.</p>
+
+			<p>„Aby všecky blesky pekelné hnízdo to pohltily!“ zasípal Hrouda. „Bylo to všecko tak krásně navlečeno, že se člověku srdce v těle smálo. A ten hlupák Nothaft nám všecku radost svou nejapností pokazil.“</p>
+
+			<p>„Inu navlékli to proklatě chytře, to se musí těm měšťákům nechati!“ prohodil cizinec.</p>
+
+			<p>„Vaňku! kdybych věděl, že se mi chceš posmívati, brzy bych ti ten tvůj jízlivý dech z ohavného těla vymáčknul!“ zasípal Hrouda. „Nech takového tlachání, já jsem bez toho Vondrou nakvašen.“</p>
+
+			<p>„Nebuď blázen!“ pravil Vaněk. „Musíme <pb n="126"/> i nepříteli zadost učiniti. Komu čest, tomu čest! Však i na nás řada dojde. Nu a co jest s Vondrou?“</p>
+
+			<p>„Jen si pomysli,“ vypravoval Hrouda, „chlap ten chce hrát na poctivého. Když jsem se zde před lety zdržoval, tu býval můj nejlepší příruční a hezké kousky vyváděl a nyní jest docela jiný. Dělá všeliké háčky, tak že by se snadno státi mohlo, že by nás vyzradil. Abychom se ho z té strany ujistili, vzali ti hoši dceru jeho mezi sebe na podnebí, svázali ji a hrozeno mu, že ji jako jehně zapíchnou, jestli že se nepoddá. Nyní jest jako beránek!“</p>
+
+			<p>„Hroudo, čím více tě poznávám, tím víc se musím výborným nálezům tvého velkého ducha obdivovati! Ty jsi mezi námi předc vždy jen ten první a my zůstanem tvoji učeníci. A nyní přikročme k věci. První nás úmysl ten mezek Nothaft překazil, za to také za svou hloupost hnije. Jak tedy teď?“</p>
+
+			<p>„Řekni mi, jak se to stalo, že celá ta výprava tak tajná zůstala a že vás s sebou nevzali?“</p>
+
+			<p><pb n="127"/> „O, kdyby nás byli s sebou vzali,“ litoval Vaněk, „zajisté by byli s plačky domů přišli! Čert ví, co v tom bylo, že nás zde nechali. Mně tak přichází, jako by nás ten starý lamželezo Ambrož v jakémsi podezření měl; na mne aspoň nehledí příliš laskavým okem. My jsme se nic nedověděli až po jejich odchodu, a tu Souček a ti dva holobrádkové všecko tak pilně a ostře hlídali, že jsme se nemohli ani hnouti. V takových okolnostech jsem uznal za dobré žádného hluku nedělati, abychom před časem žádnou hloupost nevyvedli.“</p>
+
+			<p>„A dobřes učinil!“ doložil Hrouda. „Poněvadž nyní sami na sebe odkázáni jsme, musíme tím více opatrnosti a lsti užívati, chceme-li záměru svého úplně dosáhnouti. Nothaft se domýšlel, že já sloužím jemu, zatím by byl sloužil on mně. Jeho nehodou se však v úmyslu svém zmýliti nedám, i kdyby se celé peklo proti mně postavilo. Již prahnu tolik let po pomstě a pomstím se, kdybych i sám při tom zahynouti měl a pekelným mukám věčným propadl. Nechci než pomstu a pomsta má musí býti hrozná, že <pb n="128"/> nad ní i ti nejstarší ďáblové v pekle jásati budou. Všecku kořist si vezměte, jen mi pomstu nechte!“</p>
+
+			<p>Hlas jeho nad obyčej sípal, z očí mu jenom blesky sršely, zrzavé vlasy se mu ježily a ústa, z nichž bílá pěna vystupovala, se mu křečovitě skřivila. Šla z něho taková hrůza, že se i zlotřilý Vaněk zhrozil.</p>
+
+			<p>Po chvíli se Hrouda opět ve své vášni utišil a pak počal k Vaňkovi takto mluviti:</p>
+
+			<p>„Křižáci nebudou déle odkládati, za několik dní tu budou, avšak také vím, že vojsko královské také zejtra – nejdéle pozejtří sem přitáhne. Na každý způsob se bitva v tomto okolí strhne, v níž křižáci sbiti budou, neboť jest to samá holota, pouze loupeži zvyklá, kteráž se k řádné bitvě nehodí. To však ať vypadne jakkoli, my se budeme držeti svého. Nás jest pět a dvadcet, v počtu málo, avšak v odvaze síly dost. Vy se starejte o to, aby vás v městě nechali, když potáhnou ostatní do pole; jestliže vás ale vyšlou, jděte s nimi, najdete příležitosti se vrátiti. V pastoušce dojdete bezpečného <pb n="129"/> přístřeší, tam vás budu v noci před bitvou očekávati. Těch pět postačí, všecka předměstí v jednu chvíli zapáliti. My se v tom zmatku snadno do města dostanem a též tak na čtyrech místech učiníme. Zůstanete-li v městě, bude vám oheň v předměstí znamením, abyste také tak učinili. V té zmatenici mohou ostatní sbírati, co se jim nahodí; ty však zůstaň u mne, abysi byl svědkem a pomocníkem pomsty mé. Kořist, jakou bysi mohl učiniti, desateronásobně ti vynahradím. Jakým způsobem, to uvidíš. Také tě povedu do domu, kde se dá mnoho nakořistit. To jest hlavní můj rozvrh, o podrobnostech se ještě mezi sebou uradíme.“</p>
+
+			<p>Na znamení srozumění pokynul Vaněk hlavou a rukou dáním se zavázal k vyplnění skutku ohavného, pak ale pravil:</p>
+
+			<p>„Znám tě již kolik let, Hroudo, ale tu tvou pomstu nepochopuji. Řekni mi, co tě k tomu vede?“</p>
+
+			<p>Hrouda, pohleděv na něho chvíli zrakem pronikavým, odpověděl:</p>
+
+			<p>„Vaňku, nežádej si toho věděti, upomínka <pb n="130"/> na to by mne strašně zbouřila a já mám všech pět smyslů zapotřebí. Až bude konec všemu, pak se všecko dovíš.“</p>
+
+			<p>Na to vstal, vzal plášť a klobouk a měl se k odchodu.</p>
+
+			<p>Vaněk jej po chvíli následoval.</p>
+
+			<p>Venku zatím déšť přestal; východní vítr zaháněl chmury za lesy a paprskové zapadajícího slunce leskli se v tisícerých kapkách; po dlouhém suchu se celá příroda občerstvila a polní kvítí vydychovalo příjemnou vůni.</p>
+
+			<p>Po bouřlivém dešti nastal krásný večer.</p>
+
+			<p>Na pokrají lesa Točnického, jak víme, stálo skrovné, z mohutných klád pevně vybudované a šindelem kryté stavení, v němž polesný Lubánský přebýval.</p>
+
+			<p>Okolo stavení se táhla skrovná, a však oupravně spořádaná zahrádka, živým plotem ohrazená, v níž několik ovocných stromů a záhony se zeleninami spatřujeme.</p>
+
+			<p>Právě seděl starý polesný na lavici před domem a hleděl do krajiny, časem rukou oči <pb n="131"/> před sluncem si zakrývaje a k městu zraky obraceje, odkudž syna Jiřího očekával.</p>
+
+			<p>Z blízké vesnice Točníka ozývaly se zpěvy a klepání srpů a kos. Dále za vsí se rozprostírala prostranná hladina Točnického rybníka, mnoho chutných a rozmanitých ryb poskytujícího; v rákosí hustě a bujně zarostlém hnízdilo a prohánělo se veliké množství vodního ptactva.</p>
+
+			<p>Pod mohutnou hrází stál mlýn, z něhož se jednotvárné klepání mlýnských kol po krajině rozléhalo.</p>
+
+			<p>Za vzdáleným návrším se vypínaly vrcholky věží městských, na jejichžto pozlacených makovicích se paprsky zapadajícího slunce rozrážely.</p>
+
+			<p>Vůkol se rozkládaly zelené louky a úrodná pole dílem již sklízená, dílem ještě zralým obilím pokrytá. Sem a tam se lidé ještě s polní prací obírali aneb dobytek domů poháněli.</p>
+
+			<p>Lubánský hleděl s patrným zalíbením na tento klidný obraz přírody.</p>
+
+			<p>Tu se mu kmitl stín před očima, a pozvednuv očí, spatřil před sebou cizího v hrubém <pb n="132"/> plášti zaobaleného muže státi; široký klobouk kryl hlavu a z části také obličej jeho.</p>
+
+			<p>Lubánský naň hleděl zpytavým zrakem; když ale cizinec stoje nepromluvil, pravil: „Kdo jste a co chcete?“</p>
+
+			<p>„Hm! podivná věc,“ odpověděl cizinec, „jsem z té krajiny, a že jsem se několik časů po světě poohledl, musel jsem se hrozně zjinačiti, že mne ani ti nepoznávají, kteří mne jindy dobře znali, a každý se mne ptá, kdo jsem a co chci?“</p>
+
+			<p>Lubánskému se zdál člověk ten s takovou řečí velmi drzý, pročež naň zamračeně pohledl a nevrle pravil: „Na známosti vaší mi bude asi málo záležeti, pročež mi hned řekněte, co chcete, neboť se odtud kliďte.“</p>
+
+			<p>„Že vám na mé známosti málo záleží, dost možná,“ odpověděl lhostejně cizinec; „mně však předce na tom trochu záleží, abyste poznal, kdo jsem. A co se odklizení týče, myslím, že to tak zhola nebude.“</p>
+
+			<p>„Člověče, vaše drzost jest zde na nepravém místě!“ zvolal Lubánský poněkud rozloben. <pb n="133"/> „Nechte tlachání a řekněte, co vás sem vede, nebo vám ukáži, že s vámi velkých okolků činit nebudu.“</p>
+
+			<p>Cizinec se ušklíbl a pak pravil pohrdlivě: „Strašte žáby v rybníce, ale mne ne!“</p>
+
+			<p>Lubánský vstal a přistoupiv k cizinci, pravil zlostně: „Chlape! nechceš-li, abych tě hned na místě co poběhlíka zatknouti dal, v tu chvíli se odkliď. Potřebuji pouze tamto na ten lid zavolati a jistě za tvou hrubost bez odplaty neodejdeš.“</p>
+
+			<p>Při tom ukázal na tři muže, nedaleko trávu kosící.</p>
+
+			<p>Cizinec se ohledl v tu stranu, vida ale, že nadzmínění mužové dosti daleko vzdáleni jsou a že by několik okamžení potřebovali, nežli by tohoto místa došli, tak že by dříve blízkého lesa dostihl, odpověděl pokojně:</p>
+
+			<p>„Zdá se mi, že jste více v moci mé nežli já ve vaší; avšak toho nechme. Nepřišel jsem, abych se s vámi hrdloval, nýbrž abych vám vzkázání od jakéhosi člověka přinesl; jenž prý vás dobře zná.“</p>
+
+			<p><pb n="134"/> „Mne zná mnoho lidí,“ pravil Lubánský, „jichž já neznám. – Jaké jest to vzkázání?“</p>
+
+			<p>„Znáte nějakého Hroudu?“ ptal se cizinec.</p>
+
+			<p>„Hroudu?“ opakoval Lubánský, jako by se byl chtěl na jmeno to upamatovati; najednou však se mu tvář zarděla, i zvolal s ošklivostí: „Zrzavého Hroudu? Toho padoucha?“</p>
+
+			<p>„Nemluvte o něm tak nešetrně,“ odpověděl cizinec zamračeně, „mohl by se vám za to špatně poděkovati.“</p>
+
+			<p>„Jestliže jste sem proto přišel,“ pravil Lubánský ostře, „abyste se mnou o tomto lotru mluvil, nadarmo jste cestu vážil! – Nyní jděte!“</p>
+
+			<p>„Nechcete-li s poslem jeho mluvit, snad budete raději s ním samým vyjednávat!“ odpověděl cizinec a odhodiv plášť a klobouk stál před Lubánským Hrouda.</p>
+
+			<p>Zlost, opovrženost a ošklivost se jevily v pohledu, jakýmž Lubánský na Hroudu hleděl; po chvíli pravil náruživostí se třesoucím hlasem: „A ty se opovažuješ –“</p>
+
+			<p>„Ano, já se opovažuji!“ přejal mu Hrouda <pb n="135"/> řeč a mluvil strašným, sípavým hlasem dále: „Ano já se opovažuji, mstou, prahnoucí mstou puzen, do okolí tohoto vstoupiti, odkudž jste mne biřicem vymrskati dali. Každá rána mne pálí jako žhavé železo na zádech a rozplameňuje pomstu mou, již jsem z části na tobě byl již vykonal, z části ještě na jiných vykonati musím. Věz, pane Lubánský, že já to byl, který celé jmění tvé požárem zničil. Chtěl jsem tě do bídy uvrhnouti a za tvou pýchu v prach ponížiti, abys se po celý život se svou ctnostnou manželkou v bídě a nouzi ploužil, rád bych tě byl viděl s mošnou od domu k domu o almužnu žebrati. Z části se mi msta moje podařila: vidím toho, jenž tisíci vládl, za vezdejší chléb otrockou službu konati.“</p>
+
+			<p>„Ďáble, čím jsem ti ublížil?“ zvolal Lubánský v největších úzkostech.</p>
+
+			<p>„Čím jsi mi ublížil?“ sípal Hrouda. „Myslíš, že sprostý chuďas nemůže pocítiti lásku tak jako bohatý? Miloval jsem ženu tvou, a <pb n="136"/> že jsi ty byl bohatý a vznešený, zavrhla proto mnou a tebe se přidržela.“</p>
+
+			<p>„Nemluv o lásce!“ zvolal Lubánský s myslí nad míru pobouřenou, „kterouž jsi ohavnou a mrzkou rukou poskvrniti usiloval!“</p>
+
+			<p>„I to byla pomsta má!“ odpověděl Hrouda. „Chtěl jsem ji v posměch a v hanbu uvrhnouti!“</p>
+
+			<p>„Pekelný lotře! Co mne zdržuje tebe právu odevzdati aneb černou duši tvou mezi pekelníky poslati?“ zvolal Lubánský a vrhl se na Hroudu.</p>
+
+			<p>Tento jej však s ohromnou silou svou uchopil a jako kleštěmi jej stiskna rázně jím na lavici udeřil.</p>
+
+			<p>„Život tvůj byl již několikrát v rukou mých,“ sípal, „ten ti nevezmu, buď jist, tato pomsta by byla sprostá. V bídě a v nouzi musíš trávit život svůj a s hanbou do hrobu sklesneš, o to se ještě postarám. Že mně právu nevydáš, za to mi ručí život syna tvého. Jako honicí pes stopuje jeden z mých lidí <pb n="137"/> kroky jeho a i nejmenší znamení zrady od tebe vycedí krev syna tvého.“</p>
+
+			<p>Pustil jej a vzav plášť a klobouk rychle do blízkého lesa zašel.</p>
+
+			<p>Lubánský zůstal jako omráčen na lavici seděti. Hrozná poslední slova Hroudova zdrtila mysl jeho tak náramně, že se ho šílenost zmocňovati zdála.</p>
+
+			<p>Dlouho tak jako bez smyslů a bez vlády seděl; tu se k němu Jiří vraceje se z města přiblížil a vida stav otce svého velice se ulekl.</p>
+
+			<p>„Otče! drahý otče! Pro Boha, co se ti stalo?“ zvolal hlasem ustrašeným.</p>
+
+			<p>Hlas milovaného syna vytrhl Lubánského ze zděšenosti. Ohlížel se vyvalenýma očima jako bez smyslů vůkol, pak popadl prudce syna do náručí a křečovitě jej k sobě tiskl. Rty se mu pohybovaly, on ale slova ze sebe vypraviti nemohl.</p>
+
+			<p>Jiří jej odvedl do světnice a na lůžko položil.</p>
+
+			<p><pb n="138"/> Příbuzná Lubánského, jež v Točníku byla, právě se také vrátila. Oba ošetřovali pečlivě Lubánského, jehož stav se čím dále do noci, tím více horšil.</p>
+
+			<p><pb n="139"/></p>
+
+		</div>
+
+		<div>
+
+			<head>10.</head>
+
+			<p>Hilarius Litoměřický, horlivý děkan kostela Pražského, odstěhovav se z Prahy do Plzně, kteréžto město od krále odpadlo, usiloval nadarmo zbraní duchovní zmatek v zemi způsobiti. K rozkazu papežovu hrozil všady klatbami, zastavoval ve všech městech služby Boží, kde se zbraně proti králi chopiti nechtěli; ale málo tím pořídil; neboť obyvatelé buďto z náklonnosti, buďto ze strachu před mocí královou hlasu jeho neposlouchali.</p>
+
+			<p>Tu se obrátil papež ku králi uherskému Matyášovi Korvinovi podávaje mu korunu českou.</p>
+
+			<p>Vládychtivý Matyáš se uchopil s ochotností příležitosti této a silným vojskem uherským <pb n="140"/> do Moravy vtrhl, kdež se města Jíhlava, Znojmo, Brno a Holomouce s ním spojila.</p>
+
+			<p>V Čechách povstali proti králi mocní páni Zdeněk Konopišťský z Šternberka a Jan z Rožmberka a město Budějovice.</p>
+
+			<p>Zaměstnán dobýváním hradů pánů jemu odporných, a že s vojskem svým u Polny ležel, obávaje se, aby Matyáš z Moravy do Čech nevtrhl, bylo příčinou, proč král žádné pomoci tak záhy poslati nemohl, jak sobě Klatovští přáli.</p>
+
+			<p>Již opanoval strach a hrůza celé město, neboť zprávy o přibližování se vojska křižáckého se čím dále množily a pověsti děsné o ukrutnostech na bezbranných páchaných, o vypalování a drancování vesnic obíhaly mezi lidem obecným. Každý skrýval ze strachu své nejlepší věci v tajné skrýše a očekával ouzkostlivě každý den, že se nepřítel před městem ukáže.</p>
+
+			<p>Městská obec se ustanovila, rychlé posly ku králi vyslati, aby mu stav věcí oznámili a jej o časnou pomoc žádali; tu se objevili v městě dva jezdci, oznamujíce na zejtří den příchodu <pb n="141"/> vojska královského a vskutku se druhého dne ráno první zástupy žádoucího vojska objevily, jež byl král Jiří pod správou Jeníka, jednoho z předních hejtmanů svých, proti křižákům vypravil, a když i z druhé strany znamenité zástupy bojovného lidu od Strakonic a od Písku přitáhly, proměnil se všecken strach v naději a radost.</p>
+
+			<p>Vojsko to rozložilo se zatím na polední straně města po rovině mezi vsí Lubami a Beňovem.</p>
+
+			<p>Na radnici bylo velmi živo. Všickni náčelníci vojska českého se tam sešli a radili se o nejlepší způsob, jak by nepřítele potřeli.</p>
+
+			<p>Poslové přicházeli a odcházeli nakvap se všech stran.</p>
+
+			<p>Jisté zprávy přišly, že již křižáci hranice české překročili a že se v okolí kdýnském k dalšímu pokroku připravují. Mnohé nářky sem uteklého venkovského lidu se ozývaly po městě, každý vypravoval jednohlasně o nátiscích a ukrutenstvích, jakéž nepřítel všady provozuje.</p>
+
+			<p>Ve velikém prostranném sále městské radnice sedělo okolo dlouhého stolu asi osm znamenitějších <pb n="142"/> vůdců, mezi nimiž královský hejtman Jeník svou mužnou, ačkoliv již obstárlou postavou, svou usedlou vážností a zrakoma rozkazy dávati obvyklýma nad jiné vynikal; podál stolu seděl primator a přednější konšelé městští.</p>
+
+			<p>„Jak vám pravím, pánové a bratři,“ mluvil Jeník vážným a příjemným hlasem, „musíme na každý způsob pole držeti a nepříteli nedopustiti, aby meze města tohoto překročil; tak jest přísný rozkaz krále a pána mého nejmilostivějšího. Nyní nám nastane otázka, jakým způsobem bychom úlohu svou nejlépe provedli. Dle mého náhledu bylo by nejlépe, abychom nepřítele v tomto okolí očekávali, kteréž se co do polohy k prospěchu našemu dobře hodí. Pahrbky zdejší krajiny tvoří mnohé oužlabiny; my pahrbky tyto lidem svým dobře obsadíme a hlavní voj za nimi postavíme. Místnostmi stěsněn, nebude moci nepřítel celou sílu svou a moc rozvinouti a náležitě jí užiti a tak sílu svou rozdrobí a my jednotlivé houfy jeho snadno potřeme. Bude-li <pb n="143"/> pahrbků chtíti dobývati, unaví sílu svou a my pak uhlídajíce příležité doby, na něho s celou mocí se vrhneme.“</p>
+
+			<p>Na to se po všech tázavým zrakem rozhledl, jako by mínění jejich žádal, a když všickni k návrhu jeho přisvědčili, mluvil dále:</p>
+
+			<p>„Hlavní moc svou postavíme v Bystřici. Odtud se rozloží vojsko v pravo a obsadí v kruhu celou šíři oudolí až k návrší protějšímu a celý kruh ten se sevře vozy, aby nikde nepřítel proraziti nemohl. Tím způsobem jej sklíčíme tak, že mu dosti malá prostora k potýkání zbude. Není pochybnosti, že se bude oužlabinou blížiti, kteráž od Kdýně do Ouhlavského údolí vede, a tu jej v těch místech dostihnem, kde jej míti chceme. K lepší jistotě se nadělají v lesích po cestě od Loučimi vedoucí silné a pevné záseky, jež cestu tu nepřístupnou učiniti musí. A nyní, pánové, odebeřme se každý na své místo a připravme, čeho jest třeba; nesmíme času mařiti. Rychlost v poli vodí často k vítězství. K statečnosti a opatrnosti vás nabízeti, považoval bych za urážku, vám činěnou; neboť jsem <pb n="144"/> přesvědčen, že každý konati bude, co povinnost káže!“</p>
+
+			<p>Tím se uklonil. Vojínové vstavše, ještě ledacos mezi sebou rozmlouvali.</p>
+
+			<p>Jeník vstav a přistoupiv k primatorovi a ku konšelům, děkoval jim ve jmenu krále za horlivost a laskavost, s jakouž vojsko přijali a vším obrokem opatřili; pak pravil: „Hlídání města v čas boje ponechávám opatrné obci, jsa přesvědčen, že bude v nejlepších rukou, o němž statečné chování u Kdýně tak chvalně svědčí. Co se týče oněch tří set mužů, jež jste k podpoře naší najali, přijímám je vděčně. Vidím, že mládež vaše a otcové její dobře se zbraní zacházeti umí, tudíž nejsem na omylu, domýšleje se, že na chvílku město ubráníte, a také nebude pomoc příliš vzdálena, abyste se jí v čas potřeby dovolati nemohli. Podobně dávám všecka zavazadla naše v ochranu vaši.“</p>
+
+			<p>Primator i konšelé uklonivše se, osvědčovali ve všem ochotnost a věrnost svou.</p>
+
+			<p>Všickni se rozešli.</p>
+
+			<p><pb n="145"/> Zatím byl nepřítel do země vnikl a všady hrozná ukrutenství páchal.</p>
+
+			<p>Křižáci považujíce zemi Českou jim v kořist danou a obyvatele její za kacíře, neměli s nimi žádné útrpnosti, všady napořád pálili, drancovali a vraždili.</p>
+
+			<p>V celém okolí se rozléhaly nářky, pláč a kvílení trýzněného lidu; zříceniny vypálených dvorů, vesnic a městeček strměly k nebi dýmem požárů zakalenému.</p>
+
+			<p>Nejvíce však utrpělo městečko Kdýň, na němž křižáci porážku Nothaftovu ukrutně mstili.</p>
+
+			<p>Všickni obyvatelé, jižto se záhy ukryti nemohli, byli nemilosrdně zavražděni, mezi nimiž nejvíce starých a churavých, městečko nemilosrdně vydrancováno a posléze ohněm docela zničeno.</p>
+
+			<p>Domažličtí se museli ve zdech svých zavříti a statečně brániti, aby podobnému osudu ušli.</p>
+
+			<p>Že se žádné vojsko proti tomuto nepříteli nestavělo, rostla pýcha jeho tím více a mohl skutky své ukrutné bez odporu provozovati.</p>
+
+			<p><pb n="146"/> Královský hejtman Jeník maje vždy dostatečnou a bezpečnou zprávu o každém hnutí nepřítele, vysílal proti němu jednotlivé zástupy harcovníků, kteří s nepřítelem podrobné šrůtky sváděli, majíce rozkaz, do žádného většího boje se nepouštěti; takovým způsobem se často podařilo mnohé tlupy drancujících přepadnouti a buďto pobiti, aneb rozehnati.</p>
+
+			<p>Co se věci tyto v Klatovech dály, seděl Jiří u lože umírajícího otce v žalu a v zármutku.</p>
+
+			<p>Hrozná a děsná slova Hroudova o pomstě jeho zmátla celou mysl Lubánského a rozervala síly jeho tělesné tak, že od prvního okamžení v silnou horečku upadl.</p>
+
+			<p>Jednotlivá nesouvislá slova, v divé pomatenosti od něho vyslovená, přesvědčila Jiřího, jenž se po celý ten čas od nemocného ani na krok nevzdálil, že se asi něco hrozného přihodilo. Rád by tomu byl na stopu přišel, z řečí pomatených nemohl však nic podstatného sebrati.</p>
+
+			<p><pb n="147"/> Po několika dnech se zdálo, jako by byla nemoc odstoupiti chtěla, pomatenost ducha se tratila; tu ale upadl nemocný v slabost, tak že pořáde spal.</p>
+
+			<p>Jednoho dne z rána se nemocný ze spaní probral; obličej jeho byl zsinalý, oči vpadlé a zakalené, bylo snadno pozorovati, že se jeho poslední hodinka blíží. Ohlížel se jaksi pomateně po světnici, jako by byl z dlouhého sna procítl a jako by chtěl smysly sbírati a na něco se upamatovati; posléz utkvěly zraky jeho na ztrápeném Jiříku, u postele v nohou sedícím.</p>
+
+			<p>„Jiříku! synu můj!“ promluvil slabým umírajícím hlasem. Byla jsou to první slova srozumitelná v celé nemoci jeho. „Jiříku, synu můj! konec života mého se blíží! Musím tě opustiti!</p>
+
+			<p>Jiří, přistoupiv k němu blíže, bedlivě poopravil podušku pod hlavou jeho, načež bolestně pravil:</p>
+
+			<p>„Drahý otče! Bůh nedopustí, abysi tak brzy ode mne odešel a mne v zármutku opustil!“</p>
+
+			<p><pb n="148"/> Nemocný těžce oddychoval, po chvíli pak opět promluvil řka:</p>
+
+			<p>„Cesty Boží jsou nevyzpytatelné! a co se stane, stává se dle vůle Nejvyššího a my se jí musíme podrobiti. Doufám v milosrdenství jeho, že mě laskavě na milost přijme a že tebe neopustí, pokud přikázaní jeho plniti budeš. – Nyní přilož ucho své k ústům mým a poslechni dobře, co ti budu vypravovati.“</p>
+
+			<p>Když Jiří dle žádosti jeho učinil, šeptal mu umírající pro slabost v dlouhých přestávkách velmi mnoho, což Jiří s napnutou myslí poslouchal. Často se mu přitom ústa křečovitě svírala a chvílkami se mu opět horké slzy z očí lily.</p>
+
+			<p>Když nemocný dopověděl, zdálo se, že opět do svých předešlých mdlob upadl, oči se mu zavřely, pouze lehounké pohybování prsou svědčilo, že ještě žije.</p>
+
+			<p>Jiří se opět posadil na své předešlé místo; umdlenou hlavu položil na pelesť u postele a zabral se do hlubokého bolestného přemýšlení. Otec mu zjevil všecky příhody své, vypravoval <pb n="149"/> mu o pomstě Hroudově a o posledním zjevení jeho a vystřihal jej před zločincem, jenž nejen otce do záhuby uvrhl, ale i syna zničiti usiluje.</p>
+
+			<p>Jaké myšlénky se v hlavě Jiřího křížily, můžeme sobě představiti. Bolest z časné ztráty milovaného otce a utrpení jeho, zášt a msta se mu míhaly před očima.</p>
+
+			<p>V komnatě panovalo hrobové ticho, venku se však ozýval ze vzdálí zpěv a šumot na poli pracujícího lidu.</p>
+
+			<p>Pohnutí nemocného vytrhlo Jiřího z hlubokého přemýšlení.</p>
+
+			<p>Otec mu pokynul.</p>
+
+			<p>„Poklekni Jiříku a přijmi poslední požehnání umírajícího otce svého!“ pravil chvějícím se šeptem.</p>
+
+			<p>A když Jiří s pláčem k posteli poklekl, položil otec s namáháním poslední síly své obě ruce na skloněnou hlavu jeho, přičemž se mu modrající rty pouze pohybovaly.</p>
+
+			<p>Nevyslovené, avšak tím vřelejší prosby <pb n="150"/> umírajícího o blaho synovo vystupovaly k trůnu věčného Otce nebeského.</p>
+
+			<p>Ruce mu zponenáhla sklouzly s hlavy požehnané a než se Jiří vzchopil, přestal otec jeho dýchati.</p>
+
+			<p><pb n="151"/></p>
+
+		</div>
+
+		<div>
+
+			<head>11.</head>
+
+			<p>Druhého dne ráno stál Jiří v komnatě před primatorem, jenž opět ve svém oblíbeném křesle sedě a Jiřího bedlivě poslouchaje na něho okem pohlížel, v němž se jakýsi bol a mírná dobrota srdce šlechetného střídaly.</p>
+
+			<p>Jiří vypravoval o posledním okamžení smrti otce svého a bolestně líčil příčiny tak nenadálé ztráty své.</p>
+
+			<p>Jméno „zrzavý Hrouda“ vzbudilo v primatorovi veliké pohnutí. Znal dobře zlotřilost jeho a věděl, že pohrůžky jeho nejsou marné.</p>
+
+			<p>Když Jiří slze zprávu svou dokončil, pravil primator:</p>
+
+			<p>„Velmi těžce nesu ztrátu muže tak poctivého a přítele mého a lituji nad míru, že ruka <pb n="152"/> padouchova celé štěstí jeho zničila. Když jej nehoda ta potkala, věděl každý, že to byl ohavný skutek, pomstou provedený, ale nikdo se nemohl dopátrati ani zločince, ani příčiny. Bohužel! musíme to nyní odložiti a tím se obírati, abychom se toho zločince zmocnili. Především jest třeba, milý Jiříku, abysi více v obydlí nevstoupil, kteréž ti žádné bezpečnosti neposkytuje. O pohřeb otce tvého se postarám já. Aby se ale tobě nic nepřihodilo, odebeř se k panu Ambrožovi, jenž se o bezpečí tvé postará. Po pohřbu se přihlas ke mně!“</p>
+
+			<p>Když Jiří primatorovi za jeho dobrotivost děkovati chtěl, pokynul mu tento rukou a pravil jaksi chladně: „Nech toho, nech! činím to pouze z přátelství k otci tvému!“</p>
+
+			<p>Těmito slovy poněkud zaražen opustil Jiří komnatu.</p>
+
+			<p>Ačkoliv primator Jiřího miloval, rmoutilo jej předce, že jak se domýšlel, jeho příčinou úmysly jeho strany Lidmily a Hynka zmařeny jsou. Tudíž toto chladné chování k němu.</p>
+
+			<p>Pouze prosby Lidmiliny a přesvědčenost, <pb n="153"/> že Jiří šlechetný jinoch jest a že dcera jeho s ním šťastná býti může, zdržovaly jej, že Jiřího hned neodbyl a Lidmile všecku naději neodňal. Hynka nad míru litoval a sobě výčitky činil, že v to dříve nevkročil.</p>
+
+			<p>Na cestě potkal Jiří Hynka, jehož byl již dávno neviděl.</p>
+
+			<p>Od poslední rozmluvy s Lidmilou vyhýbal se Hynek každému sejití-se s ní. Válečné přípravy mu byly vítány, přilnul více k panu Ambrožovi a jej horlivě ve všech povinnostech podporoval.</p>
+
+			<p>Pan Ambrož, méně takovým citům přístupný, ač srdce nad míru dobrého, nepozoroval smutek Hynkův, nýbrž se těšil z horlivosti jeho, dokládaje, že někdy z něho výborný vojín se stane.</p>
+
+			<p>Že se Hynek málo doma zdržoval, bylo příčinou, že se o soku svém a o tom, co se mezi otcem a dcerou mluvilo, nedověděl. Lásku svou skryl hluboko v prsou svých a bolest zklamané naděje velmi těžce, a však mlčky snášel.</p>
+
+			<p><pb n="154"/> Lidmila znajíc dobře příčinu vzdalování se Hynkova, dílem mu za to povděčna byla, neboť i pro ni bylo by opětné shledání-se s Hynkem trapné; dílem to opět velmi těžce nesla.</p>
+
+			<p>Vidouc Hynka tak smutného, truchlila s ním a mužná bolest jeho ji nad míru dojímala, tak že i ona sobě zasteskla a často soukromě slzy vylévala.</p>
+
+			<p>Starý Vorel, ačkoliv zahrnut starostmi válečného času, pozoroval oba velmi dobře, věděl, co ji trápí, znaje ale ze své zkušenosti, že v takovém případě jsou všecka slova marná a nic neprospějí, kde náruživost citlivého srdce panuje, ponechal rozvinutí takového svízele času, až se city umírní a první bolest pomine.</p>
+
+			<p>Jiří, jenž od poslední doby v zahradě s Lidmilou promluviti příležitost neměl, podobně nevěděl, co se bylo posledně přihodilo.</p>
+
+			<p>„Milý Jiříku!“ promluvil k němu Hynek, „právě jsem se dověděl o úmrtí otce tvého; je mi tě srdečně líto.“</p>
+
+			<p>„Děkuji ti, milý příteli!“ odpověděl Jiří, <pb n="155"/> ruku mu podávaje. „Potkalo mne neštěstí, jehož jsem se nenadál.“</p>
+
+			<p>„Řekni mi, co se otci tvému stalo, že tak zkrátka život svůj dokonal? Vždyť nebylo slyšeti, že by byl nemocen.“</p>
+
+			<p>„Strašná událost učinila konec životu jeho!“ vzdechl Jiří.</p>
+
+			<p>„Aj, ty mne lekáš, Jiříku! Pro Bůh! pověz, co se přihodilo?“ ptal se udivený Hynek.</p>
+
+			<p>„Všecko ti povím, drahý příteli!“ odpověděl Jiří. „Zde ale není místa k tomu; musíme se uchýliti někam jinam. Nejraději bych s tebou pohovořil pod šírým nebem, tam mi bude volno a v pohledu na krásnou krajinu naši otevru ti celou duši svou, žalem přeplněnou, a umírním bolestem svým. Mám ti ještě mnoho jiného povídati; zbývá-li ti času, zasedneme si někde, kde nás nikdo ani pozorovati, ani vytrhovati nebude.“</p>
+
+			<p>Obrátili kroky své ke zdem městským, kdež brzy tichounké místečko našli, odkudž se jim rozkošná vyhlídka do blízkých hor šumavských otvírala.</p>
+
+			<p><pb n="156"/> Zde se usadili a Jiří vypravoval příteli svému všecko, jak mu to otec byl svěřil. Ku konci doložil:</p>
+
+			<p>„Mně nezbývá nyní jiného, než abych lotra toho vyhledal a pomstu na něm vykonal.“</p>
+
+			<p>Hynek odpověděl: „Milý příteli, pomstu tvou uznávám, spolu se tu jedná také o to, aby se mu zabránilo pohrůžky své provesti. Dle vypravování tvého vyrozumívám, že jest to náramný padouch a že sám není, nýbrž že má mnoho pomocníků při sobě. Tuť bude velké opatrnosti třeba. Protož myslím, abychom síly své spojili, budu s tebou státi a tobě vší silou pomáhati!“</p>
+
+			<p>„Děkuji ti, milý příteli,“ odpověděl srdečně Jiří, „očekával jsem to od tebe. Bez tebe ničeho nepodniknu.“</p>
+
+			<p>Oba se zamlčeli. Na Jiříku bylo viděti, že jej jakási nesnáz opanovala a že se nějakou nesnadnou myšlénkou zanáší; konečně se obrátil k Hynkovi a hledě mu upřímně do očí pravil hlasem nad míru měkkým:</p>
+
+			<p>„Hynku! tys můj nejvěrnější přítel! – <pb n="157"/> spolu jsme rostli, spolu jsme radostí i nehod, svých pacholetských let požívali a zdělovali. Nyní však mě již po delší čas všeliké myšlénky tíží, jež tobě zděliti až posud jsem nemohl. Řekni mi upřímně, miluješ Lidmilu?“ doložil chvějícím se hlasem.</p>
+
+			<p>Hynek se vzchopil, a jakoby posud dřímající myšlénka se byla v něm probudila, zvolal:</p>
+
+			<p>„A ty! a ty, Jiříku?“</p>
+
+			<p>„Ó, jak by nemilovalo kvítko paprsků slunečních!“ pravil Jiří.</p>
+
+			<p>Hynek jakoby omráčen opět se na své předešlé místo posadil a jako sám k sobě pravil bolestným hlasem:</p>
+
+			<p>„Ano, ano! kdož by ji nemiloval? I já ssál paprsky krásy a něžnosti její do duše své; tyto paprsky ale spálily jarý květ lásky mé a proměnily ráj života mého v prázdnou poušť.“</p>
+
+			<p>„Odpusť, příteli drahý!“ prosil Jiří. „Mou vinou to nebylo; nemohl jsem citům svým odolati. Dříve jsem netušil, že i tvoje srdce k ní se sklání, a když jsem to pozoroval, bylo <pb n="158"/> již pozdě. Láska její naplnila srdce mé blažeností a já se jí zasvětil s celou duší svou.“</p>
+
+			<p>„A myslíš, že láska má jest menší?“ řekl Hynek.</p>
+
+			<p>„Ó jak bych to mohl mysliti, znaje dobře citlivé srdce tvé!“ pravil Jiří, načež pojma Hynka za ruku, mluvil k němu nad míru vážně takto: „Láska má jest květ spanilý, jenž pouze v příznivých okolnostech dozráti může. Z takových okolností se já těšiti nemohu. Nemám, čeho bych svým nazývati mohl, nejsem ani bohatstvím, ani důstojností primatorovi roveň, tudíž se nemohu takového štěstí nadíti, abych někdy Lidmilu svou nazývati mohl. Smrt mého otce zvrhla poslední naději mou. Dnes ještě se přihlásím u hejtmana královského k službě; v lomozu zbraně ukryji lásku svou, ona mi bude jasnou hvězdou na dráze budoucího života mého až do posledního okamžení. Tobě, drahý příteli, odevzdávám svůj nejdražší klenot.“</p>
+
+			<p>„Nikoli, Jiříku,“ odpověděl Hynek. „Obět tvá byla by marná a naplnila by ještě jedno srdce <pb n="159"/> žalem. Ona nemiluje mne, nýbrž tebe. Mně podává pouze lásku sesterskou.“</p>
+
+			<p>„Obět má nebude marná,“ odpíral Jiřík. „Sesterská láska obrátí srdce její k tobě a ty se budeš z ní těšiti. A což by mi byla láska beznadějná?“</p>
+
+			<p>„Šlechetný Jiříku!“ pravil Hynek, „ty mě klameš! Zahaluješ obět přátelství v jinou roušku, já tě znám! Avšak tuto obět přijmouti nemohu a nesmím, protože Lidmilu tak opravdově miluji. Obětí tvou by srdce její puklo.“</p>
+
+			<p>„Neklamu tě, Hynku,“ zapíral Jiří. „Ty chceš ve mně naději vzbuditi, kteráž se nikdy vyplniti nemůže, o tom jsem se dnes dostatečně přesvědčil.“</p>
+
+			<p>Vypravoval, jak chladně se dnes primator k němu měl.</p>
+
+			<p>„Kdož ví, co toho bylo příčinou!“ omlouval jej Hynek. „Nesnadné doby nynější obtěžují ducha jeho starostmi, a tu není divu, jestliže obyčejné přívětivosti své na nějaký čas pozbude.“</p>
+
+			<p>Rozmluvou touto utišily se poněkud zbouřené <pb n="160"/> city obou jinochů, tak že pokojněji pak spolu rozmlouvati mohli.</p>
+
+			<p>Oba byli nad míru jemného srdce, v němž se vřelé city proudily. Z počátku se zmáhala při vyznání Jiřího jakási hořkost v srdci Hynkově proti příteli, brzy ale zvítězilo opět přátelství.</p>
+
+			<p>Jsa přesvědčen, že jej Lidmila nemiluje, vzdal se vší naděje a v šlechetné mysli své přál sobě, aby Lidmilu šťastnou spatřiti mohl, když sám šťasten býti nemůže. Sám také chtěl k štěstí jejímu přispěti.</p>
+
+			<p>Jiřímu odkryla ztráta otce svého mezeru, kteráž jej od Lidmily dělí, poznal chudý stav svůj, a čím více o věci té přemýšlel, tím více dokonce mu každá naděje mizela.</p>
+
+			<p>Primatorovo chladné chování mu odňalo každé, i té nejmenší naděje.</p>
+
+			<p>Domýšlel se již dávno, že Hynek Lidmilu miluje, neměl ale o tom žádných důkazů. Chtěl se o tom přesvědčiti, a když by se domnění jeho potvrdilo, uzavřel, že se lásky své odřekne a krajinu tu opustí, na niž jej nic více neváže.</p>
+
+			<p><pb n="161"/> Úmysl jeho byl nezvratný, tak že se Hynek na něm nemohl nic jiného dožádati, než že provedení předsevzetí svého až do skončení boje s křižáky odložil.</p>
+
+			<p>Hned po odchodu Jiříkově poslal primator rychle pro pana Ambrože.</p>
+
+			<p>Tomu, když přišel, vypravoval, co se s Lubánským stalo, a jak se zrzavý Hrouda objevil a pomstou hrozí.</p>
+
+			<p>Rada byla těžká. Že Hrouda v okolí jest, věděli, že sem bez příčiny nepřišel, oba nahlíželi; zdali ale samoten jest aneb nějakých pomocníků při sobě má, bylo těžko uhodnouti; a kde jej mezi tolika vojskem hledati?</p>
+
+			<p>Primator nařídil Ambrožovi, aby brány nejvěrnějším lidem obsadil a ve dne i v noci střežil a okolí celé všude bedlivě prohledal. Sám pak se ustanovil, že ku královskému hejtmanu dojde a jej o pomoc a o radu požádá.</p>
+
+			<p>Právě se ubíral Ambrož náměstím k domovu, aby rozkazy rychle vyplnil, tu potkali ho Jiří a Hynek.</p>
+
+			<p>„Dobře, že vás nalézám,“ oslovil je, „pojďte <pb n="162"/> se mnou do mého bytu, musím vás v důležité věci o podporu vaši požádati.“</p>
+
+			<p>„Byl bych bez toho k vám zašel, pane Ambroži,“ pravil Jiří, „abych vás ve jmenu pana primatora o něco požádal. Půjdeme tedy hned s vámi.“</p>
+
+			<p>Obrátili se a šli s Ambrožem.</p>
+
+			<p>Když přišli do světnice, posadil se Ambrož do své pohovky a chtěl k nim právě promluviti, an se dvéře rozlítly a Souček celý jako zděšený do světnice nakvap vstoupil.</p>
+
+			<p>„Všickni jsou pryč!“ zvolal a ve své pomatenosti i své oblíbené přísloví přidati zapomněl, což se mu málo kdy přihodilo.</p>
+
+			<p>Všickni na něho hleděli mlčky tázavým zrakem; konečně tázal se Ambrož: „Kdo jest pryč?“</p>
+
+			<p>„Inu těch dvadcet udatných vojínů! Aby je kat spral!“ odpověděl Souček.</p>
+
+			<p>Pan Ambrož pohledna významně na Jiřího a Hynka pravil: „Dobře učinili, že se odklidili, sice bychom je byli my skliditi museli. Již po nějaký čas mi byli ti chlapi nějak <pb n="163"/> podezřelí; kdykoliv jsem některého z nich spatřil, vždy mne jakýsi nepříjemný cit pojal. Chtěl bych na to přisahati, že jsou s tím padouchem v jakémsi spojení. Nyní musíme tím více opatrnost svou napnouti.“</p>
+
+			<p>„Já vám přisvědčuji!“ pravil Jiří. „Ďábelský ten chlap nepochybně něco hrozného obmýšlí a dá se také souditi, že nějaké náhončí u sebe má. Sám jediný by se sem neodvážil.“</p>
+
+			<p>„Já o tom též nepochybuji,“ řekl Hynek; „neboť kdo tu ohyzdnou, kříž na kříž rozervanou tvář a ty jeho zrzavé vlasy a vousy tak na blízku, jako já, spatřil, ten by také uznal, že jest to lotr každého ohavného skutku schopný.“</p>
+
+			<p>Souček, poslouchaje pozorně rozprávku tuto a hledě rozpačitě brzy na toho, brzy na onoho, konečně pravil: „Prosím vás, pánové, o kom to mluvíte?“</p>
+
+			<p>„O zrzavém Hroudovi!“ pravil Ambrož. „Víš snad o něm něco?“</p>
+
+			<p>„Znám člověka,“ odpověděl Souček, „jenž by se tomu podobal, o němž mluvíte; ten se ale jmenoval Bartoš.“</p>
+
+			<p><pb n="164"/> Všickni hleděli na Součka tázavým zrakem, a když mu ještě obšírněji o něm pověděli, co věděli, zvolal velmi vážně: „To jest on! aby ho kat spral! Ale věřte mi, pánové, to není člověk, ale vývrhel z propasti pekelné.“</p>
+
+			<p>Na vyzvání, aby jim o něm nějakou zprávu dal, vypravoval takto:</p>
+
+			<p>„Před několika lety jsem sloužil v hořejších Uhrách pod jakýmsi vůdcem Ryndou. Tu k nám přišel tentýž vojín Bartoš a vzal službu, brzy ale pro svou prostopášnost a nesnášelivost u všech v zášť přišel; jednou však ukradl druhému vojínu asi dvě kopy, to se vyzradilo a on byl z našeho ležení vymrskán. Brzy jsme o něm slyšeli, že několik lotrů sebral a všady pouze krádež a vraždu páchal. Jednou jsme leželi v jedné vsi; stál jsem v noci s několika na stráži; tu se k nám přižene v nejprudším běhu člověk a úpěnlivě o pomoc prosí. Zástup lotrů přepadl asi čtvrt hodiny vzdálený statek osamělý. Oznámili jsme to vůdci. Ten vyslal rychle asi dvadcet mužů a my pospíchali, co jsme mohli, abychom lotry zastihli. Nikdo nepochyboval, <pb n="165"/> že jest to Bartoš. Přišli jsme předce pozdě; statek jsme našli vyloupený a lotři byli ti tam. Ve světnici při zemi se nám objevil hrozný pohled. Hned u dveří ležel mladý muž s hlavou roztříštěnou; v prostřed světnice ležel stařec, maje prsty u rukou i u nohou až po klouby upáleny a těžké skvrny pálení na prsou, ubohý ještě dýchal; podál ležela mrtvola ženy, ale tak zohavená a zmučená, že hrůzou až vlasy vstávaly. Pekelnými mukami vynutil na nich Bartoš, kde mají peníze skryté. Mladý muž padl nepochybně v boji. Později jsme chytili jednoho z této lotrovské luzy a ten vyznal před smrtí svou ohavnosti, Bartošem zpáchané, že i nejzarytější vojínové s hrůzou poslouchali. – Je-li on to, jest té největší opatrnosti třeba; neboť lest, chytrost, síla a odvaha toho padoucha jest pekelná a nepochopitelná. Aby ho kat spral! Praví se o něm, že se umí neviditelným udělati a že se čertu zapsal. Mnozí tvrdili, že ho bylo v tentýž čas na rozličných místech viděti. – Jednou prý jej honili, skryl se do jakéhosi křoví, a ač to <pb n="166"/> bylo jen na několik kroků a pronásledovníci oka s něho nespustili, byl ten tam, když k místu přišli. – To aby kat spral!“</p>
+
+			<p>Pan Ambrož pravil velmi rozvážlivě: „Z toho všeho pozoruji, že máme s člověkem velmi nebezpečným a nad míru odvážlivým co činiti. Vy, pane Jiří, nesmíte více domů, snadno by se mohlo státi, že byste v osidla jeho upadl, a já bych to velmi těžce nesl, kdyby se vám něco stalo. Mrtvolu vašeho otce dám hned do města přinésti a všecky vaše věci přivezti. Ty, Součku, vezmi ještě několik zbrojnošů dobře oděných s sebou a prohledejte opatrně celé vůkolí. Vy, pane Hynku a pane Jiří, odebeřte se na stráž, každý do jedné brány, a já budu střežiti třetí.“</p>
+
+			<p>Všickni se rozešli, aby rozkazu pana Ambrože za dost učinili.</p>
+
+			<p><pb n="167"/></p>
+
+		</div>
+
+		<div>
+
+			<head>12.</head>
+
+			<p>Doba rozhodná se blížila.</p>
+
+			<p>Jak se královský hejtman Jeník domýšlel, tak se stalo.</p>
+
+			<p>Křižácké vojsko se hnulo u veliké síle od Kdýně a táhlo ku Klatovům.</p>
+
+			<p>Tu vrazilo v lesích na první odpor.</p>
+
+			<p>Nemoha záseky lidem dobře osazené proraziti, obrátil se nepřítel v pravo a táhl úzkým oudolím přímo k městečku Nýrsku.</p>
+
+			<p>Městečko to leží u paty hor šumavských na břehu řeky Ouhlavy, od něhož se k půlnoci neveliká rovina vršky olemovaná rozkládá.</p>
+
+			<p><pb n="168"/> Rovinu tu obsadil v celé šíři Jeník lidem svým.</p>
+
+			<p>Jak mile se o hnutí nepřítele dověděl, opustil Klatovy a celou šíř toho údolí vozy svými tak sevřel, že tudy nepřítel proniknouti nemohl. Levé křídlo opíral o městečko Bystřici asi hodinu od Nýrska vzdálenou, pravé o hory oudolí toto svírající, jež dobře hrubou střelbou osadil.</p>
+
+			<p>Jak mile na pravém křídle zvítězil a pokročil, mohl celé vojsko nepřátelské tak sevříti, že se buď poddati, aneb na nesnadný útěk do hor šumavských dáti muselo, kdež snadno od lidu, tam obývajícího, pronásledováni býti mohli. Pro tu příčinu stranu tuto silně osadil a jedno silné oddělení do zálohy položil.</p>
+
+			<p>Nežli město opustil, oznámil mu primator outěk oněch dvadcíti mužů a svá obávání mu projevil. Jeník dal po nich pátrati, a že se nenašli, domnívalo se, že snad k nepříteli přešli, což tenkráte nic neobyčejného nebylo, a že sám zaměstnán, nic v těchto okolnostech předsevzíti <pb n="169"/> nemohl, odporučil primatorovi nejostřejší hlídku.</p>
+
+			<p>Jediný Souček byl toho pevného mínění, že vojínové ti neušli k nepříteli, nýbrž že jsou v srozumění s Hroudou a že nějakou ohavnost obmýšlejí. Znalť on Hroudu velmi dobře a věděl, že darmo nehrozí.</p>
+
+			<p>Procházel buď samoten, neb s jinými vojíny celou vůkolní krajinu, všeho si všímal, každého cizího dobře prohlížel; v Klatovce a okolo Klatovky jej bylo často vídati.</p>
+
+			<p>Všecko pátrání jeho bylo však marné, zdálo se, jako by je byla zem pohltila. Všady hledal, jen tam ne, kde by jich byl nejdříve našel.</p>
+
+			<p>Kdož by jich byl ale v pastoušce hledal?</p>
+
+			<p>Vondra zastával službu svou jako kdy jindy, tudíž také v žádné podezření neupadl. Na něm nebylo nic neobyčejného pozorovati, leč že byl bledší a zasmušilejší, toho si nikdo nevšímal, poněvadž jej každý co takového znal. Kdo by se mu byl ale lépe do očí podíval, byl by se pohledu jeho zhrozil. Oči <pb n="170"/> nad obyčej vpadlé, chvílemi děsný oheň vysílaly , jako by se ho šílenost chytala, chvílemi byly opět tak zkaleny a jako přetrhány, že blbost vyzrazovati se zdály.</p>
+
+			<p>Otcovská láska a svědomí vedly v něm strašný boj.</p>
+
+			<p>Na podnebí pastoušky bylo pětadvadcet chlapů ubytováno; dílem seděli, dílem porůznu leželi, jak se kterému líbilo.</p>
+
+			<p>Světlo tam žádným otvorem nepadalo, poněvadž každou díru pečlivě zandali, aby jich z venku nikdo vypátrati nemohl, protož tu i za dne poloviční tma panovala a těžce bylo tam co rozeznati.</p>
+
+			<p>V jednom koutě bylo viděti obrysy dcery Vondrovy; ubohá ležela již několik dní na zemi na rukou i na nohou svázána, tak že sebou sotva hnouti mohla, ústa měla zacpaná, pouze nosem mohla dosti obtížně dýchati.</p>
+
+			<p>Od Hroudy víme, že sloužila za rukojmě mlčelivosti otcovy; aby ani uteci, ani křikem lotry vyzraditi nemohla, svázali ji a ústa zacpali a tak utrýzněnou na zemi ležeti nechali. <pb n="171"/> Jíst jí dali jenom tenkráte, když jim zbylo, což se ale velmi zřídka stávalo.</p>
+
+			<p>O jídlo se jim musel Vondra postarati, což obyčejně v noci z Klatovky přinášel, kdež se za dobrý peníz všeho dostalo.</p>
+
+			<p>Láska otcovská se nemohla odhodlati, aby smrtí jediného milovaného dítěte ty chlapy vyzradil. Neznal sice zámysly jejich, myslil pouze, že nějakou krádež obmýšlejí. Kdykoliv mu ale Hrouda napadl, pojala jej hrůza nevýslovná.</p>
+
+			<p>Byl spoluvinníkem Hroudovým, a co po tak mnohá léta skrýval a těžce nesl, o tom že by Hrouda nemlčel, kdyby postižen byl, věděl. Strach před světskou hanbou, svědomí a otcovská láska rozrývaly strašně prsa jeho a již bylo na něm pozorovati, že taková muka dlouho nelze mu snášeti.</p>
+
+			<p>Chlapi hovořili mezi sebou přidušeným hlasem, aby jich nikdo okolojdoucí neslyšel.</p>
+
+			<p>„Aby do tebe všecky blesky!“ zahučel jeden hrubým hlasem. „My jsme zde jako sislové v díře a při tom nesmíme ani nos <pb n="172"/> vystrčiti, abychom trochu čerstvého povětří nalapali.“</p>
+
+			<p>„Již jsem byl na všelikých výpravách, tak dlouho jsme ale nikdy neotáleli!“ pravil druhý.</p>
+
+			<p>„Je-li trpělivost ctnost, zajisté si zasloužíme nebe!“ smál se třetí chraplavým hlasem.</p>
+
+			<p>„Nás zde bylo právě dost,“ pravil opět první, „a tu musí také vás čert přinesti a nyní sedíme jeden na druhém.“</p>
+
+			<p>„Mlč a nehulákej!“ okřikl jej náš známý Vaněk. „Že jsme přišli, stalo se z opatrnosti a v srozumění s Hroudou. Jeník jest chytrá liška a umí velmi dobře své lidi hlídati. Kdybychom byli s ním proti nepříteli vytáhli, nebylo by nám tak snadno odstraniti se, a tu by se mohlo lehce státi, že by se naše výprava zmařila. Protož mlč a nemluv o věcech, kterým nerozumíš.“</p>
+
+			<p>Kroky se ozvaly v síni, všickni se vzchopili; jakési tajemné zasípění je opět okamžitě upokojilo, a než se usadili, stál Hrouda mezi nimi.</p>
+
+			<p><pb n="173"/> „Toužebně očekávaná doba se blíží!“ pravil radostí se chvějícím hlasem. „Ještě dnešní noc a zejtra dosáhneme cíle. Hojná kořist odmění stálost vaši. Jeník vytáhl z města a my počneme zejtra v noci pracovati. – Již jsem se obával, že smrtí Lubánského všecko se vyzradí. Nastavoval jsem uši všady, pouze se pátralo po vás dvadcíti; domýšlí se, že jste přešli k nepříteli. – Nyní poslyšte, ať víte každý, co máte dělati. Vás pět se rozdělí před půl nocí ve všecka předměstí tak, abyste v jednom okamžení na rozličných od sebe vzdálených místech zapálili, čímž se hodný zmatek způsobí, nebudouť věděti, kde dříve hasiti. Ostatní se rozdělí; deset se jich skryje u špitálské a deset u klášterské brány, a až se tyto otevrou a lid ven vyhrne, vkrademe se do města a tam učiníme též tak. Vaňku a Sýkoro, vy zůstanete při mně a budete mě následovati, kam já vás povedu. Nebavte se nikde kořistí, stůjte při mně a pomáhejte mi mstu mou vykonati, já vám všecko hojně nahradím. Tu ruka má! víte, že</p>
+
+			<p><pb n="174"/></p>
+
+			<p><pb n="175"/></p>
+
+			<p><pb n="176"/> okolo sebe mnoho poběhlíků a pro svou odvahu byl od nich za vůdce zvolen.</p>
+
+			<p>S těmi provozoval skutky ohavnosti, z nichžto se člověčenstvo zhrozilo. Krev mnohých dítek, žen, starců lpěla na rukou jeho.</p>
+
+			<p>V nepravostech zatopen, neznal žádného citu ani smilování. Hlasu svědomí neznal a náboženství mu bylo bajkou.</p>
+
+			<p>Tak seděl a blažil se ďábelskou radostí, že se konečně okamžení pomsty dočkal.</p>
+
+			<p>Tu zavadil najednou v půlnočním tichu o ostré ucho jeho vzdálený dupot kroků; naslouchá, kroky se blíží, domnívá se, že jest to zástup branného lidu okolo se beroucího.</p>
+
+			<p>Kroky u chalupy utichly, on se vzchopil, – ještě ticho – najednou se rozlehl lomoz a křik.</p>
+
+			<p>„Vzdejte se!“ voláno venku.</p>
+
+			<p>Všickni loupežníci se vzchopili. Zmatek nastal veliký.</p>
+
+			<p>Pádné rány probíjejí střechu a otvory se vdírají zbrojnoši.</p>
+
+			<p>Boj nastal krátký, ale tím hroznější, jejž <pb n="177"/> smolnice svým žlutavým míhajícím světlem děsně ozařují.</p>
+
+			<p>Zákeřníci se zoufale brání, ale nadarmo; jsou poraženi.</p>
+
+			<p>Deset jest jich svázáno, pět se jich válí smrtelně raněných v krvi, ostatním se podařilo uprchnouti.</p>
+
+			<p>Vítězství dobyto, ale neouplně; neboť hlavního zákeřníka nemají.</p>
+
+			<p>Hrouda, vida skulinou mocný zástup okolo chalupy se míhati, odtrhl prkno a hned z počátku boje odvážlivým skokem se spasil.</p>
+
+			<p>Pátráno všady po něm, každá díra se v chalupě prohledala, všecko se na vrub obrátilo, ale nadarmo.</p>
+
+			<p>Vondru našli u postele ležeti mrtvého, leknutí při příchodu vojska jej zděsilo a mrtvice učinila konec trapnému životu jeho.</p>
+
+			<p>V koutě na podnebí nalezli dívku polomrtvou svázanou, od níž se později všecko dověděli, co zlosynové obmýšleli.</p>
+
+			<p>Souček pátral neunaveně v krajině po <pb n="178"/> svých udatných vojínech a po Hroudovi, nedaje se nezdařením mýliti.</p>
+
+			<p>Obzvláště jej táhla jakási tajemná moc do Klatovky, kdež mnohou pintu piva vypil a všecko bystrým zrakem pozoroval. Tam však šlo všecko v tak obyčejném pořádku, že se sám tomu divil, jak se může té myšlénce oddati, že by se zde něčeho dopíditi mohl.</p>
+
+			<p>Aby zde bylo takových dvadcet chlapů skryto, bylo nemožné; neboť chaloupka byla skrovná a jiných místností a skrýší zde nebylo, o tom dobře věděl.</p>
+
+			<p>Nepatrná náhoda, jakáž tak často mnohému k bohatství aneb k důstojnosti pomůže, pomohla i Součkovi.</p>
+
+			<p>Loudaje se právě toho dne z rána před přepadnutím pastoušky klášterským předměstím ku bráně, potkal člověka, pěknou tučnou kýtu vepřového nesoucího.</p>
+
+			<p>Toť ovšem nebylo nic neobyčejného, náš milý Souček ale byl velký milovník vepřovinky. Zůstal státi, hleděl s laskominou na vepřovinku <pb n="179"/> a rozjímal s tichou závistí, komu se asi takové lahůdky dostane?</p>
+
+			<p>Člověk ten šel pořáde rovnou cestou a Souček hledě za ním, vidí, že zrovna ke Klatovce míří.</p>
+
+			<p>„I aby ho kat spral!“ zamumlal. „Kam to s tou pečení jde? Na Klatovku? – Hm, totě podivno!“</p>
+
+			<p>Obrátil se a šel pozdálí za člověkem, a když nabyl přesvědčenosti, že se vepřovina do Klatovky nese, zůstal opět státi, máchnul rukou a rozumoval pro sebe takto:</p>
+
+			<p>„Aby to kat spral! Na takový kus vepřoviny musí býti hezká částka lidí a já posud v Klatovce nikdy najednou tolik lidí neviděl, leč tenkráte, když ...“</p>
+
+			<p>Nedokončil, nýbrž obrátil rychle kroky k městu a přímo k panu Ambrožovi pospíchal.</p>
+
+			<p>Asi za hodinu jej spatřujeme opět loudavým krokem ku Klatovce se ubírati; přijda tam, posadil se venku pod lipou zrovna proti dveřím, aby všecko pozorovati mohl, co se u vnitř děje, a dal si naliti.</p>
+
+			<p><pb n="180"/> Všecko bylo jako obyčejně, jenom příjemné výpary vepřovinky mu zaváněly tak rázně do nosu, že se mu laskominy budily.</p>
+
+			<p>Neříkal ale nic, vypil, zaplatil a odešel, ne ale do města, nýbrž obcházkou na blízký pahorek křovím hustě porostlý a tam se přimáčkl k zemi tak, že ho nikdo pozorovati nemohl, on ale vůkol všecko přehlídl a ostrým zrakem obzvláště dvéře u Klatovky střežil.</p>
+
+			<p>Dle svého rozumu soudil velmi chytře.</p>
+
+			<p>„Aby to kat spral!“ pravil sám k sobě. „Hospodský sám pečenku tu jísti nebude, kam by to dal? Připravuje ji tedy pro někoho jiného; to jest jisto! Hosti buďto k jídlu přijdou, aneb si pro ni pošlou. Na každý způsob se něčeho domakáme.“</p>
+
+			<p>Dlouho čekal ve své záloze; počínalo se stmívati, tak že již předměty náležité rozeznati nemohl, i přiloudal se blíže a čekal až do pouhé noci.</p>
+
+			<p>A hle! tu se najednou míhá nějaká postava, vejde do Klatovky a po nějaké chvíli s nůší vystoupí.</p>
+
+			<p><pb n="181"/> Souček napínal zraků, pak se tiše sebral a pozdálí za člověkem kráčel, jenž se přímo k pastoušce ubíral.</p>
+
+			<p>Byl to slouha Vondra, jenž vetřelým hostům svým pokrm nesl.</p>
+
+			<p>Souček nyní věděl, na čem jest; pospíchal k panu Ambroži a s ním k panu primatorovi, jemuž co viděl, vypravoval.</p>
+
+			<p>Primator odeslal hned na první udání Součkovo rychlého posla ku královskému hejtmanu Jeníkovi, jenž k žádosti jeho dostatečný zástup k zatknutí zákeřníků poslal.</p>
+
+			<p>Jak se to výborně zdařilo, víme.</p>
+
+			<p><pb n="182"/></p>
+
+		</div>
+
+		<div>
+
+			<head>13.</head>
+
+			<p>Hynek a Jiří stáli na cimbuří jedné bašty, odkud ve zdálí částečně tábor královského vojska spatřiti mohli.</p>
+
+			<p>Hynek, maje ruce na prsou skřížené, hleděl upřeně na tábor ten. Smutek zmizel z očí a místo něho zajala vážná opravdivost co následek jakéhosi velkého předsevzetí.</p>
+
+			<p>I Jiří pozbyl smutku, srdce mu plesalo radostí, již však u přítomnosti přítele svého udušoval, boje se takto srdce jeho bolestně dotknouti. Naděje, jíž se vzdával, proměnila se v blaženou skutečnost.</p>
+
+			<p>Primator vida, že se v takovýchto okolnostech nadíti nemůže, aby Lidmila s rukou i srdce Hynkovi podala, nemyslil na to, aby <pb n="183"/> dceru k sňatku nutil, ačkoliv věděl, že by poslušná dcera k upokojení jeho byla tak učinila. Taková oběť však se otcovskému srdci zpříčila.</p>
+
+			<p>Když ale šlechetný Hynek sám před něho předstoupil a jej k vyplnění blaha dceřina vyzýval, nemohl jináče, než tak učiniti.</p>
+
+			<p>Dobré srdce primatorovo ocenilo vysoce oběť Hynkovu a slzy radosti i žalu polily tvář jeho. Objímal Hynka, ale neměl slov, aby ho byl mohl potěšiti, aneb mu děkovati.</p>
+
+			<p>Ale i Jiří se nechtěl dáti takovou šlechetností překonati, i on se odříkal blaha, po němž srdce jeho prahlo; láska však zvítězila!</p>
+
+			<p>Hynek se obrátil k Jiřímu a promluvil k němu:</p>
+
+			<p>„Úkol můj jest dokonán! Pro mne není zde delšího pobytu! Co ty jsi chtěl před několika dny učiniti, to učiním teď já. Ještě dnes se odeberu do ležení a vstoupím v službu královskou. Vlast potřebuje synů svých.“</p>
+
+			<p>V oku Jiřího se zaleskla slza.</p>
+
+			<p>„Nechci tě, drahý Hynku, od předsevzetí <pb n="184"/> tvého odvraceti,“ pravil. „Ctím úmysl tvůj, jakýž jsem předvídal. Nemohu na tobě žádati, abysi byl svědkem radosti mé. Ty mi ale neodepřeš, abych aspoň v prvním boji tobě po boku stál.“</p>
+
+			<p>„Jsem ti za to povděčen!“ odpověděl Hynek. „Pomni ale, že máš nyní povinnost, života svého šetřiti. Proč bysi vydával se v nebezpečenství a jí starost působil. Ustaň od úmyslu svého!“</p>
+
+			<p>„Nikoli!“ zvolal Jiří. „Předvídaje úmysl tvůj, oznámil jsem jí to a ona mi radostně schválila předsevzetí moje.“</p>
+
+			<p>Hynek dále neodporoval.</p>
+
+			<p>Odpoledne doprovázel Jiří Hynka ještě se čtyrmi zbrojnoši, mezi nimiž se Souček nacházel, do ležení královského, kdež oba hejtman Jeník přívětivě přijal a jim dle žádosti jejich místo v nastávajícím boji vykázal.</p>
+
+			<p>Na cestě své netušili, že jich zrada a vražda sleduje.</p>
+
+			<p>Hrouda, vyklouznuv šťastně, nemohl se odhodlati, krajinu tuto opustiti. Neukrocená žízeň po pomstě jej zde poutala. Poslední nehodou <pb n="185"/> nedal se zmásti, vždy se oddával naději, že se mu příležitost k vyvedení úmyslu jeho naskytne.</p>
+
+			<p>Děsná zuřivost a slepá vášeň se ho zmocnily tak, že uzavřel stůj co stůj pomstu vykonati, i kdyby při tom zahynouti musel.</p>
+
+			<p>Primator, na jehož rozkaz z města byl vymrskán, byl předmětem pomsty jeho.</p>
+
+			<p>Aby se osoby jeho zmocnil, chtěl celé město v požeh dáti, dceru před očima jeho zhanobiti a jej mukami neslýchanými usmrtiti; tou myšlénkou se kochala černá duše jeho.</p>
+
+			<p>V hustém houští ležel na Hůrce celou noc a ještě druhého dne neopustil stanovisko své, odkudž pekelné zraky krví zalité na město vysílal .</p>
+
+			<p>Jaké myšlénky ohavnou duši jeho probíhaly, nelze udati. Chvílkami se mu prodírala sevřenými ústy slova, jež pekelnou kletbu na město svolávala.</p>
+
+			<p>Najednou sebou trhnul, oči se mu zajiskřily a hbitě se k zemi přitisknul.</p>
+
+			<p>Okolo ubírají se Hynek a Jiří.</p>
+
+			<p><pb n="186"/> Když zašli, vztyčil se Hrouda a zvolal hlasem hrozným:</p>
+
+			<p>„Peklo! jen tenkráte mne neopouštěj!“</p>
+
+			<p>Druhou stranou kvapil s vršku.</p>
+
+			<p>Nastal den 22. září roku 1468.</p>
+
+			<p>Slunce se nechtělo ukázati; hustá vlhká mlha, jakáž v ten čas v okolí tomto často bývá, zakrývala celou krajinu, tak že málo viděti bylo; pouze neobyčejný hluk z nepřátelského ležení svědčil, že se tam k něčemu připravují.</p>
+
+			<p>Křižáci obsadili Nýrsko a bližší návrší; nižší krajina roztékáním Ouhlavy bahnitá překážela značně nepříteli v obratech.</p>
+
+			<p>Nebylo zbytí, buď musel hanebně ustoupiti a ze země se vrátiti aneb pole postoupiti.</p>
+
+			<p>Jediná naděje jeho zakládala se v jeho přesile; to ale neuvážil, že má ve vojště svém lid všeliký, poslušenství nezvyklý, jenž málo o vítězství a slávu, tím více ale o hojnou kořist dbá.</p>
+
+			<p>Vojsko královské bylo ovšem počtem menší, ale lépe zřízené a bojovalo o zachování vlasti. <pb n="187"/> Jeník, proslulý vůdce, seznal dobře okolnosti tyto a v tom se zakládala naděje jeho vítězství.</p>
+
+			<p>Jak mile se v táboře nepřátelském ruch ozval, projížděl řady svých bojovníků, napomínal a dával všady opatrné rozkazy.</p>
+
+			<p>Na jednom návrší zastavil a čekal, až by se mha trochu ztratila, by pozoroval, co se děje.</p>
+
+			<p>Zde stál Hynek a Jiří.</p>
+
+			<p>Jeník na ně pohledl zrakem laskavým a pravil: „Nerad vás zde vidím, moji milí. Zde to půjde nejostřeji. Ne jako bych o zmužilosti vaší pochyboval, ale líto by mi bylo, kdyby vás některého hned na prvníkráte nehoda potkala.“</p>
+
+			<p>Hynek se usmál a pravil: „Jde-li vojín pro vlast do boje, neptá se, kde jest nebezpečno, nýbrž kde jest nepřítel?“</p>
+
+			<p>Se zalíbením pohleděl naň Jeník a podávaje mu ruku pravil: „Statný jinochu! setrvej v chrabrosti své. Král náš milostivý umí takové muže oceňovati!“</p>
+
+			<p>Zmáhající-se lomoz volal vůdce na jinou stranu. Jednotlivé výstřely oznamovaly počátek <pb n="188"/> boje. Lehký vítr rozehnal mlhu, jež se v balvany spojivši, k lesům táhla. Slunce stálo již hezky vysoko na obloze, ale závojem mlhavým zastřeno, zdálo se, jako by na krvavý boj, náruživostmi rozdmychaný, se dívati nechtělo.</p>
+
+			<p>Tu i tam se již ozýval lomoz zbraně a křik bojujících, mezi něž se chvílkami houkání hrubé střelby po návrší a v oudolí rozléhalo.</p>
+
+			<p>Přední voj český stál již v tuhé seči a odrážel statně divoké návaly hrnoucího-se nepřítele. Víc a více rozléhal se hluk a boj se stával povšechný.</p>
+
+			<p>Zástup, u něhož se Jiří a Hynek nacházeli, stál dosaváde nečinně na svém místě, maje rozkaz neodstupovati a místo to všemožně hájiti.</p>
+
+			<p>Tu se přihnal nepřátelský zástup rychlým krokem a hnal v největší zuřivosti prudkým outokem na pahrbek.</p>
+
+			<p>Statně mu odpíráno; mnohý vojín již leží ve své krvi, outok čím dále tím prudší, přesila veliká uchvacuje všecku udatnost, odvahu i odpor; již se sklání vítězství na nepřátelskou stranu.</p>
+
+			<p><pb n="189"/> Hynek a Jiří bojují udatně a neustupují ani na krok.</p>
+
+			<p>Souček dostal sečnou ránu do boku.</p>
+
+			<p>„I aby tě kat spral!“ zvolal a oštěp jeho položil soka na zem.</p>
+
+			<p>Divé ryky, lomoz zbraně, volání a hrubá střelba naplňují oudolí děsnou směsicí a odrážejí se o skály dál a dále, zvěstujíce celé zemi krvavý výjev.</p>
+
+			<p>Nejlítěji bojováno na pravém křídle, kudyž křižáci proraziti usilují, ale nadarmo; jako hory šumavské stojí zde Čechové se svými sevřenými vozy a odrážejí zuřivé outoky nepřátelské.</p>
+
+			<p>V nejprudším boji se vyřítila záloha a vpadnouc nenadále nepříteli v bok, porážela šmahem všecko.</p>
+
+			<p>Zmatek se mezi nepřáteli množí, ustávají, Čechové postupujíce oddechu jim nedávají, až počaly jednotlivé zástupy ustupovati.</p>
+
+			<p>Vždy víc a více množí se zmatek a hle! utíkají. Vítězný ryk doprovází nepřítele.</p>
+
+			<p>Ještě posaváde bojují naši přátelé na návrší, <pb n="190"/> mnohý udatný vojín smáčí matičku zemi krví svou.</p>
+
+			<p>Tu se zňalo městečko Nýrsko plamenem a křižáci se obrátili v divoký outěk.</p>
+
+			<p>Následkem toho ustává boj na návrší.</p>
+
+			<p>Tu vyskočil ze zástupu nepřátelského muž divokého vzezření a přímo na Hynka se vrhá.</p>
+
+			<p>Jiří, vida to, přiskočil ku pomoci, ale pozdě; Hynek se potácí a proud krve mu stříká z prsou.</p>
+
+			<p>Jiří se vrhnul na vraha, ale nemohl obrovské síle jeho odolati; jako blesk padá rána za ranou na něho a on se má co oháněti.</p>
+
+			<p>Tu vyskočil Souček jako střela a zavěsil se nenadále na padoucha. Darmo se namáhá tento, břemena se zprostiti.</p>
+
+			<p>Jiří a ještě dva přiskočili a po krátkém boji ležel „zrzavý Hrouda“ svázán na zemi.</p>
+
+			<p>Radostné pokřiky oznamují vítězství, Jiří jich neslyší, klečí nevýslovnou bolestí sklíčen vedle umírajícího nejvěrnějšího přítele svého.</p>
+
+			<p>Ostrá dýka vrahova projela prsa a přetnula kořen života jinocha ubohého. Darmo usiluje <pb n="191"/> Jiří proud krve zastaviti, s nímž život Hynkův prchá.</p>
+
+			<p>„Lidmilo!“ zašeptal, hlava mu klesla a není ho více.</p>
+
+			<p>U Nýrska se dostalo Čechům úplného vítězství; nepřítel prchá v divém zmatku na vše strany, stíhán od vítězů.</p>
+
+			<p>Mnoho jich v bitvě padlo, na outěku byl, ale ještě velký počet od obecného lidu zahuben, jenž mu splácel, čeho se ohavně na bezbranných dopustil.</p>
+
+			<p>Zástup za zástupem kráčel nyní veselé písně vítězoslavné zpívajíce ku Klatovům; jenom jeden skrovný počet zbrojnošů se bral mlčky a smutně k městu.</p>
+
+			<p>Na spletených snětvích nesli mrtvolu ubohého Hynka a zarmoucený Jiří kráčel za nimi.</p>
+
+			<p>U brány jim přišel pan Ambrož vstříc, a vida, co se stalo, bolestně nad smrtí miláčka svého zaplakal.</p>
+
+			<p>Byl to tklivý a bolestný výjev, viděti muže, ve zbrani a v mnohých válečných nehodách <pb n="192"/> sešedivělého, nad mrtvolou jinocha v nejlepším věku slzeti.</p>
+
+			<p>Zastavili a položili mrtvolu ve světnici, v níž tak často tito tři vesele hovořívali.</p>
+
+			<p>Pan Ambrož a Jiří dlouho spolu ve velkém zármutku rozmlouvali, sami hořem sklíčeni nevěděli, jak by ztrátu tak bolestnou panu primatorovi zvěstovali.</p>
+
+			<p>Konečně se oba do domu jeho odebrali.</p>
+
+			<p>Hluboce dojala zpráva ta primatora; miloval Hynka co syna svého a oplakával ještě dlouho trpký osud miláčka srdce svého.</p>
+
+			<p>Lidmilinu bolest nelze popsati; věděla, jakou obět jí přinesl, i činila si výčitky, jako by byla smrt jeho zavinila.</p>
+
+			<p>Dlouhý čas panoval smutek v domě primatorově.</p>
+
+			<p>V několika dnech odtáhlo královské vojsko k dalším bojům, jež v Čechách až do úmrtí krále Jiřího trvaly. Vodnatelnost učinila příliš časně dne 23. března roku 1471 konec životu tak slavného panovníka.</p>
+
+			<p>Po nedlouhém čase dosáhl Jiří cíle svého. <pb n="193"/> Směl Lidmilu svou nazývati a těšil se dlouhý čas z blaženého a spokojeného života.</p>
+
+			<p>Památka na šlechetného Hynka nevyhasla z vděčných srdcí manželů. Jednoduchý kamenný kříž naznačoval místo, kde smrtelná rána přítele zasáhla; tam putovali každoročně v smutečném oděvu na výroční den a v srdečné pobožnosti zvěčnělému obět přinášeli.</p>
+
+			<p>Primator Vorel spravoval ještě nějaký čas záležitosti města. Bouře v zemi trvající zavdaly mu častokráte příčinu, že se na sen svůj upamatoval, a tuť vždy říkával: „Sny přichází od Boha!“</p>
+
+			<p>Nedočkal se konce bouří, jež město ještě několikráte zasáhly; umřel krátký čas před králem v tichosti, k veliké lítosti měšťanů klatovských, jimž vždy radou i skutkem upřímně pomáhal.</p>
+
+			<p>Pan Ambrož hejtmanil ještě několik let; často docházel do domu k Jiřímu, kdež vždy o Hynkovi rozmlouval, na něhož zapomenouti nemohl. Konečně se také odebral, jak sám říkával, do všeobecného hlavního tábora.</p>
+
+			<p><pb n="194"/> Souček vida, jak se to v Čechách mele, nemohl pudu svému odolati, brzy po bitvě u Nýrska odebral se ku královskému vojsku a více nebylo o něm slyšeti.</p>
+
+			<p>Zlosyn Hrouda a druhové jeho došli na popravním místě dle hrdelního práva tehdejšího věku ukrutným způsobem zaslouženého trestu; byli čtvrceni.</p>
+
+			<p>Pokolení po pokolení zacházelo a nové přicházelo. Jmena mnohých proslulých rodin klatovských vymřela a s nimi i památka na mnohé šlechetné skutky jejich vyhasla.</p>
+
+			<p>Okolí zůstalo ovšem totéž, ale povrch jeho změnil tvářnost svou. Tmavé lesy se vymýtily a v ourodná pole proměnily, a tak i kříž Hynkův se ztratil a s ním i památka na událost tuto.</p>
+
+			<p>Časté a velké záhubné ohně a nepříznivé válečné zběhy zničily blahobyt města druhdy tak bohatého a v obchodu znamenitého a s nimi všecky památnosti zápisné.</p>
+
+			<p>Želeti jest, že nám nehody tyto žádných <pb n="195"/> památek na ony doby v dějepisu zajisté znamenité nezůstavily, z nichž bychom byli podrobnější zprávy o bitvě u Nýrska podati mohli.</p>
+
+			<p>Konec.</p>
+
+		</div>
+	</body>
+</text>
+</TEI>

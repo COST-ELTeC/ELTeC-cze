@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0001" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Pašerova Anežka</title>
+			<title xml:lang="en">Smuggler's Anežka</title>
+			<author>Kuchař, Josef (1847-1926)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">14820</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=19052"></ref>
+				<publisher>National Library of the Czech Republic</publisher>
+				<idno type=""></idno>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Pašerova Anežka: povídka z hor od Josefa Kuchaře</title>
+						<publisher>Vilém J. Doubrava</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1896</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="M"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T3"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<body>
+
+		<div>
+
+			<p><pb n="1"/></p>
+
+		</div>
+
+		<div>
+
+			<head>Pašerova Anežka. Povídka z hor od Josefa Kuchaře.</head>
+
+			<p>V Praze-Žižkově.</p>
+
+			<p>Nakladatel Vilém J. Doubrava, knihkupec.</p>
+
+			<p>1896.</p>
+
+			<p><pb n="2"/> Tiskem Karla Brandeisa v Třeboni.</p>
+
+			<p><pb n="3"/> Prof. Dru Josefu Thomayerovi.</p>
+
+			<p><pb n="4"/></p>
+
+			<p><pb n="5"/></p>
+
+		</div>
+
+		<div>
+
+			<head>1.</head>
+
+			<p>Na horách Kladských hustě se chumelilo. Nebe bylo daleko kolem zataženo šedivými mraky a zasněžené vrchy kryly v nich své hlavy stářím zamyšlené. Prudký vítr rozháněl divoce husté kotouče sněhu v tu stranu, kde v bílé chumelici lesy se černaly a kupil je tam na její krajích v hluboké závěje. Pomalu se smrákalo. Bylo blízko k večeru. V tu stranu ku horám padaly po sněhu veliké černé stíny a nad krajinou víc a více se tmělo. Kolem jako po vymření - jen vichr zaskučel chvílemi ostře, zatočil divoce sněžnými kotouči a v nedalekém lese ve vrcholích smrčin a sosen úzkostlivým, táhlým zaúpěním se ztrácel...</p>
+
+			<p>Však slyš! - to nebyl teď vítr... V tu stranu k lesu ode vsi L* ozvaly se lidské hlasy... <pb n="6"/> Již i slyšet, jak sněhem brouzdají kroky. Zpola zasněžené blíží se po neschůdné cestě úvozové dvě postavy. Nelze je posud rozeznati. Hezky se již smrklo a kotouče sněhu padají tak hustě, že je sotva na tři kroky viděti. Hlasy se pomalu blíží - již vynikají jasně, že lze sledovati rozmluvu...</p>
+
+			<p>„Bože, to je nepohoda, co jen vystojíš, Fricku, - mohls raději zůstati dnes u teplých kamen. Já bych k vám byla odskočila večír na přástvu.“</p>
+
+			<p>„Jen si to neber tak k srdci, milá Anežko, víš, že jsem na takové cesty již uvyklý a nic si z toho nedělám, jen když mohu při chumelenici tak trochu sněhem se vybrouzdat a promrznout. Dnes zvláště, milá Anežko, nebyl bych ani za celý svět doma zůstal. Máme bohatý lov a nebe samo nám přeje, abychom jej mohli kolem nosu těch slídivých zelenokabátníků na bezpečné místo do vsi dopravit.“</p>
+
+			<p>„Jen nedej, Bože, aby se vám při tom nepřihodilo nějaké neštěstí.“</p>
+
+			<p>„To jsou, milá Anežko, marné strachy. Dnes ti zelenokabátníci ani přes práh se neodváží. Báli by se, že někde ve sněhu zapadnou <pb n="7"/> , a pak, milá Anežko, známe je, jak víš, vždy pořádně oklamat.“</p>
+
+			<p>„Nedej, svatá Háto, abyste se mýlili. Ale mnoho těm hraničárům nevěřte; jsou jako liška chytří a mají u nás ve vsi podplacené slídiče, kteří jdou po vašich krocích jako kočka za myší. Lehko z vás někdo mohl se podřeknout a budete je mít pak jako chrty na krku.“</p>
+
+			<p>„Co tě to napadá – z nás se někdo podřeknout! - To spíše nám některý z těch hraničárů přátelsky ruku podá a bude s námi držet na polovic... Ale teď, milá Anežko, již se nezdržuj. Nachýlilo se již hodně k večeru a do vsi máš hezký kus cesty. Budu mít bez toho o tebe starosť, dokud nebudu vědět, že již sedíš doma u kolovratu.“</p>
+
+			<p>Na planině vítr divoce zaburácel. Ze sněhu jen jen se prášilo.</p>
+
+			<p>Fricek s Anežkou na chvilku postanuli, hlavy k sobě klopíce.</p>
+
+			<p>„Jen o mne, Fricku, neměj strach,“ hovořila větru se vzpírajíc Anežka, „já se dostanu bezpečně domů. Vyprovodím tě ještě kus cesty až tamhle na kraj lesa. U Božích muk, co visí na buku, se rozloučíme.“</p>
+
+			<p><pb n="8"/> Ty jsi přece jen dobrá duše, Anežko - věř, já tě mám tuze rád – radši než sebe a svou starou matku. Ale, jen počkej, co si seženu potřebný kapitálek, abych mohl něco začít na svou pěst a poctivěji se živit, hned si tě uvedu jako hospodyňku do chalupy, kterou mně matka postoupí. Dala mně na to slovo. Vezmeme pak matku k sobě do vejminku. Viď že, Anežko?“</p>
+
+			<p>Přitulil se k ní a vzal ji kolem pasu.</p>
+
+			<p>„Bože, kdyby to už radši bylo! Já jsem na tebe tak uvyklá, že se mně pořád stýská, jak tě aspoň každý den jednou nevidím . Doma mne to mnoho netěší. Pomluvili tě u otce, že pašeříš, a on teď pro tu naši známosť pořád na mne brouká a kde může, činí mně trpké výčitky. Matka, to víš, ta raději mlčí, aby ho nepohněvala a neměla s ním vádu. Však ho znáš, Fricku, jaký je to nepřístupný mrzout.“</p>
+
+			<p>„Znám ho – znám, bůh ho naprav,“ hučel polou pro sebe Fricek.</p>
+
+			<p>Anežka pokračovala, sněhem statně se brodíc: „Chci-li někdy večír k vám na přástvu, musím tu chvilku zrovna ukrást. Tam se aspoň s matkou tvou vždy potěším , a stane-li <pb n="9"/> se někdy, že nejsi na horách, jsem celá šťastna a čas mi utíká zrovna jako voda.“</p>
+
+			<p>„No, mlč, Anežko, mlč. Dlouho to již tak trvat nebude - a pak nepůjdu již nikdy do hor a zůstanu každý večír doma. S pomocí Boží se toho přece dočkáme, a co jsme teď promeškali , všecko si pak vynahradíme.“</p>
+
+			<p>Sotva že Fricek domluvil, zaburácel znovu nad hlavami večerních chodců vítr divokým zvukem, zahalil je na několik kroků do kola hustým sloupem sněhových kotoučů, pak mžikem v pískotu ulétl a zaúpěl v lese mezi vrcholky smrků a sosen tak bolestně, jako když zapláče dítě.</p>
+
+			<p>„To si ten vítr naříká! Pán Bůh s námi, snad se někdo na horách oběsil,“ křižovala se Anežka.</p>
+
+			<p>„Opravdu, dost se těmi horami v zimě nachodím a lecjakou tu nepohodu jsem přestál, ale takovéhle bouře už dlouho nejsem pamětníkem. To je zrovna boží dopuštění . Ale což! - nám je to dnes pro naše záměry právě vhod; aspoň máme zabezpečeno, že se náš lov podaří.“</p>
+
+			<p>„Dej to Pánbůh; to víš, já bych vám toho přála. Jen aby zelenokabátníkům nenapadlo, <pb n="10"/> vyjíti si dnes zrovna v tom nečase na patrolu! Čert nikdy nespí .“</p>
+
+			<p>„Čert ne, ale auseráci budou spát, milá Anežko, až jim dnes po půlnoci propašujeme pár set kroků od strážnice kontraband.“ <note>Pašované zboží. (Označení, jehož pomezní strážníci a po nich pašerové užívají.)</note></p>
+
+			<p>„Jen kdybyste to už radši měli ve vsi. Nebudu dnes beztoho moci celou noc starostí ani oka zamhouřit. A až tě zítra zas uvidím, spadne mně kámen ze srdce. Zastavíš se u nás přece , Fricku, co, abych měla upokojenou chvilku?“</p>
+
+			<p>„No to víš. Jak přijdeme do vsi a zboží před těmi slídily někdy ukryjeme, povede mne první cesta k vám, a kdybych i věděl, že ještě spíte a měl vás ze spaní vyburcovat,“ žertoval Fricek a vytahoval pravou nohu ze závěje.</p>
+
+			<p>„Do opravdy, Fricku, chceš-li v noci se stavit, já nespím. Jen zaťukej u mé komůrky na okénko. Jak tě uvidím, cent se mne spadne.“</p>
+
+			<p>„Dobrá – nezapomeň tedy, Anežko - po půl noci u okénka tvé komůrky.“</p>
+
+			<p><pb n="11"/> „Jen přijď, nebudu spát a hned tě uslyším.“</p>
+
+			<p>Zatím milý náš párek přiblížil se ruku v ruce k silnému buku na pokraji lesa. V lese dál bylo již hodně temno a vítr hučel tu zhluboka zasněženými vrcholky a shazoval se sténajících kosmatých větví veliké kusy sněhu.</p>
+
+			<p>Anežka s Frickem blízko budu postanuli.</p>
+
+			<p>Byl to mohutný kmen s větvemi košatě rozloženými, na nichž místo zeleného loubí visely sněhové okrasy. Stařec buk chvilkami jakoby nevrle v zasténání se sebe je střásal. Na mocném kmeni čněl přibit veliký kříž s plechovým Spasitelem barev valně již vybledlých. Říkali tu proto „u Božích muk“. Rámě Spasitelovo, do večerního temna široce rozpjaté, skoro strašilo... Vyhaslé Kristovo oko zíralo mdle v závěj hluboko navátou v tu stranu ku horám. Z ní vyčnívaly korunky mladých stromků a suché metlice vysokých křovin.</p>
+
+			<p>Pod křížem o buk opřeno stálo dubové klekátko zpola zasněžené. K němu až těsně ruku v ruce Anežka s Frickem přistoupili.</p>
+
+			<p>„Zde jsme na místě,“ Fricek pravil, sníh se sebe střásaje.</p>
+
+			<p><pb n="12"/> „Bože, ani nevím, Fricku, na mne tu padá nějaká úzkosť; vrať se raději, vrať; tady v tom cípu lesa číhá na vás neštěstí .“</p>
+
+			<p>„Nebuď bláhova, Anežko - to dělá to místo tady. U toho kříže zde v lese je vždycky neveselo.“</p>
+
+			<p>„Ale pohleď jen, jak se dnes pán Kristus mračí; to neznamená nic dobrého.“</p>
+
+			<p>„Mračí – nemračí, milá Anežko! Co z toho? - Snad nevěříš pověrám?!“</p>
+
+			<p>„Ó věřím – věřím. Slyš, Fricku, nerouhej se a dej si říci. Matka mně vypravovala, že poutníci zde u Božích muk se zastavují, aby se dozvěděli, bude-li cesta jejich šťastna. Hledí-li Kristus přívětivě, je to dobré znamení pro ně; mračí-li se, čeká na ně vždy neštěstí . Tu nikdy se neodvažují na cestu. Ale kdysi poutníci nedbali výstražného tohoto znamení a šli večer pozdě přes hory. Ráno je našli tamhle v roklích s rozdrcenými hnáty. Spadali po tmě se skály. Tak je Bůh potrestal, že ho neposlechli a chtěli doraziti do poutnického místa, kdy mu to bylo nemilé. Moje matka je toho pamětnice. Jen se jí na to zeptej, ona ti to poví. A proto, Fricku, máš-li mne jen trochu <pb n="13"/> rád, vrať se – vrať; nečeká dnes na vás nic dobrého.“</p>
+
+			<p>Ovinula ruce své kol zasněžené jeho šije a hleděla mu prosebně do očí. Při tom smekla se jí s hlavy loktuše a na ramena svezly se jí dva dlouhé krásné rulíky světlých vlasů, kteréž v okamžení tom dodávaly Anežce nesmírného půvabu.</p>
+
+			<p>Vypadala jako kouzelný zjev z lesní pohádky...</p>
+
+			<p>V tom ozvalo se temnem z hlubokého lesa pronikavé zapísknutí.</p>
+
+			<p>Anežka sebou trhla.</p>
+
+			<p>„Bože, Fricku, slyšíš , co to?“</p>
+
+			<p>„I neboj se, Anežko, to jsou naši . Čekají tamhle nahoře u toho dutého dubu v jeskyni - však ty o ní také víš - a dávají znamení, aby si, kdo je na cestě lesem, přispíšil . Hezky se již smrklo, je čas, abychom již vytrhli, a proto mne, milá Anežko, víc nezdržuj.“</p>
+
+			<p>„Tedy neposlechneš varujícího hlasu mého, Fricku, nevrátíš se?“</p>
+
+			<p>„Prosím tě, Anežko, jen tenkráte toho na mně nežádej. Hojný lov čeká a veliký díl na mne připadne. Budu míti potřebnou <pb n="14"/> částku pro nás dříve pohromadě. Kdo ví, kdy se nahodí zase taková krásná příležitost. Bylo by jí věčná škoda.“</p>
+
+			<p>„Nu – když jinak dáti nechceš, tedy s pánem Bohem, Fricku. Ale ukaž, ať ti na cestu udělám křížek.“</p>
+
+			<p>Položila levici na jeho rámě a pravici zvedla k požehnání .</p>
+
+			<p>Mladý pašer sňal s hlavy huňatou beranici a sklonil v tu stranu ke kříži hlavu.</p>
+
+			<p>„Ve jménu Otce – i Syna – i Ducha svatého...“</p>
+
+			<p>„Amen,“ doložil pobožně Fricek a vzpřímil se.</p>
+
+			<p>Vítr divě zaburácel, až plechový Spasitel zařinčel na buku – a v dáli ozvalo se podruhé pronikavé zapísknutí.</p>
+
+			<p>Fricek se vzpružil.</p>
+
+			<p>„Tak s Bohem, drahá Anežko - to je znamení k odchodu, dýl nemohu čekat. Pospěš do vesnice a pomodli se za šťastný návrat. S pánem Bohem!“</p>
+
+			<p>Přivinul ji prudce k sobě a pak mžikem zmizel mezi stromy v lesním temnu...</p>
+
+			<p>„Pán Bůh tě provázej,“ šeptala za ním <pb n="15"/> Anežka, zahalila se vlněné loktuše a obrátila se na odchod.</p>
+
+			<p>Venku zatím úplně se setmělo. Vítr bouřil a skučel – ale chumelice pomalu přestávala a jen chvilkami vítr švihl nějakým kotoučem sněhovým Anežce do tváří.</p>
+
+			<p>Kráčela statně v před. Cestu znala a nemohla zablouditi. Nedělala si ničeho z nepohody, aniž ji děsila za temna osamělá cesta z lesa vysoko navátým sněhem. Bylo to srdnaté děvče hor, v jich klínu vyhýčkané a vychované, a uvyklo jich vrtochům. Co nocí nabloudila se letního času lesem a roklemi, jdouc nedočkava Fricku z výpravy se vracejícímu naproti. Kudy jít, věděla; Fricek jí to vždy pověděl a v lese znala se jako doma ve světnici nebo na půdě.</p>
+
+			<p>Kol ní z hlubokého sna těžce oddychoval les, tu ze spaní zavolal krakotem havrana, tu lítostivým houknutím sovy - tu zas na chvilku ze sna vyrušen z houštiny upřel na ní temnem veliké svítící oči. A ona se ho neděsila. Přivykla mu jako dítě otci a často položila se s ním na chvilku do mechu, aby si pozdřímla.</p>
+
+			<p><pb n="16"/> Jen hraničárů se bála: tlapala tak ticho po mechu a chrastí jako po vlnách a naslouchala pozorně na všecky strany. Ani lísteček na stromech se nehnul , ani špendličí nespadlo na zemi, aby je Anežka nebyla slyšela. Zableskla-li někde v šeru lesa puška a zaduněl krok – Anežka jako laňka byla již v houští – a někdy jí i osud přál, že vyslechla celou rozmluvu zelenokabátníků a vyslídila jejich plány. Tu spěchávala pak oklikami, aby pašery varovala.</p>
+
+			<p>Však ji měli také rádi! Život by za ni byli dali. Ani jednou nevrátili se z Kladska přes hory, aby pro ni nějaké ten šátek, na košile aneb jinou maličkosť nebyli přinesli.</p>
+
+			<p>Hraničáři arci se nakleli, „ký čert že jim zas do toho vlezl, když měli již všecko tak jistě a nalíčeno jen k sklapnutí,“ - ale co naplat: ptáčkové přece jen vylítli a klec byla prázdná. Že by prostá dívka dělala jim kříž přes počet, to jim ani ve snu nenapadlo.</p>
+
+			<p>A Anežka? - Ta činila to všecko jen z lásky k Frickovi. Jen o něho se bála a pro něho se vydávala v nebezpečí. Aby on se zachránit mohl, varovala celou tlupu. Arci, než odvážila se do lesa, zastavila se vždy <pb n="17"/> dříve u Božích muk, poklekla na klekátko a vroucně se modlíc hleděla pevně na tvář Spasitelovu. Zdála se jí býti vždy přívětivá , a to bylo dobrým znamením; věděla již napřed a důvěřovala pevně, že se jí a Frickovi nic nemilého nestane.</p>
+
+			<p>Ale dnes – dnes jí bylo pod šněrovačkou nějak úzko. O sebe necítila žádného strachu, ale o Fricka se bála. Proč jí jen neposlechl a nešel zpátky!... Stále viděla Krista na kříži, jak hledí v závěj sněhovou ku horám a jak se mračí. Neměla pokoje; pořád ji to nutkalo, aby se vrátila a přesvědčila se, jestli se snad nemýlila... Již obracela své kroky... Ale ne; vždyť udělala Frickovi křížek a poručila ho ochraně Boží... Vrátí se šťastně - hraničáři zůstanou dnes doma; budou se báti, že by mohli dnes ve sněhu někde zapadnout...</p>
+
+			<p>Takovými a podobnými myšlenkami se obírajíc Anežka blížila se znenáhla strážnici, kteráž asi dvě stě kroků stranou za vesnicí N... stála.</p>
+
+			<p>Neměla již domů daleko.</p>
+
+			<p>Vítr pískal a z vesničky ozýval se po planině sněhem zaváté psí štěkot večerem.</p>
+
+			<p><pb n="18"/> Viděla před sebou, jak z oken chaloupek padala na sníh do tmy záře světla... Jaký to byl na ně z daleka pěkný pohled! Zdálo se jí, že ty vetché chaloupky otevřely oči a pátrají po tmě... Bezděky hledala očima chaloupku Frickovy matky... Hle, tam to světlo z oken chaloupky, stojící osaměle stranou, září jako její upřímné, staré, věrné oči... To ona jistě z okna hledí s chaloupkou do tmy za synem, aby mu vyhleděla šťastný návrat...</p>
+
+			<p>Anežce vstoupily slzy do očí a na lících mrzly. Mimovolně zhluboka vzdychla. -</p>
+
+			<p>Zatím přestalo již se chumeliti, mraky se trhaly – a vítr hnal je po obloze jako dravé ptactvo za hory a na promodrávajícím nebi tu a tam prokmitaly třpytivé hvězdy.</p>
+
+			<p>Nad lesem z protrhaných šedých mraků vyvstával v zarudlé záři měsíc... Kradl se ven jako vyzvědač.</p>
+
+			<p>Anežce ta náhlá změna povětrnosti se nelíbila a jakýsi nepokoj počal se jí opět rozhosťovati v ňadrech. Bezděky pohlédla k strážnici. Tam byla okna v plném světle a jasná jeho záře padala proudem na sníh <pb n="19"/> pod okny vysoko navátý. Uvnitř kmitaly se stíny...</p>
+
+			<p>Anežka se srdcem stísněným blížila se strážnici víc a více...</p>
+
+			<p>Tam panovalo posud ticho – a jen vítr zařinčel po chvilkách tabulemi v oknech a plechová korouhvička na střeše zaskřípala...</p>
+
+			<p>V dáli ozýval se v přestávkách jednotvárný psí štěkot.</p>
+
+			<p>Však - teď bylo jasně slyšet, jak zavrzly u strážnice dvéře.</p>
+
+			<p>Anežka rychle tam pohlédla.</p>
+
+			<p>Na prahu nad schůdky, kteréž na pěšinu k úvozové cestě do lesa vedly, objevili se dva strážníci zahaleni v pláště a s puškami na ramenou.</p>
+
+			<p>Anežce stydla krev v žilách. Fricek se přepočítal a s ním celá tlupa. Bože, kdyby je mohla varovat! Ale Bůh suď – kam je již vítr zanesl. Jít jim naproti nemůže; nebo bloudit na zdařbůh lesem je na pováženou; sníh je klamný: snadno by mohla padnouti někam do rokle aneb umrznouti. Co tedy počíti? Nevěděla si rady a poručila v duchu ještě jednou Fricka a celou tlupu pašerů pod ochranu Boží. -</p>
+
+			<p><pb n="20"/> Strážníci zatím se blížili...</p>
+
+			<p>Z počátku chtěla se jim vyhnouti, ale vidouc, že ji zahlédli a přímo k ní své kroky zaměřili, zaobalila se ještě těsněji do své loktuše a brala se rovnou cestou dále. Za malou chvilku se s nimi potkala. Několika rychlejšími krok minula je a ani se neohlédnouc, pospíchala do vsi...</p>
+
+		</div>
+
+		<div>
+
+			<head>2.</head>
+
+			<p>Strážníci se zastavili a hleděli chvilku za Anežkou. Pak se brali dále.</p>
+
+			<p>„Ta ženština je mně podezřelá,“ prohodil jeden ze strážníků; „rád bych věděl, co večer v takovémhle počasí v polích hledá.“</p>
+
+			<p>„Je vidět, Josefe, že jsi u nás ještě nováčkem. Neznáš dosud svých lidí. Ale chceš-li některý večer v lesní krčmě nějaký ten džbánek nahořklého platit, seznámím tě s tou ženštinou.“</p>
+
+			<p>„Ty jsi, Jene, po čertech úslužný,“ odpovídal oslovený, „ale prozatím si ušetř práce; natoužím po známostech - přijdou člověku draze.“</p>
+
+			<p>„Ha, ha, ha,“ smál se plným hrdlem druh, „to je veselé. Brachu, mně ani nenapadlo <pb n="21"/> chtíti tě snad s tou holkou kopulovat; vždyť jsem sám s ní jakživ nemluvil, a pak bych ji možná podržel pro sebe. Já jen myslil, že ti řeknu, kdo ta ženština je, a přisámbůh, že by tě to při tvé služební horlivosti nemálo zajímalo.“</p>
+
+			<p>„Ah - tak to je něco zcela jiného. To jsi mohl hnedle říci. - Tak jen vypravuj!“</p>
+
+			<p>„A což ty džbánky chmele? Budeš platit?“</p>
+
+			<p>„I budu platit, až se ochmelíš; vím, že na tu bryndu trpíš, a ještě se dočkám, že tě jednou najdou kdes v sudě s pivem utopeného.“</p>
+
+			<p>„Pomalu s tou flintou, Josífku, pomalu – nedělej z komára velblouda. Kdo v té peci bývá, jiného tam hledá. Však ty také nezahodíš. Viděl jsem to na své vlastní oči, když respicient náš před týdnem své jmeniny slavil. Počínal jsi si statně, brachu. Na mou věru, dělal jsi nám česť. Umíš to znamenitě.“</p>
+
+			<p>„Jen tak někdy, kamaráde, jen tak někdy, když jsem dobré mysli. Jindy zase mohl bys mne třeba do sklepa k plnému sudu posadit a já ani nehnu. - Ale u všech <pb n="22"/> všudy, mně se zdá, že jsme v tom zpropadeném sněhu sbloudili s cesty. Boží muka jsou přece tamhle v pravo v tom cípu lesa a my jdeme úvozovou cestou do okresního města K...“</p>
+
+			<p>Oba hraničáři zastavili se a pátrali chvíli po krajině...</p>
+
+			<p>„I prach, broky a koule, Josífku , ty máš pravdu. Jakpak jsme toho jen dokázali! - To se, na mou duši, divím. Takový starý kos jako já – a od strážnice k lesu sbloudit s cesty! Se zavázanýma očima bych se tam chtěl dostati. Ale to je to: ta pašerácká holka začarovala nám cestu, a proto bloudíme.“</p>
+
+			<p>„I kýho výra, Jene, cože to pravíš? - To děvče že pašeří? Hrome, proč jsme ji tedy nezadrželi a neprohledali? Honem, kamaráde, za ní. Nemůže býti ještě ve vsi, a kdyby byla; vždyť ji tam každý musí znát a poví nám, kde ji lapneme.“</p>
+
+			<p>A strážník obracel se směrem k vesnici...</p>
+
+			<p>Právě nad lesy měsíc do mraků zašel – a od vesničky do tmy jasněji zazářila osvětlená okénka...</p>
+
+			<p><pb n="23"/> I neblázni, Josífku. Ty bys byl s to v služební své horlivosti na pouhé podezření snad celou vesnici prohledati. Ale, na mou věru, se špatnou bys se potázal. Pojď raději, pojď – máme důležitější věci na starosti a nejdýl do devíti musíme býti s raportem doma.“</p>
+
+			<p>„Ale, u všech všudy, tak mně to přece vysvětli, jak tomu mám rozumět! - Potkáme večer pašera, jde v nepohodě s Kladských hor se zbožím zrovna kolem strážnice do vsi, ty ho znáš - a flák: necháme ho lacino zrovna pod svýma rukama proběhnouti. No, to děvče se nám řádně vysměje.“</p>
+
+			<p>„I nevysměje, brachu, nevysměje; vždyť nic nenesla. Šla jenom svého hocha, pašeráckého Fricka, vyprovodit. Dělá to vždy, když ten proklatý chlap jde na výpravu do hor. Vidíš, to je teď náš barometr. Ukazuje nám, jaké je povětří na horách. Ona i Fricek myslí, že jich neznáme. Ale chyba lávky, braši. Neznali jsme arci dřív – a dlouho jsme jich neznali, až nám o nich tuhle náš starý Karásek ve vsi pověděl. Ale stálo ho to prý také namáhání! Víš , je to náš vyzvědač a za pár plecháčů pálenky <pb n="24"/> zradí nám třeba svého syna. Oddaný to chlap – můžeme se na něho spolehnouti. Nebýti jeho, dnes bychom byli zůstali doma. Koho by také napadlo, že ti lotrasové zrovna dnes půjdou do hor. V takovém nečase by náš respicient ani psa ven nevyhnal. Je to hodný chlapík – nemůžeme si na něho stěžovat. Však jsi ho za těch pár dní, co jsi u nás, také již mohl poznat.“</p>
+
+			<p>„Pravda – pravda, kamaráde, je to dobrák,“ přisvědčoval naslouchající strážník. „Mně se jak náleží líbí. Nerasuje svých lidí.“</p>
+
+			<p>„Ale hleď, kamaráde,“ pokračoval prvý strážník ve svém vysvětlování, „dnes před večerem přiběhne najednou k našemu respicientu starý Karásek a vypravuje mu, že rozvážel po vesnici nasbírané roští z lesa, a tu že viděl, jak k Roubalovům ten pašerácký Fricek vklouzl. Počíhal si, aby vyzvěděl, co se z toho vyklube. – A hle, za nějakou chvíli vyšel Fricek s Roubalovic Anežkou opatrně ze dveří a oba zaměřili za vesnici k polím. Karásek nechal státi svůj trakař na návsi a kradl se za nimi. Smrákalo se již – a hustá chumelenice s tím proklatým <pb n="25"/> vichrem, který nám až do kostí vráží, podporovaly ho, že si ho nevšimli . Za chvilku vyslechl tolik, čeho potřeboval. A víš-li pak, co ti čertoví chlapi dnes zamýšlejí! - Veliký kontraband chtí nám po půl noci zrovna kolem strážnice do vsi odnésti. Myslí, že v tom nečase dnes nevytrhneme, a půjdou okolo jeskyně dolů k Božím mukám a odtud přes pole do vsi. V jeskyni měli shromáždiště. Ale, nejkrásnější při tom je, že je s nimi i krčmář ve spojení, kterého jsme měli až podnes za poctivého chlapa. Pouhá náhoda nás na to přivedla . Kdyby se to bylo nestalo, možná, že bychom i dnes, ačkoliv jsme na udání Karáskovo měli všecko už jisté – jen k sklapnutí, byli utřeli hezky u huby. Sotva že Karásek vytáhl z bytu respicientova paty, přiběhla do pokoje, chuďas, udychtěná a promrzlá služka krčmářova Bětuška, děvče jako lusk, odtud z vesnice, a vypravovala, že měla dnes s krčmářem nějakou mrzutost, a ten že ji vyhnal v téhle slotě z domu. Při tom začala o krčmářovi povídati celou litanii, že býval sám dřív pašerem, že s pašery teď drží, že nás vodí za nos a že jim chce dnes o půlnoci dáti <pb n="26"/> znamení, je-li v lese jisto. Ona prý to na své vlastní uši za dveřmi slyšela, když krčmář o tom s vůdcem pašerů, jakýmsi Málkem, nebo jak se ten chlap nazývá, a se ženou v komoře se radili, a chce mu to říci třebas i do očí. Respicient podržel to ubohé děvče zatím u sebe a mně uložil, abych s tebou podíval se do lesa do krčmy, zatkl krčmáře i se ženou a přivedl je do strážnice, aby nám to dnes nemohli zbryndat. Na cestě měl jsem tě v plán respicientův zasvětiti.“</p>
+
+			<p>„A tohle je trefa – to se na tu melu těším. Už dlouho jsem neudělal žádného kontrabandu, a jestliže se nám dnešní lov podaří a čerchmant nám nesplete kolečka, bude to pro začátek, co jsem v této krajině, hezkých pár grošů odměny. Na mou duši, Jeníku , podaří-li se dnešní lov, platím piva, co ho vypiješ.“</p>
+
+			<p>„Slovo s to, Josífku, jen nezapomeň, co jsi teď slíbil. V lesní krčmě uděláme začátek; já bych si tam rád s krčmářem provedl dnes nějakou švandičku.“</p>
+
+			<p>„Nedělej si daremných starostí, Jene. Co slíbím, splním. Ale, ať mně ďas, když mne ta Anežka, nebo jak jí říkají, nezajímá! <pb n="27"/> Přisámbůh, je to kurážná holka a má svého hocha, jak náleží, ráda. Vida, toho by jiná hned tak neudělala.“</p>
+
+			<p>„Viď, Josefe, vědět, že je hoch pašerák – a míti ho přece ráda , a ještě ho v takovéhle psině večír až do lesa vyprovázet. To není žádná maličkost. Věř, já bych toho na jejím místě neudělal, kdyby ten hoch byl jako malovaný a kdyby mně přinesl každý týden prezentů, že by se mi ani do truhlice nevešly.“</p>
+
+			<p>„No, nechtějme sahat tomu Frickovi – není-li pravda, tak jsi ho jmenoval – hned tak do svědomí. Možná, že je to jinak hodný hoch, a kdož ví, co ho k tomu pohnulo, aby pašeřil. Pánbůh ví , že bych se s ním skoro nerad v lese setkal. Již k vůli té holce ne, že je tak kurážná a že ho má tolik ráda. Bylo by mně jí líto, kdybychom ho měli chytit a všecko mu odebrat a ještě mimo to ho dáti snad zavřít.“</p>
+
+			<p>„No – no, Josífku, ty jsi nějak změkl. Naposled bys ještě to chlapisko pustil i s kontrabandem, kdyby ti vběhlo do cesty. Vida, vida, jak jsi útlocitný – ani bych toho byl v tvé služební horlivosti nehledal.“</p>
+
+			<p><pb n="28"/> „No, já myslím, že jsem tak dobře člověk, jako kdo jiný, a mám-li na sobě vojenský kabát, není to ještě pro mne vysvědčením, že nemám žádného srdce v těle. Ostatně, ty hony na pašery nejsou pro nás pro nikoho med, a kdyby nám toho neporoučela přísně povinnosť naše, jejíž porušení kázní se tresce, a pak kdyby nebylo té vyhlídky na těch pár grošův odměny, mně se zdá, že by pašeři před každým z nás měli svatý pokoj a že by nikoho nenapadlo, aby je z pouhého gusta necitelně honil a pronásledoval.“</p>
+
+			<p>„Inu, vždyť není tak zle, Josífku - já myslím, že nejsem také žádný ras. Dokázal jsem toho za těch devět let, co sloužím, kolikrát . Kdybych měl všecky odměny za zboží na hromadě, které jsem i s pašery za pár dobrých slov a zpropitné pustil přes hranice, byl by to již hezký kapitálek. Ale vždycky nelze člověku býti milosrdným. Většina pašerů je daremná, ošemetná čeládka, která by si z toho pranic nedělala, kdyby nám „zelenokabátníkům“ mohla krky zakroutit. Zkusil jsem to kolikrát a jednou sotva že vyvázl jsem životem.“</p>
+
+			<p><pb n="29"/> „Milý brachu, na to našinec musí vždycky být připraven. Běží-li někomu o kůži, hledí, aby ji hájil. Možná dost, že budeme dnes míti také nějakou melu, až na ně tak z nenadání vypadneme? Apropos, nevíš, kolik těch chlápků je, neřekl to Karásek našemu respicientovi?“</p>
+
+			<p>„Je jich skoro na dvacet a někteří z nich jsou prý ozbrojeni. Vytrhli dnes všichni, co jich je ve vesnici i dál v okolí, poněvadž mají mnoho zboží nahromaděno a poněvadž myslili, že při takové nepohodě zůstaneme doma. Nebýti Karáska a Bětušky - měli vyhráno, nám by se bývalo o tom ani nezdálo.“</p>
+
+			<p>„Na mou milou – to jich je hezká hrstka. Musíme se na ně řádně připraviti, abychom něčeho neutržili.“</p>
+
+			<p>„Jen se o to starej, to je věc respicientova, a ten to už nějak navlíkne , že nám neuklouzne ani myš. Ale něco jiného mně dělá starosť. Nevysvítí-li do té doby měsíc, může nám velká většina té čeládky při prvním hluku i s kontrabandem upláchnouti. Les je hustý dost a ve sněhu není kroků slyšeti.“</p>
+
+			<p><pb n="30"/> „Nemáš-li jiné starosti, pusť ji jen s pánembohem mimo sebe. Koukni tamhle - právě vychází měsíc v plné záři a sotva as uhasne; mraky jsou za horami a nebe kolem již je jasné. Trochu toho větru povětrnost dnes v noci sotva asi změní, leda že bude řádně mrznout; hezky už přituhuje.“</p>
+
+			<p>Strážník Jan kvapně pohlédl vzhůru... Vskutku - nad lesy v tu stranu ku horám vyvstával v rudé záři úplněk měsíce a v jeho magickém svitu padaly po sněhu dlouhé klátivé stíny posněžených smrků a sosen.</p>
+
+			<p>Za malou chvíli strážníci zmizeli jimi v temnu lesa...</p>
+
+		</div>
+
+		<div>
+
+			<head>3.</head>
+
+			<p>Když se byl Fricek u Božích muk s Anežkou rozloučil, spěchal jako o závod lesem ke skalní sluji u dutého dubu, aby nepřišel pozdě a výpravy nepropásl. Umluviliť pašeři mezi sebou, že po třetím zapísknutí vytrhnou a že každý, kdo výpravy súčastniti se chce, v určitou dobu na ustanovené místo dostaviti se musí, jinak že dají se na cestu do hor bez něho.</p>
+
+			<p><pb n="31"/> A cesta do hor zimního času, zvláště za takové povětrnosti, jaká dnes panovala, nebyla žádná maličkosť. Jednotlivec na ni odvážiti se nesměl, nechtěl-li se vydati v nebezpečí, že buď někde v rokli se roztříští, nebo lesem z cesty zbloudí a někde zmrzne. I bezpečno nebylo dvakráte na horách. Nejednou našli ráno u cesty pocestného , že byl do naha okraden a ještě ubit.</p>
+
+			<p>Toho všeho uvážil Fricek cestou a zrychlil svoje kroky. Za chvíli dorazil do jeskyně, ozářené smolnou pochodní. Zde byli již všichni pašeři pohromadě a čekali jen na něho. Byli by ho neradi pohřešili ; byltě Fricek upřímný, veselý druh a odvážný jako málo kdo z nich. Znal les a hory křížem a délkou, a když často pro nástrahy pohraničních strážníků voda pašerům tekla do bot, on byl tu vždy s radou svojí pohotově – a ta se až dosud také vždycky osvědčila. Byl také pro tyto své vlastnosti mezi pašery vážen, ba s mnohými poutal ho svazek upřímného přátelství. A proto, jakmile se octnul u vchodu do jeskyně, uvítal ho hlučný jásot a Fricek ani nestačil všem ruku <pb n="32"/> podávati. Se všech stran zahrnovali ho otázkami.</p>
+
+			<p>„U všech všudy, kde pak jsi tak dlouho vězel, Fricku?“ doléhal jeden.</p>
+
+			<p>„To tě jistě zas Anežka zdržovala, viď?“ dokládal druhý.</p>
+
+			<p>„Čul si něco, Fricku, větří nás ti zelenokabátníci? - Tak přece povídej!“ naléhal třetí.</p>
+
+			<p>A tak to šlo jako po řetízku.</p>
+
+			<p>„Ale, lidičky, nechte mne přece také k slovu přijíti,“ bránil se Fricek, „desíti najednou odpovídati nemohu.“</p>
+
+			<p>„Ticho – nemařme času otázkami,“ zavolal někdo před jeskyní u dubu, a do vnitř vstoupil náčelník tlupy, veliký silný muž, zarudlých vlasů a s orličím nosem.</p>
+
+			<p>Na hlavě seděla mu velká beranice, tělo halil dlouhý, skoro až ke kolenům splývající plášť. Za širokým koženým pasem vykukovaly poodhaleným pláštěm dvě bambitky.</p>
+
+			<p>Náčelník přistoupil až k Frickovi.</p>
+
+			<p>„Vítám tě, Fricku, to jsi hodný, že jsi přišel. Však měl jsi již nejvyšší čas. Třikráte jsem pískal – a teď bychom, ač neradi, byli musili vytrhnouti bez tebe.“</p>
+
+			<p><pb n="33"/> „To by mne bylo, náčelníku, mrzelo. Zdržel jsem se trochu cestou do lesa a slyšel jsem jen dvakráte pískat, ačkoliv mně nějaký hlas šeptal, že je to po třetí.“</p>
+
+			<p>„Měls dobrý čich, Fricku, ale podruhé se nemazli před výpravou tak dlouho se ženskými - víš, s nimi člověk daleko nedojde; mají výmluv a námitek, že člověku jde z toho hlava kolem a že pro samé ty vrtochy ženské nemůže se ani vypravit.“</p>
+
+			<p>Fricek se začervenal jako pivoňka. Pašeři se usmívali.</p>
+
+			<p>„Ale, náčelníku, kdo pak vám...“</p>
+
+			<p>„Nech jen být – nech jen být, Fricku,“ přerušil ho náčelník, „víš – starý Málek má dobré oči a uši a musil by tom býti čert, aby mu tak na blízku něco uklouzlo. Ostatně, co je na tom! Anežka je pořádné děvče – ukázala nám, že má i kuráž - a pak tě má k zbláznění ráda. Hodí se docela dobře k tobě - jen tolik mazliti bys se s ní neměl.“</p>
+
+			<p>A náčelník obrátil se k ostatním.</p>
+
+			<p>„Ale teď vzhůru, hoši, je nejvyšší čas, abychom vytrhli. Venku se mění povětří a <pb n="34"/> to mne mrzí. Musíme si pospíšit, abychom za nepohody vrátili se do vsi.“</p>
+
+			<p>„Zůstane tedy při tom, náčelníku, že se vrátíme toutéž cestou kolem Božích muk a přes pole kol strážnice do vsi?“ otázal se jeden z pašerův.</p>
+
+			<p>„Jestliže povětrnosť se změní , neradil bych, abychom takhle hazardovali,“ ozval se Fricek. „Snadno by mohlo těm zelenokabátníkům napadnout, aby se šli trochu ven podívat, a to všichni víte, že cíp lesa u Božích muk je jejich koníčkem. Mohli bychom pak i se zbožím u huby utřít.“</p>
+
+			<p>„Ale u čerta – nedělejte si jen daremných starostí,“ zvolal náčelník. „Dejme tomu, že by se i povětrnosť úplně změnila a že by třebas i měsíc vysvítil - koho pak napadne, že jsme v takové slotě pustili se večír přes hory! Zelenokabátníci v bázni Boží ulehnou a budou rádi, že mohou jednou za čas do syta se vyspat. Jen nechte mne o všechno se starati – já vám ručím za výsledek.“</p>
+
+			<p>„Opatrnosti nikdy nezbývá, náčelníku,“ namítal opět Fricek a mnozí z pašerů mu přizvukovali.</p>
+
+			<p><pb n="35"/> „Běží tu o nás a o naše zboží,“ volali jiní.</p>
+
+			<p>„Tak si dejte, lidičky, přece říci,“ horlil náčelník, „a poslyšte celý můj plán. Bude-li někdo z vás věděti lepší, dobrá - já jsem při něm. Ostatně myslím, že mně tak dobře běží o šťastný výsledek jako vám všem.“</p>
+
+			<p>„Pánbůh chraň, to my také neříkáme,“ volali pašeři.</p>
+
+			<p>Náčelník pokračoval:</p>
+
+			<p>„O půl noci jsme před krčmou tamhle u první rokle. Krčmář je náš - to víte - mluvil jsem s ním , i slíbil, že nám dá znamení, bude-li nebezpečno. Levá okenice bude zavřena, v pravo v okně bude světlo. V tom případě obejdeme rokli a dáme se jinou stranou. Ale budou-li obě okna osvětlena, je v krčmě i kolem krčmy jisto - a tu před krčmou se rozdělíme na dvě polovice. S jednou polovicí a se zbožím zůstanu já prozatím nahoře v krčmě, s druhou polovicí a bez ranců vytrhne pro jistotu tadyhle Fricek k Božím mukám. Půjdete opatrně jeden za druhým, hezky daleko od sebe, a až sejdete dolů k buku, dáte píšťalkou dvakrát znamení . Já k vám pak s ostatními <pb n="36"/> přirazím. Jak jsme již jednou z lesa, pak je nám hej. Kdyby však dole něco se hnulo, budete nás jedním zapísknutím varovati, pospíšíte zpátky a dáte se opáčnou cestou tamhle kolem druhé rokle. Mezi tím, co se strážníci za vámi poženou, ufoukneme my i se zbožím do vsi. Kdyby nás však měli z nenadání někde zaskočiti a přepadnouti – no vždyť je nás hezká hromádka a máme sebou hodné obušky a někteří i ostře nabité pistole. Budeme se brániti a utečeme jim. Jste s tím srozuměni?“</p>
+
+			<p>„Jsme, jsme,“ zavznělo jako jedním hrdlem po jeskyni.</p>
+
+			<p>„Tak tedy do předu!“ náčelník zvolal a celá tlupa hnula se pochodem.</p>
+
+			<p>Za malou chvíli jeskyně byla prázdná a jen v dálce doznívaly slabou ozvěnou pomísené hlasy...</p>
+
+			<p>Pašeři byli na cestě do hor.</p>
+
+		</div>
+
+		<div>
+
+			<head>4.</head>
+
+			<p>Jako zimou skřehlá přikrčená stařenka stojí blíž úvozové lesní cesty, ani čtyři sta <pb n="37"/> kroků od „Božích muk“ v levo, zpola sněhem zavátá chaloupka mezi stověkými sosnami.</p>
+
+			<p>Je to lesní krčma.</p>
+
+			<p>Jako by si ta chaloupka právě byla zdřímla . Obě okénka její přivřena jsou okenicemi a ve vrcholích sosen nad bílou, prohnutou stříškou šumí to chvilkami zhluboka a táhle, jako by vetchá chaloupka oddychovala ze spaní...</p>
+
+			<p>Právě vyvstal z protrhaných mraků nad lesem úplněk měsíce a světlo jeho šeří zasněženými vrcholky sosen na chaloupku, paprsky bledé kradou se ztichounka po střeše, po zdích a skulinami okenic nahlížejí zvědavě do vnitř... Jako by měsíc tichounké sny předl nad chaloupkou, mezi tím co kolem ve vrcholích velikánů lesních divokým zvukem vichr se prohání a po horách mrazem a ledem dýše...</p>
+
+			<p>Však teď prudké zatlučení na dvéře vyrušilo chaloupku lesní ze spaní... Vítr zafičel okolo zdí a vjel pod chatrnou stříšku a chaloupka zachvěla sebou, jako by ji byla najednou rozmrazila zima, které před tím ve spaní necítila.</p>
+
+			<p><pb n="38"/> Skulinami okenic kmitlo se světlo; to jako by rozespalá chaloupka pootvírala oči a vyhlížela ven, kdo ji ještě dnes z poklidu nočního ruší...</p>
+
+			<p>A venku opět zabušily rány na domovní dvéře.</p>
+
+			<p>„Hej, hola, otevřte!“</p>
+
+			<p>Uvnitř zavrzly u světnice dvéře; v síni ozvaly se kroky a spolu nevrlé zamumlání...</p>
+
+			<p>„Kdo to?“</p>
+
+			<p>„Dobří známí; jen neotálejte a otevřte, nemáme času nazbyt.“</p>
+
+			<p>Závora klapla, dvéře se otevřely a v nich, lucernu drže v ruce, objevil se s tváří nevrlou a zvědavou rozespalý krčmář, zavalitý horal bez vousů, v koženkách a noční čepičce.</p>
+
+			<p>Otevřenými dveřmi vrazil mrazivý vítr do síně, div svítilnu neshasil.</p>
+
+			<p>Krčmář, třesa se zimou, posvítil si na příchozí.</p>
+
+			<p>V kmitavé záři svítilny a v měsíčném světle, jež stemnělými vrcholky sosen dolu padalo, zjevili se na zasněženém práhu známí nám dva finanční strážníci, zahaleni až nad uši plášti, s puškami za řemen na rukou zavěšenými.</p>
+
+			<p><pb n="39"/> Oklepávali o práh zmrzlý sníh, proklínajíce nepohodu.</p>
+
+			<p>Krčmář, uzřev příchozí, sotva že uvěřil svým zrakům. Zůstal na chvilku, jako by ho opařil; této návštěvy aspoň se nenadál. Zůstal mezi dveřmi za terč větru vydán a zevloval se strážníka na strážníka.</p>
+
+			<p>Zapomněl v tom okamžení na zimu.</p>
+
+			<p>„No, stará ospalá sojko, pustíte-li pak nás do vnitř, či nevidíte, že jsme zmrzlí jako koráb?“ <note>V horách tak zvou tvrdou koru lesních stromů.</note> zvolal strážník, jejž slyšeli jsme prve jmenovati jeho druhem Jan, a hrnul se do dveří. Za ním v patách sypal se Josífek.</p>
+
+			<p>Krčmář ustoupil, zamumlal několik nesrozumitelných slov, jež měla býti uvítáním, bouchl dveřmi , až chaloupka se otřásla, a bral se do světnice s lucernou za strážníky.</p>
+
+			<p>Návštěva tato patrně ho mnoho netěšila.</p>
+
+			<p>Počítal, tak jako pašeři, že zelenokabátníci zůstanou dnes doma na kuti. Nebyl jim dvakráte přítelem . Před mnohými lety, jichž nynější hraničáři nebyli pamětníky, sám také rád si zapašeřil a od té doby finanční <pb n="40"/> strážníci leželi mu v žaludku; míval s nimi tehdy dosti časté potýčky. Za to však měl mezi pašery mnoho známých, kteří na nočních potulkách svých u něho se stavívali a dali mu hezkých pár krejcarů utržiti. Krčmář konal jim při tom „ze známosti“ rozličné službičky, nastávající dnešní službě podobné, a nezřídka stalo se, že nezdar finančních strážníků u pochycení pašerácké výpravy padal jedině na jeho vrub.</p>
+
+			<p>Však mu to pašeři nezůstali ani jedinkrát dlužni: nikdy na „starého Killicha“ při výpravách svých, tak jako na Anežku, nezapomněli a doutníky jeho, které zelenokabátníkům tak chutnávaly a pro něž tito „obě oči zamhuřovali,“ byly obyčejně darem jejich uznalosti.</p>
+
+			<p>Ale dnes se mu to nějak hatilo. Počítal se vší jistotou, že bude moci pašerům o půl noci dáti příznivé znamení a že zase nějaký ten „pakatýlek“ utrží, a ejhle – ono mimo nadání, jak se podobá, sklaplo!</p>
+
+			<p>Chutě v duchu zazlořečil. - Aby mu tak ke všemu všudy zůstali ti strážníci až přes půl noc v krčmě na krku, jako se někdy <pb n="41"/> stávalo, a on aby nemohl snad pašery ani varovati!</p>
+
+			<p>Starostí a obavami šla mu hlava kolem...</p>
+
+			<p>Postavil mrzut svítilnu na stůl, která ozářila těsnou jizbu s učouzeným stropem na trámech, několik stolů a lavic a jednotvárně tikající dřevěné hodiny na stěně, a mrštil po straně zvědavým okem na strážníky...</p>
+
+			<p>Jen kdyby věděl, co mají ti „slídilové“ vlastně za lubem. Čují snad něco - ale to by přec jeho krčmě byli se vyhnuli, nebo v takovém případě jsou strážníci náramně opatrní a vyhýbají se lidským obydlím jako čert kříži. Musí býti opatrným, aby nevzbudil podezření, a vyčkati, co z toho se vyklube.</p>
+
+			<p>Strážníci postavili právě pušky své do kouta a dýchajíce na zmrzlé ruce, aby je zahřáli, rozhlíželi se kolem po jizbě.</p>
+
+			<p>„Páni mne vytrhli zrovna z nejlepšího spaní,“ počal s přetvářeným úsměvem krčmář, ač byl při tom jako na špendlíkách, „byl bych také spíše smrti se nadál, než toho, že dostanu ještě dnes v té slotě takovou vzácnou návštěvu. Jsem posud celý rozespalý a mrzutý“ - a zíval.</p>
+
+			<p><pb n="42"/> „I jděte do horoucí skály se svou mrzutostí, stará ospalá sojko, a raději se nám pěkně poděkujte. Kdybychom k vám nebyli přišli, byl byste tu zamrzl i se svou chalupou; venku mrzne, až šindele bouchají na střechách,“ žertoval strážník Jan, směje se svému vtipu a usazuje se pohodlně za hrubý stůl dubový. - „Ale teď nám přineste, Killichu, honem něco pro zahřátí, není-li pravda, Josífku - mrazí nás ve všech údech.“</p>
+
+			<p>„Mám tam dobrou slivovici, kmínku a také několik láhví vína...“</p>
+
+			<p>„Ho, ho, vy máte ve svém sklepě vzácné zásoby,“ ozval se Josífek , „ani by toho člověk u vás nehledal.“</p>
+
+			<p>„0h, u mne stavívají se někdy vzácní páni, když jdou přes hory. Také pan respicient nezahodí. Musím býti na takové návštěvy připraven. Mám pánům snad také láhvičku ...?“</p>
+
+			<p>„Nic to,“ přerušil ho strážník Jan, „přineste nám dva džbánky chmele, ale zrovna od čepu, to vám povídám, sice nás tu vidíte dnes naposledy,“ a mrknuv šelmovsky na svého druha vedle, šťouchl ho kolenem.</p>
+
+			<p><pb n="43"/> „Kdyby to tak Pánbůh dal,“ myslil si v duchu krčmář, ale nahlas prohodil, usmívaje se:</p>
+
+			<p>„Buďte bez starosti, přinesu pánům to nejlepší pivo, které mám v domě.“</p>
+
+			<p>A sebrav z dřevěné police v koutě u dveří dva hliněné džbány mázové a rozsvítiv sušenou na kamnech louč, odběhl.</p>
+
+			<p>„Kdyby nás tak viděl respicient, Jene,“ hovořil po odchodu krčmářově přidušeným hlasem Josífek, „co tu místo služby tropíme, ten by se na nás, ač je jinak dobrý člověk, po čertech šeredně zamračil.“</p>
+
+			<p>„Nevídáno! - na tom už pramálo záleží, přivedeme-li mu toho krčmáře se ženou o pár minut dříve nebo později a budeme-li se k tomu mračit anebo dělat při tom veselé obličeje. Ostatně chci toho chlapa potahat trochu za nos, tak jako on to dělal nám, a popásti se na jeho nesnázích. Mám na něho beztoho s vrchu, že to děvče v takové psině z domu vyhnal. Chtěl bych krk na to vsaditi, že se to stalo pro maličkosť.“</p>
+
+			<p>„Aha, odtud tedy vítr věje,“ smál se Josífek; „ať se propadnu, když jsem si to hned nemyslil, že ti to děvče není lhostejné, <pb n="44"/> protože jsi na cestě do lesa tak vřele se ho ujímal. Krčmář překazil ti asi dostaveníčka a ty si chceš na něm teď vylíti žluč. Ale, kamaráde, moc to nepřepínej; mohl by se to dozvěděti respicient a byla by z toho mrzutosť.“</p>
+
+			<p>„Jen neměj zbytečných starostí. Poškádlím ho pouze a budu ho trochu zkoušet - to je vše, a až dopijeme, vyzveme ho i se ženou jeho na procházku, ať to také zkusí jako Bětuška, jak to v takovéhle slotě venku chutná,“ chechtal se strážník Jan, mna si radostí ruce.</p>
+
+			<p>„Ale mně se pořád zdá, Jene, že tomu krčmáři křivdíme a že to Bětuška udala na něho jen ze msty. Kdyby ten člověk držel s pašery, nepůjde na kutě a bude pěkně vzhůru, aby nezaspal.“</p>
+
+			<p>„Vidíš, Josífku, to je právě podezřelé a dokazuje, že bude krčmář pozdě v noci něco kutit, nebo pokud já ho znám, nešel ještě nikdy tak brzo spat jako dnes. A pak to přivítání! Nevšimls sis toho, že zůstal, jako by ho zařezal, když nás spatřil?“</p>
+
+			<p>Josífek chtěl na to něco odpověděti, ale <pb n="45"/> v tom bylo v síni kroky slyšet a krčmář vstoupil do dveří.</p>
+
+			<p>Zastrčil hořící louč do skuliny u kamen a postavil před každého strážníka džbánek, plný až k vrchu, takže z něho hustá pěna na stůl ubíhala.</p>
+
+			<p>„Jářku, Killichu, kampak se poděla Bětuška, že není ani okem k spatření,“ započal strážník Jan, chopě se džbánku, „či rozzlobila se a nechce nás už více obsluhovati?“</p>
+
+			<p>„E, což ta,“ zamračil se krčmář, „už nebylo lze s ní vydržeti. Od toho času, co s ní pan strážník onehdy párkrát zažertoval, měl jsem s ní hotový kříž. Všecko mně dělala pozpátku a nádobí padalo jí z rukou. Dnes zase rozbila mně krajáč s mlíkem a já ji ve zlosti poslal rodičům domů.“</p>
+
+			<p>To je jinými slovy, jako že jste ji vyhnal,“ smál se Josífek, stíraje s vousů pěnu od piva a mžouraje na svého druha po straně potutelně očima.</p>
+
+			<p>„Co jsem s ní měl jiného dělat?“ - a krčmář pokrčil ramenama , „ona by mne takovým hospodářstvím byla přivedla ještě na mizinu."</p>
+
+			<p><pb n="46"/> „No, no, Killichu, tak zlé by to snad přece nebylo bývalo,“ ozval se strážník Jan, stavě znovu džbánek svůj na stůl, „ale u všech všudy, kdo pak vám teď bude pomáhati při obsluhování vašich hostů, nebo vaše žena má na starosti domácnosť.“</p>
+
+			<p>„To mně dělá nejmenší starosti,“ krčmář odpovídal, „tu maličkost odbydu já sám, vždyť beztoho teď nejde ani živá duše do hor.“</p>
+
+			<p>Strážník Jan šťouchl tajně svého druha loktem a prohodil: „U čerta, to tu děláte tedy špatné obchody.“</p>
+
+			<p>„Ba, moc špatné obchody!“ vzdychl si krčmář, „a zvláště teď v zimě. Častokráte kolik dní za sebou nevidím ani človíčka.“</p>
+
+			<p>„To se divím,“ pokračoval strážník Jan, přihýbaje si za rozmluvy statně jako jeho druh ze džbánku, „vždyť jste tu přece na ráně, - to by se musili ti lidé vaší krčmě přímo vyhýbati.“</p>
+
+			<p>„Není se mnoho co divit, nebo v takovéhle slotě, jaká dnes venku panuje, je každý rád, když nemusí ani hlavu ven vystrčit, a do mé krčmy zvlášť nezabloudí teď ani živá duše.“</p>
+
+			<p><pb n="47"/> „0ho - což je o to, Killichu, jen toho nechte být a nestavte se, takový zkušený člověk jako vy, jako byste nevěděl, že jsou lidé, kteří právě na takovouto povětrnost číhají jako kočka na myš. Upřímně, stará ospalá sojko, nestavila se tu dnes pod večír žádná taková „živá duše“ u vás na skleničku?“</p>
+
+			<p>A strážník Jan šťouchl druha kolenem.</p>
+
+			<p>Krčmář poznal hned, že tlukou strážníci na keř. Dovedl se přetvářiti, že ani brvou u oka nepohnul.</p>
+
+			<p>„Myslíte snad pašery? - Ať živ z toho místa se nehnu, když jsem viděl jen jediného. Šel jsem hned, jak se smrklo, na kutě, myslil jsem, že dnes v tom božím dopuštění ani pes sem nezabloudí .“</p>
+
+			<p>„Ha ha ha!“ chechtal se strážník Jan a Josífek mu přizvukoval, „to je, Killichu, opravdu veselé. Myslil jste, že sem nezabloudí ani pes, a teď máte tu najednou zelenokabátníky na krku a nedám za to ani zlámanou grešli, že jste se o pašeřích také tak přepočetl. Oč se vsadíte, Killichu, že vaši krčmu pašeři navštíví dnes v noci ještě, aby se zahřáli, nebo na horách po čertech promrznou.“</p>
+
+			<p><pb n="48"/> A oba strážníci, jako by si byli řekli, chopili se najednou svých džbánků a notně si přihýbajíce, bedlivě při tom krčmáře pozorovali.</p>
+
+			<p>Ten rozpačitě se usmíval a bylo na něm patrně viděti nepokoj.</p>
+
+			<p>„Když to vezmeme kol do kola, musím se přiznati, že bych se právě nehněval; mně je host jako host. Mám beztoho ve sklepě několik láhví pálenky a nemůžu ji odbýti . Ale páni strážníci mažou mně jen med kolem huby, nebo bych na to chtěl spasení své duše dát, že pašeři nevystrčili dnes ani hlavy v té psině a že sedí pěkně doma u teplých kamen. Kdyby dnes byli šli do hor, to by se byli na sklenku u mne stavili a já bych byl již mohl o tom pánům strážníkům zprávu dát.“</p>
+
+			<p>Strážníci šťouchli se pod stolem koleny.</p>
+
+			<p>„Liško!“ zamumlal do vousů Josífek.</p>
+
+			<p>„Což o zprávu, o tu je nám tentokráte hej, milý Killichu - dostali jsme ji dnes náhodou zrovna z první ruky a byl byste s ní již přišel pozdě. Jen o to se nám ještě rozchází, máme-li jí věřiti čili nic. Náš respicient však myslí, že bude nejlépe, když <pb n="49"/> uděláme tady ve vaší krčmě zkoušku na to, a abyste tu nebyl při ní vytrhován ze spaní, máme prý vás hezky šetrně i s paní Barborou doprovoditi do strážnice, kde je pro vás na dnešek již odestláno," strážník Jan chechtal se rozpustile, a dopiv až na dno, kvapně povstal a chopil se pušky stojící vedle něho v koutě.</p>
+
+			<p>Josífek následoval jeho příkladu.</p>
+
+			<p>Krčmář zůstal, jako by ho zařezal, a jeho obličej sesinavěl. Takového obratu řeči se nenadál. „Mne i se ženou do – do stráž... stráž... nice,“ zakoktal uděšen a vytřeštil na oba strážníky oči.</p>
+
+			<p>„Do strážnice, Killichu, do strážnice, jen se toho nelekejte. Nebude se vám tam pranic stýskati; dostanete všecko pohodlí a teploučko je tam jako v lázni. A proto nedělejte dlouhých cavyků a vzbuďte hezky svoji starou, sice musíme vám pomoci na nohy. Nežertujeme, nebo rozkaz, který máme, zní přísně.“</p>
+
+			<p>„Pročpak mám já do strážnice?... To je násilí ... já si budu stěžovati u pana komisara,“ vzpíral se krčmář, třesa se na celém těle a couval před strážníky.</p>
+
+			<p><pb n="50"/> „Jen s pánembohem, Killichu, cesta je volná. Ale nezapomeňte při tom říci mu také, že máte s pašery, že jim dáváte o půl noci ze své krčmy tajná znamení, je-li v lese jisto, a že umíte znamenitě se přetvařovati."</p>
+
+			<p>Krčmář na ta slova ani nehlesl. Ustrnule, jakoby ani svému sluchu nechtěl věřiti , podíval se na mluvícího strážníka, a pak jako zdrcen potácel se ku komoře, kde spala jeho žena.</p>
+
+			<p>Ta právě v tom okamžiku zjevila se rozcuchána a v nedbalkách na prahu.</p>
+
+			<p>Byla to horalka asi pětačtyřicátnice, silné kostnaté postavy a širokého, hrubého obličeje.</p>
+
+			<p>Nespala již od té doby, co strážníci vstoupili do jizby a slyšela celou jejich rozmluvu se svým mužem.</p>
+
+			<p>Bez rozmýšlení pustila se ostrým svým jazýčkem na obranu svého muže do strážníků, ale vidouc, že „s ostrou“ ničeho nepořídí, dala se do nářku, brala „rodičku Boží“ na pomoc, a lomíc rukama, prosila strážníky, „aby ji netahali v tom Božím dopuštění teď v noci jako psa po polích“, a hleděla je obměkčiti.</p>
+
+			<p><pb n="51"/> „Jen žádné breky, stará, není vám to nic platno. Rozkaz pochází od respicienta a my musíme poslechnouti. Do devíti máme býti zpět, a proto již neotálejte a strojte se - nemáme mnoho času nazbyt, však vy již něco vydržíte,“ zahartusil strážník Jan, strkaje starou Barboru zpět do komory.</p>
+
+			<p>Vzlykajíc poslechla a krčmář jako bezduchý potácel se za ní. -</p>
+
+			<p>Za čtvrť hodiny po té strážníci byli s krčmářem a jeho ženou již na cestě.</p>
+
+			<p>Uzamčená chaloupka lesní zdřímla si zase jako dříve. Měsíc spřádal nad ní své bledé, zádumčivé sny a mrazivý vítr foukal s hučících vrcholků sosen pod chatrnou bílou stříšku a zavřenými okenicemi dýchal na okénka mráz a posel je ledovými květy...</p>
+
+		</div>
+
+		<div>
+
+			<head>5.</head>
+
+			<p>Podívejme se do jizby strážnice, vzdálené asi dvě stě kroků stranou k lesu od vesnice N...</p>
+
+			<p>Jak je tu blaze!</p>
+
+			<p>Najdeme sice jen bílé stěny, strop na trámech a pět postelí a několik kufrů, pušky <pb n="52"/> po stěnách a dřevěné hodiny na zdi - ale kdežto venku třeskutý mráz za nehty leze a ostrý vítr obličej, uši a ruce metlami šlehá, dechlo tu na nás příjemné teploučko jako v lázni.</p>
+
+			<p>Však si tu v něm také hoví!</p>
+
+			<p>Čtyři finanční strážníci rozloženi jsou pohodlně kolem dlouhého stolu do prostřed jizby postaveného, na němž veliká olejem naplněná lampa hoří.</p>
+
+			<p>Jeden ze strážníků sedí u stolu poněkud stranou a píše. Má na zeleném límci tři stříbrné hvězdičky. Je to z rozmluvy strážníků známý nám respicient finanční stráže.</p>
+
+			<p>Jeho byt a kancelář jest arci oddělen a nalézá se v zadním křídle strážnice, ale dnes čeká na něho důležitá služba - a proto tráví večer v strážní jizbě mezi svými lidmi, aby je měl po ruce a mohl jim dle okolností uděliti ihned své rozkazy a instrukce.</p>
+
+			<p>Je muž v nejlepších letech, vysoké postavy a ušlechtilého dobrosrdečného obličeje s černými kníry pod orličím nosem.</p>
+
+			<p>Časem ustane v psaní a pohlíží na dřevěné hodiny a pak netrpělivě ke dveřím. Je dávno přes osmou; nejdéle do devíti strážníci <pb n="53"/> mají s raportem býti doma. Jsou již od šesti hodin venku.</p>
+
+			<p>Druzí strážníci bafčí o překot „komisní“ z gypsovek, opatřených dlouhými troubeli, a hrají v karty. Na zemi u lavice stojí korbel s pivem a na stole skleněná holba, z kteréž si hráči po chvilkách statně přihýbají.</p>
+
+			<p>Jsou zcela ve hru pohříženi. Právě rozdávají se zase karty.</p>
+
+			<p>„Zelené trumfy!“</p>
+
+			<p>„Dobrá - tedy čtyřicet zelených!“ ohlašuje jeden z hráčů.</p>
+
+			<p>„I kýho šlaka, tobě dnes nějak štěstí přeje, Kubino,“ praví strážník druhým oběma hráčům naproti sedící, „ty nás dnes oba opentlíš; každá sázka je tvoje, sotva že ji člověk položil na stůl.“</p>
+
+			<p>„Což je o to,“ promluvil strážník vedle Kubiny sedící, „v kartách má on pekelné štěstí, ale za to se mu u ženských po čertech vede. Co bys tomu řekl, Dvořáku, že ti pořádná ženština nechce s ním ani mluvit. Viděl jsem to na své vlastní oči onehdy v okresním městě, když jsme v služební věci byli spolu u komisara. Právě, když jsme odcházeli, potkáme ti na chodbě komisarovic <pb n="54"/> kuchařku, holku jako krev a mléko - jen se na ni srdce smálo. Kubina ihned se k ní přitočil a bral ji za bradu. Ale to jsi měl vidět, kamaráde, ta ti ho odbyla – ani se na to neptej. Já vím, že má od Kubiny na věky pokoj.“</p>
+
+			<p>Na ta slova oba strážníci dali se do rozpustilého smíchu.</p>
+
+			<p>„Ho – ho, Chládku,“ vztrhl se najednou na kamaráda vedle sedícího Kubina, jako by si vtipů na něho metaných ani nevšímal , „nemýli se jen, to je můj „štich“, tvůj trumf byl proti mému malý.“</p>
+
+			<p>„I aby tě tisíc láter,“ zlobil se Chládek, „připraví mne o posledního trumfa a ještě „štich“ sebere k tomu.“</p>
+
+			<p>„Uvidíš, že zase vyhraje,“ ozval se Dvořák naproti, „kouká nám do rukou na karty, div jich neuřkne; dej si na něho dobrý pozor.“</p>
+
+			<p>A strážníci dali se zase do chechtotu.</p>
+
+			<p>Na to zavládlo v jizbě na chvilku ticho, rušené jen tikotem hodin, škrábáním respicientova péra a házením karet na stůl.</p>
+
+			<p>„Trumf!“ zvolal najednou Kubina.</p>
+
+			<p><pb n="55"/> „Vždyť jsem to věděl,“ žehral Dvořák, „již jsme prohráli - no, vidíš, poslední „štich“ také jeho.“</p>
+
+			<p>A všichni tři hráči začali počítati...</p>
+
+			<p>Bylo až do jizby slyšet, jak venku divoce vítr zalomcoval a jak zatočil plechovou korouhvičkou na střeše.</p>
+
+			<p>„Kolik máš, Dvořáku?“ ptá se po chvilce mlčení Kubina.</p>
+
+			<p>„Eh – škoda mluvit – dvacet!“</p>
+
+			<p>„A ty, Chládku?“</p>
+
+			<p>„Čtyřicet!“</p>
+
+			<p>„Tak jsem vyhrál – mám sedmdesát,“ usmíval se potutelně Kubina a shrábl peníze .</p>
+
+			<p>V tom zahrčelo naproti na stěně a na dřevěných hodinách odbily tři čtvrti.</p>
+
+			<p>Respicient ohlédl se kvapně po rafijích.</p>
+
+			<p>Venku na chodbě ozval se dupot, jako když několik osob se blíží...</p>
+
+			<p>Dvéře se rozlétly a v záři světla, jež ze strážní jizby do tmavé chodby vnikla, zableskly se hlavně pušek a na prahu objevili se Jan a Josífek s krčmářem a jeho ženou.</p>
+
+			<p>Do světnice vrazila z chodby zima a valila se jako pára...</p>
+
+			<p><pb n="56"/> „Ah, hosté jsou již zde,“ a strážníci pohodili kartami a zevlovali.</p>
+
+			<p>Respicient nechav psaní vstal od stolu a pohlížeje zkoumavě na příchozí, popošel jim vstříc.</p>
+
+			<p>Jan s Josífkem předstoupili, před respicientem salutujíce, a krátkými slovy podávali zprávu o zatknutí krčmáře a jeho ženy, mezi tím co ti tu stáli zkroušeni a celí schlíplí jako zmoklé slepice, sotva že troufali si porozhlédnouti se nesměle kolem po jizbě.</p>
+
+			<p>Respicient pohlédna na ně, musil se usmáti, ač okamžik ten vyžadoval vážnosti.</p>
+
+			<p>„Jinak není nic nového?“</p>
+
+			<p>„Nic nového, pane respiciente.“</p>
+
+			<p>„Dobrá!“ - Bylo po raportu a strážníci odložili své pušky a pláště a oddali se kasárnímu pohodlí.</p>
+
+			<p>S krčmářem a jeho ženou zaveden bez odkladu protokol.</p>
+
+			<p>Ale těm celá věc rozležela se cestou nějak v hlavě. I zapírali statečně, že vše, co na ně udáno, je lež a pomluva, naříkali, že se jim děje křivda, a rozkuráživše se vyhudovali, že si u pana komisara v okresním <pb n="57"/> městě do takového násilného s nimi nakládání postěžují.</p>
+
+			<p>Respicient, nemoha s nimi ani po dobrém ani po zlém ničeho svésti, dal zavolati Bětušku, která nalézala se zatím v jeho bytu pod dohlídkou.</p>
+
+			<p>V nejbližším okamžiku vstoupilo do strážní jizby asi dvacetileté buclaté děvče venkovské a postanulo ostýchavě u dveří.</p>
+
+			<p>Krčmář a jeho žena spatřivše bývalou svou služku, pohlédli na ni škaredě.</p>
+
+			<p>„Jen blíže, milá děvečko, jen blíže,“ respicient pobízel holčici.</p>
+
+			<p>Přiblížila se upejpavě, potahujíc cípy své zástěry.</p>
+
+			<p>Strážníci hned po vstoupení děvčete začali šeptati mezi sebou a potměšile se usmívajíce, ukazovali si na Jana, jenž sedě na své posteli blízko naproti stolu, s děvčete po očku naň pošilhávajícího ani oka nespouštěl.</p>
+
+			<p>„Znáte ty lidi zde, Bětuško?“ začal přívětivě respicient, ukázav na krčmáře a jeho ženu.</p>
+
+			<p>Bětuška na ně plaše pohlédla.</p>
+
+			<p>„Znám; vždyť jsem u nich sloužila.“</p>
+
+			<p><pb n="58"/> „Můžete jim říci do očí, že drží s pašery?“</p>
+
+			<p>Bětuška, pohleděvši na ně upřeně: „Ano.“</p>
+
+			<p>„Ty ještěrko!“ ulehčila si šeptem krčmářka.</p>
+
+			<p>„To také,“ pokračoval respicient, „že chtěli dnes o půl noci pašerům dáti z krčmy znamení?“</p>
+
+			<p>„Také.“</p>
+
+			<p>„A jak to víte, má zlatá?“</p>
+
+			<p>Při této otázce respicientově krčmář Bětušku očima div neprobodl.</p>
+
+			<p>„Slyšela jsem to na své vlastní uši, když o tom dnes před večerem potají v komoře s Málkem se radili.“</p>
+
+			<p>Krčmář, zaslechna Bětuščinu odpověď, schlípil okamžitě uši.</p>
+
+			<p>„Co tomu teď říkáte, co?“ respicient obořil se na krčmáře a jeho ženu, pohlížeje jim přísně do obličeje.</p>
+
+			<p>Ti, vyhýbajíce se rozpačitě pohledu jeho, mlčeli.</p>
+
+			<p>„Tentokráte chci vám býti milostiv, poněvadž mám za to, že provinili jste se po prvé a že se polepšíte,“ respicient pokračoval přísně, vida, že k vině se přiznávají, <pb n="59"/> „ale střežte se. Moji lidé dají ode dneška pozor na každý váš krok a jak se něco málo šustne, odevzdám vás bez milosti k potrestání do okresního města. Dnes budete spáti na strážnici a my budeme hlídati vaši chalupu,“ a obrátiv se k nim zády poručil, aby byli odvedeni do strážní šatlavy, malé k účelu tomu dobře vytopené komůrky se zamříženým okénkem.</p>
+
+			<p>Následovali na pohled sklíčeni, ale v duchu zle proklínali nevěru své bývalé služky.</p>
+
+			<p>Bylo po výslechu.</p>
+
+			<p>Bětuška, propuštěna do vesničky k rodičům, hodila ještě zamilovaným okem po straně na strážníka Jana a vyklouzla z jizby.</p>
+
+			<p>„Připravte se – za hodinu vytrhneme,“ respicient pobídl zevlující strážníky a odcházel do svého bytu.</p>
+
+			<p>Ve dveřích se zastavil.</p>
+
+			<p>„Kubina bude míti dnes inspekci“ - a na chodbě zmizel.</p>
+
+			<p>„Proklatý Kubino! Ty máš zrovna z pekla štěstí,“ Chládek žehral, „my budeme mrznout a ty lehneš u teplých kamen.“</p>
+
+			<p><pb n="60"/> „Komu Pánbůh, tomu všichni svatí,“ zachechtal se Kubina a hodil sebou do postele na slamník.</p>
+
+		</div>
+
+		<div>
+
+			<head>6.</head>
+
+			<p>Bylo v noci asi okolo jedenácté.</p>
+
+			<p>Nad lesem převalila se přes měsíc mračna a vítr hnal plaché jejich stíny přes lesknoucí se plochu sněhovou...</p>
+
+			<p>Kosmatými vrcholky sosen zahučelo to zhluboka a jich krytem měsíc zašeřil na úvoz vedoucí od „Božích muk“ vzhůru k lesní krčmě, probudil v něm ospalé stíny a kradl se mezi křovinami chvojkovými od kmene ku kmeni jako po špičkách.</p>
+
+			<p>Tam u hustého skupení smrčin nad hlubokým úvozem se zastavil, jako by se byl podivil, že zde vidí něco cizího. Obešel úvoz a smrčiny a pokukoval tam zvědavě. Nedalo mu: vkradl se tam jedním paprskem, teď druhým, pak vklouzlo tam několik paprsků najednou.</p>
+
+			<p>V šeřivé jejich bledé záři zaleskly se v úvoze hlavně čtyř pušek a začernalo pět vousatých postav, zahalených v pláště.</p>
+
+			<p><pb n="61"/> Bylo to skupení strážníků, kteří vyšli na číhanou, s respicientem v čele.</p>
+
+			<p>Vykazoval právě každému jeho místo při dnešní číhané.</p>
+
+			<p>Vítr pískal strážníkům jako zběsilý kol uší, mráz dechl na ně, zalezl jim za nehty a pověsil na jejich vousy bílé jíní...</p>
+
+			<p>Nedbali toho; stáli jako sochy a poslouchali...</p>
+
+			<p>„Vy, Dvořáku s Chládkem,“ odnášel smrčinami respicientu od úst vichr z úvozu skučící, „zůstanete zde v úvoze na sto kroků od sebe v záloze; jeden tamhle u té stráně, druhý zde, co stojíme. Josífek počká v chvojkovém křoví před krčmou a já s Janem vlezeme do krčmy a tam těm chlapům osvětlíme okna na cestu. Kdyby se stalo, že by snad se rozdělili, přivítáte vy tu v úvoze jednu čásť a druhou my tam nahoře u krčmy. Ale vrazí-li všecka ta holota ke krčmě najednou, dá tadyhle Josífek písknutím znamení, vyrazí ven z křoví, já s Janem z krčmy a vy odtud ze zálohy - a pak chlapům zatopíme. Rozuměli jste?“</p>
+
+			<p>„Rozuměli,“ zaznělo jako jedním dechem.</p>
+
+			<p><pb n="62"/> „Tedy ku předu!“ - a čtyři muži hnuli se úvozem vzhůru; pátý jakoby tu byl k zemi přimrzl. Přikrčil se, přehrnul límec pláště až k uším - a již zůstal jako socha...</p>
+
+			<p>Sto kroků dále v úvoze stanul blíž malé stráně za kmenem smrku druhý strážník, jako by na tom místě byl býval zaklet a zkameněl...</p>
+
+			<p>Od něho nedaleko stoupali úvozem vzhůru ostatní tři strážníci. V měsíčné záři leskly se hlavně pušek, konce plášťů jejich vlály větrem a sníh chrupal pod jejich nohama.</p>
+
+			<p>Nad strání vykukovala mezi sosnami krčma s bílou stříškou .</p>
+
+			<p>Spala - ale teď ji probudili: dvéře zavrzly, okenice zaskřípaly a krčma otevřela oči a hleděla osvětlenými okny rozespale mezi sosnami vzhůru k roklím do hlubokého lesa.</p>
+
+			<p>Nečekala jako jindy, aby mohla pašery pohostit: - dnes číhala...</p>
+
+		</div>
+
+		<div>
+
+			<head>7.</head>
+
+			<p>Otec s matkou dávno již ulehli, ale Anežka otáčela se ještě jako vřeténko. Uklízela a rovnala vše, že bylo ve světnici jako <pb n="63"/> v kapličce. Chtěla nahraditi, co doprovázením Fricka „k Božím mukám“ byla prozahálela.</p>
+
+			<p>Jakou to bude míti ten šťastný Fricek hospodyňku! V celé vsi by lepší nenašel. A jak jí to slušelo! Všecko jí v rukou jen hrálo a Anežka tvářila se při tom tak vesele a přívětivě, jako by ji těšil celičký svět. Jen když jí přilétla chvilkami do světlovlasé hlavy, jako ten ptáček na větvičku, myšlénka na Fricka, jak chuďas na horách sněhem se brodí a mrzne, a to všecko jen k vůli ní, aby si ji mohl jako hospodyňku odvésti do chalupy, zatmělo se jí ještě více v černobrvém oku a Anežka na chvilku se zamyslila. Ba teď i to nádobí, které jí před tím jako by samo do ruky se dralo, vypadlo jí z rukou, div že se nerozbilo.</p>
+
+			<p>To ji zase vytrhlo z myšlének.</p>
+
+			<p>Odskočila jako laňka do komůrky, v které spávala, a přinesla si do světnice kolovrátek.</p>
+
+			<p>Ten ji vedle Fricka na světě nejvíce těšil.</p>
+
+			<p>Nastrčila kužel s hebkým lnem jako světlé její vlasy, usedla s ním na lavici u kamen, kde hořela louč, a zatočila kolečkem; kolovrátek se točil a vrčel a s kužele smekala <pb n="64"/> se mezi hbitými prsty Anežčinými do vřeténka niť a Anežka vpřádala ji v myšlénkách do tenkého režného plátna, až měla ho plnou truhlici, jež stála u postele v její komůrce.</p>
+
+			<p>Přišlo jako tak hezké jako její hoch, když má v knoflíkové dírce nedělního kabátu růžovou kytičku, sluníčko se zlatými vlásky vyskočilo z pod mlhavé clony, jako zlatovláska v pohádkách z postýlky, promnulo si žhavé oči a letělo jaru do náručí. To bylo nějakých hubiček!</p>
+
+			<p>A na blízku pod šípkovými keři schován číhal teplounký vítr. Teď vyskočil jako neposeda a kradl čtverácky ty hubičky a roznášel je kolem po kraji. A kam padla jedna taková hubička, tam rozpučelo několik květů a rozvilo se několik poupátek a všecky dýchaly samou vůní, samou touhou, samým štěstím . A hubičky, které vítr vzhůru k modré obloze vznesl, dostaly křídla a změnily se v ptáčky. Každý měl jiná křidélka a jiný hlásek a všichni ti ptáčkové cvrlíkali a zpívali tak sladko a mile, zrovna jako v těch pohádkách, o kterých jí na přástvě stará šedivá Frickova matka krásně vypravovala.</p>
+
+			<p><pb n="65"/> A Anežka stála uprostřed toho jarního štěstí tam na květnaté stráni, nad chaloupkou Frickovy matky a prostírala na ten mateřídouškou protkaný a vonící trávník kus plátna za kusem a polívala je vodou, aby zbělelo. Srdéčko jí bušilo pod šněrovačkou radostí a blahem, když viděla, jak mizí jedna režná niť za druhou a jak plátno bělá jako sníh, jenž ležel v zimě pod okénkem její komůrky, dokud jej Fricek při nočním dostaveníčku neušlapal.</p>
+
+			<p>Jak to jí najednou při vzpomínce na Fricka trhlo!</p>
+
+			<p>Již jsou zas všecky myšlénky její u něho na horách... Bože, on chudinka pro ni tam tím sněhem se plahočí, vítr šlehá mu do tváří a snad ho i zebe, a ona tu sedí u teploučkých kamen zrovna jako ptáček ve vyhřátém hnízdečku a nemůže mu půjčiti ani svou vlněnou loktuši, aby se do ní zaobalil.</p>
+
+			<p>A jakoby děvče teskné myšlénky s nití na vřeténko spřádala, vrčí i kolovrátek tak teskně a smutně, jako by vrčel divnou, tesklivou pohádku z hor.</p>
+
+			<p><pb n="66"/> Ale teď najednou rozmrazilo Anežku a zatřáslo to jí , zrovna jako by jí byl mráz dechl pod šněrovačku na nahá záda. Noha, jež točila kolečkem, jako by byla zdřevěněla, prsty, jež vedly na vřeténko s kužele niť, jako by byly mrazem ztuhly. A kolovrátek jako by Anežce byl se podivil: zastavil se, přestal vrčet – a bylo po pohádce...</p>
+
+			<p>A jaký to obraz poděsil tak Anežčinu duši, že seděla tu najednou jako proměněna, jako by to ani nebyla ona?...</p>
+
+			<p>Viděla v duchu, jak z oken vesnických chaloupek padala do tmy záře světel, jak u strážnice zaskřípala větrem plechová korouhvička na střeše a jak na schůdkách, na pěšinu do lesa vedoucích, dva finanční strážníci zjevili se s puškami na ramenou...</p>
+
+			<p>Nedej, Boží rodičko, aby takhle Fricek padl těm strážníkům do rukou! Ani nechtěla pomysliti, jak by s ním nakládali. Trýznili by ho snad, pobrali mu zboží a strčili ho ještě do šatlavy. Bože, ani by té rány nepřežila. Fricek měl by po uspořeném kapitálku, na který se tolik těšil, a ona snad navždy po nadějích... utrápila by se... vždyť ji <pb n="67"/> bez Fricka na světě nic netěšilo , ba ani ne ten kolovrátek.</p>
+
+			<p>Zůstala tak hezkou chvilku , jako by v ní ani života nebylo... Louč čoudila, hodiny na stěně jednotvárně tikaly a na okna u světnice dýchal mráz a maloval na nich ledové květy...</p>
+
+			<p>Z postelí v koutě, na nichž rodiče Anežčiny spali, ozývalo se pravidelné oddychování.</p>
+
+			<p>Ale vždyť Fricek není tak pošetilým, aby strážníkům vlezl do rukou a dal se jimi chytiti. Nešel dnes poprvé do hor, ani není sám. Je s ním hezká hrstka pašerův a ti ho zajisté nedají; mají ho všichni rádi.</p>
+
+			<p>Usmála se, jak mohla býti tak pošetilá jako děcko a připustiti si takové starosti - a jako by do ní byl vjel nový život. Již to byla zase dřívější veselá Anežka a kolovrátek jako by její veselosť s ní sdílel: vrčel zase a vypravoval jí novou, veselejší pohádku...</p>
+
+			<p>A Anežka vpřádala do pohádky myšlénky své – a již jako by byla sama rekyní pohádky té: seděla v komůrce u postele a vytahovala z truhlice štučku bílého plátna za štučkou, měřila a stříhala až pozdě do večera <pb n="68"/> - a svatební košile jen-jen jí rostly pod rukama.</p>
+
+			<p>Bože, neví ani jak a růže na zahradě povadly, z lesů na horách zafoukal přes strniště mrazivý vítr a svatý Martin zastavil se jako letos na bílém koni před vesničkou. A ani ještě neodejel a již tu byl svatý Mikuláš a nadělil jí dárků od Fricka a pašerů plnou truhlu. To bylo nějakých sukynek, šněrovaček, stuh, krajek, šátkův a šátečků! Bože, ani žádná princezka nemohla toho míti více.</p>
+
+			<p>A sotva že několikráte se vyspala, přišel Štědrý večer. Zvony vyzváněly na půlnoční a z kostela zářilo vysokými okny na sta světel do tmavé noci. Celá vesnička spěchala na vršek ke kostelu a také ona brala se tam s Frickem ruku v ruce. Tulil se k ní a šeptal jí, že již nepůjde do hor, že má potřebný kapitálek pohromadě a že již chystá pro ni v chaloupce své čistou světničku, aby si ji tam o masopustě uvésti mohl jako hospodyňku. A ona vypravovala mu, že má k svatbě uchystáno věcí plnou truhlici, nejvýše na vrchu že má svatební košile , bílé <pb n="69"/> jako ten sníh, jejž šlapal pod jejím okénkem, a červenala se při tom jako pivoňka...</p>
+
+			<p>A Anežka začervenala se u kolovratu až po samé uši a srdéčko jí tak zabušilo, jako by jí chtělo samou rozkoší a blahem šněrovačkou vyskočiti, a kolovrátek zavrčel si tak vesele, jako by vypravoval právě nejkrásnější místo z nejhezčí pohádky...</p>
+
+			<p>V tom zahrčelo na stěně v dřevěných hodinách a kukačka zakukala... jednou... dvakrát... třikrát...</p>
+
+			<p>Postel, kde spala Anežčna matka, zapraskala a peřina pohnula sebou...</p>
+
+			<p>„Děvče, ty ještě nespíš? Podívej se, máš již deset hodin a zejtra musíš časně vstávat. Nech již toho kolovrátku a jdi spat, slyšíš?“</p>
+
+			<p>„Hned, maminko, již jdu,“ - a Anežka vstala, vzala kolovrat, dala „dobrou noc“ a vytratila se do komůrky.</p>
+
+		</div>
+
+		<div>
+
+			<head>8.</head>
+
+			<p>Bylo až do světnice ze síně slyšet, jak za sebou rychle zavřela dvéře. Odstrojila se, položila šaty na truhlu – a hup, již byla <pb n="70"/> v peřinách až po uši. Netopilo se v komůrce a byla tam zima, žes mohl dech viděti. Anežka byla zvyklá spáti v studenu; říkala, že jí to je nejzdravější a že pod peřinou hned se zahřeje. A jak se jí to vždy spalo - zrovna jako když ji do vody hodí!</p>
+
+			<p>Ale dnes nemohla nějak dlouho usnouti. Jako by jí v hlavě bubnovalo; myšlénky honily se jedna za druhou: brzo seděla u kolovratu a předla si len na svatební košile, brzo opět stála na květnaté stráni nad chaloupkou Frickovy matky a bílila plátno a hleděla dolů, objeví-li se Fricek ve dveřích a pozdraví-li ji, tu zase v chumelici doprovázela Fricka „k Božím mukám“ a dělala mu křížek, aby šťastně se navrátil, tu opět stála s ním o Štědrý den před „půlnoční“ v tmavé noci před kostelíčkem tisíci světly osvětleném. A on ji vinul a tiskl k sobě a šeptal jí, že již nejde více do hor a že budou v masopustě svoji.</p>
+
+			<p>A z kostelíčka ozvaly se varhany a zněly tak líbezně a krásně, lidé v kostele zpívali „Narodil se Kristus Pán“, a to znělo tak jako ukolébavka a jí se při tom z Frickova náručí ani nechtělo. Bylo jí v něm tak blaze, <pb n="71"/> tak teploučko a měkko... bylo jí v něm sladčeji než v tom kostelíčku...</p>
+
+			<p>A Fricek shýbal se k ní níž a níž, již cítila horký dech jeho na své tváři a jeho ústa na svých. Sladké trnutí prochvělo jí celým tělem; zavřela oči, nebo s ní šlo všecko kolem a ona byla rozkoší jako bez sebe...</p>
+
+			<p>A Anežka sladkým snem tím usínala.</p>
+
+			<p>V tom mocně vítr zaburácel, jenž dříve vesničkou ulétaje kol oken v pravidelných přestávkách skučel a pískal, opřel se u komůrky do okénka a zařinčel tak prudce tabulemi skla, že Anežka uděšena probudila se z polosnění.</p>
+
+			<p>Ohlížela se udiveně kolem. Štědrý den, kostelíček, Fricka i teplou jeho náruč – vše jako by ošklivý vítr, jenž sem do komůrky až k posteli tak mrazivě zavanul, byl pryč odnesl. Ach, jak to bylo vše krásné a tak živé, jako by to pravda bylo. Věčná škoda, že to byl jen sen...</p>
+
+			<p>A Anežce bylo při tom tak divně u srdce, ani sama nevěděla jak. S chutí byla by si zaplakala.</p>
+
+			<p><pb n="72"/> Byla tak blízko Fricka a tak šťastna – a on zatím, Bůh sám ví, kde po horách sněhem se brouzdá. Ošklivý vítr, jenž venku tak bouří, šlehá ho asi do tváře a do hezkých jeho modrých očí, až mu slzy z nich tekou a mrznou na tváři. Chce to chudákovi vynahraditi vše, až se u ní po půlnoci, jak slíbil, zastaví u okénka. Jak se na to těší! Nebude již spáti, aby ho hned uslyšela, až zaťuká.</p>
+
+			<p>Kdyby ho jen dnes ještě rodička Boží chránila, aby se mi nic zlého nestalo. Ještě pořád toho Krista vidí, jak na kříži se mračil, a to neznamená, jak jí matka vypravovala, nic dobrého. Bože, nedej, aby takhle strážníci...</p>
+
+			<p>A Anežce při pomyšlení tom najednou taková úzkost sevřela prsa, zrovna jako by to na ni byl hodil. Oddychovala těžce a srdce tlouklo jí tak mocně, že je slyšela až pod peřinou. Kdyby jen věděla, kolik je to již hodin...</p>
+
+			<p>V tom hút... hút... húthút ozval se na návsi smutně a táhle roh ponocného.</p>
+
+			<p>Anežka počítala, sotva že troufala si dýchati... „Jedenáct!“ - a Fricek slíbil, <pb n="73"/> že přijde teprv po dvanácté. Ještě celou dlouhou hodinu musí čekat. Bože, jak jí bylo úzko, až ji z toho zima rozmrazila.</p>
+
+			<p>Obrátila se k okénku a skoro po samé uši pod peřinou schoulena dívala se, jak dýchal mráz na okénko ledové květy tak krásné, že hezčích nevykouzlilo ani jaro na lukách a jak paprsky měsíčné usedaly na těch květech a houpaly se na nich, jako by kolem těch ledových kalíšků spřádaly kés chladné a zasmušilé sny...</p>
+
+			<p>Ten pohled ji zaměstnal a ukonejšil.</p>
+
+			<p>A vítr skučel a pískal zase v pravidelných přestávkách okolo okna komůrky, zrovna jako by zpíval ukolébavku... a ty nehybné, ledové květy jako by byly najednou sebou pohnuly... Teď viděla jasně, jak rostly pořád výš a výš a stále jich přibývalo. Již bylo jich plné okno, ba plná komůrka... Ne, to nebyla již více komůrka: místo stěn bílý zděný plot a široko kolem do kola samé košaté stromy a samý záhon, plný bílých květů jako ve veliké zahradě – a pořád jich ještě přibývalo. Ale všecky byly bez rosy a tak chladné, že z nich zima vanula.</p>
+
+			<p><pb n="74"/> Teď i záhony s těmi bílými květy se zdvihaly a ty stromy houstly a dostávaly také bílý květ, že byly jím brzo jako obaleny. A stále výše rostly ty záhony, již přerostly ten bílý plot kolem, již byly tak veliké jako ty hory - ba vždyť to byly opravdu hory, Anežka dobře je poznávala.</p>
+
+			<p>Měsíc jasně svítil, v chladné jeho záři sníh leskl se kolem na horách a na vrcholích mlčících lesů a s něho dolů vanul chlad a mráz.</p>
+
+			<p>Anežka až po uši zahalena blížila se těm horám očividně. Šla Frickovi z výpravy přes hory se vracejícímu naproti. Tamhle na úpatí hor v cípu lesa u „Božích muk“ měla se s ním setkati. Již tam neměla daleko... ještě několik kroků... již byla u buku v lese.</p>
+
+			<p>Vítr hučel tu zhluboka. Kristus na buku se mračil a v měsíčné záři, jež vrcholky stromů dolů padala, strašidelné stíny honily se po sněhu.</p>
+
+			<p>Anežce bylo tu úzko a zima, ale myšlénka, že Fricek musí tu býti již co nevidět, sílila ji a dodávala jí zmužilosti. Zaobalila se ještě těsněji do své loktuše a schoulila se <pb n="75"/> na klekátku u „Božích muk“ pod bukem. Najednou zaslechla, jak sněhem zavrzly kroky. Obrátila se kvapně v tu stranu – a krev stydla jí v žilách: zrovna okolo ní nedaleko finanční strážníci kráčeli vzhůru do lesa s puškami na ramenou. Přikrčila se, co jen mohla, aby jí nezahlídli . Neviděli jí a kráčeli dále. Chvěla se jak osika ; to jí tak zalomcovala bázeň o Fricka. Bože, jestli jim tak padne do rukou! Nedalo jí to; chtěla za nimi. Již se zvedala - v tom zaslechla divou směsici hlasů, volání, křik, výstřely... Vzchopila se a letem vichru ubíhala v tu stranu, kde padaly střelné rány. Již vidí, jak jsou strážníci s pašery v jednom chumlu. Zrakem sokola hledá v tom chumáči Fricka. Již ho spatřila a on ji také. „Fricku!“ – a již jí letí do náručí. V tom obrátí se jeden ze strážníků, namíří za Frickem, rána... a Fricek válí se v krvi. Anežka hrozivě vykřikla – a probudila se...</p>
+
+			<p>A břink!... zmrzlá tabule sype se s okna. Praskla mrazem a divoký vítr ji vyrazil do komůrky a hrne se otvorem, pískaje a skuče, za sklem...</p>
+
+			<p><pb n="76"/> A prásk!... jako když někdo silně prutem na truhlici švihne...</p>
+
+			<p>Anežka vyděšena se vzpružila a studený pot vyvstal jí na čele. Bože všemohoucí - ten sen a ta znamení! A zima lomcovala jí, až zuby hlasitě jí drkotaly. Nebezpečí, které Frickovi hrozí, stálo nyní v celé hrůze své před jejíma očima. V úzkosti své začala se modliti. Počala „Otčenáš“, a než přišla do polovičky, již se spletla. Počala znova – a již zase byla v koncích. Nevěděla ani úzkostí a hrůzou, co dělá a co si má počíti. Že ji Fricek neposlechl! Bože, co jen z něho bude? A strachem umírala. Kdyby ho tak měla ztratit... co by si tu počala?... svět by ji více netěšil... Ne, ona to nevydrží ... rodičko Boží, rač pomoci a vnukni jí nějakou dobrou myšlénku...</p>
+
+			<p>Ani nedomyslila – skok! – a již byla z postele venku a začala v chvatu šaty přímo na sebe házeti. Hlavou kmitlo se jí předsevzetí – a mžikem změnilo se v čin. Hrůzu přemohla a úzkosť o Fricka dodala jí odvahy. Bylo to mžikem zase srdnaté děvče z hor, jež v letě samo v noci lesem <pb n="77"/> bloudilo a v zimě v podvečer brodilo se v bouři po polích závějemi sněhu.</p>
+
+			<p>V okamžení byla ustrojena. Přehodila ještě přes sebe teplou vlněnou loktuši a opatrně vykročila z komůrky, aby dvéře nezavrzly. Po špičkách kradla se pak tmavou síní a zastavila se u dveří světnice, kde rodiče spali, a ani nedýchajíc chvilku naslouchala.</p>
+
+			<p>Tam bylo ticho a jen pravidelné oddychování ozývalo se tam odtud až do síně.</p>
+
+			<p>Uspokojena kradla se po špičkách dále, až přišla k domovním dveřím. Odstrčila tiše závoru, pootevřela zlehka dvéře a vyklouzla ven do bouřlivé, zimní, měsíčné noci.</p>
+
+		</div>
+
+		<div>
+
+			<head>9.</head>
+
+			<p>Mžikem ovanul ji mrazivý vítr a zapískal jí kolem uší .</p>
+
+			<p>A jako ptáček vězněný, když pomalu a ostýchavě byl se přiblížil k dvířkám klece a vyklouzl z nich, najednou se vznese a pryč ulétá do zlatého, svobodného vzduchu: tak také Anežka, když cítila chaloupku rodičů svých šťastně za svými zády, vzchopila <pb n="78"/> se a letem splašené srnky vyrazila spící vesničkou ven do polí směrem k strážnici a k cípu lesa, v němž nalézala se na buku „Boží muka“.</p>
+
+			<p>Letěla, jako by jí byla země hořela pod nohama. Neohlédla se ani v pravo ani v levo a myšlénka, že musí Fricka varovati, že musí ho zachrániti, i kdyby sama při tom zhynouti měla, dodávala jí síly a skoro křídel. „On beze mne může spíše býti; má tu ještě starou matku, která ho má ráda jako oko v hlavě a potřebuje jeho podpory, ale já bez něho býti nemohu, bez něho mne na světě nic netěší,“ mudrovala cestou u sebe a hnala se úprkem dále.</p>
+
+			<p>Vítr opíral se do ní vší mocí, nafoukal jí pod loktuši, za krk a na záda, ale ona toho necítila. Všecky myšlénky její byly u Fricka na horách a zaměstnávaly se nebezpečím, které mu hrozí. Na sebe a co se kolem ní děje, pomysliti neměla času.</p>
+
+			<p>Sníh umrzlý chrupal jí pod nohama a dech mrzl jí zrovna u úst na loktuši v jíní a led.</p>
+
+			<p>Často mrazivý vítr zaburácel takovou prudkostí, že musila se na chvilku zastaviti <pb n="79"/> a opříti se mu všemi silami, aby jí neporazil. A sotva že trochu vichr popustil, již uháněla zase šipkou v před, jako by byla chtěla předhoniti ty stíny oblaků, jež vichr v měsíčné záři prudce po sněhové pláni před sebou hnal. Vesničku měla již dávno za sebou a strážnici nedávno minula.</p>
+
+			<p>Zastavila se na chvilku, aby si oddechla. Vítr pral do ní , až se jí tajil dech a oči se zalily slzami. Bože, aby ji tak v strážnici byli pozorovali a překazili její úmysl... Kvapně se obrátila... Viděla osvětlená okna a jimi skoro až do jizby. Ale tam nehýbala se ani živá duše ... Možná, že ten, kdo hlídal, schrupl si trochu... To ji zrovna Bůh miloval...</p>
+
+			<p>Jakoby náhodou zabloudil zrak její také k vesničce. Ty chaloupky v měsíčném světle stály tam přikrčeny jako v bílých kožichách a čepcích a spaly... Nikde ani světélka...</p>
+
+			<p>A Anežka obrátila se a již to šlo zase letem. Zimy posud necítila; byla jí dost uvyklá a během se zahřála. Jen kdyby toho ošklivého větru nebylo, ten jí překáží nejvíce. Ale jen co doběhne k lesu a bude trochu <pb n="80"/> za větrem... pak již bude lépe. A myšlénkou tou posilněna kvapila dále.</p>
+
+			<p>Před ní již nedaleko černal se v mrkající měsíčné záři cíp lesa, kde na buku visela „Boží muka“.</p>
+
+			<p>Již viděla jasně, jak dlouhé, klátivé stíny smrků a sosen padaly na kraji lesa po závějích sněhu, již i slyšela , jak ve vrcholách klonících se stromů vítr chvilkami zaúpěl.</p>
+
+			<p>V tom klopýtla a padla.</p>
+
+			<p>Rychle vzchopila se zas a sotva dechu popadajíc, prchala dále. Strach, aby do lesa nepřišla pozdě, zavěsil se jí na paty a poháněl ji ku předu. Již neměla do lesa dál, než co by dohodil kamenem; slyšela již také, jak v něm táhle a zhluboka hučelo.</p>
+
+			<p>Zmírnila trochu svých kroků; byla již zemdlena, a pak tu sníh ležel výše než v poli, kde jej vítr na všecky strany rozmetl. Každou chvilku zapadla do závěje, někdy až po pás. Umrzlá kůra sněhová nad závějemi byla slába, a jak Anežka na ni vstoupila, probořila se pod ní. Od samého klopýtání a zabořování se do sněhu byla již celá ušťuchána; skoro se potácela.</p>
+
+			<p><pb n="81"/> A jako by ti živlové proti ní byly zrovna se spikly , aby nemohla dostati se do lesa: vichr burácel takovou silou a opíral se do Anežky tak prudce, že musila na chvilku se zastaviti. Přikrčila se do závěje a zaobalila se do vlněné loktuše, jak jen mohla. Obličeje, prstů u rukou a nohou již necítila; měla je zmrzly jako koráb a v hlavě jí hučelo, že byla z toho jako opilá. Pomalu přicházelo na ni spaní.</p>
+
+			<p>V tom hút...hút...hút...huthút ozýval se sem smutně a táhle až z vesničky roh ponocného. Anežka vyskočila jakoby vymrštěna pružinou. Kristova rodičko, již dvanáct a ona není ještě v lese; za chvilku musí jíti pašeři... A s novou silou brodila se úsilovně sněhem k lesu.</p>
+
+			<p>Marně nohy do závějí klouzaly, marně vítr opíral se do ní vší mocí, aby ji k zemi strhl. Láska k Frickovi a strach o něho byly mocnější a dodaly seslabenému tělu síly obrovské.</p>
+
+			<p>Stromy lesa každým krokem rostly výš a výš... již neviděla Anežka vrcholů... teď začernal se nad ní obrovský stín... z hluboka, táhle a mocně to zahučelo - <pb n="82"/> a Anežka byla v lese. Několik kroků – a již stála před bukem „u Božích muk“. Kvapem a plaše pohlédla na Krista, jenž tu u větru hrozivě drnčel. Mračil se jako z večera a Anežce se zdálo, jako by ten kříž s ním v měsíčné záři rostl.</p>
+
+			<p>V bázni srnou utíkala okolo kříže vzhůru úvozovou cestou k lesní krčmě, ani se neohlédnouc. Neměla času toho dbáti a přemýšleti o tom; pašeři, jestliže jich něco nezdrželo, musili tu býti každé chvíle.</p>
+
+			<p>V tom zahlídla výš v úvoze mezi sosnami něco černého. To nebyl stín... Stanula na chvilku a pohlížela tam napjatě. Bylo to přikrčeno a ani to sebou nehýbalo. Byla od toho posud hezky vzdálena a nemohla toho rozeznati. Jako had plazila se mezi stromy blíž a blíž, neb se v ní ozývalo jisté tušení... a neklamalo jí.</p>
+
+			<p>Těsně u kmene obrovité sosny stál přikrčen a jakoby s ní srostlý finanční strážník, až po uši v plášť zahalený, sotva že mu bylo oči viděti.</p>
+
+			<p>Měsíc šeřil dolů mezi vrcholky sosen a v kmitavé jeho záři Anežka viděla dobře, podál mezi stromy vykukujíc, jak mu spočívala <pb n="83"/> puška v náručí, pažbou o zemi opřená, a jak dlouhou hlaveň strážník obepínal rukama, maje je zastrčeny až po ohyb do širokých rukávů pláště.</p>
+
+			<p>Co počíti? Kolem něho jít Anežka odvážiti se nesměla; byl by ji musil ihned zahlídnouti, a pak by bylo po všem veta.</p>
+
+			<p>A Anežka, ani se nerozmýšlejíc, jako šipka vybočila v levo z úvozu a kvapila mezi stromy po pěšince, dál nad úvozem oklikou ku lesní krčmě vedoucí. Ze strachu, aby nepřišla pozdě a nekonala celou tu obtížnou cestu pro Fricka nadarmo, dostávala skoro horečku.</p>
+
+			<p>Ohlédla se plaše, jest-li jí strážník nepozoroval; na blízku nehnula se ani živá duše. Dýchala tak mocně a prudce, že by ji byl musil dech prozraditi, kdyby nebyl vítr tak pískal a kdyby nebylo tak hučelo ve vrcholích stromů, jichž kmeny vrzaly a sténaly.</p>
+
+			<p>Před ní zvedala se malá, sněhem zavátá stráň a pěšina zatáčela se v pravo zase do úvozu.</p>
+
+			<p>Již hnala se dolů s ní... V tom zatajil se v ní leknutím dech, všecka krev <pb n="84"/> vstoupila jí do tváře a ona stanula jako přimrazena...</p>
+
+			<p>Zrovna před ní přes úvoz číhal druhý finanční strážník za kmenem smrku právě na rozcestí a z místa na místo přešlapoval. Byl k ní obrácen zády a nemohl ji viděti.</p>
+
+			<p>U cesty stálo několik zavátých keřů. Rychle shýbla se za nimi Anežka a po čtyřech plazila se k úvozu. Sníh dral se jí s mrazem do rukávů a řezal ji jako břitvami. Nemohla jimi skoro již ani vládnouti. U samého úvozu zastavila se. Teď čekal na ni kus nejtěžší práce; musila stůj co stůj přes úvoz. Nazvedla za keřem hlavu. Strážník stále ještě stál obrácen k ní zády a hleděl nahoru ke krčmě.</p>
+
+			<p>„Rodičko Boží, posilň mne na této cestě trnité,“ Anežka zašeptala v úzkostech modrými rty a pustila se po nohou a rukou přes cestu.</p>
+
+			<p>Vichr skučel jako sběsilý a strhl jí loktuši s hlavy na ramena a rozházel jí vlasy po obličeji. Nedbala toho a plazila se dále. Již stanula šťastně mezi keři na druhé straně. Vzchopila se a po špičkách kráčela opodál za zády strážníkovými dále do <pb n="85"/> lesa. Teď měla již vyhráno: odtud nedaleko byla u dutého stromu, vyhnilého dubu, skalní jeskyně a odtamtuď dostane se malou oklikou mezi křovinami zrovna na cestu nad lesní krčmu, kudy musí dolů kolem krčmy „k Božím mukám“ pašeři. Radostí byla by si hnedle zavýskla.</p>
+
+			<p>Přitáhla loktuši s ramen na hlavu a do jejích cípů zaobalila zmrzlé ruce, aby je zahřála, a stoupala dobré mysli svahem vzhůru. Zimniční chvat ji popoháněl. Kdo by ji byl viděl, jak v měsíčné záři, vrcholky sosen a smrků dolů šeřící, sotva nohama půdy se dotýkajíc, mezi stromy sem a tam se míhá, byl by musil míti za prchající vílu lesní.</p>
+
+			<p>A Anežka nepřála si oddechu. To zdravé horské děvče bylo jako ze železa.</p>
+
+			<p>Již zašeřil se před ní na skalnatém svahu obrovský dub s větvemi daleko rozloženými a vyhnilý kmen šklebil se v měsíčné záři jako rozevřená tlama dračí.</p>
+
+			<p>Sklouzajíc a klopýtajíc drápala se k němu Anežka vzhůru. Ještě několik kroků a již stála pod dubem.</p>
+
+			<p><pb n="86"/> Stál tu zasněžen jako obrovský šedivý strážce tmavého otvoru jeskyně, křovinami zarostlého, která asi tři kroky za mohutným jeho kmenem na levé straně skalnatého, v stráň vybíhajícího svahu byla přímo jako do skály vytesána. Kolem stráně vedla mezi lískovými a ostružinovými křovinami malým půlkruhem zasněžená pěšinka do úvozové cesty nad krčmou.</p>
+
+			<p>Ani se nezastavíc, Anežka po ní pospíchala dále. Trnité větvičky ostružin chytaly ji za šaty a draly je na cáry; Anežka toho nedbala. Každá minutka byla jí drahou.</p>
+
+			<p>Právě zahnula kolem skalnaté stráně a vybočovala na malou paseku.</p>
+
+			<p>Za ní v levo prokmitávalo mezi stromy světlo z oken krčmy. Na Anežku účinkovalo jako občerstvující pramen studánky, již uprostřed holých skal našel na smrť umdlený poutník. Teď nebyla již cíle daleko; Fricek byl zachráněn.</p>
+
+			<p>Přeběhla paseku, po níž v záři měsíce stíny stromů se honily a vítr skuče a pískaje se točil – a již se mihla mezi sosnami nedaleko za krčmou.</p>
+
+			<p><pb n="87"/> Málem by byla vykřikla: na pěšince za křovím u samého úvozu ležel ve sněhu přikrčen třetí finanční strážník a číhal.</p>
+
+			<p>Měsíc šeřil vrcholky stromů a osvětloval ono místo nejjasněji. Anežka viděla, jak strážník sebou najednou pohnul. Rychle uskočila za kmen stromu, ani si netroufala hlavu vystrčiti. Bože, nová překážka... a zůstati tady nemůže, sice je Fricek ztracen.</p>
+
+			<p>Povykoukla za kmenem. Viděla, že strážník neležel více ve sněhu, ale že klečel a hlavu do předu nahýbal, jako by poslouchal. Pudem hnána také Anežka napínala sluch, ale mimo hučení, skučení a pískání větru neslyšela ničeho. V tom přikrčil se strážník za keřem jako kočka a chopil se pušky. Anežka se zděsila. Matičko Kristova, to zajisté něco znamená, snad blíží se již pašeři... Nedomyslila... S fičením a hučením větru narazily v ucho její z dálky popletené zvuky různých hlasů...</p>
+
+			<p>Pašeři skutečně již se blížili. Vidouce asi nahoře u rokle obě okna krčmy osvětlena, oddali se jistotě, že je v lese bezpečno. Spíše smrti by se byli nadáli než toho, že na ně zráda číhá.</p>
+
+			<p><pb n="88"/> Anežka uslyševši hlasy zůstala v prvním okamžiku, jako by ji přimrazil. Kdyby byl z čista jasna vedle ní hrom uhodil, více by ji byl nepolekal. Byla více mrtva než živa a v jejích tvářích byl bys v tu chvíli krve se nedořezal.</p>
+
+			<p>Hlasy blížily se víc a více a strážník hotovil si pušku k ráně.</p>
+
+			<p>Před očima Anežky vznášela se krví zbrocená postava Frickova...</p>
+
+			<p>To jí zatřáslo a navrátilo jí vědomí. Mžikem pochopila důležitosť nejbližšího okamžiku. Ještě nebylo vše ztraceno...</p>
+
+			<p>A již mihla se mezi stromy jako splašená laň. Loktuše smekla se jí s hlavy a vlasy vlály svobodně větrem... Skok... a již přelítla mezi křovím kolem strážníka na úvoz a letěla šipkou vzhůru pašerům naproti.</p>
+
+			<p>Strážník byl nenadálým jejím objevením se tak poděšen, že nescházelo mnoho a byla by mu puška z rukou vypadla. Pochopiv však hnedle, oč tu běží, rychle se vzpamatoval.</p>
+
+			<p>A Anežka již pašery zahlídla, kvapila zrovna proti nim... „Spaste se, kdo <pb n="89"/> můžeš,“ volala jim vstříc, seč jí hrdlo stačilo, „strážníci jsou v le-“</p>
+
+			<p>Nedořekla; od krčmy z křoví zahřměla sem střelná rána a zahučela lesem.</p>
+
+			<p>Anežka chtěla popojít... zavrávorala a sklesla. Sníh kolem barvil se její krví...</p>
+
+			<p>Pašeři na chvilku jako omráčeni se zastavili, pak v divém zmatku utíkali, povykujíce, nazpět k roklím. Na obranu ani nikdo nepomyslil.</p>
+
+			<p>„Stůjte!“ hřmělo za nimi z úst pronásledujících je strážníků, kteří na ránu vyhrnuli se z krčmy a dole z úvozu - a lesem ozýval se pískot a houkaly rány z pušek a ozývaly se mnohonásobnou ozvěnou.</p>
+
+			<p>Byl to v lese najednou divoký hon. Vítr v to fičel a úpěl, ve vrcholích stromů to hučelo a měsíc šeřil smrky a sosnami a osvětloval příšerným leskem divoké to divadlo...</p>
+
+			<p>Sotva že poslední strážník kol spustlé krčmy se přehnal, mladý pašer vystoupil kvapně ze stínu smrků a sosen na blízku stojících a skokem octl se u Anežky a sklesl k ní do sněhu.</p>
+
+			<p><pb n="90"/> „Ty dobrá – drahá – věrná duše,“ hlasitě vzlykal a bral to stydnoucí tělo na svůj klín do náručí...</p>
+
+			<p>„Fricku,“ sotva slyšitelně zašeptala Anežka, „utec, tvá stará matka -“ a oči zůstaly jí v sloupu a slovo umrzlo jí na rtu...</p>
+
+			<p>A Fricek kolébal a hýčkal zoufale na svém klíně drahé, ustydlé a mrznoucí tělo své Anežky a plakal jako dítě.</p>
+
+			<p>Ve vrcholích sosen zahučel vítr a zapěl oběma divokou ukolébavku...</p>
+
+		</div>
+
+		<div>
+
+			<head>10.</head>
+
+			<p>Za hodinu po té strážníci vraceli se od roklí úvozem ke krčmě. Z pašerů nechytili ani jednoho – a jen několik ranců padlo jim do rukou. Respicient byl s kontrabandem nespokojen a strážníci proklínali.</p>
+
+			<p>Docházeli právě k veliké zasmušilé sosně na blízku krčmy.</p>
+
+			<p>„Pohleďte, co pak je to tamhle? - Tu zastřelenou někdo drží na klíně.“</p>
+
+			<p>Všichni obrátili tam své zraky.</p>
+
+			<p><pb n="91"/> Měsíc zašeřil právě vrcholkem sosny a plné bledé jeho světlo ozářilo jasně naznačené místo.</p>
+
+			<p>Tam seděl Fricek zády o kmen podepřen a chovaje Anežku na svém klíně, držel ji oběma rukama kolem krku. Hlava jeho byla k obličeji Anežčinu nakloněna, oko jeho jako ze skla, tvář bledá jako měsícem ozářený sníh kolem. Už se z bolesti své vyplakal a teď byl jako Anežka tichý.</p>
+
+			<p>Promluvili na něho – neodpověděl; zatřásli jím - byl ztuhlý jako z ledu...</p>
+
+			<p>„Je mrtev; zmrzl... tady přestává nepřátelství...“</p>
+
+			<p>A strážníci chvíli stáli kolem mrazem ztuhlého skupení lásky v němém pohnutí a mnohému z nich zapadla slza veliká jako hrách do mužných vousů. Dnešní tragédie nijak neočekávali. Josífek z nich byl nejsklíčenějším.</p>
+
+			<p>Právě toho dne, kdy ve vesničce Anežku s Frickem ke kostelíku na hřbitov do společného hrobu za nesmírného účastenství i přespolního lidu pochovávali, Josífek zadal za propuštěnou a krčmář, prodav později hospodu, odstěhoval se někam dále do hor, aby ho prý strážníci nemohli podruhé již „sekírovat“.</p>
+
+			<p><pb n="92"/></p>
+
+		</div>
+	</body>
+</text>
+</TEI>
