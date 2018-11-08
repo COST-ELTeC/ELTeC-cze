@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0001" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Český plavec na severu</title>
+			<title xml:lang="en">A Czech sailor on the Nord Sea</title>
+			<author>Karas, Matěj (1839-1898)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">10605</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=13886"></ref>
+				<publisher>National Library of the Czech Republic</publisher>
+				<idno type=""></idno>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Český plavec na severu: povídka ze severních končin amerických</title>
+						<publisher>F. Kytka</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1885</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="M"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T3"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<body>
+
+		<div>
+
+			<p><pb n="1"/> <hi rend="formated">Český plavec na severu. Povídka ze severních končin amerických. Mládeži i dospělým upravil Matěj Karas. V Praze. Nakladatel P. Kytka, knihkupec. <pb n="2"/> Tisk a papír Aloise Wiesnera v Praze.</hi></p>
+
+			<p><pb n="3"/></p>
+
+		</div>
+
+		<div>
+
+			<head>1. Úvod.</head>
+
+			<p>Severní ledové moře je sice ze všech oceanů nejmenší, prostírajíc se mezi polarním kruhem a severním pólem, avšak slouží za bydliště největším mořským zvířatům. K těmto náleží bez odporu velryby, čítajíce několik druhů, z nichž bývá velryba grónská nejobecnější.</p>
+
+			<p>Velryby jsou ssavci, majíce teplou krev a dýchajíce vzduch plicemi. Avšak podobají se rybám; majíť podlouhlé, lysé tělo a místo nohou ploutve, jimiž plovou, střídavě a rychle je potápějíce.</p>
+
+			<p>Velryba grónská bývá i přes 20 metrů dlouhá. Hlava její činí třetinu těla, má hořejší čelisť úzkou, dolejší však velmi velikou a obě v pozdějším věku bez zubů, jichž místa vyplňují černohnědé rohovité a po kraji roztřepené desky, tak zvané piány nebo kostice, které visíce s hořejší čelisti, tvoří takřka síto , jimiž velryba vodu mořskou procezuje, všecko, <pb n="4"/> což jedlého v ní jest, v ústech zadržujíc. Nozdry tvoří dva otvory a jsou na vrchu hlavy; oči jsou velmi malé a nalézají se vedle koutkův ústních blízko předních ploutví. Tělo zakončeno jest velmi silnou, vodorovnou, přes 7 metrů širokou ploutví. Barva je na hřbetě černá, dole šedá s bílými skvrnami na dolejší čelisti a na ocase. Žije nejvíce jen jednotlivě v Severním ledovém moři. Když pluje na povrchu, vyčnívají temeno hlavy a čásť hřbetu z vody. Vždy asi po 10 minutách vydychuje 2-8krát za sebou a sražené páry vystupujícího dechu podobají se kolmému, 4 metry vysokému paprsku; oba proudy dechové splývají skoro dohromady a vydechnutí, podobné zvuku „huf-f-f" rozléhá se daleko. Jest velmi bojácná, při tom však ostražitá a má velmi dobrý sluch.</p>
+
+			<p>Loví se pro kostici a tuk. Kostice bývá v čelisti ke třem stům kusův a každá deska bývá 3-5 metrů dlouhá a 2-3 decimetry široká. Tuk tvoří přes třetinu metru tlustou vrstvu pod koží; jediná velryba dává ho třeba 800 centů. Vůbec udává se váha zrostlé velryby na 2000 centů, tak že by se rovnala dvěma stům tučných volů nebo třiceti slonům.</p>
+
+			<p>Na lov velryb pluje každý rok mnoho lodí z Evropy a ze severní Ameriky. Lov trvá od prostřed července až do prostřed září, ježto v těchto měsících je léto a nebe bývá velmi <pb n="5"/> jasné. Ke konci září nastávají mlhy, načež na počátku října dostaví se strašné bouře, jmenovitě v Behringově moři a úžině mezi Asií a Amerikou, a pak panuje po sedm měsíců ledová, vše ničící zima; od počátku dubna až do prostřed července prostírají se nad mořem mlhy.</p>
+
+			<p>Když s lodi velrybářské spatří lovci velrybu, kterouž poznají dle paprsků shustěné páry do výše vystupujících, rychle spustí na moře malé lodice, na nichž hledí co možná nejvíce k velrybě se přiblížiti. Harpuník, stoje v předu lodice, vrazí harpunu na dlouhém laně uvázanou zvířeti do boku, kteréž rychle potopivši se, pod vodou dále pluje, při čemž roztáčí lano na hřídeli natočené a pak někdy lodici za sebou vleče. Avšak za nějaký čas musí velryba opět vynořiti se na povrch vody, by dýchala, při kteréž příležitosti harpuník nové harpuny, které již přivázány nejsou, do ní vráží, až tato ztrátou krve hyne.</p>
+
+			<p>K danému znamení připluje sem velrybářská loď a k ní přiváže se lany mrtvá velryba. Plavci vystupujíce na ni, rozřezávají svrchní vrstvu tuku na úzké rovnoběžné pruhy a vytahují je na palubu; pak také i kostici v hubě vyřezají a na loď dopraví. Jazyk sám vydá začasté 3000 kilogramův a spodní pysk 2000 kilogramů tuku. Zbytky trupu ponechají se na pospasy dravým <pb n="6"/> rybám a ptákům, kteří v krátké době všecko až na kosti snědí. Dobytý tuk vyškvařuje se ve velikých kotlích na palubě a pak do sudův ukládá. Když veškery sudy jsou rybím tukem naplněny, vrací se loď zpět. Účastníci výpravy dostávají podíly z bohaté kořisti.</p>
+
+			<p>Mimo velryby chová Ledové moře ještě ssavce se čtyřmi krátkými nohami, jejichž prsty plovací blanou jsou srostlé, podobnými ploutvím ryb, kteří proto ploutvonožci se nazývají. K nim náležejí mroži a tuleni.</p>
+
+			<p>Tuleň obecný bývá l-11/2 metru dlouhý, má válcovité, na zad zúžené tělo se srstí šedozelenou, hladkou a těsně ke kůži přiléhající. Hlava jeho je poněkud podobna hlavě psí, zuby rovnají se dokonce zubům dravých zvířat. Ve vodě plove velmi rychle, však na suchu pohybuje se velmi nemotorně a zdlouhavě. Tuleni prohánějí se v moři ve velikých stádech, chytajíce ryby, jimiž se živí; na zemi nebo na ledové kry přicházejí, by buď spali, buď se vyhřívali nebo svá mláďata napájeli. Loví se pro kůži a tuk; avšak Eskymáci i jejich maso jedí a znají střev, šlach a kostí prospěšně upotřebiti. Lovec hledí je překvapiti na suchu a ubíjí je, zasazuje jim kyjem rány na čenich.</p>
+
+			<p>Mrož podobá se tvarem těla tuleni, však jest mnohem větší, maje délky 5-7 metrův <pb n="7"/> a v obvodu 3—4 metry; srsť jeho je hnědožlutá a zježatělá; hořejší pysk je velmi tlustý a má silné, tuhé a ke tlamě ohnuté vousy; z hořejší čelisti vyčnívají dolů dva silné kly, ze kterýchž jediný mívá váhu až 6 kilogramů. Loví se pro kůži, tuk a zuby, jež sestávají z téže látky jako slonová kosť. Bývá jich kolik set pohromadě i vylézají také na sucho z týchž příčin jako tuleni.</p>
+
+			<p>Avšak i pevná země, která mořem obklopena jest, ač bývá po větší čásť roku sněhem a ledem pokryta, chová veliké i malé ssavce, jakož jsou: lední medvědi, polární lišky, sobi, losi, pižmoví tuři a bílí zajíci.</p>
+
+			<p>Z té příčiny mohou žíti na pobřeží Ledového moře lidé, ježto lov oněch zvířat jim pojišťuje živobytí. Náležíť po většině k Eskymákům či jedlíkům syrového masa, jak je jižnější sousedé jejich, Indiani, nazývají.</p>
+
+			<p>V následujícím líčení osudů českého plavce bude přihlíženo nejen k povaze půdy v krajinách severních, ale i k obyvatelstvu ony krajiny spoře obývajícímu.</p>
+
+			<p><pb n="8"/></p>
+
+		</div>
+
+		<div>
+
+			<head>2. Lov na velrybu.</head>
+
+			<p>V polovici července roku 1870. plula za jasného jitra Ledovým mořem na západní straně poloostrova Aljašky hamburská loď „Albatros", pátrajíc po velrybách, v těch končinách zhusta se vyskytujících.</p>
+
+			<p>„Vidím velrybu!" hlásil plavec, jenž maje hlídku, seděl v koši na hlavním stěžni.</p>
+
+			<p>Všickni na lodi od kapitána až po plavčíka radostné zajásali.</p>
+
+			<p>„Kde stříká?" tázal se po chvíli správce lodi.</p>
+
+			<p>„Na severovýchodě!" zvolal plavec s koše.</p>
+
+			<p>Kapitán vzal dalekohled a dívaje se v naznačenou stranu, brzy spatřil místo, kde paprsky dechové do značné výše vystupovaly.</p>
+
+			<p>„Má pravdu!" pravil kapitán k prvnímu kormidelníkovi, jemuž Jakub Horms říkali. „Z hocha bude dobrý námořník, tak učenlivého a horlivého mladého plavce jsem dosud neseznal. Při nejbližší příležitosti budu ho <pb n="9"/> jmenovati druhým kormidelníkem a vaším zástupcem. Kde pak jste se s ním seznámil?"</p>
+
+			<p>„V Praze při plaveckém závodění roku loňského," odpověděl tázaný. „Obdržel první cenu, a proto jsem se s ním spřátelil. Svěřil se mi, že by rád podíval se na moře a požádal mne, bych mu opatřil místo na některé velrybářské lodi. Vyhověl jsem jeho žádosti a doporučil jsem ho na loď vaši. Mám za to, že český plavec stal se úplně hodným mého doporučení a že zasluhuje vyznamenání, jímž ho chcete překvapiti."</p>
+
+			<p>Jan David, o němž právě byla řeč, byl mladý pražský rybář a plavec. Znal Vltavu v Praze a v nejbližším okolí jako svou halenu a věděl, kde je řečiště její hlubší nebo mělčejší, kde je bahnité, písčité nebo kamenité. Nikdo neznal tak dobře místa, kde jednotlivé druhy ryb se zdržují jako on, a proto nachytal kdykoli ryb, kterých si kdo přál. Avšak jako uměl obratně zacházeti veslem a rybářskými nástroji, zrovna tak dovedně uměl stříleti a nikdy se cíle nechybil. Zkušenosti v oboru tom nabyl v lesích šumavských, jsa po delší čas návštěvou u strýce, jenž byl lesním u knížete Švarcenberka.</p>
+
+			<p>Lovení ryb v malé řece a prohánění se po vodě v malé lodici znechutilo se našemu plavci, jehož mysl lnula k dobrodružnému <pb n="10"/> životu. Seznámiv se s Hormsem, přijel do Hamburku a přijal službu na velrybářské lodi Albatrosu.</p>
+
+			<p>Kapitán dal nyní znamení, loď se zastavila a s ní spuštěny byly rychle tři lodice. Plavci je osadili a již uháněli tam, kde velryba byla spatřena. „Albatros" zatím pomalu plula za nimi.</p>
+
+			<p>Ze tří lodie první byla na místě ona, kterouž řídil český plavec David. Horms seděl na ní v předu, maje v ruce harpunu, uvázanou na laně, jež bylo ovinuto okolo hřídele.</p>
+
+			<p>„Zvolna, hoši, zvolna!" napomínal Horms.</p>
+
+			<p>„Velryba má tenké uši a mohla by se nám dáti v harc (na útěk)."</p>
+
+			<p>Nastalo hrobové ticho. Veslaři opatrně veslovali, by nepůsobili šumotu. David obratně zarejdoval a lodice se blížila se strany k velrybě, kteráž vysoko stříkajíc, zvučným „huf-f-f" svou přítomnosť ohlašovala.</p>
+
+			<p>Již byli u mořského velikána, jehož hlava a hřbet jako ostrov z vody vyčnívaly, ani se nehýbajíce. Jon ustavičné hufání a kolmé vystupování paprsku shuštěné páry nasvědčovalo tomu, že jest obluda živa.</p>
+
+			<p>„Zastavit!" zvolal Horms, jenž stál na přídě, drže v ruce harpunu. Veslaři střelhbitě zdvihli vesla a lodice brzy pevně stála. Harpuník změřil okem vzdálenosť a mrštil harpunou po velrybě, <pb n="11"/> kteráž okamžitě se ponořila. Jen veliké vlny naznačovaly místo, kde mořský velikán ve vodě byl vězel.</p>
+
+			<p>Nyní ozývalo se hlučné šustění. Hřídel otáčel se s největší prudkostí a s něho odvinovalo se co nejrychleji lano a ve vodě za harpunou mizelo.</p>
+
+			<p>„Vězí pevně!" zajásal Horms a ohlednuv se na hřídel, velel: „Polejte hřídel vodou! Což nevidíte, že již kouří?"</p>
+
+			<p>Veslaři okamžitě vykonali, co jim bylo rozkázáno.</p>
+
+			<p>Najednou to trhlo lodicí a ta již ujížděla jako šipka po rozčeřené hladině. Veslaři zbledli, vidouce se vlečeny od mořského netvora.</p>
+
+			<p>„To je jistě nějaký uprchlík!" pravil zkušený Horms. „Pane Davide, držte pevně kormidlo!"</p>
+
+			<p>Lodice ujížděla rychleji a rychleji, rozrážejíc mocně hladinu, až voda silně se pěníc, po obou stranách lodice vysoko stříkala. Nejednou zaryla se zpola do vody, jako by chtěla vjeti do moře, ale vždy zase přímo se postavila.</p>
+
+			<p>„Přetíti lano!" volali plavci, jimž tento divoký hon hrůzu působil.</p>
+
+			<p>„To by bylo pěkné," vytýkal jim český plavec, sedící u kormidla, „abychom si nechali ujíti tak dobrou kořisť. Za nedlouho <pb n="12"/> zemdlí velryba a bude po všelikém nebezpečí. Snadno ji pak dobijeme."</p>
+
+			<p>Veliká vlna přiblížila se a převalila se přes lodici, jež s velikou mocí jsouc vlečena, nemohla se na ni vyhoupnouti. Voda naplnila ji dopola, smočivši oděv všech plavců.</p>
+
+			<p>„Přetíti lano!" opět jali se volati plavci, bojíce se, by lodice do hlubiny nebyla stržena.</p>
+
+			<p>Ale Horms jakoby ani neslyšel. Obrácen jsa ku předu, upřeně se díval na lano, jež jako nůž hladinu mořskou na dvé dělilo. „Netvor přece snad objeví se nahoře!" zvolal konečně.</p>
+
+			<p>„Tam jest, tam jest!" ozvali se jako jedněmi ústy plavci. A v skutku objevilo se ve směru nataženého lana ve vzdálenosti asi 30 metrů tmavé těleso.</p>
+
+			<p>Velryba vynořivši se z vody, jala se oddychovati. Mocné paprsky vytryskly do výše šesti metrův a hlučné „huf-f-f" ozývalo se jako stroj železniční, uhánějící po kolejích.</p>
+
+			<p>Na povel Davidův spustili veslaři vesla a vší silou veslovali k mořskému velikánu. Horms chopil se harpuny a hotovil se k novému hodu, jenž měl netvoru zasaditi smrtelnou ránu.</p>
+
+			<p>Avšak než lodice připlula dosti blízko, paprsky zhuštěné páry přestaly vytryskovati, hluboké „huf-f-f" umlklo, temné těleso ve vodě zmizelo a lodice rychleji než pták letěla po mořské hladině. Nová vlna převalila se přes <pb n="13"/> lodici, tak že tato málem by se byla ponořila. Všech plavců zmocnil se největší strach, i neohrožený David a zkušený Horms bledli. Ohledli se po ostatních lodicích, však nespatřili jich.</p>
+
+			<p>„Přetíti lano!" velel Horms, vzdav se již naděje na bohatý lov. Nejbližší plavec zdvihl sekeru, by vyhověl rozkazu. Ale v tom lano sebou trhlo a lodice, ztrativši rovnováhu, se překotila. Všickni plavci zmizeli pod hladinou.</p>
+
+			<p><pb n="14"/></p>
+
+		</div>
+
+		<div>
+
+			<head>3. Na pustém ostrově.</head>
+
+			<p>Z plavců, kteří z překocené lodice vypadli, nejprve objevil se nad vodou český plavec Jan David. Po chvíli i ostatní vypluli a jali se volati za pomoc. Však kdo měl jim pomoci? Jejich lodice vzhůru obrácená rychle se vzdalovala, vlečena jsouc velrybou. Ostatní lodice i „Albatros" byly velmi vzdáleny, tak že jich nebylo na obzoru ani viděti. Chtěli-li se zachrániti, bylo jim tak dlouho udržovati se nad vodou, až by jejich soudruzi připluli a je na své lodice přijali.</p>
+
+			<p>Hleděli se držeti pohromadě; avšak brzy poznali, že silný mořský proud je od sebe vzdaluje. Nouze naučila Dalibora housti a neštěstí učí se modliti. Plavci, kteří jindy málo kdy na Boha vzpomněli, jali se modliti a své patrony za pomoc prositi. Český plavec vyňal ze záňadří plechový obrázek sv. Jana Nepomuckáno, jejž byl na šňůrce nosil, a vroucně <pb n="15"/> vzýval svého patrona, prose ho, by mu nedal v moři utonouti. Bylť od maličkosti velikým jeho ctitelem i neopomíjel nikdy ve dnech svatojanských účastniti se večerní pobožnosti na pražském mostě a k jeho poctě na Vltavě vypouštěti pestré rachejtle.</p>
+
+			<p>David byl u velikém nebezpečenství. Síly ho již opouštěly, tak že myslil, že utone. V tom ucítil za sebou nějaký pevný předmět. Když se ohledl, spatřil silný trám. Ihned vyšvihl se naň jako na koně a děkoval sv. Janu za pomoc.</p>
+
+			<p>Ohlednuv se kolem sebe, nespatřil již svých tonoucích soudruhů; bylť ho silný proud daleko od nich zanesl. Jediné Horms objevil se mu v dáli i volal naň. Kormidelník se mu ozval a upozornil ho, že napravo jest ostrov, aby hleděl ho dosíci. Pohledl v onu stranu a spatřil tam obrysy pevné země. Trám plul s ním velmi rychle, jsa hnán mořským proudem. Kdyby měl nějaké veslo, by mohl svou lodici říditi! Avšak i v tom naskytla se pomoc. Vylovil kus úzkého prkna, kteréž upevnil na zadní čásť trámu, a tak jej řídil.</p>
+
+			<p>Po dvouhodinné plavbě octl se na ostrově. Opustil trám, poklekl na kolena a děkoval Bohu a svému patronu za šťastné zachránění.</p>
+
+			<p>Šel nyní po plochém břehu, na němž zde a onde tuleni a mořské vydry se vyhřívali. <pb n="16"/> Všude bylo plno naplaveného dříví a množství věcí, jež vlny mořské na břeh byly vyvrhly, avšak po lidech nebylo nikde ani stopy.</p>
+
+			<p>Nyní pustil se dále do vnitř ostrova, ozbrojiv se silnou tyčí, kterouž byl nalezl mezi naplaveným dřívím. Vstoupal neustále, až dostihl výšiny, s níž měl volný rozhled. Odtud díval se kolem sebe. Však co spatřil? K jihu, západu i severu prostíral se neveliký ostrov, z větší části pokrytý posud sněhem, a kolem něho, kam až oko dohledlo, šířilo se nesmírné moře, na němž nikde nebylo ani plachty.</p>
+
+			<p>Nemohl tedy doufati, že brzy bude osvobozen z osamělého ostrova. Snad bude mu tráviti tady neděle, než nějakou loď spatří a ji na sebe upozorní.</p>
+
+			<p>Putoval dále po planině, kteráž pokryta byla skalními balvany. Asi po dvou hodinách došel k východní stráni vyvýšeniny i spatřil odtud moře a za ním vysoké břehy, které daleko široko se prostíraly.</p>
+
+			<p>„Buď Bohu chvála!" zvolal radostně. „Zajisté jest to pevnina americká, na kterouž budu moci se dostati po nějakém voru. jejž si urobím z naplaveného dříví, neobjeví-li se mi tu brzy nějaká loď. A když budu jednou na pevnině, dříve nebo později dojdu do nějaké osady indianské nebo do tvrze společnosti ke kupování kožešin."</p>
+
+			<p><pb n="17"/> Již se schylovalo k večeru. Český plavec sešel dolů na břeh, aby si tady upravil nocleh. Hlad se počal u něho ozývati. I sebral na břehu několik mlžův a snědl je. Nato ohlížel se, kde by si lože upravil. Na východním břehu ostrova roztál již všechen sníh i led, ježto mořský proud, z úžiny Behringovy přicházející, i na teplotu vzduchu působil. Mech, rostliny šťovíkovité, pryskyřníkovité a všeliké jiné vyrůstaly ze země, tvoříce hustý povlak, z něhož tu a tam kvítky své pestré hlavinky k nebi zvedaly, ohlížejíce se po milém slunéčku.</p>
+
+			<p>David jindy málo si všímal rostlin, vyjímaje vodní, mezi nimiž ryby rády se zdržovaly. Avšak zde uvítal je s velkou radostí. Byly mu tady na pustém, liduprázném severu jedinými průvodkyněmi, upomínajíce ho na vzdálenou českou vlasť, na břehy stříbropěnné Vltavy, které snad již nikdy nespatří.</p>
+
+			<p>Dále od břehu rostlo na úpatí vyvýšeniny mezi mechem borůvčí a brusiní. Natrhal toho velikou hromadu a vystlal si lože. Zatím zašlo slunce. Pomodliv se k Bohu a poprosiv sv. Jana za další ochranu, ulehl si. Přikryl se mechem až po ústa, by se uchránil před zimou, načež brzy usnul.</p>
+
+			<p>I zdálo se mu o divokém lovu na velrybu, o jeho soudruzích, jak tonou, volajíce úpěnlivě o pomoc. Zachránil z nich toliko přítele <pb n="18"/> svého Hormsa, přijav jej na lodici, kterou řídil sv. Jan Nepomucký. Nato octli se všickni pod pražským mostem, kormidelník sv. Jan vystoupil z vody na most a tisíce světel zářilo okolo něho. Hmoždíře na Střeleckém ostrově houkaly a překrásné rachejtle vyletovaly do výše. Konečně objevil se ohromný ohnivý strom, maje v koruně své skvoucí jméno sv. Jana a vypouštěje ze sebe s ohromným rachotem na sta pestrých hvězdiček.</p>
+
+			<p>Probudiv se, spatřil, ano slunéčko na straně severovýchodní již vyšlo a jej svými rudými paprsky ozařuje. Nedivil se tomu, věda, že na tomto stupni severní šířky v tu dobu noc velmi se krátí. Zároveň ozvalo se nedaleko něho hrozné řvaní. Uchopiv svou tyč, vyskočil, chtěje se brániti medvědu. Ale tu shledal, že řev přichází od tuleňů, kteří na břeh vylezše, tam se vyhřívají.</p>
+
+			<p>Což aby jich několik zabil? Již včera si myslil, že učiní lov na tuleně, kdyby mu zde déle bylo prodlévati. Mohlť z kůže jejich udělati si letní stan a zimní oděv, maso usušiti a na zimu uschovati, tuk pak vyškvařiti a v zimě ke svícení užiti.</p>
+
+			<p>Vskočil mezi poděšená zvířata a jal se je zabíjeti, zasazuje jim tyčí rány do čenichu. Podařilo se mu zabiti jich šest, ostatní uprchli do moře.</p>
+
+			<p><pb n="19"/> Nyní jal si upravovati snídani. Vyvrhl a stáhl jednoho tuleně svým plaveckým nožem a vyřízl z něho pěkný kus masa. Nato nanesl naplaveného dříví, naložil je na borůvčí a podpálil hranici sirkami, kteréž jsouce ve skřínce pevně uzavřeny, nebyly se zkazily. Hranice vzňala se a oheň vesele plápolal. Zhotoviv si rožeň, upekl si na něm připravené maso. Tulení pečeně nebyla tak dobrá jako pečené vepřová, ale jemu chutnala výborně.</p>
+
+			<p>Když byl posnídal, pokračoval v započaté práci. Vyvrhl a stáhl i ostatní tuleně a kůži jejich roztáhl na zemi, by schla. Maso pak oddělil od tuku a rozřezal na tenké proužky, kteréž taktéž po zemi rozložil, chtěje je usušiti. Tuk zatím přikryl mechem a roštím, aby na slunci, kteréž dosti hřálo, zkázy nevzal. Střeva také po zemi roztáhl, aby uschla; mohlť jich na místě provazův užiti.</p>
+
+			<p>Nyní šlo mu o to, by si zhotovil stan.</p>
+
+			<p>Ale kde?</p>
+
+			<p>Náš bezděčný Robinson povšiml si při včerejší obhlídce úzkého údolí, které až k moři dosahovalo.</p>
+
+			<p>„Snad teče tím údolím z vnitř ostrova potok," pravil k sobě český plavec a pustil se tam.</p>
+
+			<p>A skutečně bylo tomu tak, jak si byl myslil. Údolím tekl potok na dva kroky široký. Na <pb n="20"/> jeho březích rostly nízké břízy, s nichž visely jehnědy. Ze země vyrůstaly mezi sporou travou rostliny šťovíkovité a křížaté, které počínaly již kvésti. Čím výše David stoupal, tím více šířilo se údolí. Konečně přišel k malému jezeru, z něhož právě onen potok vytékal.</p>
+
+			<p>Dívaje se po jezeře, spatřil stádo pižmových turů či volů, kteří na březích jezera se pásli. Tato huňatá, asi metr vysoká zvířata, často zhvihala hlavy do výše, opatrně na všecky strany větříce.</p>
+
+			<p>Český plavec uznal toto místo za nejvhodnější, by na něm postavil si stan. Vrátil se zpět k pobřeží, by sem přivlekl tulení kůže a tyče, které ležely mezi naplaveným dřívím. Pohleděv na moře, zvolal: „Loď, loď!"</p>
+
+			<p>Všemi plachtami plula velrybářská loď směrem severním, vzdálena jsouc od břehu asi 4 kilometry.</p>
+
+			<p>„Jest to „Albatros"," radostně zajásal český plavec, „Bůh račiž mi přispěti a sv. Jan Nepomucký, by mne spatřili!"</p>
+
+			<p>V okamžiku svlékl kabát a přivázal jej na tyč, načež mával jím v povětří jako vlajkou, by soudruhům ohlásil svou přítomnosť. Avšak na lodi nikdo si toho znamení nepovšiml.</p>
+
+			<p>„Snad oheň a kouř upozorní je na ostrov a na mne?" pravil k sobě David. A sebrav na hromadu roští, podpálil je. Avšak toto jsouc <pb n="21"/> mokré, nechtělo chytiti. Konečně přece zaplápolal k nebi mocný plamen a sloup kouře vystupoval do výše, ale nadarmo. Loď vzdalovala se pořád víc a více od ostrova.</p>
+
+			<p>Najednou se loď zastavila, svinuvši své plachty. Plavec radostně zajásav, zvolal: „Spatřili mne! Ó Bože, děkuju Ti, žes je na mne upozornil!"</p>
+
+			<p>Ale naděje plavcova rozplynula se v nivec. Na „Albatrosu" objevil se mráček dýmu, jenž brzy celou loď zahalil.</p>
+
+			<p>„Na lodi učinili dobrý lov," pravil David chvějícím se hlasem, „a nyní budou tuk vyškvařovati. Tu nikdo z mých soudruhů nepomyslí na ubožáka, jenž na osamělém ostrově dlí."</p>
+
+			<p>Usednuv na kámen, přemýšlel o svém osudu. Po chvíli se zvedl a pravil k sobě:</p>
+
+			<p>„Již vím, kterak se k nim dostati. Vyškvařování tuku potrvá aspoň 24 hodiny. Za tu dobu sestavím si vor z naplavených trámů, jež sváži střevy tuleními, a popluji k lodi. Proto chutě k dílu!"</p>
+
+			<p>Ihned přivlekl několik trámů k moři a svázal je. Nato postavil uprostřed stěžeň, jejž připevnil ke prámu střevy tuleními. Tenké prkno přizpůsobil na kormidlo, jiné na veslo, a kůže tulení na plachty. I kusem masa tuleního pro jistotu se zásobil.</p>
+
+			<p><pb n="22"/> „Ku předu ve jménu božím!" zvolal český plavec, když byl svůj prám sestrčil do vody.</p>
+
+			<p>„„Albatros" stojí posud na starém místě, zahalen jsa v kouř, což nasvědčuje tomu, že plavci ještě nejsou hotovi s vyškvařováním tuku."</p>
+
+			<p>Vor plul rychle ve směru severovýchodním, poháněn jsa větrem, jenž tuleňovou plachtu mocně vydul, a každým okamžikem blížil se k lodi velrybářské. Českému plavci srdce silně bušilo a naděje jeho minutu od minuty rostla. V myšlénkách již viděl, jak soudruzi jeho se podiví, až najednou spatří ho živa a zdráva na jednoduchém voru.</p>
+
+			<p>Však náhle vor otočil se několikrát okolo sebe a pak změnil svůj směr. David namáhal se co nejvíce, by jej do prvého směru uvedl, avšak marně. Ani kormidlo, ani plachta nebyly s to, by vor v pravý směr uvedly; plul nyní k jihovýchodu, neustále se vzdaluje od „Albatrosa", jediného útočiště českého plavce, až konečně lodi velrybářské nebylo již viděti.</p>
+
+			<p>„Nyní ani starého ostrova již nedostihnu," zvolal v zoufalosti David, „ostrova, na němž jsem mohl snad i přezimovati. A nyní pluji někam do šírého moře anebo k nějaké pusté, nehostinné zemi! Ó, Bože, jak těžce mne navštěvuješ!"</p>
+
+			<p>To dopověděv, poklekl a vroucně se modlil <pb n="23"/> k Bohu, prose ho za vysvobození. I také svého patrona vzýval, by mu přispěl ku pomoci.</p>
+
+			<p>A ku podivu! Vroucí modlitba odvrátila ho od zoufalství a posilnila ho. Uchopil se opět kormidla a pilně pracoval, řídě vor k východu, kdež doufal přistáti u pevniny.</p>
+
+			<p><pb n="24"/></p>
+
+		</div>
+
+		<div>
+
+			<head>4 Nová země.</head>
+
+			<p>Asi po tříhodinné plavbě objevil se českému plavci na východě tmavý pruh. Ani Kolumbus s takou radostí neuvítal břehův ostrova Quanahanského jako náš ubohý plavec. Vždy výše a výše vystupovaly roztrhané břehy, na niehž nebylo nikde ani stromu ani křoviska. Jen mechy a lišejníky pokrývaly příkrá úbočí strmých skal.</p>
+
+			<p>Český plavec viděl se sklamána, ježto nalézal jen pusté, nehostinné pobřeží, avšak pomyslil-li na mořský proud a na věci, jež onen sem zanášel, vzal za vděk i tímto pobřežím. Mohlť tady po nějaký čas pobyti a čekati, až některá velrybářská loď okolo popluje, jíž by nějakým způsobem svou přítomnosť na jevo dal, nebo mohlť se pustiti středem Aljašky a putovati tak dlouho, až by dostihl buď tvrze Jukonu, buď Selkirku nebo některé jiné obchodní stanice společnosti aljašské.</p>
+
+			<p><pb n="25"/> Když slunce již se schylovalo k západu, přistál šťastně u břehu. Kam až oko dohlédlo, všude okolo pobřeží bylo plno naplaveného dříví a všelikých jiných věcí, jež moře se všech stran sem bylo zaneslo.</p>
+
+			<p>Vyhledav příhodné místo ku přenocování, snesl tam dříví a rozdělal oheň. Nato vzal s voru maso tulení a upekl je. Když se byl jídlem posilnil, přiložil na oheň, by v noci neuhasl, pomodlil se a ulehl si na lůžko mechem vystlané.</p>
+
+			<p>Země, u které náš plavec přistál, byla Aljaška. Až do roku 1867. náležela Rusku, pak byla postoupena Spojeným obcím americkým. Aljaška jest nejkrajnějším severozápadním cípem Ameriky, majíc povrchu ne celý jeden milion kilometrů, na němž žije asi 70 tisíc obyvatelů, tak že průměrem na 14 čtverečních kilometrech obývá jeden člověk.</p>
+
+			<p>Obyvatelé náležejí k bílým osadníkům, Eskymákům, Aleutům a Indianům. Bílí osadníci se smíšenci roztroušeni jsou počtem 2000 na pobřeží a na ostrovech v obchodních osadách a uvnitř země v obchodních stanicích, Eskymáci obývají počtem asi 20000 hlav severní a severozápadní pobřeží, jsouce rozděleni na čtrnácte kmenů, z nichž nejseverněji obývá kmen Čiglit, čítaje 2000 osob. Aleutové bydlí počtem 2500 na ostrovech Aleutských. Indiani <pb n="26"/> konečně počtem 42000 mají svá sídla na pomoří západním, jež jest obchodu nejpřístupnější a uvnitř země. Náleží k rozličným kmenům, jmenovitě ku Kenaiům, k Jakutům, ke Koljušům a Atům.</p>
+
+			<p>Na východní straně země Aljašky a Britské Kolumbie jižně od ní ležící prostírají se až k zálivu Hudsonskému tak řečené země zálivu Hudsonského, které jsou ještě spořeji zalidněny než Aljaška i s ostrovy. Majíť obyvatelstva na 11000, tak že průměrem l člověk přijde na 260 kilometrů. Toto se skládá asi z 1000 bílých osadníkův a míšencův a 10000 Eskymákův a Indianův. Eskymáci bydlí při Ledovém moři. Indiani, náležejíce k veliké čeledi Athapasků, mají svá sídla jižně od Eskymákův a východně od Kenaiův a ostatních Indianův aljašských a kolumbických; dělí se na více kmenů, z nichž sluší zvláště vytknouti Čipeveyany.</p>
+
+			<p>Tato dvě veliká severní území liší se patrně od sebe.</p>
+
+			<p>Západní Aljaška jest vysokou planinou, na níž spočívají Skalné hory, vysílající k západu výběžky; z části jest pokryta lesy a močály, z části jest bezlesá a prostoupena vysokými horami, skalisky a ledovci. Mohutná řeka Jukon čili Kvičpak, dlouhá na 3000 kilometrů, protéká celou zemi nejvíce krajinami lesnatými a to nejprve směrem severozápadním a pak <pb n="27"/> jihozápadním; každého roku bývá po 7 měsíců zamrzlý. Podnebí jest studené, avšak značně mírnější nežli na východním pobřeží americkém. Obyvatelé živí se na pobřeží lovem mořských zvířat, jako tuleňů, mrožův a velryb, uvnitř země honbou na losy, soby, medvědy a jiná zvířata kožešinu dávající a mimo to lovem lososů, kterých jest v Jukonu veliká hojnosť.</p>
+
+			<p>Východní území, tak zvané země zálivu Hudsonského, odděleno jest od Aljašky mohutnou řekou Mackenzií, která tekouc na úpatí hor Skalných ve hlubokém úžlabí směrem severozápadním, do Ledového moře se vlévá. Toto celé území jest nížinou nebo nízkou planinou, kteréž nikde 500 metrů výše nepřesahuje. Ač postrádá úplně hor, jest přece drsné a nerovné četnými nízkými hřebeny a pásmy skalními. Proto nemá skutečných řek, ovšem ale nesčíslné množství větších i menších jezer, která jsou mezi sebou krátkými říčkami nebo potoky spojena. V těchto říčkách jsou četné prahy a peřeje, proto je plavba po nich možna toliko na bárkách z březové kůry; mimo to bývají po velikou čásť roku pokryty ledem. Na území tomto prostírají se v jižní části větším dílem prairie s půdou částečně úrodnou, částečně bařinatou nebo písečnou, kde toulají se četná stáda zubrů; dále k severu <pb n="28"/> a severozápadu rozkládají se ohromné lesy, které tu a tam až k Ledovému moři dosahují, v nichž se zdržují losi, sobi a jiná zvěř, a za těmi až k Ledovému moři jsou prairie a otevřené bezlesé pustiny, na nichž se prohánějí sobi, vlci a polární lišky.</p>
+
+			<p>Když se český plavec ráno probudil, stálo slunce již nad obzorem. Oheň dosud doutnal, i přiložil naň a upekl si zbytek tuleního masa. Nasnídav se, jal se hledati příhodné místo, kde by si chýši vystavěl. Našel je brzy. V místech , kde byl přistál, byl příkrý mořský břeh prorván těsným údolím, jímž tekl dosti široký potok, obroubený olšovím. Nad potokem skláněla se ke straně jižní skála, která poskytovala ochrany proti severním i západním větrům. A tady bylo právě místo k stavbě chýšky nejpříhodnější.</p>
+
+			<p>Nyní vyhledal si na břehu mezi naplaveným dřívím prkna ze ztroskotaných lodí a přivlekl je ke skále. V prknech a dříví bylo plno hřebíků, jichž užil při stavbě své chýše. Za dvéře mu sloužila kůže tulení, jež zavěsil nad otvorem do chýše. Pak si nanesl mechu a udělal si z něho lože, které přikryl druhou tulení koží. Uprostřed si udělal ohniště, aby na něm netoliko upravoval pokrmy, ale by si mohl i své obydlí vytápěti. Vystavěná chýše byla dosti pohodlná a poskytovala ochrany proti zimě <pb n="29"/> i proti dravým zvířatům; zároveň bylo lze odtud přehlednouti velikou čásť moře a spatřiti každou loď, jež by se na obzoru objevila. Nedaleko svého obydlí vztýčil vysokou žerď s vlajkou, kterou byl také nalezl mezi naplavenými věcmi, by na se upozornil lodi po moři plující.</p>
+
+			<p>Hledaje mezi naplaveným dřívím, co by se mu hodilo, spatřil najednou ve skalní rozsedlině lodici. Když ji vytáhl, shledal, že je to bárka ruského lovce a že žádné škody neutrpěla. Ve schránce dobře uzavřené nalezl vlněnou houni, nádobu s konservovaným masem, láhev rumu a dvojhlavňovou pušku s hojnou zásobou nábojů.</p>
+
+			<p>Důležitý tento nález naplnil ho velikou radostí. Vlněnou pokrývkou mohl se chrániti před zimou; puškou mohl netoliko stříleti zvěř, a tak se zásobovati potravou, ale mohl se i brániti proti dravým zvířatům a nepřátelským Eskymákům a Indianům; po bárce mohl plouti po moři, loviti ryby a mořská zvířata a přiblížiti se k velrybářským lodím; masem konservovaným mohl živiti se, kdyby se mu nedostávalo jiného masa; rumem mohl zahřáti se, kdyby mu bylo zima.</p>
+
+			<p>„Nyní mohu tady přežiti celé léto," pravil k sobě vesele český plavec, „ano i zimu, nevysvobodí-li mne do té doby nějaká velrybářská loď. A kdyby mi bylo dlouho čekati na loď, mohu se pustiti po zemi k východní straně, <pb n="30"/> až dostihnu tvrze Jukonu nebo některé jiné obchodní stanice."</p>
+
+			<p>S puškou v ruce vyšel si nyní David podél potoka. Spatřil v něm množství pstruhů, jichž několik pěkných kusů chytil. Vrátiv se ke své chýši, upekl si je k obědu. Chutnali mu lépe než tulení maso, jímž v předcházejících dnech bylo mu za vděk vzíti.</p>
+
+			<p>Takto žil na břehu mořském již celý týden, vycházeje každého dne buď na honbu do blízkého lesa, buď na lov v bárce. Vyhlížel často do dáli, zdali uvidí kde jakous loď, ale na šírém moři, jak daleko zrak jeho sahal, nebylo po ní ani vidu.</p>
+
+			<p>„Což musím čekati, až některá loď se objeví, by mne odtud odvezla?" pravil jednoho dne David. „Maje pušku na rameni a zásobu konservovaného masa v torbě, mohu projíti na příč celou Aljaškou, bych se dostal do některé tvrze a odtud do Nového Yorku a pak zpět přes ocean do Hamburku a do matičky Prahy."</p>
+
+			<p>Český plavec nevěděl, jak vzdálená je od pobřeží některá obchodní stanice a jak je zlá cesta po planině aljašské, na vyšších místech i po celé léto, jež arciť jen málo měsíců trvá, sněhem a ledem pokryté. Zajisté nebyl by podstoupil tak obtížnou a nebezpečnou cestu, nemaje po ruce saní, po kterých jen možno jest cestovati.</p>
+
+			<p><pb n="31"/> Nečekaje již na příchod nějaké lodi, připravil se na dalekou cestu. Nasnídav se, vzal na rameno pušku, na záda ranec s vlněnou pokrývkou a se zásobami potravy a nábojův, a konečně do ruky silnou hůl, pustil se do vnitra Aljašky, řka: „S Pánem Bohem dále!"</p>
+
+			<p><pb n="32"/></p>
+
+		</div>
+
+		<div>
+
+			<head>5. V zajetí Eskymáků.</head>
+
+			<p>Náš český plavec stoupal po několik hodin, než se dostal na výšinu. Rozhlednuv se kolem sebe, spatřil na západě moře a na východě nepřehlednou planinu, tu a onde spoře travou a mechem porostlou. Někde posud ležely sněhové závěje a led, jež slunečními paprsky posud nebyly roztály. Lesů nikdež neviděl, leda že četná údolí byla vroubena nízkým křovím skládajícím se z vrb, olší a bříz.</p>
+
+			<p>Plný odhodlanosti a důvěry pokračoval na své cestě. Nebyl sám. Veliké houfy vodního ptactva táhly nad hlavou jeho, vesele kejhajíce. Bylyť to husy, kachny a labutě, které se vracely k letním svým příbytkům na březích Severního ledového moře. Maje s dostatek potravy, ušetřil jich.</p>
+
+			<p>Když se slunce schylovalo k západu, sešel do údolí a v olšinách rozdělal oheň. Na něm si upekl několik pstruhů, které v potoce byl <pb n="38"/> chytil, a pojedl je k večeři. Chutnaly mu výborně. Přiloživ na oheň, zahalil se do své houně a ulehl si vedle ohně. Poručiv se do vůle boží, brzy usnul. Ráno probudiv se, ubíral se dále.</p>
+
+			<p>Takto putoval již přes týden sám a sám. Nepotkal nikdež ani Indiana ani Eskymáka. Každého dne zíral toužebně k východu, zdali tam nespatří Skalních hor, přes které mu bylo jíti. Konečně objevily se v dáli posněžené vrcholky nebetyčných <foreign>Rocky Moutains</foreign> . Zároveň i krajina, kterou šel, stávala se divočejší a mnohem chladnější. Sníh tady posud nebyl roztál, ač již nastalo léto. Nalézal se na předhoří obrovských hor, táhnoucích se od severu k jihu celou Amerikou.</p>
+
+			<p>Jednoho dne spatřil ve sněhu lidské stopy. Vedly dále do hor. Velmi se zaradoval, ježto doufal, že na své osamělé cestě najde společníky. Poněvadž již se schylovalo k večeru, vyhledal si příhodné místo, jež bylo chráněno proti větru, vyhrabal si tam ve sněhu jámu a zabaliv se do houně, ulehl ke spaní.</p>
+
+			<p>Když se rozednilo, vstal a jal se ohledávati dobře znatelnou stopu. Ve sněhu byly vytlačeny koleje několikerých saní a tlapy četných psů. Jela to tudy tlupa Indianů, či tlupa Eskymáků? Toho nemohl domysliti se, ježto Indiani i Eskymáci psů k potahu užívají. Ať jsou to Indiani neb Eskymáci, připojí se k nim a požádá <pb n="34"/> jich, aby ho dovedli k nejbližší stanici obchodní. "Snad se mi podaří od nich koupiti saně i s potahem," těšil se, „a pak již dostihnu některé tvrze."</p>
+
+			<p>Posilniv se masem a douškem rumu s láhve, bral se dále. Krajina byla, čím dále šel, tím hornatější. Vrchy a údolí rychle střídaly se a koleje saní vinuly se v divných křivkách okolo vrchů. Cesta byla Davidovi velmi obtížnou, neboť tu a onde zapadal do sněhu, z něhož jen s velikým namáháním mohl se vyprostiti. Putováním několikahodinným unavil se tak, že toužil po odpočinku. Zabaliv se do houně a zahrabav se hluboko do sněhu, brzy usnul.</p>
+
+			<p>Najednou byl probuzen silným zatřesením a hlasitým mluvením smíšeným se štěkotem psů. Nevěděl, jak dlouho byl odpočíval. I chtěl vyskočiti a chopiti se své pušky, avšak poznal ku svému zděšení, že nemůže rukama vládnouti. Bylť na rukou spoután silnými provazy ze střev tuleních. Tři muži, oblečeni v kožený oděv, stáli u něho, protivně se naň šklebíce a zrak svůj upírajíce. Saně se spřežením osmi psů stály opodál. Tahouni byli již netrpělivi, kousali se a trhali řemením.</p>
+
+			<p>Český plavec viděl, že upadl v moc Eskymáků, kteří ho za nepřítele považují. Vzdorovité obličeje nevěštily mu nic dobrého. Jak jinak byl by býval od nich přijat, kdyby se zbraní <pb n="35"/> v ruce byl k nim přistoupil. Svou dvouhlavňovou puškou byl by si získal patřičné úcty. Nyní byl jejich zajatcem a vydán jim zcela na milosť.</p>
+
+			<p>Jeden z nich, jenž byl vysoké, štíhlé postavy, oslovil jej k nemalému jeho podivení lámanou angličinou.</p>
+
+			<p>„Odkud přichází muž černovousý?" otázal se jej.</p>
+
+			<p>David vypravoval mu své příhody, načež Eskymák pravil: „Ty tedy nejsi jeden z oněch Englišů, kteří Inuitům loví zvěř, aby kůže její do daleké země odváželi?"</p>
+
+			<p>„Jsem zcela jiné národnosti, jež nemá s Engliši nic společného," dí David.</p>
+
+			<p>Tato odpověď uspokojila, jak se zdálo, náčelníka Eskymáků, kteří sami Inuity, t. j. lidmi se nazývají, neboť pravil na to: „Magok těší se z těchto slov. I odveze přítele svého tam, kde stojí letní stany jeho kmene, a když černovous mu ukáže, jak lze přinutiti k svým službám ducha hromové trouby, pak bude moci jíti, kam mu bude libo."</p>
+
+			<p>Tato slova naplnila Davida úzkostí. Chtěli jej tedy odvléci až k onomu pobřeží Ledového moře, odkud, jak věděl, byl návrat velmi těžký. Avšak těšil se v duchu, že se mu podaří na cestě uprchnouti. I nechal se bez odporu odvésti k saním, na něž usedl. Brzy uháněly tyto <pb n="36"/> po sněhové pláni, za nimi saně soudruhů Magokových.</p>
+
+			<p>Náčelník řídil povoz s velkou zručností. David podivil se, s jakou jistou rukou vládl bičem a opratěmi, tak že z osmi rychlonohých tahounův ani jeden neodvážil se uhnouti z dráhy, již mu pán vyměřil. Všickni poslouchali jeho rozkazů, jež jim dával krátkými slovy.</p>
+
+			<p>Nyní všiml si David postavy i obleku Magoka a jeho eskymáckých soudruhů. Dosavad měl za to, že Eskymáci jsou postavy malé, a tady viděl muže vysoké postavy. Snad se mu dostalo nepravého poučení o tomto národu? Nikoliv. Eskymáci, obývajíce v nejsevernějších krajinách, málo stýkají se s lidmi vzdělanými, vyjímaje toliko Eskymáky gronské, kteří jsou ze všech svých soukmenovců postavy nejmenší; zato však Eskymáci západní, jmenovitě z kmene Čiglitů, kteří v Aljašce v počtu 2000 mužů žijí nejseverněji, jsou postavy velmi vysoké a povahy bojovné. Byli vesměs zvýší l,7 metru a vyznačovali se hlavou velikou, obličejem kulatým, hladkým a přičernalým, nosem širokým, rty tlustými, vlasy černými a řídkými a pletí tmavohnědou do ruda. Na sobě měl každý kabátec s kápí, jenž podobaje se košili, do polovic stehen sáhal, pak nohavice napřed i vzadu zavřené a vzadu stažené, konečně punčochy a boty, vesměs zhotovené z kůže tulení. Hořejší <pb n="37"/> pysk měli provrtaný a v otvoru tom měl Magok malou kostěnou hůlčičku, druzí dva kousky lasturové.</p>
+
+			<p>Po šest hodin uháněly saně s velikou rychlostí. Pojednou začali psi radostně štěkati a David spatřil před sebou osadu eskymáckou, sestávající asi z jednoho tuctu stanů.</p>
+
+			<p>Tyto stany skládaly se ze čtyř tyčí, které byly ověšeny dvojitými kožemi, a byly z předu u vchodu nejvyšší, zponenáhla se snižujíce do zadu, kde se zemí se stýkaly. Spodní jejich okraj byl obtížen kamením a ucpán mechem. Vchod do nich byl zastřen oponou, která byla sešita ze střev tuleních, aby do nich nevnikal vítr a zároveň aby tam bylo s dostatek světla. Uvnitř byly tyto stany, jak David později se přesvědčil, pokryty medvědími kožešinami, majíce po stranách sedadla upravená z jemnějších kožešin. V takových stanech žijí Eskymáci od května až do října, majíce v zimě za obydlí chalupy ve sněhu nebo v zemi upravené, zvané igolo.</p>
+
+			<p>Hlasitý štěkot a radostné výkřiky pozdravily příchozí a brzy objevilo se asi osm žen, které oblekem zhotoveným taktéž z kůže tulení, od mužů mnoho se nerozeznávaly, toliko tři měly boty z kůže tulení, žlutě nebo červeně vydělávané, a kabátce z červené nebo zelené látky bavlněné s malou kapí, lemovanou kožešinou.</p>
+
+			<p><pb n="38"/> Pozdravily Magoka a pak prohlížely si zajatého bělocha.</p>
+
+			<p>Pouze jedna dívka zůstávala v pozadí. Její chovám a štíhlý vzrůst byly Davidovi ihned nápadny, zvláště však způsob, jakým se chovala k vůdci.</p>
+
+			<p>„Magok bude míti hrom černovousů brzy ve své ruce," dí náčelník, obraceje se k ní, „a rudokožci budou před námi utíkati jako bílý zajíc před vlkem."</p>
+
+			<p>"Ataja opovrhuje pojídači syrového masa a ví, že se budou Čipevejani hromu v rukou Magokových smáti," odpověděla dívka, která, jak nyní David zpozoroval, byla zajatá Indianka. Vzpoměl si, že kdysi četl, jak se Indiani a Eskymáci vzájemně nenávidí a jsou si největšími nepřáteli.</p>
+
+			<p>„Snad dostala se ona dívka na cestě k pobřeží Eskymákům do rukou," myslil si; „snad zamýšlí Magok ji si vzíti za ženu, protože je štíhlejší a krásnější než ženy jeho kmene. Mám tudíž spolutrpitelku a proto naleznu v ní spolehlivou spojenku."</p>
+
+			<p>Náčelníka mrzelo chování dívčino, i poručil jí příkře, by šla ihned do chýše a připravila mu jídlo.</p>
+
+			<p>„Upravím ti tedy syrové maso," pravila zajatá posměšně; neboť právě požíváním syrového <pb n="39"/> masa upadli Eskymáci u severních kmenů indianských v opovržení.</p>
+
+			<p>Magok porozuměl narážce té a zlostně namířil proti děvčeti pušku Davidovu, chtěje ji polekati. Avšak David zpozoroval ke své radosti, že divoch popadl zbraň obráceně, tak že mohl poraniti spíše sebe nežli dívku.</p>
+
+			<p>Ataja zasmála se opovržlivě a odešla zvolna do nejbližší chýše. Magok sklonil mrzutě pušku a poručil, aby zavedli zajatce do jiného stanu, což také ihned se stalo. Aby mu učinili útěk zcela nemožným, svázali mu také nohy provazy z tuleních střev.</p>
+
+			<p><pb n="40"/></p>
+
+		</div>
+
+		<div>
+
+			<head>6. Na útěku.</head>
+
+			<p>Nastala noc. Eskymáci leželi na špinavých kožešinách, silně chrápajíce, a Magok snil o šumících vlnách Ledového moře, o pohodlném bytě na pobřeží a o tom, jak vládne hromem v pušce černovousově. David nespal a převaloval se se strany na stranu. Přemýšlel o svém krutém osudu a litoval, že opustil svou prkennou chýši na břehu mořském. Mohlť tam čekati, až by některá loď ku břehu se přiblížila. V kocábce pluje, mohl loviti v moři ryby a puškou mohl stříleti ptactvo a zvěř. Ale po účinku zlá rada. Nelze toho již změniti. Což kdyby svým věznitelům nějak uprchl? Je sám ve stanu a nikdo by ho nezdržoval. Jen co se zbaví pout. I snažil se, by rozvázal nějak provazy. Avšak marným bylo všecko namáhání. Eskymáci, mistři v dělání uzlův, osvědčili se i tady ve svém umění. Ale i kdyby se zbavil svých pont, kam prchne, nejsa ozbrojen? Na <pb n="41"/> svých saních ho Eskymáci snadno dohoní. Musí hleděti k tomu, by obdržel opět pušku, jí může donutiti své nepřátele, by jej propustili.</p>
+
+			<p>Pojednou zdálo se mu, že stěny jeho stanu se pohnuly. Pozorně naslouchal. Nyní odhrnula se opona, kterouž byl zastřen vchod, a jakás postava vstoupila opatrně do stanu.</p>
+
+			<p>„Spí bledá tvář?" ozval se tiše hlas, po němž David poznal Indianku.</p>
+
+			<p>„Nikoli!" odpověděl zajatec.</p>
+
+			<p>„Byl by můj bratr hotov, aby prchl?" vyzvídala dívka.</p>
+
+			<p>„Což je o to," pravil český plavec, „avšak kterak uniknu Eskymákům, nemaje saní?"</p>
+
+			<p>„Jedlíků syrového masa nemusí se můj bratr báti," ujišťovala Indianka, „ti jsou spáči a zbabělci. Saně jsou již pro něho připraveny a hromová trouba je na nich. Chce-li můj bratr utéci, Ataja jej doprovodí."</p>
+
+			<p>Výkřik překvapení a radosti vydral se z úst českého plavce, když uslyšel, že odvážná Indianka již všecko připravila.</p>
+
+			<p>Ataja však zadržela mu rychle ústa, šeptajíc: „Nekřičeti!"</p>
+
+			<p>Nato rozřezala mu pouta a podavši mu ruku, zdvihla jej.</p>
+
+			<p>David postaviv se na nohy, nebyl s to, by kroku učinil. Teprve po chvíli mohl volně <pb n="42"/> nohama pohybovati. Pak vyšel ze stanu, potichu následuje Indianku.</p>
+
+			<p>Velekrásná severní záře objevila se, osvěcujíc celou krajinu jako ve dne. David spatřil nedaleko stanů saně a psy. Přišed k nim, zpozoroval na saních svou pušku.</p>
+
+			<p>„Jest vše připraveno," šeptala Ataja, pohlížejíc úzkostlivě k chýším, „nyní však nastane nám nejtěžší úkol; ví můj bratr, že psi budou výti, když je budeme zapřáhati?"</p>
+
+			<p>„Rozumím," dí David.</p>
+
+			<p>„Musíme býti rychlí jako blesk, když rozrývá černé mraky," šeptalo děvče. „Zde jsou postraňky. Nechť je můj bratr podrží, ale má se na pozoru, by nebyl od psů pokousán. Já jdu pro ně."</p>
+
+			<p>Ataja se vzdálila, ale vrátila se brzy beze psů.</p>
+
+			<p>„Velký duch jest s námi," pravila; „můj bratr přitáhniž saně ke psům!"</p>
+
+			<p>David učinil, jak si Indianka přála. Psi leželi tak pěkně v řadách, jako by byli zapraženi, a český plavec mohl bez obtíží postraňky na ně přivázati.</p>
+
+			<p>„Vsedati!" šeptala Indianka.</p>
+
+			<p>David usedl na zadní čásť saní, Indianka do předu.</p>
+
+			<p>Ataja vzala do ruky oprati a bič. Nyní nastal důležitý okamžik, neboť zdar útěku závisel <pb n="43"/> pouze od toho, zdali psi ze spaní vyrušení hned poslechnou a do běhu se dají.</p>
+
+			<p>Indianka podívavši se na stany, práskla bičem do psů. Ti vyskočivše, hlasitě vyli.</p>
+
+			<p>„Hý! hý!" volala na ně Ataja, bičem hřmotně práskajíc, a hle! psi poslechli a dali se do běhu.</p>
+
+			<p>„Ku předu, ku předu!" pobízela Indianka.</p>
+
+			<p>Saně rychle ujížděly.</p>
+
+			<p>„Již přicházejí, slyšeli nás," pravil David, jenž byl chýše s očí nespustil.</p>
+
+			<p>„Nežli si připraví saně, budeme daleko, daleko," odvětila dívka, pohánějíc bičem psy.</p>
+
+			<p>Jízda šla rychle před se, šest psův uhánělo zběsile po hladké sněhové pláni a pouze cvičené oko Indiančino bylo s to, by řídilo spřežení i se saněmi v ona místa, kde nemohly se zvrhnouti.</p>
+
+			<p>Asi po půl hodině ohledl se David a spatřil, any dvoje saně s největší rychlostí za nimi kvapí. Byly již dosti blízko, takže poznal Magoka na předních saních.</p>
+
+			<p>„Musíme jeti ještě rychleji!" radil český plavec své průvodkyni.</p>
+
+			<p>„Nikoliv," odpověděla dívka, vrtíc hlavou, „ne vždy lze uniknouti rychlostí. Uženeme-li psy nebo zvrhneme-li saně, jest po nás veta."</p>
+
+			<p>Jako šipka letěly saně, avšak pronásledovatelé přece stále se blížili. Konečně slyšel <pb n="44"/> David i hlas Magokův, pobízející psy ještě ku většímu běhu, rozeznal i šlehy bičem a vzteklé vytí psů, které byl bič zasáhl.</p>
+
+			<p>Ataja nebyla pranic rozčilena. Klidně práskala bičem, klidně řídila rozježená, uhnaná zvířata. Konečně ohledši se nazpět, měřila okem vzdálenosť mezi sebou a pronásledovateli.</p>
+
+			<p>„Má bratr můj svou hromovou zbraň v pořádku?" otázala se pak lhostejně.</p>
+
+			<p>„Snad nechceš, bych Magoka zastřelil?" pravil na to David.</p>
+
+			<p>Ataja zakývala prudce hlavou.</p>
+
+			<p>„On zabil mého bratra." pravila zlostně. „Manitu dá pušce bratra mého dobrý směr."</p>
+
+			<p>„Nemohu ti býti po vůli," odpíral David.</p>
+
+			<p>„Což jest můj bledolící bratr zbabělcem?" zvolala Ataja uštěpačně.</p>
+
+			<p>„Přisámbůh, tím nejsem!" zvolal český plavec. „Nejsem však tak ukrutným, abych chladnokrevně zničil lidský život. Jsem-li napaden, je-li koule aneb ocel namířena na má prsa, tu skolím protivníka, avšak když mému životu nehrozí nebezpečí, tu nikoliv."</p>
+
+			<p>Dívka mlčela, jako by přemýšlela o slovech bílého muže, švihala však při tom čas od času do psů.</p>
+
+			<p>„Ukáže mi můj bratr, jak se s hromovou zbraní zachází?" prosila pak dívka.</p>
+
+			<p><pb n="45"/> „To nejde tak snadno, Atajo," pravil David, uhádnuv ihned úmysl IndianČin, „ty bys minula se cíle a uvedla bys nás do nebezpečí."</p>
+
+			<p>Ataja opět umlkla.</p>
+
+			<p>„Což do psů by bratr můj nestřelil?" chtěla věděti.</p>
+
+			<p>„Proč ne?" dí David.</p>
+
+			<p>Magok přiblížil se mezi tím as na pět set krokův a v desíti minutách mohl uprchlíky dohoniti.</p>
+
+			<p>„Zastav psy!" vybízel David Indianku.</p>
+
+			<p>Saně se zastavily a český plavec s nich seskočil.</p>
+
+			<p>Nyní nastal trapný okamžik. Český plavec zdvihl pušku a namířil ji na nejbližší spřežení psů. Nato z hlavně vyšlehl blesk a rána zahoukla.</p>
+
+			<p>Největší zmatek nastal teď mezi spřežením. Koule zabila jednoho psa a způsobila mezi druhými strašný nepořádek.</p>
+
+			<p>David vskočil ihned do saní, volaje na Ataju: „Ku předu, ku předu co nejrychleji!"</p>
+
+			<p>Indianka zapráskala bičem a saně jen letěly.</p>
+
+			<p>Rozednilo se.</p>
+
+			<p>David ohlédnuv se, spatřil, že Eskymáci stále ještě je pronásledují, ačkoli ve větší vzdálenosti. Saně, jež prvé byly vzadu, blížily <pb n="46"/> se s velikou rychlostí. Zdali také Magok jede, nemohl David rozeznati.</p>
+
+			<p>Jízda byla nyní stále obtížnější. Mnohdy sjely saně s největším nebezpečím šikmo po strmém svahu nebo přejížděly s největší rychlostí plochy polou zamrzlé, jež za nimi praskaly a prolamovaly se. Konečně dostaly se k propasti, jejíž svah byl tak příkrý, že Indianka zastavila, váhajíc se odvážiti k pokusu tak nebezpečnému.</p>
+
+			<p>David, jenž stále pohlížel nazpět, nebyl propasti posud zpozoroval. Když se saně zastavily, obrátil se.</p>
+
+			<p>Dívka ukázala na srázný svah, hledíc naň tázavým zrakem.</p>
+
+			<p>Uprchlíci nalézali se právě ve průsmyku, jehož bylo lze snadno uhájiti. Skalní výstupek poskytoval i vhodného úkrytu; hlavou Davidovou projela pojednou šťastná myšlénka.</p>
+
+			<p>„Což abychom se za tento výběžek ukryli," zvolal pojednou, „a nechali saně přejeti mimo sebe?"</p>
+
+			<p>S největší rychlostí vjela Ataja na chráněné místo a obrátila saně tak, by rychle mohla se dáti opačným směrem, když by saně nepřátelské okolo přejely. Eskymáci nemohli počínání uprchlíků zpozorovati, ježto skály jim v tom bránily. Za nedlouho přijížděly saně.</p>
+
+			<p><pb n="47"/> „Št, št!" ozývalo se to a saně nepřátelské minuly v rychlém letu úkrytu. Sníh vyletěl do výše a jako šíp zmizely saně v propasti, kteréž pronásledovatelé ve spěchu nebyli zpozorovali. Domýšleliť se, že cesta, po níž uprchlíci se ubírali, bude i pro ně bezpečnou.</p>
+
+			<p>Za chvíli přijeli i druhé saně, na nichž byl Magok, a podobným způsobem zmizely v propasti.</p>
+
+			<p>„A nyní opět ku předu!" zvolal David.</p>
+
+			<p>Ataja zapráskala bičem a saně uháněly starou cestou, kteráž byla prosta pronásledovatelů.</p>
+
+			<p>Co se s těmito dělo, o to uprchlíci se nestarali. Ataja objela propasť a dala saním předešlý směr, umírňujíc zároveň rychlosť, neboť nechtěla psy příliš unaviti.</p>
+
+			<p>Krajina měla tvářnosť stále divočejší. Všudy bylo viděti mohutné skupiny vrchů s lesklými ledovci. Ataja vyhledala však pokaždé s neobyčejnou obratností příhodnou cestu a zastavila konečně v prostranném říčním údolí, neboť psi byli unaveni.</p>
+
+			<p>„Bratr můj musí se nyní postarati o potravu," pravila, ukazujíc na pušku. „Ataja viděla stopy sobův a myslí, že se pasou u řeky na místech, kde sníh roztál."</p>
+
+			<p>Dopověděvši to, odvázala psy, kteří ihned na sněhu se natáhli, nato kynula svému soudruhu, by ji následoval.</p>
+
+			<p><pb n="48"/> Rychlým krokem spěchala ku předa, ohlížejíc se na vše strany a sledujíc stopu sobů.</p>
+
+			<p>„Tam jsou," pravila konečně, „tam na kraj jedlové houštiny."</p>
+
+			<p>David rozeznal tam několik tmavých, pomalu ku předu se pohybujících postav. Byli to sobi, kteří se pokojně pásli na trávě právě pučící, mníce se býti zcela bezpečnými.</p>
+
+			<p>Oba uprchlíci hleděli přiblížiti se sobům proti větru, což se jim podařilo. Ataja odběhla na protější stranu a nadehnala soby k místu, kde stál český plavec.</p>
+
+			<p>Jako blesk hnala se zvěř kolem něho. Tu zahoukla rána a nejpěknější kus z celého stáda sklesl k zemi.</p>
+
+			<p>Nyní byli zásobeni masem na několik dní. David jal se zvěř vyvrhovati, Ataja pak pospíšila k saním a dopravila je k zabitému sobu.</p>
+
+			<p>V brzku plápolal veselý oheň, hladoví psi dostali svůj podíl a konečně byla pečeně pro oba uprchlíky připravena.</p>
+
+			<p>„Musíme zde přenocovati," pravila Indianka, „psi jsou unaveni a budou zítra po dobrém odpočinku tím lépe běžeti."</p>
+
+			<p>Po těchto slovech počala stavěti sněhovou chýši. Ohraničila rovné, kulaté místo, a vykrajujíc pak nožem velké čtyřhranné kusy sněhu, kladla je obratně na sebe, až se nahoře v klenutí spojily.</p>
+
+			<p><pb n="49"/> Brzy byla chýše hotova, opatřena vchodem a upravena ku spaní.</p>
+
+			<p>Nyní počala Ataja se stavbou druhé chýše a než nastal večer, byla i s tímto obydlím hotova.</p>
+
+			<p>„Ona chýše jest pro mého přítele," pravila pak, „a tato je pro rudé děvče."</p>
+
+			<p>David uloživ se ve své chýši, divil se její vhodnosti. Příjemné teplo panovalo v prostoru úplně uzavřeném a působilo na něho tak, že brzy usnul.</p>
+
+			<p>Ještě však nebyl ani den, když jej hlas Atajin vzbudil.</p>
+
+			<p>„Jsou zde, Eskymáci jsou zde!" volalo děvče.</p>
+
+			<p>V okamžiku vylezl David z chýše.</p>
+
+			<p>„Kde jsem?" tázal se.</p>
+
+			<p>Ještě bylo tma mezi vrchy, ale zřetelně bylo slyšeti vzdálené práskání bičem.</p>
+
+			<p>„Jsou nám na stopě," pravila Ataja a zavolala na psy.</p>
+
+			<p>Tito byli rychle zapraženi, rovněž rychle hodil David čásť masa ze zabitého soba do saní, ostatní pak rozházel na radu Atajinu po sněhu, by psi pronásledovatelů, sháníce se po mase, uvedeni byli v nepořádek. Nato pustili se dále.</p>
+
+			<p>Psi se byli hojnou potravou a odpočinkem několik hodin trvajícím úplně zotavili a uháněli <pb n="50"/> rychle po zamrzlé půdě. David nabil však pušku svou broky, chtěje Eskymákům jednou pro vždy zahnati chuť k dalšímu pronásledování a učiniti jim je nemožným.</p>
+
+			<p>Eskymáci byli jízdu do propasti šťastně přestáli a vidouce, že byli přelstěni, jali se uprchlíky znovu pronásledovati.</p>
+
+			<p>Sotva že se uprchlíci dostali na konec údolí, objevili se na druhém konci Eskymáci, kteří uzřevše je, pobízeli psy své k největšímu běhu.</p>
+
+			<p>„Zadrž, Atajo!" zvolal David, „zde jest příhodné místo, bych požívače syrového masa od pronásledování odvrátil.</p>
+
+			<p>Saně ihned se zastavily.</p>
+
+			<p>David seskočil do sněhu, třímaje pušku pevně v ruce.</p>
+
+			<p>Eskymáci blížili se za divokého pokřiku a vypukli v jásot, vidouce pronásledované v takové blízkosti, jsouce toho mínění, že se jim přihodila nějaká nehoda. David zdvihal nyní pomalu pušku. Nepřátelé přiblížili se asi na dvě stě krokův a divokou postavu Magokovu bylo lze zřetelně poznati. Namířil na jeho spřežení a spustil.</p>
+
+			<p>Broky, rozstříknuvše se, zasáhly skoro všecky psy, kteří s hrozným štěkotem jeden na druhého se vrhli, zlostně se kousajíce.</p>
+
+			<p>Druhé saně, jež za prvními jely, přišly <pb n="51"/> též do zmatku. Když se z něho vybavily a za uprchlíky se hnaly, vystřelil David, jenž byl zatím nabil svou dvojku, i na ně a způsobil rovněž velikou spoustu mezi psy.</p>
+
+			<p>Nyní nabil David ještě jednou a vsednuv na saně zvolal: „Mají již dosti, jeďme!"</p>
+
+			<p>Ataja práskla bičem a psi uháněli se saněmi co nejrychleji. Brzy zmizeli s obzoru Eskymáci, kteří nebyli s to, by uprchlíky pronásledovali.</p>
+
+			<p><pb n="52"/></p>
+
+		</div>
+
+		<div>
+
+			<head>7. Smrť Indiančina.</head>
+
+			<p>Našim uprchlíkům bylo jeti několik dní, než se dostali přes Skalné hory. Ve dne neustále jeli, nikdež se nezastavujíce; v noci pak odpočívali ve sněhových boudách, jež Ataja pro každého zvláště byla vystavěla. Konečně zvolala Ataja: „Hle, tamto dole na rovině, která daleko široko se rozkládá, jsou sídla mých soukmenovců Athapasků čili Čipevejanův."</p>
+
+			<p>A v skutku daleko na východ rozkládala se do nedozírna nesmírná rovina, pokrytá množstvím jezer větších i menších, mezi sebou říčkami a potoky spojených, pak velikými černými hvozdy a rozsáhlými stepmi. Jezera a řeky leskly se ve sluneční záři, jsouce již prosty ledu, lesy a stepi se zelenaly; po sněhu nebylo na celé rozsáhlé rovině nikdež ani stopy.</p>
+
+			<p>Oddělena byla tato rovina od západní planiny, nad níž vysoko strměly Skalné hory, mohutnou řekou, kteráž tekla hlubokým úžlabím k severu.</p>
+
+			<p><pb n="53"/> K polednímu sešli s hor a nalezali se na jejich úpatí. Sněhu tu nebylo, a proto nemohli v jízdě na saních pokračovati. I schovali saně do křoví, odvázali psy a kráčeli do roviny. Psi radostně je obskakovali.</p>
+
+			<p>„Musíme psy odehnati," pravila Ataja, „sice nás prozradí."</p>
+
+			<p>„Co na tom," dí David, „vždyť jsme v zemi Čipevejanů, tvých soukmenovců."</p>
+
+			<p>„Národ Čipevejanů jest veliký, velmi veliký," pravila Indianka významně. —</p>
+
+			<p>„Náležíť k němu velmi mnoho kmenů," pokračovala po malé přestávce. ,Psí žebra' jsou také dětmi Čipevejanův, a přece jsou jejich úhlavními nepřátely. Jsme na jejich půdě a musíme se míti na pozoru."</p>
+
+			<p>V tomtéž okamžiku vyskočil za blízkým křovím sob, byv od psů vyplašen, a ubíhal k severu. Psi se pustili za ním. David uchopil pušku, by zvíře zastřelil, avšak Indianka rychle jej zadržela, řkouc: „Bratr můj nesmí stříleti. Přenechme honbu psům a tak se jich zbavíme."</p>
+
+			<p>Po těchto slovech pustila se Indianka k jihu a běžela tak rychle, že jí David sotva stačil. Teprve za několik hodin rychlé chůze zmírnila kroky a obrátila se k svému soudruhu.</p>
+
+			<p>„Psové jedlíků syrového masa vrátí se ke svým špinavým pánům," pravila, „a my budeme za pět dní u vigvamů mého kmene."</p>
+
+			<p><pb n="54"/> K večeru přišli k veliké řece, kteráž tekla podél úpatí Skalných hor směrem severním. Byla to mohutná řeka Mackenzie. Borové lesy, smíšené s nízkým, listnatým stromovím, vroubily její břehy.</p>
+
+			<p>Tady nebylo lze pomysliti na stavbu sněhových chýší. I vyhledali si v houštině příhodné lože. Oheň rozdělati bránila Ataja, obávajíc se prozrazení.</p>
+
+			<p>Když český plavec ráno vstal, spatřil, ana Indianka jest již zaměstnána. Vázala vrbovými pruty suché rákosí ve snopy. K otázce společníkově, co tím zamýšlí, odpověděla, že snopy ony spojí ve vor, po němž se dostanou na druhý břeh. David jí statně pomáhal, tak že za hodinu měli vor, jenž mohl oba unésti. Širokou větev upravil na veslo a jinou větev vidličnatou na kormidlo.</p>
+
+			<p>Vor osvědčil se výborně. David sedě vzadu, řídil jej kormidlem, Ataja pak veslem pomáhala k rychlejší plavbě. Asi za hodinu octli se u levého břehu. Avšak nevystoupili na břeh, nýbrž podél něho vepluli neširokým potokem do jezera, které k východu se prostíralo. Pluli těsně při břehu stále k východu, jsouce kryti stromovím, které břehy jezera vroubilo. V jezeře bylo veliké množství ryb a David své průvodkyni několikráte dal na srozuměnou, že by rád lovil. Avšak ona pokaždé <pb n="55"/> zavrtěla hlavou a prohlížejíc bedlivě křoví u břehu, upozorňovala ho, že jsou v zemi nepřátelské.</p>
+
+			<p>Teprve k polednímu zaveslovali do chobotu, jenž, zastíněn jsa obrovskými jedlemi, hluboko do země se táhl a nesčíslným množstvím kachen a jiných ptáků byl oživen.</p>
+
+			<p>Když však David sahal po pušce, bránila mu Ataja, řkouc: „Psí žebra jsou na blízku. Před hodinou viděla jsem kouř z ohně jejich vystupovati."</p>
+
+			<p>Když si byli uprchlíci na břehu odpočinuli a z kořínků, jež Ataja obratně ze země vyhrabala, skrovný oběd upravili, pokračovali v plavbě. Nyní řídila Indianka vor a David vesloval, sednuv si do prostředka. Český plavec mohl v tomto postavení chování své průvodkyně dobře pozorovati.</p>
+
+			<p>Bronzový její obličej měl výraz vnitřního nepokoje, tmavé krásné oko pohlíželo nepokojně na všechny strany a David nemohl si tento nepokoj nikterak vysvětliti, neboť tichá krajina zdála se býti zcela opuštěnou.</p>
+
+			<p>V několika minutách vyjel vor z chobotu a pohyboval se prvním směrem.</p>
+
+			<p>Stále ještě pohlížela Indianka do dálky, stále zdála se býti trápena vnitřní jakous bázní.</p>
+
+			<p>Konečně vjel vor do říčky, která toto jezero s jiným spojovala.</p>
+
+			<p><pb n="56"/> Tu najednou ozval se koktavý hlas z pravého břehu: „St-st-stát! Kam-kam-kam pak? Od-od-od-kud?"</p>
+
+			<p>David pohleděv na dívku, spatřil, ana se chvěje, div že kormidlo neupustí. Obrátiv se k místu, odkud hlas zazníval, spatřil ohyzdného Indiana vysoké postavy, jenž stál na břehu, podpíraje se na ohromný luk.</p>
+
+			<p>„Neboj se," zvolal David na třesoucí se Indianku, „s tímto kolohnátem budu brzy hotov."</p>
+
+			<p>To řka, položil vesla a chopil se pušky.</p>
+
+			<p>Avšak Ataja zavrtěla hlavou a rukou zachytila jeho pušku, tak že český plavec žasna, odložil zbraň a tázavě pohlížel na dívku.</p>
+
+			<p>„Můj bratr chopiž se vesla," zašeptala, „neboť pouze tím můžeme se zachrániti. Hleďme se dostati zase do jezera."</p>
+
+			<p>David uposlechl a vesloval ze všech sil.</p>
+
+			<p>„Krá-krásná kvě-květina Či-čipe-vej-vejanů ne-nepohrdejž slo-slovem Vlk-vlka kr-krvavého?" koktal Indian zlostně.</p>
+
+			<p>Ataja učinila posměšně záporný posuněk a vor uháněl okolo rudého bojovníka. Tento rychle namířil lukem, šíp zafičel vzduchem a indianská dívka pustivši kormidlo, klesla na vor.</p>
+
+			<p>David sáhl nyní po pušce a střelil. V tomtéž okamžiku zmizela postava koktavého Indiana v hustém křoví, avšak koule bezpochyby dosáhla <pb n="57"/> přece cíle svého, neboť ve křoví ozvalo se krátké bolestné vzkřiknutí.</p>
+
+			<p>David jal se nyní družce své pomáhati, vytáhl jí šíp z rány a snažil se, aby zastavil krev, což se mu však dlouho nepodařilo, poraněná vykrvácela mu takřka v rukou. Konečně však přece krev se zastavila.</p>
+
+			<p>Ataja chopila se opět vesla a plavba počala znovu. Silný proud unášel vor a brzy dosáhli druhého jezera. Nežli však do něho vepluli, vyskytla se nová překážka.</p>
+
+			<p>Asi deset Indianů objevilo se u břehu. Ti volali na ně vesměs koktajíce, by přistáli. Když však uprchlíci tím horlivěji veslovali, lítaly k nim šíp za šípem, ale na štěstí jim neuškodily.</p>
+
+			<p>„Tomu musíme učiniti konec," mumlal David rozhořčen a v okamžiku uchopiv svou pušku, vehnal nejdrzejšímu z Indianů kouli do těla. Rudoch ztrativ rovnováhu, spadl do vody.</p>
+
+			<p>Psí žebra byli nemálo poděšeni. Utekše do křoví, stříleli v uctivé vzdálenosti z luků za uprchlíky, aniž koho poranili.</p>
+
+			<p>Český plavec a Indianka dostali se do jezera. Zajeli do prostřed něho, kde bylo několik ostrovů, jichž po dvouhodinné namáhavé plavbě šťastně dosáhli.</p>
+
+			<p>Ataja byla na smrt unavena a nemohla <pb n="58"/> vstáti. David vzav ji do náručí, vynesl ji na ostrov.</p>
+
+			<p>Položiv poraněnou na mechové lože, jal se ohledávati ránu.</p>
+
+			<p>Rána byla nebezpečnější, než se byl z prvu domýšlel. Namáhavé veslování ještě jí dodalo.</p>
+
+			<p>„Se mnou to jde již ku konci," vzdychla Indianka, jež byla ohledání Davidovo se smutným úsměvem sledovala. „Můj bratr jest dobrý, velmi dobrý, a Ataju těší, že jeho život jest zachráněn. Tam na východě bydlí přátelé a příbuzní Atajini i budou bratru mému vše dobré prokazovati. Orlí oko jest velký bojovník a má dobré srdce."</p>
+
+			<p>„Kdo jest Orlí oko?" tázal se David.</p>
+
+			<p>„Můj bratr," dí Indianka. „On miluje svou sestru a obejme jejího ochranitele, když uslyší, že vysvobodil Ataju z rukou Eskymáků."</p>
+
+			<p>„Proč ulekla jsi se tak, když uzřela jsi koktavého Indiana?" tázal se David po malé přestávce.</p>
+
+			<p>„Krvavý vlk jest úhlavním nepřítelem mého bratra," pravila Ataja. „On spojil se dokonce s Eskymáky a hlavně s Magokem, aby nám škodil. Před několika měsíci poslal poselství do naší osady, žádaje mne od bratra mého za svou ženu, a když Orlí oko Psí žebra zahnal domů, přísahal Krvavý vlk, že se pomstí. Jednoho dne mne unesl, a když jsem nechtěla <pb n="59"/> se státi jeho ženou, odevzdal mne Magokovi, jenž mne vezl na daleký sever. Na cestě jsem setkala se se svým bílým bratrem. Avšak veliký duch mi nedopřál, abych se dostala do svého domova."</p>
+
+			<p>Indianka umlkla, nemohouc mdlobou dále mluviti. Český plavec dával jí na ránu chladivé obkladky, chtěje jí bolesť ulehčiti.</p>
+
+			<p>Konečně otevřela Ataja oči a zašeptala: „Nechtěl by můj bílý bratr mi něco slíbiti?"</p>
+
+			<p>Český plavec přisvědčil.</p>
+
+			<p>„Umru," šeptala raněná. „Tam na východních březích jezera leží vesnice mého bratra. Proud jistě zanese vor v ta místa. Chce můj bílý bratr odevzdati mou mrtvolu Orlímu oku?"</p>
+
+			<p>Český plavec uchopiv se dívčiny ruky, stiskl ji a přislíbil, že vykoná, čeho si žádá.</p>
+
+			<p>Ataja radostně usmívala se.</p>
+
+			<p>„Jdu nyní na nivy velikého ducha," šeptala dívka umírajíc, „tam odtud budu hleděti na svého bratra a za něho prositi."</p>
+
+			<p>Hlas jí selhal, prsa ještě několikráte se pohnula, načež duše její tělo opustila.</p>
+
+			<p><pb n="60"/></p>
+
+		</div>
+
+		<div>
+
+			<head>8. Návrat.</head>
+
+			<p>Druhého dne pustil se český plavec dále po jezeře. Zdlouha plul vor po tiché, rovné hladině. Mrtvola Indiančina byla položena uprostřed a rákosím přikryta. Těžko mu bylo u srdce, když si vzpomněl, jak toužila indianská dívka po domově, a přece touha její nebyla vyplněna. Vrátí se on šťastně do Čech a do matičky Prahy? Ataja aspoň bude pochována ve svém rodišti, bude také jemu toho popřáno?</p>
+
+			<p>Jsa pohřížen v myšlenkách, ani nepozoroval, že již byl u břehu. Vor narazil, a tím upozornil Davida, že již je u cíle své cesty.</p>
+
+			<p>Na břehu jezera rozkládal se prales. Záležel ze stromův smrkových a topolových, dosahujících v objemu až i 3 metry.</p>
+
+			<p>David uvázav vor, vystoupil na břeh a vyhledal tady místo, kde by mrtvolu položil. Na to šel zpět, zdvihl mrtvé tělo Indiančino a nesl je na břeh.</p>
+
+			<p><pb n="61"/> „Ataja, květina jezerní, mrtva!" zvolal za jeho zády mladý Indian, jenž se tu náhle byl objevil. „Neusmrtila ji snad bledá tvář?"</p>
+
+			<p>A Indian chopiv se tomahavku, napřahl jej proti českému plavci, volaje v lámané angličině: „Kdo usmrtil chloubu našeho kmene?"</p>
+
+			<p>„Krvavý vlk," odpověděl David, ukazuje na ránu způsobenou šípem.</p>
+
+			<p>„Krvavý vlk neujde pomstě Čipevejanů!" zvolal Indian, načež pomohl českému lovci složiti mrtvolu dívčinu.</p>
+
+			<p>„Kde se setkal můj bílý bratr s Květinou jezerní a proč ji zavraždil Krvavý vlk?" vyzvídal Čipevejan.</p>
+
+			<p>Několika slovy pověděl David, kterak náčelník Čiglitů Magok odvážel Ataju do severních krajin, kterak s ním prchla a byla pronásledována, kterak Krvavý vlk úkladně ji zastřelil, když jeli podél břehu. Indian projevil nad tím vypravováním své spokojení. Požádal pak českého plavce, by tady očekával jeho návratu, načež rychlými kroky odkvapil.</p>
+
+			<p>Asi za půl hodiny přišla ke břehu tlupa Indianů, majíc v čele statného jinocha ozdobeného odznaky indianského náčelníka, kterýž přistoupiv k mrtvole, upřeně na ni zíral. Mocně dmula se mu prsa, však ani slovem, ba ani vzdychnutím neprojevil bolesti své, které nad <pb n="62"/> zavražděním Květiny jezerní, chlouby celého kmene, byl pociťoval.</p>
+
+			<p>Po několika minutách zavolal jmenem několik Indianův a poručil jim: „Udělejte nosítka!" K ostatním pak pravil: „Ataja musí býti pomstěna!" Tam na oné straně jezera dlí její vrah. Než bude má sestra pochována, přineste skalpy Krvavého vlka a koktavých Psích žeber, aby zdobily hrob její. Orlí oko tak chce!"</p>
+
+			<p>Indiani ihned učinili, co jim bylo poručeno. Jedni nasekali větví, aby z nich zrobili nosítka, druzí se dali na pochod podél jezera.</p>
+
+			<p>Nyní obrátil se náčelník k českému plavci, řka: „Bělolící muž je šlechetný bojovník. Vumamoh mi všecko pověděl. Budiž proto vítán v mém vigvamu!"</p>
+
+			<p>David opakoval náčelníku ještě jednou, kterak se s Indiankou setkal, ji na útěku provázel, a když byla šípem raněna, ji ošetřoval.</p>
+
+			<p>Indiani zhotovivše nositka , položili na ně mrtvolu, načež celý průvod ubíral se do vesnice, jíž dostihli asi za hodinu. Ženy daly se do hlasitého nářku, dávajíce na jevo svou bolesť nad smrtí sestry náčelníkovy.</p>
+
+			<p>Na druhý den konal se pohřeb Květiny jezerní. Mrtvola byla krásně ozdobena a za nářku žen odnesena na osamělý kopec a tam na vysoké lešení položena. Okolo ní byly rozvěšeny skalpy nepřátel, jež byli bojovníci přinesli.</p>
+
+			<p><pb n="63"/> David zdržel se několik neděl u svých nových přátel, chodě s nimi na lov. Vážili si ho velmi, vidouce, že svou hromovou troubou zabije více zvěře než tři Indiani dohromady. Konečně ale oznámil náčelníkovi, že musí odebrati se k svým rodičům. Indian nabídl se, že ho doprovodí.</p>
+
+			<p>Zásobivše se potravou, ubírali se k nejbližší stanici obchodní. Cesta byla velmi obtížná, avšak šťastně tam dorazili. Náčelník Orlí oko vrátil se zpět ke svým soukmenovcům, český plavec ale odebral se s výpravou obchodní do nejbližšího přístavu v zálivu Hudsonském a odtud na lodi společnosti do Hamburku. V týž den vrátila se do Hamburku velrybářská loď „Albatros". Soudruhové jeho, mezi nimiž kapitán a kormidelník Horms, velmi se divili, když spatřili českého plavce Davida, jehož měli dávno za mrtvého. Kapitán vyplatil mu ochotně podíl, jenž mu z veškerého výtěžku náležel, a vybízel ho, by opět na lodi službu přijal. David poděkoval se kapitánovi, uváděje za důvod, že musí rodiče navštíviti, kteří zajisté jsou o něho u velikých starostech.</p>
+
+			<p>Rozloučiv se s bývalými soudruhy, odejel do Prahy. Jeho rodiče i všickni známí velmi se zaradovali, vidouce ho živa a zdráva, a divili se dobrodružstvím, jež byl na moři a na zemi zažil.</p>
+
+			<p><pb n="64"/> <hi rend="formated">Obsah. Úvod 3, Lov na velrybu 8, Na pustém ostrově 14, Nová země 24, V zajetí Eskymáků 32, Na útěku 40, Smrť Indiančina 52, Návrat 60</hi></p>
+
+		</div>
+	</body>
+</text>
+</TEI>
