@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0018" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Pravý přítel</title>
+			<title xml:lang="en">The true friend</title>
+			<author>Švestka, Josef (1816-1882)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">10665</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=24911"></ref>
+				<publisher>National Library of the Czech Republic</publisher>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Pravý přítel. Povídka ze života pro ušlechtění srdce mládeže. Pochlebník. Krátká povídka k poučení a k výstraze mládeže. Nezištné přátelství. Vyprávěnka hodna následování.</title>
+						<publisher>Jos. Mikuláš</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1881</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="M"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T3"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<front>
+		<div type="liminal">
+
+			<pb n="1"/>
+
+			<p><hi rend="formated">Pravý přítel. Povídka ze života. Bedřich úplně si získal přízeň pánovu i celé rodiny. (Str. 40.)</hi></p>
+
+			<pb n="2"/>
+
+			<pb n="3"/>
+
+		</div>
+
+		<div type="titlePage">
+
+			<pb n="4"/>
+
+			<p>Pravý přítel.</p>
+
+			<p>Povídka ze života pro ušlechtění srdce mládeže.</p>
+
+		</div>
+
+			<pb n="5"/>
+
+	</front>
+	<body>
+		<div>
+
+			<pb n="6"/>
+
+			<p>Otec Bedřichův měl z jich přátelství srdečnou radosť. „Mám za to," pravil jednou k Bedřichovi, „že otec Gustavův na syna svého něco vynaloží a dá jej na studie; i já zamýšlím s tebou totéž učiniti. Jdeš nyní do čtrnáctého roku věku svého, nebude ti na škodu, když aspoň oba ročníky čtvrté třídy s prospěchem odbudeš. Učiní-li totéž, jak se domnívám, otec Gustavův, budete míti jeden v druhém upřímného přítele v cizině."</p>
+
+			<p>Bedřich, jenž vždy velikou chuť k učení jevil, byl z řeči otcovy velice potěšen.</p>
+
+			<p>„Nechci z tebe míti pána," pokračoval otec, „ale budeš-li míti chuť, budeš moci pak dále studovati, ne-li, nebudu tě nutiti; vždyť ani maloměšťáku to neškodí, když má trochu té vzdělanosti.“</p>
+
+			<p>Bedřich sliboval otci, že se všemožně přičiní, aby mu dělal radosť.</p>
+
+			<p>Musíme podotknouti, že dva ročníky tehdejší čtvrté třídy rovnaly se nynější nižší realní škole, ano v některém ohledu ji i převyšovaly, a že žáci z druhého ročníku s dobrým prospěchem vyšlí přestoupiti mohli buď do realky, podobající <pb n="7"/> se nynější vyšší realce, buď ihned do techniky, pakli při zkoušce přijímací dobře obstáli. Ovšem, že tehdejšího času byly školy ty pouze německé; leč obě zde jmenované rodiny žily v krajině německé.</p>
+
+			<p>S radostí spěchal Bedřich k příteli svému, aby sdělil mu slova otcova a jeho úmysl.</p>
+
+			<p>Gustavův otec sice ještě nikdy o budoucnosti synově nemluvil, avšak tento umínil si, že neustane otce, až se ze svých cest, jež za obchodem podnikal, vrátí, snažně prositi, aby jej též dal na studie. Oba přátelé představovali si budoucnosť svou v barvách nejrůžovějších.</p>
+
+			<p>„Budeme spolu bydleti, spolu pracovati, spolu se učiti, jeden druhému pomáhati – i toť bude rozkošné živobytí!" volal jeden přes druhého, objímajíce se a skákajíce radostí. – Žádný z nich nepomyslil, jak okolnosti člověka často změní a jak vrtkavá bývá mysl jeho!</p>
+
+		</div>
+
+		<div>
+
+			<head>Veliká změna.</head>
+
+			<p>Za několik dní po této rozmluvě přijel do městečka panský vůz s premovaným kočím a lokajem. Lidé vybíhali <pb n="8"/> z domů; každý byl zvědav, kdo asi to přijíždí, neboť podobného vozu nebylo dosud viděti v městečku.</p>
+
+			<p>Že však ve voze nikdo neseděl, vrtalo to divákům hlavami. Tu, hle! zastaví vůz před domem konířovým.</p>
+
+			<p>Lokaj, seskočiv se svého sedadla a vyndav z vozu veliký balík, spěchá do domu, kde zároveň s balíkem odevzdá matce Gustavově dva zapečetěné listy, z nichž jeden náležel jí, druhý Gustavovi.</p>
+
+			<p>Matka otevřevši list vykřikla radostným překvapením a chvějící se rukou podala druhý list synovi. I na jeho tváři objevil se blaženosti úsměv.</p>
+
+			<p>„Matko!" zvolal, „jsem baronem a ty baronkou!"</p>
+
+			<p>„Ano, milý synu," odvětila matka; „otec tvůj pro veliké zásluhy povýšen jest na barona; jsme šlechtici, a co takoví musíme nyní též žíti! Ještě dnes odjedeme do hlavního města, kde otec tvůj, jak mi píše, veliký palác koupil a vše k našemu důstojnému přijetí již připravil. A abychom stavu svému přiměřeně do hlavního města zavítali, posílá nám tuto i vhodný oděv."</p>
+
+			<p>Lokaj byl zatím balík rozvázal a jal se mladého pána oblékati. Byl to oděv <pb n="9"/> vskutku nádherný, ale nádhernější ještě byl onen matčin.</p>
+
+			<p>Gustav vyhlížel nyní jako vysoustruhovaný panáček. Nemohl se do zrcadla ani dosti nadívati a pochlebník lokaj neustával ho vychvalovati.</p>
+
+			<p>Co se matka ve vedlejší světnici obléká, přečteme si, co otec synovi psal:</p>
+
+			<p>Milý Gustave!</p>
+
+			<p>Jako Tobě, tak i matce Tvé dávám radostnou zprávu, že pro zásluhy, jichž dobyl jsem si svědomitým dodáváním koní pro c. k. vojsko, povýšen jsem i celý můj rod, tedy i Ty, do stavu šlechtického. Jsi baronem! Nezblázni se z toho, ale chovej se ihned stavu svému přiměřeně. Posílám Ti oděv, jaký na Tvůj nynější stav se sluší, zároveň i sáček dukátů, abys, co šlechtic, vlastním jměním vládnouti mohl. Budeš ho v hlavním městě potřebovati, kamž se s matkou ihned vydáš.</p>
+
+			<p>Matku jmenuj nyní: „mama", mně budeš říkati: „papa". Tak jmenovati rodiče jest u šlechty obyčejem.</p>
+
+			<p>Představuji si v duchu Tvou i matčinu radosť, že z toho dosavadního hnízda <pb n="10"/> se dostanete. Musíš se však přičiniti, abys mravy a obyčeje šlechtické brzy si osvojil. K tomu účelu vezmu Ti dovedného „informátora". Tak jen dělejte, abyste tu brzy byli. K uvítání Vašemu jest vše připraveno. Očekává Tě toužebně Tvůj papa.</p>
+
+			<p>Takto nebyl by žádný rozumný otec psal, tím méně hochovi, jenž z dětských střevíčků sotva byl se vyzul. Avšak dočkáme se následků sprosté hrdosti a nerozumného vychování. –</p>
+
+			<p>Mezi diváky, jež vylákalo na ulici objevení se nádherného vozu, byl také Bedřich. Spatřiv vůz zastaviti se u domu konířova, spěchal oznámiti to otci. Tento vrtě hlavou přemýšlel, co asi může býti toho příčinou.</p>
+
+			<p>„Bez pochyby jedná se tu o koupi koní," pravil po chvíli, „avšak soused není právě doma, čímž může přijíti o hezký výdělek."</p>
+
+			<p>Bedřich byl jako na trní. Konečně odhodlal se k návštěvě Gustava.</p>
+
+			<p>Bohužel! neshledal ho více takovým, jakým byl až dosud. V bohatém oděvu hrdě si vykračuje, sotva že na Bedřicha pohlednul.</p>
+
+			<pb n="11"/>
+
+			<p>„Jsem baronem!" pravil, vstrčiv ruce do kapes, „a ještě dnes já a „mama" odjedeme do hlavního města." Bedřich byl jako u vidění; stál tu celý zaražený.</p>
+
+			<p>„Není možno," myslil si, „aby Gustav, můj přítel, tak náhle se změnil; zajisté že tropí si se mnou jen žertík." A popošed, chtěl jej vzíti za ruku, aby mu řekl, jak pěkně mu to sluší. Než nastojte! Gustav utrhl ruku a prohodil: „Pravil jsem, že jsem baronem, a od dneška jen s rovnými sobě obcovati mohu." Bedřicha bodlo u srdce. Ani nepromluviv, chtěl odejíti. V tom vyšla Gustavova matka z vedlejší světnice. Byla v nádherný hedvábný šat oděna.</p>
+
+			<p>„Jsi připraven, milý Gustave?" tázala se.</p>
+
+			<p>„Jsem, mama!" odvětil tázaný.</p>
+
+			<p>„Tedy pojedeme. Dům se zatím zavře; později se beztoho prodá.– Šel oznámiti kočímu," poroučela lokajovi, aby byl připraven.</p>
+
+			<p>„Vše jest připraveno, milostivá paní baronko!" odvětil lokaj.</p>
+
+			<p>„Tedy pojďme!" pravila a vzavši Gustava pod páží šla s ním k vozu, poručivši lokajovi, aby dům zavřel a klíč panu baronovi odevzdal.</p>
+
+			<p>Vsedli do vozu.</p>
+
+			<pb n="12"/>
+
+			<p>Bedřich přiblíživ se k nim, dával Gustavovi „s Bohem!" Ale tento sotva že hlavou kývnul. Vůz se hnul a bujní koně jakoby letmo proběhli malé městečko.</p>
+
+			<p>Bedřich, rozplakav se nad nešetrným k němu se chováním toho, jejž tak upřímně miloval, ubíral se smutně domů.</p>
+
+		</div>
+
+		<div>
+
+			<head>Původ bohatství.</head>
+
+			<p>„Otec Tvůj pro veliké zásluhy povýšen byl za barona." Tak praviti slyšeli jsme matku Gustavovu. Leč lidé povídali si něco jiného o tom.</p>
+
+			<p>Otec Gustavův stal se ve válce, již tenkráte vedly tři mocnosti: Rakousko, Rusko a Prusko s Napoleonem 1. , dodavatelem koní k vojsku císařskému. Že tím hezkého jmění nabyl, kdožby pochyboval? Vždyť koně, jež, jak prostý lid říká, „za babku“ kupoval, dodával k vojsku za ceny dosti vysoké. A sedláci rádi koně prodávali; byliť takto aspoň zbaveni obavy, že jim vzati budou; neboť ať přítel, ať nepřítel, oba brali napořád, kde nějakéko koně jen spatřili. Sedlákům dostalo se ovšem písemného potvrzení, že jim koně ti svým časem zaplaceni budou, avšak skutek – utek'! <pb n="13"/> Nikdy nedostalo se jim nějaké náhrady za ně. A když se po válce u úřadu hlásili, potvrzením se prokazujíce, pokrčilo se tu ramenoma a říkadlem: „válka má svá práva" byli odbyti.</p>
+
+			<p>Než vraťme se zase ke koníři.</p>
+
+			<p>Zaměstnáním svým, jak již praveno, získal značného jmění, avšak nikoliv takového, aby za ně byl mohl koupiti veliký palác v hlavním městě a panství, sestávající z desíti vesnic a pěti dvorů, jak bylo skutečně se stalo. Také baronství nedostalo se mu pro zásluhy, nýbrž za peníze – za drahé peníze. A co že povídali si, ba tvrdili lidé o něm na základě, prý, zpráv spolehlivých?</p>
+
+			<p>Zdržuje se jedenkráte v pohraničním jednom městě, byl svědkem útěku houfce vojska francouzského před vojskem mocností spojených. Utíkající vojsko vezlo pokladnu válečnou. Vjelo do blízkého lesa. Chvat, jaký zdálo se na útěku míti, vylákal koníře za město. Když bylo vojsko v lese, plížil se opatrně za ním a pozoroval z jisté vzdálenosti, sám jsa nepozorován, co díti se bude. A co se dělo? Musilo to býti něco zvláštního; neboť zůstal jako omámen státi a sotva že troufal si dýchati.</p>
+
+			<pb n="14"/>
+
+			<p>A co jej tak zarazilo?</p>
+
+			<p>Vojáci, sundavše s vozu dva soudky a jednu bednu, odnášeli vše mezi skaliska v lese tom se nacházející a uschovali to v otvoru malé jeskyňce se podobajícím, načež zatarasili otvor omšenými kameny a, poznamenavše si místo úkrytu jistým znamením, uháněli dále. Celé jich zde pobytí trvalo sotva čtvrť hodiny.</p>
+
+			<p>Když byli místa toho již hodně vzdáleni, plížil se koníř velmi opatrně k němu.</p>
+
+			<p>Vypátral je brzy. Domníval se, co asi jest tam ukryto; neboť znal povozy podobné onomu. I pojal nešlechetnou myšlénku, že pokladu toho se zmocní. Druhého dne vyjel z města, vzav s sebou dva silné muže, jimž namluvil, že uschoval si před nepřítelem veškeré své jmění, jež nyní odvézti si hodlá; s jich pomocí naložil poklad ten na svůj vůz a zaplativ jim za jich pomoc, odjel.</p>
+
+			<p>Takovým spůsobem nabyl velikého bohatství; neboť soudky naplněny byly dukáty, bedna penězi jinými.</p>
+
+			<p>Zatím přálo válečné štěstí opět vojsku francouzskému, jehož jedno oddělení vracelo se k lesu, v němž bylo poklad svůj ukrylo.</p>
+
+			<pb n="15"/>
+
+			<p>Můžeme si překvapení, ba ustrnutí vůdce jeho představiti, když nalezl úkryt otevřený a prázdný! Nemyslil jinak, než že obyvatelé města zmocnili se ho. Vrazil s vojskem svým pln zuřivosti do města, jemuž hroznou váleční daň uložil, vytýkaje občanům zradu a loupež. Občané dokazovali s pláčem a nářkem svou nevinnosť, též oni dva muži, jež koníř ku pomoci byl najal, vypověděli vše, jak se bylo stalo, ano byli hotovi výpověď svou i přísahou potvrditi; avšak vůdce nedal se nijak ani přesvědčiti, ani obměkčiti, ano, hrozil, že, pakli určená suma do třetího dne nebude pohromadě, město v prach a popel obrátí. –</p>
+
+			<p>Ustrašení občané snášeli na obecní úřad, co mohli. Nestačilo to. I sestavil vůdce vojska komisi, jež od domu k domu chodila, vše prohledala a co jen nějakou cenu mělo a snadno odvleci se dalo, občanům pobrala, načež vojsko, ožebračivši město, odtáhlo. –</p>
+
+			<p>Pověsť tato donesla se i do rodného města konířova po jeho povýšení za barona, a tak mluvilo se o něm opatrně sice, ale všeobecně.–</p>
+
+			<pb n="16"/>
+
+		</div>
+
+		<div>
+
+			<head>Studie.</head>
+
+			<p>Nechme zatím Gustava jeti do hlavního města a vraťme se k Bedřichovi.</p>
+
+			<p>Ten, jak nám již známo, rmoutil se velice nad zhrdnutím přítele, jejž dosud upřímně miloval. Rmoutil se tím více, an mu tento na dopis, jímž mu blahopřál, ani neodepsal.</p>
+
+			<p>Kudy chodil, tudy zpomínal na nevěrného přítele, ale zpomínal zároveň na příjemné ty doby, jichž druhdy v jeho společnosti byl zažil. Mnohokráte vracel se domů s uslzenýma očima. Otec mu častěji vlídně domlouval, těše jej, že Gustav, až nabaží se velkoměstského života, zajisté na jeho přátelství se upomene.</p>
+
+			<p>Tím jej poněkud ukonejšil. – –</p>
+
+			<p>Prázdniny studentské schylovaly se ku konci. „No, jak?" oslovil jednoho dne otec Bedřicha; „máš dosud chuť k studování? Pakli ano, byl by čas, abychom asi za dva neb tři dni jeli do L., bych ti byt a stravu v nějaké slušné rodině opatřil a dal tě do školy zapsati."</p>
+
+			<p>„Nebude-li vám za těžko, milý otče," odvětil Bedřich, „tož prosil bych vás <pb n="17"/> snažně za to. K učení mám velikou chuť, i přičiním se, abych vám jen radosť působil."</p>
+
+			<p>Otec byl tomu povděčen. „Aspoň zapomene trochu na toho novopečeného pana barona," myslil si.</p>
+
+			<p>Po dvou dnech vezl otec Bedřicha do L. Umístiv v jednom hostinci koně, šel s ním ihned k řediteli tamních škol. Tento zkusiv hocha, přesvědčil se o úplné jeho schopnosti pro 4. třídu, i pochválil otce, že dopřává synovi lepšího vzdělání, tohoto pak, že touží po vzdělání tom.</p>
+
+			<p>Když byl ředitel určil den ku přijímací zkoušce, pravil otec, že dostal by rád hocha do spořádané rodiny, a prosil ředitele, zdali nemohl by mu nějakou takovou odporučiti.</p>
+
+			<p>„Vidíte," pravil ředitel, „z toho poznávám, že jste otec rozumný a obezřetný. Jak mnoho jest rodičů, jižto nehledí k tomu, do jakých rukou dítě své odevzdávají, jen když jest to hodně lacino.</p>
+
+			<p>Bývají to obyčejně rodiny méně vzdělané, hledající výživu a zisk v tom, že naberou si více studujících, a aby jich neztratili, nechávají jim plnou vůli a svobodu, což ovšem nerozumným mladíkům <pb n="18"/> se líbí, ale jen k jich škodě, ano často i k záhubě jest. Těší mne, že máte ke mně důvěru a že obrátil jste se ve věci tak důležité ke mně. Znám rodinu vzdělanou, mívá vždy jednoho, nejvíce dva studující z lepších rodin v bytě i ve stravě; napomíná i pobádá je k učení a vede je k slušným mravům jako vlastní děti, tak že vždy nad mnohé jiné vynikají. Jest to rodina úřadnická, jejíž dva synové – více dítek nemá – studují v Praze."</p>
+
+			<p>Napsav jméno rodiny, název ulice i číslo domu na svou navštívenku, dal ji otci Bedřichovu a přál mu, aby se mu podařilo hocha svého do rodiny té dostati.</p>
+
+			<p>Otec srdečně poděkovav, šel rodinu tu vyhledat. Podařilo se mu, co mu ředitel byl přál. –</p>
+
+			<p>Když bylo vše potřebné vyjednáno, prosil otec, aby páni stravovatelé byli synu jeho upřímnými rádci – druhými rodiči; Bedřicha pak otcovsky napomínal, aby byl jich ve všem poslušen jako jeho samého. –</p>
+
+			<p>Na Bedřicha učinila jejich vlídnost velmi dobrý dojem, tak že když otec odjel, cítil se u nich býti jako doma. –</p>
+
+			<pb n="19"/>
+
+			<p>Při přijímací zkoušce výborně obstál. Že i dále při své snaživosti, lásce a chuti k učení chvalně prospíval, netřeba ani dokazovati. Po oba roky přinášel otci výborná vysvědčení, čímž mu mnoho radosti působil a život oslazoval. A zdaliž mohou dítky rodičům svým lépe vděčnými se prokázati, než pilností, mravným a slušným se chováním? Nejen otec, ale i učitelé i stravovatelé jeho měli Bedřicha velice rádi. Učitelé stavěli jej za vzor jeho spolužákům a stravovatelé jeho milovali jej jako vlastní dítě; vždyť při odchodu jeho, když byl jim za laskavosť a péči jejich se slzami v očích děkoval, i oni nemohli zdržeti se slz. Bylo jim, jakoby vlastní syn z domu odcházel a s nimi se loučil.</p>
+
+			<p>I oba synové jejich, ač o několik let starší a ve školách vyšších jsouce, takřka bratrsky k němu přilnuli; a když otec jeho pro něj přijel, nalehala naň celá rodina, aby Bedřichovi dalšího vzdělání dopřál. Otec nebyl proti tomu, jen tu obavu projevil, zdali dostal by jej opět do tak vážené a spořádané rodiny, v jaké byl posud.</p>
+
+			<p>„Mohl by bydleti s námi," pravil starší syn. „Přišel by k velmi vzdělaným <pb n="20"/> a vůbec váženým pánům majícím styky s osobami i s rodinami v životě společenském vynikajícími. I my mohli bychom býti mu v mnohém na ruku."</p>
+
+			<p>„Co tomu říkáš, Bedřichu?" tázal se z návrhu toho potěšený otec; „bydlel bys rád s mladými pány?"</p>
+
+			<p>„Ó velmi rád, otče!" odvětil syn; „jsou ke mně tak dobří a upřímní, mnoho získal bych přebýváním s nimi."</p>
+
+			<p>„Věřím, věřím," přisvědčoval otec. „Budete-li, mladí pánové, tak laskaví a přijmete jej mezi sebe, velice se nejen jemu, ale i mně zavděčíte. Mám z toho velikou radosť, že jste synu mému tak nakloněni, i zvýšily byste ji, kdybyste přijali pozvání mé ku strávení prázdnin v domě mém."</p>
+
+			<p>Mladí páni slíbili, že během prázdnin na několik dní jej navštíví.</p>
+
+			<p>Srdečně se rozloučivše a ještě jednou za vše poděkovavše, odjeli otec se synem domů. Mladí páni drželi slovo a ztrávili několik dní, příjemně se bavíce, v domě Richtrově. –</p>
+
+			<p>Leč prázdniny uběhly jako voda a den odjezdu do hlavního města se přiblížil.</p>
+
+			<pb n="21"/>
+
+			<p>„Nebudu tě k ničemu nutiti," pravil otec krátce před odjezdem k Bedřichovi; „vol si, k čemu máš největší chuť, avšak v tom buď vytrvalý. Že budeš pilen, o tom jsem přesvědčen."</p>
+
+			<p>„Milý otče," odvětil Bedřich, „děkuji vám srdečně, že ponecháváte mi této volnosti; rád bych jeden neb dva roky študoval na technice a pak, nebudete-li proti tomu ničeho namítati, věnoval bych se obchodu, ovšem že po důkladné přípravě v některém řádném ústavu ku všestrannému vzdělání obchodnickému."</p>
+
+			<p>„Také dobře," přisvědčil otec, „i menším městům třeba řádného obchodníka a domek náš výborně hodí se k rozsáhlejšímu obchodu, kdybys jedenkráte zde usaditi se chtěl."</p>
+
+			<p>Bedřich vděčně políbil pečlivou ruku otcovu. –</p>
+
+			<p>Nadešel den odjezdu.</p>
+
+			<p>Otec sám vezl syna a zastavil se pro mladé pány v L., aby vzal je s sebou; neboť tenkráte nebylo ještě železných drah, ale jezdilo se v dosti bídných vozech, tak zvaných „dostavnících", a to často v dosti pestré směsici cestujících.</p>
+
+			<p>Vezl je tedy vlastním povozem až do hlavního města, kde všichni opět vlídně <pb n="22"/> vítáni byli, jelikož mladí páni příjezd svůj i Bedřichův byli předem oznámili.</p>
+
+			<p>Zdržev se tu po dva dni otec a opatřiv vše potřebné, vrátil se, úplně jsa spokojen, domů.</p>
+
+		</div>
+
+		<div>
+
+			<head>Gustavův příjezd do hlavního města.</head>
+
+			<p>Nyní můžeme Bedřicha, znajíce zcela jeho i přátel jeho, s nimiž bydlel, dobré vlastnosti, na krátko zanechati a podívati se, jak jel a přijel Gustav do hlavního města či do Prahy.</p>
+
+			<p>Opustiv s matkou rodné své místo, ubíral se, jak známo, v krásném povoze k cíli své cesty – ku Praze. Zastavili se na druhém snídaní v nejlepším hostinci města L. –</p>
+
+			<p>„Přineste, co máte nejlepšího na vidličku!" velela paní baronka.</p>
+
+			<p>„Jak se na šlechtickou rodinu sluší a patří!" doložil hrdě mladý pán.</p>
+
+			<p>„Tak, synu můj, tak!" přikyvovala matinka celá blažená počínáním si synáčkovým.</p>
+
+			<p>Hostinský postavil rozličná jídla a nápoje na stůl skvostným ubrusem pokrytý, načež s hlubokými úklonky odstoupil.</p>
+
+			<pb n="23"/>
+
+			<p>Nová vrchnosť něco z nich pojedši, větší čásť jich ponechala lokajovi a vozkovi či kočímu.</p>
+
+			<p>Při odchodu hodil mladý pan baron dukát na stůl, a když hostinský chtěl mu naň dodávati, kynul rukou, aby si jen vše nechal.</p>
+
+			<p>Hostinský takové štědrosti sice se podivil, leč shrábnuv dukát, hlubokou poklonou štědrému pánu se poděkoval.</p>
+
+			<p>„Jest viděti," pravila rozradovaná matinka k synáčkovi, „že v žilách tvých proudí krev šlechtická!“</p>
+
+			<p>Lokaj i kočí nemohli se dosti nadiviti štědrosti svého panstva.</p>
+
+			<p>A nyní hnáno tryskem ku Praze.</p>
+
+			<p>Letem projeli bývalou Poříčskou branou; letem několik ulic. Tu náhle stanuli koně před velikým, krásným domem. Lokaj seskočil se svého sedadla a, otevřev dvířka u vozu, slovy: „Vaše milosti ráčíte býti doma!" pomáhal paní baronce z něho. Mladý pan baron vyskočil sám a jakoby znaleckým okem prohlížel si vně palác.</p>
+
+			<p>V okamžiku byl tu starý pan baron a s ním několik služek a sloužících, jižto všichni milostivé paní baronce ruce líbali a k ní se lichotili.</p>
+
+			<pb n="24"/>
+
+			<p>„S velikou touhou vás již očekávám, moji drazí!" vítal je pan baron, líbaje brzy jednoho, brzy druhého. „Vše jest, jak jsem vám psal, k vašemu uvítání připraveno. Nyní jen pojdte, abyste cestovní oděv odložili a přítomnému panstvu důstojně se představili."</p>
+
+			<p>To řka, vzal manželku pod paží a vedl ji po schodech drahocennými koberci pokrytých a vzácnými květinami ozdobených nahoru. Zde odevzdal ji komorné, aby dovedla ji do skvostně zařízené komnaty a aby byla jí při převlékání nápomocna.</p>
+
+			<p>Mladého pána vzal si na starosť myslivec k jeho posluze přijatý.</p>
+
+			<p>Asi po hodině vzkázala milostivá paní baronka milostivému panu baronovi, že jest připravena, a po několika minutách na to uvedl pan baron paní baronku a mladého pana barona do sálu, kde je skutečně četná společnosť očekávala.</p>
+
+			<p>Sál byl množstvím světel ozářen; od stropu visely krystalové svícny víceramenné na šňůrách zlatem protkávaných a po stěnách zavěšeny byly svícny stříbrné, v nichž hořely jako sníh bílé svíčky</p>
+
+			<p>millové. Okna byla zastřená dvojitými drahými záclonami, jedněmi z těžkého <pb n="25"/> hedbáví, druhými z nejjemnější látky krajkové. Skvostný nábytek byl výrobek pravého umění. –</p>
+
+			<p>Paní baronka i mladý pan baron byli nádherou tou až zaraženi, leč nezbývalo jim k pozorování a obdivování veškeré té krásy mnoho času. Sotva že představil je pan baron shromáždění, již byli oba přítomnými hosty obklopeni a nejlichotnějšími řečmi a přáními zasypáni.</p>
+
+			<p>Starý pan baron měl co dělati, aby „svým milým“ jednoho hosta po druhém představil.</p>
+
+			<p>„Pan hrabě N. a jeho vznešená choť, vysoce ctění sousedé našeho statku; pan baron N., můj nejlepší přítel; pan N., bankéř a velkostatkář" – a tak šlo to dále.</p>
+
+			<p>Všichni hosté „těšili se velice“ z této nové vzácné známosti a vyprošovali si brzkou návštěvu paní baronky a mladého pana barona.</p>
+
+			<p>K tumuto mělo se zvláště nenuceně několik mladých šlechtických panáčků, což jej tak rozjařilo, že mnohému z nich notnou venkovskou buchtu do zad dal, čemuž oni pokaždé, potutelně na sebe pokukujíce, z plna hrdla se smáli.</p>
+
+			<pb n="26"/>
+
+			<p>Paní baronka byla opatrnější; nemluvila mnoho, ale dávala pozor na pohyby i řeči buď s ní, buď mezi sebou rozmlouvajících dam. –</p>
+
+			<p>Po delším všeobecném hovoru prosil starý pan baron velevážené hosty, aby byli tak laskaví a ráčili se odebrati do vedlejší komnaty. Bylo to večeřadlo.</p>
+
+			<p>I zde panoval veliký přepych a stoly jen se prohýbaly pod tíží velikého množství nejvybranějších jídel a nejrůznějších nápojů.</p>
+
+			<p>Nebudeme vypisovati, jak četných poklesků dopouštělo se novopečené panstvo proti zvykům a obyčejům pravošlechtickým; nebudeme též povídati, jak často setkávaly se zraky vznešených hostů a jak uštěpačně špoulily a svíraly se jejich rty, aby nevypukly v hlasitý smích; taktéž nebudeme zaznamenávati četných, ale málo upřímných přípitků, jež na počesť hostitelů byly pronášeny: tolik jen povíme, že všichni dali si velmi dobře chutnati a že teprv dlouho po půlnoci v nejrůžovějším rozmaru a s mnohým ubezpečováním upřímného přátelství se rozešli.</p>
+
+			<p>Avšak sotva že nové panstvo osamělo, začala paní baronka naříkati na <pb n="27"/> bolení hlavy a na zvláštní zemdlenost těla i ducha. „Jest mi, jako bych byla nějakou těžkou nemoc přestála," pravila k manželi. „Věřím ti, má drahá," odvětil tento; „jest to nezvyk, avšak brzy zvykneš životu panskému, až jen budeš častěji stýkati se se šlechtou."</p>
+
+			<p>„Papa, mně se ti hoši tuze líbili," pravil synáček; „jsou to chlapíci veselí, samý žert. Jakmile jsem něco řekl, tak se rozesmáli, až jim oči slzely, a neustále volali mi: „výborně!"</p>
+
+			<p>„Jen dávej hezký pozor na jejich řeči a spůsoby, abys si je brzy osvojil," napomínal papa synáčka. „Avšak já se již o to postarám, abys se jim co nejdříve vyrovnal," doložil.</p>
+
+			<p>Na dané znamení byl tu ihned mladého pána myslivec a milostpanina komorná, aby uvedli je do ložnic pro ně připravených.</p>
+
+		</div>
+
+		<div>
+
+			<head>Gustav v Praze.</head>
+
+			<p>Starému baronu záleželo především na tom, aby Gustav osvojil si co nejdříve mravy a spůsoby šlechtické. K tomu účelu zjednal mu za drahé peníze domácího učitele, či jak jej v domě nazývali: <pb n="28"/> „informatora", jenž býval učitelem a vychovatelem v domech šlechtických. Ten měl Bedřicha hlavně se vším, co k uhlazeným mravům náleží, seznamovati, vedle toho pak i ducha jeho vzdělávati. Též zařídil pan baron synovi jízdárnu s několika krásnými koni a nemálo zakládal si na tom, že podařilo se mu přeplatiti a do své služby dostati cvičitele jízdy, jenž po více let již službu tu v staré šlechtické rodině byl zastával. I tanečního mistra vzal do domu, aby synáček v ničem nezůstal pozadu. Získáním těchto osob myslil, že to nejdůležitější pro syna byl učinil.</p>
+
+			<p>Tento ovšem naučil se brzy tančiti, a když bylo mu osmnácte let, málo kdo vyrovnal se mu v jízdě na koni. Mistři taneční a jezdecký měli z něho radosť i papa a mama byli hrdi na tuto jeho dovednosť.</p>
+
+			<p>Hůře šlo to u pana „informatora".</p>
+
+			<p>K učení jevil mladý pán spíše odpor nežli chuť a mnohokráte hodil knihou a utekl do konírny. Když pak pan „informator" u pana barona na takové chování si stěžoval, bylo mu vždy vlídně domlouváno, aby jej učením příliš nepřetěžoval, ale aby měl s ním trpělivosť, že <pb n="29"/> se to svým časem podá. Avšak paní baronce bylo synáčka velice líto. „Nač má se to ubohé dítě tolikerým učením trápiti?" bědovala; „vždyť musil by přijíti o rozum! Chuďasům jest toho potřebí, aby dobyli si tím jedenkráte chleba; on nebude toho zajisté nikdy potřebovati. Čeho šlechtici nejvíce potřebí, to si již osvojil; nač jej déle mořiti?"</p>
+
+			<p>Podobnými řečmi vězela neustále muži v uších, až konečně žádala, aby „informatora" propustil. Baron netroufal si jí více odporovati, neboť při nejmenším jeho odporu dostávala, jakožto vznešená dáma, křeče, anebo napadaly ji mdloby. Konečně odhodlal se přání jejímu vyhověti a sdělil úmysl svůj panu informatorovi. Ale tento byl chytrý chlapík. Při přijetí pojistil si místo své písemnou úmluvou na více let; pan baron musil se tudíž značnou sumou z úmluvy té vykoupiti.</p>
+
+			<p>Gustav cítil se přeblaženým; i zlíbal „mama" ruce i líce, což jí velice lahodilo.</p>
+
+			<p>Vyproštěn jsa z rukou karatele a maje nyní plnou vůli, oddal se nerozumný mladík hýření, k čemuž nalezl v hlavním městě mnoho příležitosti i svůdníků. Jelikož považoval konírnu zcela za svůj <pb n="30"/> majetek, vyměňoval, prodával a kupoval bez otcova vědomí a svolení koně, při čemž ovšem vždy špatně pochodil. Kde jaký ples se odbýval, kde jaká zábava byla, musil tam býti a platil za všechny, kdo mu lichotili, a takových vždy dosti se našlo. I na taková místa chodil, kde o veliké peníze se hrálo. Nejsa hry znalý, značné sumy prohrával, a kdy nedostávalo se mu vlastních peněz, ač nebyl otec k němu skrblý, dlužil se od lichvářů na vysoké úroky a podpisoval směnky, jež oni rádi přijímali v naději, že buď bohatý otec, aneb jeho dědic časem je vyplatí. Nesvědomitostí těchto lidí vzrostly dluhy náramně.</p>
+
+			<p>Takto dospěl dvacátého čtvrtého roku věku svého. Otec i matka pomýšleli na bohatou nevěstu. Za tou příčinou pořádali nádherné hostiny a zvali zvláště ty šlechtické rodiny, o kterých věděli, že mají dospělé anebo dospívající dcery. Netajili toho synovi, ale domlouvali mu, aby hleděl té které přízeň si získati.</p>
+
+			<p>Podařilo se mu to u dcery jedné vdovy hraběnky, jež chtěla ji míti zaopatřenu a jež měla barona za velikéko boháče. Vše bylo již umluveno a k svatbě připraveno.</p>
+
+			<pb n="31"/>
+
+			<p>Tu jednoho dne, kdy byl Gustav návštěvou u své nevěsty, dal si jej myslivec jeho vyvolati. Celý bledý, sotva že dechu popadal, zvěstoval mu hroznou zprávu, že otec jeho jest pro dluhy uvězněn. – Musíme podotknouti, že tenkráte panoval zákon, dle něhož mohli věřitelé dlužníka dáti uvězniti.</p>
+
+			<p>Gustav vrátil se k hraběnce a vymluviv se, že matka jeho náhle ochuravěla, odešel.</p>
+
+			<p>Přišed domů, co spatřil? Komisaře, soudní sluhy, spisování veškerých věcí, matku pak v odlehlé komnatě – v slzách! Naříkala, leč pozdě již.</p>
+
+			<p>Výlohy převyšovaly příjmy, též synovi věřitelé hartusili na zaplacení; otec, nemoha s věřiteli se vypořádati, byl odvezen do vězení.</p>
+
+			<p>„A my staneme se snad žebráky!" doložila matka, lomíc rukama. – Syn těšil matku dobrotou srdce své nevěsty a její – jměním.</p>
+
+			<p>Co Gustav doma dlel, přišel bratr nevěstin domů a zvěstoval jí úpadek domu baronova. Melanie, tak jmenovala se mladá hraběnka, sdělila tuto smutnou novinu ihned matce; avšak ani jedna, ani druhá nermoutily se, spíše byly tomu velíce <pb n="32"/> povděčny, že stalo se to před sňatkem. „Jak nešťastna byla bys, milá dcero, byla! Jak byl by tě, nás všechny, ošemetník ten podvedl!" pravila stará hraběnka.</p>
+
+			<p>Melanie předsevzala si, že jej za to notně potrestá; neboť měla na jisto za to, že přijde.</p>
+
+			<p>Nemýlila se. Přišel. Uštěpačně tázala se ho, co pan baron u ní chce? Proč nezůstane u matky, aby ji těšil? Má jí vyříditi, že jest jí dosud nakloněna a kdyby potřebovala někdy komorné, že dá jí přednosť před jinými. – Jako zkamenělý zůstal Gustav na chvíli státi.</p>
+
+			<p>Takového ponížení, takové zúmyslné urážky by se byl nikdy nenadál! Co měl nyní činiti? Nepromluviv ani slova – odešel. –</p>
+
+			<p>Vzpoměl si na své a otcovy přátelé; u těch doufal nalézti pomoci. Chodil od jednoho k druhému, žádaje za pomoc; ale ti, ač ubezpečovávali ho vždy nehynoucím přátelstvím, stavěli se nyní, jakoby ho skoro ani neznali. Jedni se vymlouvali, že sami v rozpačitosti o peníze se nacházejí, druzí dali se zapříti, jakoby nebyli doma, opět jiní vytýkali mu jeho i otcovu marnotratnosť, a ti, <pb n="33"/> kteří byli nejzdvořilejší, slibovali sice pomoc dle možnosti, ale slibu nedostáli.</p>
+
+			<p>„Co mám nyní počíti? Čeho mám se chopiti?" mluvil sám k sobě. Tu počal teprv nahlížeti a litovati, že ničemu se nenaučil, čím mohl by nyní chleba si dobyti. Těch několik set zlatých, jež matka před zabavující komisí zachránila, jak dlouho mohlo trvati? Hrůza jej pojímala při pomyšlení, že nevyhnutelně musí nadejíti doba, kdy snad i hlad trpěti budou!</p>
+
+			<p>V paláci byly jim jako z milosti na neurčitý čas vykázány dvě menší komnaty s kuchyní. Matka stále slzíc ani nevycházela, Gustav pak pln zoufalství bloudil daleko před branami městskými; neboť v městě, kde tak nádherně až do nedávna žil a kde jej takřka každý znal,</p>
+
+			<p>styděl se za dne se ukázati. A nebylo nikoho, kdo byl by rodinu tu politoval; naopak, osvědčilo se tu staré přísloví: „Máš-li neštěstí, o posměch se nestarej!“</p>
+
+		</div>
+
+		<div>
+
+			<head>Bedřich v hlavním městě.</head>
+
+			<p>Bedřich velice lišil se jednáním svým v hlavním městě od Gustava. Nepřišel tam, aby užíval radovánek a zábav, jakých <pb n="34"/> v takovém městě hojnosť se naskytuje, ale aby se vzdělával.</p>
+
+			<p>Dal se zapsati do techniky, kde věnoval se vedle jiných předmětů hlavně lučbě. Pilnosť jeho byla neúnavná, tudíž i zde studoval s vyznamenáním.</p>
+
+			<p>Jen jedno jej velice rmoutilo.</p>
+
+			<p>Mladé pány, s nimiž bydlel, navštěvovalo častěji více jich soudruhů, a ti hovořívali s nimi jazykem českým. On češtiny neznal; vždyť byl z krajiny německé a chodil dosud pouze do škol německých. Vyšších škol českých tenkráte ani nestávalo, a byť jich i bylo bývalo, nebyl by jich, jsa Němec, mohl použiti. Ale divil se velice, že mladí páni, jichž rodiče též pouzí Němci byli, tak hbitě česky hovořili. I nedalo mu to pokoje, dokud se jich neotázal, jakým spůsobem českou řeč tak dobře si osvojili?</p>
+
+			<p>„Spůsobem zcela přirozeným," odvětil starší z bratří; „nejprve jsme poslouchali rozmluvy českých kolegů, když pak sluch náš zvukům jich řeči uvyknul a my několik slov a běžných průpovědí pochytili, užívali jsme jich, kde se jich užiti dalo; naši čeští kolegové měli z toho radosť, opravovali nám chyby, až počali jsme, jak se říká, češtinu lámati. Stalo se <pb n="35"/> ovšem častěji, že se nám, ač dobrosrdečně, notně vysmáli, my ale nedali se odstrašiti a když jsme se pak již ani prodati nedali, chodili jsme do českých přednášek na vysoké školy, koupili si českou mluvnici a odbírali dva tehdáž vycházející české časopisy – Stálým obcováním s Čechy utvrdili jsme se úplně v jich řeči. Jsme tomu velice rádi; neboť v příštím našem povolání ani bychom se bez ní neobešli. A mohu-li vám, Bedřichu, raditi, čiňte, jako my činili. Máte-li do češtiny chuť, začneme doma, kdykoliv nám něco času zbude."</p>
+
+			<p>Bedřich byl tomuto nabídnutí velice povděčen; prosil jen, aby mladí páni měli s ním trpělivosť.</p>
+
+			<p>Za dvě léta, jež strávil na technice, naučil se, použiv každé příležitosti, dobře česky mluviti, což mu velikou radosť působilo, zvláště když mezi českými studenty více upřímných přátel nalezl.</p>
+
+			<p>Vystoupiv z techniky, vstoupil do soukromého ústavu ku vzdělání obchodnímu, v němž setrval též dvě léta; neboť tehdáž nebylo ještě žádné vyšší školy či akademie obchodní v městě.</p>
+
+			<p>Vzdělav se ve všem, čeho řádnému obchodníku potřebí, přiučil se též frančtině <pb n="36"/> a angličině, tak že ve čtyřech řečech dopisování vésti mohl.</p>
+
+			<p>Po odbytí svých studií vykázal se otci nejlepšími vysvědčeními.</p>
+
+			<p>„Milý synu," pravil otec, „ač o tvých schopnostech ani o tvé pilnosti nikdy jsem nepochyboval, přece jsi mne tak znamenitým prospěchem velice radostně překvapil. Skoro bych změnil prvý svůj úmysl, abys usadil se v rodném městečku; ano, bylo by mi spíše milo, kdybys hleděl v některém větším závodě zkušenosti a cviku nabyti. Jsem, chvála Bohu, ještě dosti při síle, abych obchod sám vedl, jejž bys mohl, kdybys k tomu měl chuť, někdy později převzíti."</p>
+
+			<p>„Mluvíte mi jako ze srdce, milý otče," odvětil Bedřich; i já toužím po praktickém se vzdělání, pročež měl jsem právě na mysli, že vás budu snažně žádati za svolení, abych v nějakém slušném závodě vědomosti své v praktickém ohledu doplniti mohl. Za tím účelem vzal jsem s sebou toto číslo, v němž nabízí jeden známý vážený dům v P. místo dopisovatele či korrespondenta s pěkným služným vzdělanému svobodnému mladíku."</p>
+
+			<pb n="37"/>
+
+			<p>Otec vzav list do ruky, zavrtěl hlavou a podíval se tázavě na syna.</p>
+
+			<p>„Ach arci," pravil syn usmívaje se, „nevzpoměl jsem, že nemluvíte česky." Bylo to číslo tehdáž vycházející „České Včely".</p>
+
+			<p>„A ty mluvíš česky?" tázal se otec a dodal: „Vímť, že P. jest z většiny město české."</p>
+
+			<p>„Nejen že mluvím, ale i píši správně česky, začež děkuji mladým pánům z L., již mne k tomu měli, pak českým spolustudujícím, mezi nimiž mám již i více upřímných přátel. Obchodní ústav, kde se i češtině učilo, jakož i mluvnice a čtení dobrých českých děl dovršily, co tu a tam ještě mi scházelo," odvětil Bedřich.</p>
+
+			<p>Otec jej za to pochválil a litoval jen, že on neměl v mladosti své k tomu příležitosti.</p>
+
+			<p>„Často bylo by mi velmi prospělo, kdybych byl uměl česky," doložil. – S radostí svolil tedy k žádosti Bedřichově, jenž nemeškal za místo v listech českých nabízené žádati a jež také obdržel.</p>
+
+			<p>Rozloučiv se s otcem spěchal do P., aby chlebodárci svému se představil. <pb n="38"/> Tento, jsa sám vědecky vzdělaný i v obchodních záležitostech velice zkušený pán, poznal brzy z rozmluvy s Bedřichem, že získal v tomto dobrou sílu pro svůj rozsáhlý obchod.</p>
+
+			<p>Bylť májetníkem železných hutí, kování, železolijny a strojů na dělání plechu a tažení drátu veškerých rozměrů tloušťky; i byl v obchodním spojení s firmami (obchodními domy) tu- i cizozemskými.</p>
+
+		</div>
+
+		<div>
+
+			<head>Bedřich ve svém postavení.</head>
+
+			<p>Když byl Bedřicha pan – jmenujme jej „Toman" – s povinnostmi jeho seznámil, uvedl jej do pisárny a odevzdal mu dotyčné knihy, pak vykázal mu byt o dvou nevelikých, ale pěkných a vkusně zařízených světnicích a vyjednav s ním služné, nabídl mu i bezplatné stravování u vlastního stolu, podotknuv zároveň, že zvýšení služného bude záviseti od jeho dovednosti a přičinlivosti. Bylo patrno, že Bedřich jak osobou, tak skromností svou učinil na pana Tomana dobrý dojem. Zvláště bylo tomuto milo, že Bedřich mocen jest též české řeči, a to v slově i v písmě. Uložil mu též ihned několik dopisů v české a francouzské řeči, po <pb n="39"/> jichž přečtení poklepav mu na rameno, slovy: „Velmi dobře!" spokojenosť svou mu projevil.</p>
+
+			<p>Bedřich přičinil se všemožně, aby v přízni svého pána se udržel. Vše měl v nejlepším pořádku a, nejsa hned ze studentských let zvyklý hledati zábavy mimo dům, trávil prázdné chvíle, jichž mu arci mnoho nezbývalo, v kruhu rodiny páně Tomanovy, kdež byl vždy rád viděn, ano později téměř za její úda považován; neboť věrností, pořádností a dovedností, jakož i ušlechtilými mravy získal si úplně náklonnosti její.</p>
+
+			<p>Po třech letech, kdy čítal dvacettři roky věku svého, tázal se ho pan Toman, zdali netroufal by si k dosavadnímu zaměstnání převzíti též vedení účtů, dodav hned, že byl by mu ovšem co možná nápomocen.</p>
+
+			<p>Dosud vedl si účty pan Toman sám. Bedřich ochotně svolil, jenom připojil tu prosbu, aby pan Toman, jak pravil, byl mu aspoň na začátku radou a poučením laskavě na ruku, což tento s radostí opětoval.</p>
+
+			<p>„Budu míti věrného a spolehlivého zástupce," pravil k své choti, „zároveň <pb n="40"/> si v pokročilém věku svém trochu oddechnu. "</p>
+
+			<p>„Ale zdali bude mladík ten vše to moci zastati?" tázala se choť.</p>
+
+			<p>„Jsem přesvědčen, že ano," odvětil pan Toman; „dopisování jde mu od ruky jako hračka a v účtárně slíbil jsem, že budu mu pomáhati."</p>
+
+			<p>Bedřich pracoval pilně a vytrvale, tak že v brzku vpravil se i do účtování, což nebyla arci příliš snadná věc v tak rozsáhlém závodě; avšak pevná vůle a snaha i v tomto oboru řádně se vzdělati, jakož i pánovy poučky usnadnily mu počáteční obtíže a on stal se za krátko takřka pravou rukou pánovou.</p>
+
+			<p>Pan Toman dostál slibu svému a zvýšil značně jeho služné, tak že v dvacátémčtvrtém roce věku svého měl postavení skvělejší než mnohý dosti vysoce postavený veřejný úřadník. Přízeň pánovu i celé rodiny úplně si získal. Pan Toman často mluvíval v užším kruhu rodinném o něm a velice vychvaloval jak chování, tak přičinlivosť a pořádnosť jeho.</p>
+
+			<p>Rodina pánova sestávala ze tří osob; byli to: on, jeho choť a jediná dceruška jejich Věnceslava.</p>
+
+			<p>Věnceslava byla sličné, rozumně vychované, <pb n="41"/> jemnocité a dobrosrdečné děvčátko. Byla miláčkem rodičů; střežili ji jako oko v hlavě, ale nerozmazlili ji. Matka záhy zaučovala ji vedení domácnosti. Byla velmi skromná, ač nebylo jí neznámo, že rodiče mají značné jmění. Když Bedřich k nim se dostal, čítala čtrnácte let věku svého, pravé to ještě dítě i co do smýšlení i co do nenuceného chování. Ráda hovořívala a bavívala se v dětské nevinnosti s Bedřichem a pro jeho ušlechtilé mravy, zábavné vypravování a rozličných nevinných her vymýšlení byla mu takřka sestersky nakloněna. Když pak byl v domě na sedmý rok, šla ona do roku dvacátého. Dětská přímosť ovšem že dávno již ustoupila panenské vážnosti v chování se k Bedřichovi, nicméně bylo i nyní patrno, že není jí lhostejný.</p>
+
+			<p>Ale i Bedřich změnil chování své k ní. Stal se jí naproti ostýchavějším a prokazoval jí úctu, jakou co podřízený cítil se býti povinen prokazovati dospělé dceři svého chlebodárce. Ovšem že neobmeškal nižádné příležitosti, kdy mohl státi se jí úslužným, jehož službičky ona vždy s vděkem přijímala.</p>
+
+			<p>Rodiče pozorovali beze vší nevole <pb n="42"/> vzrůstání jich ostýchavě tajené obapolné náklonnosti; ano zdálo se spíše, že není jim nemilá.</p>
+
+			<p>Jednoho večera po odchodu Bedřichově od večeře pravil pan Toman jaksi nevrle: „Zdá se mi, že jsem se v Bedřichovi přece jen mýlil!"</p>
+
+			<p>Paní Tomanová zvědavě pohlédla na chotě, ten však, dav jí mrknutím znamení, že to tak zle nemyslí, pozoroval Věnceslavu. Tato tázala se uleknutě po příčině.</p>
+
+			<p>„Není více tak správný, jako byl z počátku," pokračoval otec. „Dopisy odbývá ledabyle a v účtech přišel jsem na mnohé nesprávnosti."</p>
+
+			<p>„Milý otče, snad měla matinka přece pravdu, když pravila, že to bude na něj mnoho a že nebude moci oběma tak těžkým úkolům vyhověti? Věř, že ani z ledabylosti, ani z lehkomyslnosti nechybuje!" omlouvala jej dceruška.</p>
+
+			<p>„Aj," pravil otec žertovně, tyť se ho zastáváš jako pravý advokát! A z čeho soudíš, že ani ledabylosť, ani lehkomyslnosť nejsou toho, co jsem pravil příčinou?" tázal se.</p>
+
+			<p>„Vždyť, milý otče, mluvil jsi o něm až posud vždy s pochvalou; kterak mohl <pb n="43"/> by tak náhle se změniti? A aby jej někdo byl svedl, toť není možné, neboť nevyhledává ani žádných společností; z domu takřka nevychází, ano, velmi často dlouho do noci pracuje. Věř mi, že z lehkomyslnosti chyb nedělá," hájila jej Věnceslava dále.</p>
+
+			<p>Otec, zamlčev se, pátravě, ale velmi něžně pohledl na dceru.</p>
+
+			<p>Zrádný ruměnec polil tvářinky její. Poznala, že prozradila city svého srdce, jež dosud opatrně byla ukrývala, ba jež snad teprve nyní sama byla poznávala.</p>
+
+			<p>„Bedřich nalezl v tobě statečného zastance," pravil s dobrosrdečným úsměvem otec. A to nejen statečného, ale i bystrozrakého a soudného; neboť dobře soudíš, že nemohl by tak náhle se změniti; také se nezměnil. Chtěl jsem jen věděti, zdali se ho kdo, zdali ty se ho zastaneš na mou výtku. Žes tak učinila, z toho soudím, že není ti lhostejným. Avšak rádi slyšeli bychom to s matkou z vlastních tvých úst."</p>
+
+			<p>Řečí touto byla Věnceslava tak překvapena, že nemohla promluviti.</p>
+
+			<p>„Buď upřímná, milá dceruško," pravila matka, něžně ji obejmuvši, nechceme <pb n="44"/> mnoho slov; řekni jen „ano" anebo „ne", vždyť víš, že jsi nám, jako dobré dítě, nejdražším pokladem na světě a že nepřejeme si ničeho více, než tvého blaha a štěstí."</p>
+
+			<p>Padši matce na prsa a líbajíc ji, zašeptala „ano!" a odběhla do vedlejší komnaty.</p>
+
+			<p>Otec a matka dlouho ještě rozmlouvali o ní a o Bedřichovi.</p>
+
+			<p>Z celé jich rozmluvy vysvítalo, že s plnou důvěrou mohou dítě své dáti tak šlechetnému mladému muži.</p>
+
+		</div>
+
+		<div>
+
+			<head>Rozmluva páně Tomanova s Bedřichem.</head>
+
+			<p>Druhého dne po této rozmluvě vešel pan Toman k Bedřichovi do pisárny. Byl jaksi v dobrém rozmaru; neboť prohédnuv práce jeho a projeviv mu svou spokojenosť, začal tonem žertovným: „Nu, což vy nepůjdete do plesu? Bude tam, jak doslýchám, vybraná společnosť."</p>
+
+			<p>„Přeji, ctěný pane, té zábavy jiným; nikdy jsem jí nevyhledával. Práce poskytovala a poskytuje mi vždy dosti zábavy; jiný již nebudu.</p>
+
+			<p>„Myslím, že chybujete," pokračoval pan Toman; bude tam zajisté též mladý <pb n="45"/> svět zdejší shromážděn, mohl byste si dobrou známosť učiniti.</p>
+
+			<p>„Nebažím po ní," odvětil Bedřich s úsměvem.</p>
+
+			<p>„Ale mnohá dcera z vážené rodiny bažila by po vaší známosti," namítal pan Toman. „Máte pěkné postavení a dokud se vám u nás líbiti bude, také stálé postavení. A při svých dobrých vlastnostech mohl byste hodnou dívku šťastnou učiniti."</p>
+
+			<p>„Račte věřiti," ubezpečoval Bedřich, „že mi cos podobného dosud ani na mysl nepřišlo.“</p>
+
+			<p>„Sám jsem již doslechl," pokračoval pan Toman, „jak o vás dívky z hodných rodin pochvalně mluví, ač vás dosud snad jen z kostela znají. Ano, sama moje dcera vás chválí a ráda poslouchá, kdy o vaší věrnosti a správnosti mluvím."</p>
+
+			<p>Bedřich sklopiv oči a velice se zapýřiv pravil: „Toť pro mne veliká čest, jíž ani hoden nejsem."</p>
+
+			<p>„Jste jí hoden," pravil pan Toman, a to nejen, jak jsem již pravil, pro vaši správnosť a věrnosť našemu domu, ale i pro vaši skromnosť, jakou u pánů ve vašem věku málokdy nacházíme."</p>
+
+			<pb n="46"/>
+
+			<p>„Pane Tomane, výrokem tímto činíte mne přeblaženým, tak že přál bych si do smrti býti ve vašem ctěném domě," ujišťoval Bedřich pána svého srdečnými a upřímnými slovy.</p>
+
+			<p>„Bedřichu!" pravil pan Toman, „dovolte, abych vás takto jmenoval; zdá se mi to býti srdečnější, než – ,pane Richtre'. Bedřichu, i vy pronesl jste mně milá slova, i já přál bych si, abych vás neztratil. Zvykl jsem si na vás skoro jako na syna. Přál bych si takového syna míti."</p>
+
+			<p>„Můj dobrý, laskavý pane," pravil Bedřich pohnutým hlasem, „mám dobrého, upřímného otce, jehož péči mám za vzdělání své děkovati; avšak ne menšími díky povinen jsem i vám, a to nejen za postavení hmotné, ale i za vše, čím žák laskavému a trpělivému učiteli svému jest povinen. Byl jste mi vždy otcovským rádcem a učitelem; přijměte mé nejsrdečnější díky a zůstaňte mi jím i na dále. Ano, dovolte, prosím, bych směl vás nazývati – druhým svým otcem."</p>
+
+			<p>Pan Toman, jehož dobré srdce těmito slovy hluboce bylo dojato, podal Bedřichovi ruku, řka: „Kdo má dva <pb n="47"/> otce, musí míti aspoň jednu matku; vy, jak jste mi již vypravoval, ztratil jste ji v útlém svém věku; vyjednejte si to s mou chotí, aby vám ji dle možnosti nahradila. Dobrou dceru již máme, budeme míti pak i dobrého syna.</p>
+
+			<p>Bedřich, jenž snad dosud slov páně Tomanových úplně nechápal, byl přece jakousi blažící předtuchou naplněn, neboť vtiskl vřelý polibek na ruku jeho.</p>
+
+			<p>Pan Toman s upřímným ruky stisknutím opustil jej.</p>
+
+			<p>Nebudeme povídku tuto marně prodlužovati; řekneme hned, že v krátkém čase stali se z Bedřicha a Věnceslavy šťastní manželé k veliké radosti rodičů Věnceslaviných i otce Bedřichova, jenž při veselce mnohokráte litoval, že česky neumí, ač jemu k vůli mluvili všichni za jeho u nich pobytu jazykem jeho. – Z Bedřicha stal se upřímný přítel národa českého, nepohrdající ovšem svým prvým jazykem. – Pro svou poctivosť a šlechetnou povahu byl v celém městě velice vážen. –</p>
+
+			<p>Při úplném svém štěstí měl jen ještě jedno přání: aby mohl navštíviti bývalé své stravovatele v L. i v Praze, jakož i stařičkého ředitele hlavních škol v L, <pb n="48"/> jimž každému hodlal něco na památku věnovati.</p>
+
+			<p>„A proč nemohl bys je všecky navštíviti, milý synu?" pravil pan Toman, když mu Bedřich přání své byl sdělil. „Bud jist, že tě ve všem ještě dobře zastanu. A Věnceslavu bude zajisté také těšiti, když pozná ty dobré lidičky, jimž jsi tolikerými díky povinen. Jen s chutí na cestu; však my s matkou budeme vám tu dobře hospodařiti," doložil žertovně.</p>
+
+			<p>Mladí manželé neotáleli s přípravami na cestu. Po několika dnech, rozloučivše se s rodiči, brali se v pěkném povozu ku Praze, odkud pak L. a bude-li možno, i rodné místo Bedřichovo navštíviti, a tak otce jeho mile překvapiti hodlali. –</p>
+
+		</div>
+
+		<div>
+
+			<head>Setkání.</head>
+
+			<p>Právě když Bedřich vrchole svého štěstí dosáhl, vedlo se Gustavovi nejhůře. Otec jeho jak hanbou, tak přesmutnou vyhlídkou do budoucnosti roznemohl se těžce ve vězení; byv pak v nemoci své domů propuštěn, aby po svém se uzdravení od neúprosných, mstivých <pb n="49"/> věřitelů znovu trýzněn byl, podlehl útrapám těm a v krátkém čase rozloučil se na vždy se svými. Nesvědomití věřitelé, umluvivše se mezi sebou, skoupili, ovšem že velmi lacino, jeho veškerý majetek v hlavním městě a matce se synem nebylo by ani krejcaru zbylo, kdyby zámožný jeden hrabě, jenž častěji baronovým hostem byl a s jeho statkem sousedil, nebyl tento koupil, a kdyby baronka nebyla jeho spolumajetnicí byla. Hrabě statek ten dosti slušně zaplatil, tak že po vyrovnání se s věřiteli baronce přece čtyři až pět tisíc zlatých zbylo. Leč jak dlouho mohli dva lidé, neumějíce jimi těžiti, s nimi vystačiti? Tenkráte platilo se nejvíce 5 zl. úroků ze sta. Kdyby byli ihned peníze ty pod úroky uložili, byly by jim pouze 200 – 250 zl. ročně vynášely.</p>
+
+			<p>Kam s tak nepatrnou částkou dříve? K tomu byl jim i ten skrovný byt v paláci odejmut</p>
+
+			<p>I najali si příbyteček o jednom pokojíčku a kuchyňce, a to v nejodlehlejší ulici města, kde měli za to, že jich nikdo nezná a kde velmi skrovně žili.</p>
+
+			<p>Jak bylo již z prvu praveno, bloudíval Gustav, čítaje nyní dvacetsedm až <pb n="50"/> dvacetosm let věku svého, daleko před branami městskými. –</p>
+
+			<p>Když tak jednoho dne opět celý zoufalý daleko za městem chodil, přijížděl mu naproti panský vůz dvěma bujnými lišáky tažený. Ve voze seděl mladý, zdravý muž, jemu po boku mladá, sličná paní – jeho choť.</p>
+
+			<p>Blaženosť zářila oběma z očí.</p>
+
+			<p>Gustav, spatřiv tento krásný povoz, z hluboka si vzdechl. Vzpoměl si zajisté na bývalé blažené časy. –</p>
+
+			<p>Mladý muž pozoroval bedlivě těžkomyslného barona, jenž očí svých ani nepozdvihl. – Vůz jel do vrchu zvolna; mladý muž měl dosti času pozorovati ho.</p>
+
+			<p>Tu náhle zvolá: „Nebesa! To jest Gustav. Opravdu, jest to on!" A jako střela vyskočil z vozu.</p>
+
+			<p>Skokem byl u něho a přátelsky objal jej prve, než byl od něho poznán.</p>
+
+			<p>Gustav se naň udiveně zahleděl. Nepoznal ho hned. Leč pojednou začaly se mu rty chvěti a ruce třásti. Proud slz vyronil se mu z očí; poznal mladého muže, byl to – Bedřich.</p>
+
+			<p>Slzami lítosti a hanby smáčel líce starého přítele; ale slova promluviti nemohl.</p>
+
+			<pb n="51"/>
+
+			<p>„Dosud tě miluji a vždy budu tě milovati, i kdybys sebe vznešenějším pánem byl," pravil Bedřich, načež dovedl Gustava k vozu a představiv jej své manželce, tuto pak jemu, donutil ho, že k nim do vozu přisednul.</p>
+
+			<p>„Vypravuj mi přece, příteli, jak se máš? co děláš? jsou-li tvoji páni rodiče zdrávi?" tázal se nedočkavě Bedřich.</p>
+
+			<p>Znovu vyhrkly Gustavovi slzy z očí a bránily slovům, jež na chvějících se rtech vězeti zůstala.</p>
+
+			<p>Teprve nyní všimnul si ho lépe Bedřich. „Můj Bože! tys jaksi smuten. Potkalo z vás někoho nějaké neštěstí?" tázal se soucitně.</p>
+
+			<p>Gustav přisvědčil pouhým kývnutím hlavy, neboť dosud nebyl mocen řeči.</p>
+
+			<p>Bedřich nenalehal naň dalšími otázkami, ale čekal, až se poněkud upokojí.</p>
+
+			<p>Po hodné chvíli začal Gustav sám.</p>
+
+			<p>„Ó, já pošetilec! Jak hanebně zachoval jsem se k tobě! Nejsem hoden, abys nazýval mne přítelem."</p>
+
+			<p>„Co to mluvíš, Gustave?" divil se Bedřich. „Já jsem a chci býti tvým upřímným přítelem. Zapomeňme oba na minulosť. Měj důvěru ve mne a svěř se mi, jak jen přítel příteli svěřiti se může. <pb n="52"/> Pozoruji, že tě nějaká těžká rána zasáhla; svěř se mi, pakli tě něco trápí; svěř se mi se vším, snad že budu moci úlevy ti poskytnouti," dodával mu Bedřich zmužilosti.</p>
+
+			<p>Těmito laskavými slovy poněkud ukonejšen i povzbuzen, vypravoval Gustav příteli Bedřichovi vše to, co my již víme.</p>
+
+			<p>Zatím blížil se povoz již k městu. Bedřich vyžádal si od Gustava jméno ulice a číslo domu, kde bydlel, a slíbiv mu, že jej a matku jeho asi za týden navštíví, i napomenuv jej, aby neztrácel mysli, přátelským políbením se s ním rozloučil.</p>
+
+			<p>Jelikož jest nám hlavní účel cesty Bedřichovy znám, potřebí nám jen podotknouti, že nejprve navštívil bývalé své stravovatele v Praze a pak v L. Na obou místech měli velikou radosť z jeho štěstí i z jeho návštěvy, zvláště když je vzácnými dary „na památku" obmyslil.</p>
+
+			<p>Avšak nejdéle zdržel se v L. u stařičkého ředitele hlavních škol, jenž jej, když dal se mu znáti, srdečně líbal a ze štěstí jeho upřímné potěšení jevil.</p>
+
+			<p>Bedřich věnoval mu z vděčnosti krásné <pb n="53"/> zlaté hodinky, čímž mu takovou radosť spůsobil, že byl až k slzám pohnut.–</p>
+
+			<p>Všude novým manželům blahopřáli.</p>
+
+			<p>Konečně navštívil i své rodiště. Otec jeho, netuše tak milé návštěvy, byl jí velice radostně překvapen. Mladí manželé ztrávili u něho několik blažených dní, během kterých mnoho návštěv a blahopřání sourostenců Bedřichových, ano i starších občanů přijímali. –</p>
+
+			<p>Po uplynutí rozkošných těch dní vrátili se do Prahy.</p>
+
+		</div>
+
+		<div>
+
+			<head>Pravý přítel.</head>
+
+			<p>První cesta Bedřichova byla ke Gustavovi. Zastal ho i s matkou jeho doma. Tato nebyla by ho poznala, kdyby jí ho Gustav byl nepředstavil.</p>
+
+			<p>„To že jest pan Richter?" divila se. A vzpomenuvši si bezpochyby, jak nešetrně byla se i se svým synem kdysi k němu zachovala, sklopila, zapýřivši se, oči a hluboce si vzdychla.</p>
+
+			<p>„Ach, drahý pane, osud s námi, jak vidíte, krutě zahrál! Ani v rodném městečku nebylo by se nám nikdy tak bídně vedlo a budoucnosť naše jest snad <pb n="54"/> ještě smutnější! Nebudu vám neštěstí naše líčiti, jelikož vám syn můj, jak mi pravil, vše již vypravoval. O, můj Bože, jak jsme nešťastni!"</p>
+
+			<p>„Nebědujte příliš, paní baronko –"</p>
+
+			<p>„Ach, prosím vás, jmenujte mne jako kdy jindy – Hausrovou!" vskočila mu do řeči. „Nešťastný ten titul byl prvním zakopnutím ke hrobu našeho blahobytu, naší spokojenosti."</p>
+
+			<p>„Nebědujte příliš, ctěná paní," pokračoval Bedřich. „Staré přísloví praví: Nikdy nebylo tak zle, aby nemohlo býti zase dobře. Věděl bych rady, pakliže Gustav ochoten bude ji přijati."</p>
+
+			<p>„Vše, vše přijmu, drahý příteli, neboť šlechetné tvé srdce může mi jen dobré raditi."</p>
+
+			<p>„Tedy slyš," pravil Bedřich. „V rozsáhlém svém závodu potřeboval bych věrného a spolehlivého pomocníka –"</p>
+
+			<p>„Ach!" vzdychl si Gustav a zastřel si oči. „Jsemť zcela nevědomý v podobném zaměstnání."</p>
+
+			<p>„Nic neškodí," těšil jej Bedřich; „budeš-li jen míti dobrou vůli, vše se poddá a ty vpravíš se brzy v nový svůj stav. Práce ti čas ukrátí, život osladí a budoucnosť pojistí."</p>
+
+			<pb n="55"/>
+
+			<p>„Ó, drahý, věrný, upřímný příteli! Žhavé uhlí sypeš na pošetilou hlavu mou! Jak hanebně zachoval jsem se k tobě a ty splácíš mi jednání to šlechetným, řídkým přátelstvím ! Zahanben jím přiznávám se, že ho nejsem hoden!"</p>
+
+			<p>„Ze srdce mého nikdy jsi nevymizel," těšil jej Bedřich; „vždy vzpomínal jsem blažených těch dnů, jež jsme spolu ztrávili. A jako bývalo, bude bohdá zase; ano doufám, že staré naše přátelství nejen omladne, ale ode dne ke dni pevnějších kořenů zapouštěti a síliti bude."</p>
+
+			<p>A tak se také stalo.</p>
+
+			<p>Asi za čtyři neděle po odjezdu Richtrových manželů z Prahy stěhoval se Gustav i s matkou do P.</p>
+
+			<p>Nejen mladí manželé, ale i pan Toman se svou chotí přijali je velmi laskavě a vykázali jim bývalý pěkný Bedřichův byt ve svém závodě.</p>
+
+			<p>Tak jako jedenkráte poučoval pan Toman svého nynějšího zetě, tak činil teď Bedřich, poučuje Gustava a pomáhaje mu, kde poučení a pomoci měl potřebí. Pro účetnictví a dopisování ovšem nebyl, k tomu neměl předběžného vzdělání; ale co týkalo se dozoru k práci všeho druhu v huti, tomu brzy <pb n="56"/> porozuměl; taktéž netrvalo to dlouho, že naučil se znáti jakosť a cenu rozličného druhu železa a výrobků z něho. –</p>
+
+			<p>Již po roce učiněn byl vrchním dozorcem celého závodu s velmi pěkným služným, tak že každého roku hezkou částku k onomu zbytku z lepších dob přidati mohl.</p>
+
+			<p>Jak často děkoval i s matkou Bedřichovi za upřímné jeho přátelství, jímž jej nejen zachránil před zoufalstvím, ale i tak skvělou budoucnosť mu pojistil.</p>
+
+			<p>Pověsiv baronství, jak se říká, na hřebík, zasnoubil se s velmi hodnou dívkou z poctivé rodiny a stal se po smrti páně Tomanově společníkem v závodě. Obě rodiny žily pak v nejupřímnějším přátelství.</p>
+
+			<l>Pamatujte, dítky, na to:</l>
+
+			<l>„Věrný přítel jest nad zlato."</l>
+
+			<pb n="57"/>
+
+
+		</div>
+
+		<div>
+
+			<head>Pochlebník.</head>
+
+		</div>
+
+		<div>
+
+			<head>Krátká povídka k poučení a k výstraze mládeže.</head>
+
+			<pb n="58"/>
+
+
+			<pb n="59"/>
+
+			<p>Není hnusnějšího, ale zároveň nebezpečnějšího člověka nad pochlebníka.</p>
+
+			<p>Hnusným stane se brzy lidem rozumným, lidem přímé povahy; ale nebezpečným stává se lidem ješitným, lidem rozumu obmezeného, zvláště pak nezkušené mládeži.</p>
+
+			<p>Lidem ješitným to lahodí, když je chválí, i nenávidí každého, kdo tak nečiní, z čehož vzniká často mnohá mrzutosť, ba i nepřátelství; a lidí rozumu obmezeného hledí pochlebník jen ve svůj prospěch, ale k jich škodě, využitkovati.</p>
+
+			<p>Avšak nejnebezpečnějším jest mládeži, jež chválu tak ráda poslouchá, byť i nezaslouženou. A to svádí ji s cesty poznání samu sebe; ona se přeceňuje, jinými pohrdá, pravých přátel nejen si nezíská, ale je odporuje; později stává se nedůvěřivou, majíc se za neuznánu, zkrátka: cítí se pak býti všude a ve všem nešťastnou. –</p>
+
+			<p>O takovém pochlebníku chceme tuto něco pověděti.</p>
+
+			<pb n="60"/>
+
+			<p>V jistém městě žil majetník hudebního ústavu jmenem Liška. Nebyl sice velikým umělcem, ale ústav jeho byl přece dosti navštěvován. Okolnosti byly mu příznivy. První byla ta, že neměl soutěžníka, druhá – že dovedl úlisností a pochlebováním mnohé ješitné občany, zvláště pak mnohé občanky si získati.</p>
+
+			<p>Ke každému stavěl se, jako by si ho velice vážil pro vzácné jeho vlastnosti, byť jich tento třebas zcela byl postrádal. Ovšem, že srdce jeho ničeho o tom nevědělo, co ústa pronášela. Zvláště úlisně měl se k osobám zámožným a vůbec váženým, o nichž věděl, aneb aspoň se domýšlel, že mohly by mu v tom onom buď prospěti, buď škoditi.</p>
+
+			<p>Vše, co činily, aneb co jim náleželo, chválil a obdivoval a veliké potěšení z toho jevil. Při každé příležitosti nabízel se jim k službám, zvláště když byl jist, že nabídnutí jeho ze šetrnosti přijato nebude, ale že bude mu za ně i děkováno; činil to tedy jen proto, aby zdálo se, že touhou jeho jest, aby osobám těm úslužností svou se zavděčil.</p>
+
+			<p>Měla-li panička A. aneb slečinka B. anebo mladý pán C. nový oděv, tu neměl ani dosti slov k pochvale. „Jak <pb n="61"/> krásný to oděv, milostivá paní! – Jak rozkošný to střih, drahá slečinko! – Aj, aj, mladý pane! Vyť jste celý baron!" oslovil toho kterého. „Jak překrásně vám to sluší! Jako na vás ulito! Jaký to vystříbený vkus! Opravdu, umíte výborně voliti."</p>
+
+			<p>Byl-li kamsi pozván ke stolu, tu „ještě nikdy tak výborné polévky, tak chutně připravených pokrmů nejedl, nikde tak lahodného vína nepil, jako zde."</p>
+
+			<p>Mluvil-li kdo třebas o těch nejlhostejnějších věcech, obdivoval jeho dovednosť a poutavosť u vypravování, a prohodil-li ten který nějaký, třebas dosti otřepaný již, ba i dosti neuhlazený žert, chválil jeho „výborný" nápad a nedostižitelný vtip a smíchem mu oči až slzely.</p>
+
+			<p>Nabídnul-li mu kdo té nejnepatrnější službičky, cítil se býti „velice a nezaslouženě poctěným a šťastným" a stával se ochotným vše učiniti, začkoli by ho zase on požádal.</p>
+
+			<p>Viděl-li, že někdo udělil chuďasovi několik krejcarů, nemohl dost nachváliti jeho štědrosť a dobročinnosť. –</p>
+
+			<p>Stalo se ovšem také někdy, že ten, který ne dosti zdvořile k němu se zachoval <pb n="62"/> a peprnou pravdu mu pověděl. Aj, tu těšil se z jeho „přímosti" a nazýval jej nejupřímnějším přítelem, jenž činí jej na jeho chyby pozorna, začež mu velice děkoval.</p>
+
+			<p>A pomlouval-li kdo koho, divil se velice jeho bystré všímavosti.</p>
+
+			<p>Rodičům hleděl se tím zalichotiti, že jejich děti, které učily se u něho hudbě, nad míru chválil, vynášejíce velice jejich hudební nadání a činěný pokrok.</p>
+
+			<p>Tak jednal, aniž byl tak mínil, jak se stavěl a jak mluvil. Šlo mu jen o to, aby byl často zván, aby získal hodně učňů pro svůj ústav a aby každý byl mu ochoten k úslužnosti, kdy jí potřeboval ve svůj prospěch.</p>
+
+			<p>Ale přes všecku jeho úlisnosť nedařily se mu přece všude jeho záměry.</p>
+
+			<p>U ješitných a hrdých lidí byl sice rád viděn, víme již proč; ale moudří a rozumní brzy jej prohledli a povrhovali jím, majíce jej za člověka podlého. Ano, několikráte se i přihodilo, že za pochlebování jeho výsměchu, ba i hany se mu dostalo.</p>
+
+			<p>O tom svědčiž několik následujících případů.</p>
+
+			<pb n="63"/>
+
+			<p>Syn zámožného měšťana pozval si k oslavě svých jmenin několik mladých přátel. Častoval je chutnými pokrmy a dobrým vínem. Když byli se rozveselili, napadlo jednomu čtveráku z nich, že mohli by si udělati nějaký žertík. Ale jakým spůsobem? „Pozvi sem Lišku, "navrhl čtverák. „Výborně!" přizvukovali druzí. Hostitel pro něj poslal a v malé chvíli měli jej zde. Po několik minut se s ním bavili. Mezitím rozmlouval host čtverák s hostitelem, načež se tento odstranil, avšak hnedle se zase vrátil, maje na sobě otcův nový kabát, jenž na něm visel jako halena, neboť otec jeho byl silný muž.</p>
+
+			<p>„Ah, tys oblekl nám k vůli nový kabát? Výborně! Jest viděti, jak umíš hostů svých si vážiti," pravil čtverák. –</p>
+
+			<p>Liška byl hned u něho; obskakoval ho a znaleckým okem prohlížel kabát se všech stran, tu a tam jej pohladil a konečně pravil: „Krásná, jemná to látka! A jaký to zvláštní střih! Váš vkus bude každý obdivovati. Opravdu, pěknějšího a původnějšího střihu jsem ještě neviděl."</p>
+
+			<p>Celá společnosť vypukla v náramný smích.</p>
+
+			<p>„Pan Liška se tentokráte notně řízl! <pb n="64"/> Jest to sice nový kabát z krásné a jemné látky, ale jest to kabát otce přítelova, ne jeho. Chtěli jsme se pouze o vašem vkusu a o vaší – lichometnosti přesvědčiti," pravil host čtverák.</p>
+
+			<p>Jako opařený stál tu chvíli pochlebník, náhle pak uchopiv klobouk a pohrdavě na společnosť pohleděv, mlčky odešel.</p>
+
+			<p>Hlasitý smích jej provázel. –</p>
+
+			<p>O tomto žertíku dověděli se brzy jiní mladíci a umínili si, že pochlebníka Lišku také nějak vyplatí.</p>
+
+			<p>Několik čtveráků pozvalo ho do vinárny, kteréž pozvání on v předtuše, že dobře míti se bude, ochotně přijal. Dali přinésti vína. Sklepník, prve již poučen, postavil před každého lahev s vínem, ovšem že s dobrým; před Lišku však postavil láhev vína sprostého a velice kyselého. „To jest výborné víno;" chválili si je všichni. „Jak chutná vám, pane Liško?" tázali se tohoto. „Výborně! Již dávno nepil jsem tak dobrého vína," pravil, při čemž kyselostí stažené rty sotva rozevříti mohl k odpovědi. Čtveráci jen s velikým se přemáháním utajovali smích, v nějž pak tím hlasitěji vypukli, když Liška za „velikou tu poctu" <pb n="65"/> poděkovav, pro jakési, prý důležité zaměstnání odešel. –</p>
+
+			<p>Jestliže Lišku po delší čas nikdo nezval, pozval se sám. Za jakoukoli příčinou, již si vymyslil, navštívil tu onu rodinu krátce před obědem. Ze zdvořilosti byl pozván „na lžíci polévky" a on pozvání neodmítnul; vždyť na ně čekal.</p>
+
+			<p>Tímto spůsobem obědval také jedenkráte v rodině, jejíž synáček chodil již druhý rok do jeho ústavu učiti se hře na pianě. Mezi jiným tázal se ho otec, jak drží se jeho synáček a dělá-li nějaký pokrok?</p>
+
+			<p>„Výborně se drží!" odvětil tázaný. „Jest velice nadán a za krátký čas bude znamenitě hráti."</p>
+
+			<p>„Tomu se věru velice divím," pravil otec. „Právě včera navštívil nás nový pan učitel a zkusiv k mé žádosti chlapce, pravil, že dosud ani všech not nezná."</p>
+
+			<p>„Pane, to mluvila z něho závisť," namítal Liška. „Vím, že také trochu brnká na klavír, což však za mnoho nestojí, a tu jest mi snadno se domysliti, že hledí vám se zalichotiti a synáčka vašeho mi odvesti."</p>
+
+			<pb n="66"/>
+
+			<p>„Nedivím se nepatrnému pokroku chlapcova, pane Liško; máte mnoho učňů, pročež nelze vám s každým dlouho se obírati. Také vám nebude mnoho na tom záležeti, pakli vám jeden ubude. Prosil jsem již pana učitele, aby chlapce převzal, a on prosbě mé vyhověl. Děkuji vám za vaši dosavadní s ním trpělivosť a doufám, že zůstaneme dobrými přátely."</p>
+
+			<p>Liška se zakabonil. „Přeji, aby vám pan učitel udělal ze synáčka vašeho virtuosa!" pravil uštěpačně a krátce se poručiv mrzut odešel.</p>
+
+			<p>V jedné hostinské společnosti mluvil všeobecně známý pomluvač velmi nešetrně a urážlivě o jisté osobě, a to tak veřejně a hlasitě, že mu to většina přítomných za velmi neslušné měla a od něho s nevrlostí se odvracela; jen Liška dychtivě poslouchal a nemohl dosti nadiviti se té bystrozrakosti, chvále pomluvače neustále.</p>
+
+			<p>Tu vystoupil jeden vážný měšťan a tázal se: „Pane Liško, znáte osobu, o níž se tu mluví?"</p>
+
+			<p>„Inu – inu – já" koktal tázaný, „podle jména ano, ale – takto – osobně nejsem s ní znám."</p>
+
+			<pb n="67"/>
+
+			<p>„Tedy nevím," mluvil měšťan dále, kterak můžete chváliti pomlouvání osoby, jíž ani neznáte a která kladla by si asi za velmi malou česť s vámi se seznámiti. "</p>
+
+			<p>„Je pravda!" volali mnozí z přítomných. „Má-li tuto soused příčinu chyby její veřejně odkrývati," pokračoval měšťan, „jest to jeho věcí, chváliti to nebude nikdo, jak jste se přesvědčil; ale. tím méně chváliti bude toho, kdo jej v tom podporuje, dotyčné osoby ani neznaje. Mohl byste se, chtěje slouti vzdělaným, styděti!"</p>
+
+			<p>„Dobře jste pravil, sousede," volali po té mnozí. „Hanba jest pomlouvati nepřítomného, an se hájiti a pomluvu odmítnouti nemůže."</p>
+
+			<p>Zahanben opustil Liška společnosť. A od té doby hvězda jeho hasla. –</p>
+
+			<p>Ale hlavní rána byla mu zasazena, když přistěhoval se do města nejen hudebně ale vůbec všestranně vzdělaný muž a zařídil si tu hudební i pěvecký ústav. Rodiče brzy poznali, jak veliký jest rozdíl mezi ním a Liškou, a záhy se přesvědčili, že u něho dítky jejich jak ve hraní, tak ve zpěvu znamenitý prospěch činí. I netrvalo to dlouho, a majetník <pb n="68"/> nového ústavu získal si přízeň celého města.</p>
+
+			<p>Vše opustilo Lišku; ten pak vida konec své slávy – konec svých šmejdů – odstěhoval se z města, nevědělo se kam. Nikdo o něm více neslyšel, ale také o něm nikdo pochvalně nemluvil.</p>
+
+			<p>Co prospěje pochlebníku chválení a lichocení; co prospějí mu úklonky a poklony sebe hlubší, jimiž jen nerozumné a ješitné lidi nějaký čas klamati může? Nikdo ještě nedožil se toho, aby pochlebník nekalé své umění dlouho byl provozoval. Přijde zajisté čas, kdy škraboška přetvářky stržena bude mu k jeho zahanbení!</p>
+
+			<l>Varujte se pochlebníků,</l>
+
+			<l>jedovatých to jazyků!</l>
+
+			<pb n="69"/>
+
+
+		</div>
+
+		<div>
+
+			<head>Nezištné přátelství.</head>
+
+		</div>
+
+		<div>
+
+			<head>Vyprávěnka hodná následování.</head>
+
+			<pb n="70"/>
+
+
+			<pb n="71"/>
+
+			<p>Václav a Jan, dva rolníci, rostli spolu od dětinského věku. Statky jejich rodičů stály naproti sobě; bylo třeba takřka jediného skoku a – hoši byli u sebe.</p>
+
+			<p>Již od nejútlejší mladosti měli se rádi; spolu si hrávali, spolu chodili do školy i ze školy a jeden bez druhého ani jablka, koláče aneb buchty nesnědl.</p>
+
+			<p>Hoši dorostli v statné muže, avšak i přátelství jejich neslablo, ale stále sílilo.</p>
+
+			<p>Nebylo večera, aby nebyli po práci na chvíli si pohovořili; nebylo neděle, aby nebyli vzájemně se navštívili a o domácích záležitostech a o hospodářství si promluvili anebo do polí si vyšli; nebylo domácí slavnosti, aby nebyli jí spolu užívali.</p>
+
+			<p>Tu Václav náhle a nebezpečně se rozstonal. K většímu neštěstí stalo se to ve žních. O dělníky byla veliká nouze. Václav naříkal, že mu obilí přezraje <pb n="72"/> a zrní vypadá, a bude-li dlouho churavěti, že je nebude moci snad ani skliditi. –</p>
+
+			<p>„Ale, ale!" konejšil jej Jan, „neměj o to starosti a raději hleď, abys byl zase zdráv. Přílišnou starostí mohla by nemoc tvá se zhoršiti."</p>
+
+			<p>I dal Janovo obilí ještě dříve než své posíci a v snopy svázati i do stodoly svezti. Bez Václavovy úslužnosti byl by Jan veliké škody utrpěl; neboť rok byl vlhký, často pršelo, a tak bylo by mu obilí v klase na poli zrostlo a konečně i shnilo.</p>
+
+			<p>Jan srdečně děkoval Václavovi a přál si jen, aby mohl se mu za přátelskou tu službu jednou odsloužiti.</p>
+
+			<p>Naskytla se mu k tomu žádaná příležitosť. Několik let později přihnala se veliká bouře; za hrozného hřmění a burácení vichřice padaly ledové kroupy velikosti vlaských ořechů a zničily takřka docela veškeré již dozrávající obilí Václavovo.</p>
+
+			<p>Polnosti Janovy byly ušetřeny; neboť zkázonosná mračna táhla pruhem a zasáhla pouze Václavovu polní úrodu. – Ubohý! nesklidil ani tolik zrní, kolik ho <pb n="73"/> vysil. Hrozily mu nedostatek a nouze. Byl velice smuten.</p>
+
+			<p>„Nenaříkej, příteli," pravil k němu Jan, „požehnal-li Bůh mně a zachránil-li úrodu mou, zachránil ji proto, abych mohl se ti odměniti za šlechetné přátelství, jež prokázal jsi mi v mé nemoci; zachránil ji, abych mohl ji s tebou sdíleti."</p>
+
+			<p>A jak pravil, tak učinil.</p>
+
+			<p>Nejen že poskytnul mu ode všeho obilí tolik, kolik potřeboval pro domácnosť, ale i kolik bylo mu ho potřebí k příštímu setí.</p>
+
+			<p>Přátelé tito sdíleli spolu, jak viděti, veškery radosti i starosti.</p>
+
+			<p>Mínil-li jeden z nich něco důležitějšího podniknouti, neučinil toho, aby nebyl s druhým se poradil, aby nebyli spolu prve vše rozumně uvážili. A nacházel-li se některý z nich v nějaké rozpačitosti, což snadno přihoditi se může, tu neustal druhý dříve, dokud ho jí nebyl zbavil. Ani mezi vlastními bratry nebylo takové upřímnosti, tak nezištného přátelství k nalezení. –</p>
+
+			<p>Když ostatní sousedé viděli, jak Václav s Janem se milují, jak upřímné a <pb n="74"/> srdečné přátelství mezi nimi panuje, jak jeden s druhým vše příjemné i nepříjemné sdílí, říkávali: „Není na světě nad pravého přítele!"</p>
+
+			<l>Pravý přítel ve dne v noci</l>
+
+			<l>přemýšlí, jak ti pomoci;</l>
+
+			<l>nemá klidu, nemá stání,</l>
+
+			<l>dokud tebe nezachrání.</l>
+
+		</div>
+	</body>
+	<back>
+		<div type="liminal">
+
+			<pb n="75"/>
+
+			<head>Obsah.</head>
+
+			<p><hi rend="formated">Stránka Pravý přítel: Úvod...5 Původ bohatství...12 Studie...16 Gustavův příjezd do hlavního města...22 Gustav v Praze...27 Bedřich v hlavním městě...33 Bedřich ve svém postavení...38 Rozmluva páně Tomanova s Bedřichem...44 Setkání...48 Pravý přítel...53 Pochlebník...57 Nezištné přátelství...69</hi></p>
+
+		</div>
+	</back>
+</text>
+</TEI>

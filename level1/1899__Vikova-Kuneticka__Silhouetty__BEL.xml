@@ -1,0 +1,1159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0023" xml:lang="cs">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>Silhouetty mužů</title>
+			<title xml:lang="en">Silhouettes of men</title>
+			<author>Viková-Kunětická, Božena (1862-1934)</author>
+			<respStmt>
+				<resp>editor</resp>
+				<name>Institute of the Czech National Corpus: diachronic section</name>
+			</respStmt>
+		</titleStmt>
+		<extent>
+			<measure unit="words">22714</measure>
+		</extent>
+		<publicationStmt>
+			<p></p>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=17313"></ref>
+				<publisher>National Library of the Czech Republic</publisher>
+				<relatedItem type="printSource">
+					<bibl>
+						<title>Silhouetty mužů</title>
+						<publisher>F. Šimáček</publisher>
+						<pubPlace>V Praze</pubPlace>
+						<date>1899</date>
+					</bibl>
+				</relatedItem>
+			</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc n="eltec-1">
+		<p></p>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage><language ident="CS">Czech</language></langUsage>
+		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
+			<e:authorGender key="F"></e:authorGender>
+			<e:size key="short"></e:size>
+			<e:canonicity key="low"></e:canonicity>
+			<e:timeSlot key="T3"></e:timeSlot>
+		</textDesc>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2018-10-31"></change>
+	</revisionDesc>
+</teiHeader>
+<text>
+	<front>
+		<div type="titlePage">
+
+			<pb n="3"/>
+
+			<p>B. Viková-Kunětická</p>
+
+			<p>Silhouetty mužů</p>
+
+			<p>Dohra</p>
+
+			<p>Po všem</p>
+
+			<p>V Praze</p>
+
+			<p>Knihtiskárna F. Šimáček nakladatelé</p>
+
+			<p>1899</p>
+
+		</div>
+
+		<div type="liminal">
+
+			<pb n="4"/>
+
+			<pb n="5"/>
+
+			<p>Annuši</p>
+
+			<pb n="6"/>
+
+			<pb n="7"/>
+
+			<p>Dohra</p>
+
+			<pb n="8"/>
+
+		</div>
+	</front>
+	<body>
+		<div>
+
+			<pb n="9"/>
+
+			<p>Jest něco shnilého ve státě dánském! —</p>
+
+			<p>U všech všudy, ale to se přece každého netýká! Záleží vždycky jen na jednotlivci, chce-li, aby život jeho byl docela příjemným. Hloubky vod je třeba zkoušet, aby lázeň byla docela po chuti. Na tom hlavně záleží, aby se vybralo, vynalezlo místečko, kde by nebylo příliš mnoho, ani příliš málo vody. Oboje by sklamalo, neb aspoň zkalilo požitek. Vždyť beztoho celý život je takovým solidním potokem, který má své výmoly a své mělčiny. Vyhnouti se těm výmolům i těm mělčinám znamená klidný a docela příjemný život.</p>
+
+			<p>Kdyby byla možná jiná filosofie, musel by ji rozhodně každý moderní člověk správně pochopiti, ale jiné není a nemůže být!</p>
+
+			<p>Když stál náš hrdina (jak je to pojmenování ošuntělé!) před zrcadlem, na němž se usadil snad všechen prach jeho myšlének, hloubal ve své tváři a přál si, aby byla aspoň potištěna.</p>
+
+			<pb n="10"/>
+
+			<p>Jaké by bylo štěstí, kdyby někde na čele byl počátek povídky jeho života a na bradě její konec. Viděl by aspoň pak vše jasně, přečetl by vše plynně a ubránil by se sentimentálnímu hnutí při tomto neplodném dívání se do svých vlastních očí, z nichž zíralo na něho neskonalé umdlení.</p>
+
+			<p>Jinak cítil se docela pořádným člověkem, který dostal se jen do nepříjemné situace. Takové situace jsou jako vodní smrště a zachvátí i nejsolidněji pracovanou loď.</p>
+
+			<p>Mladý muž se nemohl ubrániti smíchu. Ta spousta vody, kterou měl dnes v zásobě, dráždila jej jako dobrý vtip. Koupele, potoky, vodní smrště — nezbývalo, než aby ještě vytáhl ze své duše několik vln s bílými, zčeřenými hřebeny. Není divu, že se člověk musí smát! Ostatně je docela správné a zdravé, že je v dobrém rozmaru.</p>
+
+			<p>Napsal velikými literami na zrcadlo: „Utřít prach, babo!“ a obrátil se, aby se oblékl do svého úředního kabátu.</p>
+
+			<p>A pak se již do zrcadla nepodíval, věda, že tímto obléknutím úředního kabátu ztratil úplně pohled na své vlastní já, které schoulilo se jako kuře, jež vlezlo do cizí posady.</p>
+
+			<pb n="11"/>
+
+			<p>Takové kuře v cizí posadě zalezlé, zamlklé a skrčené!</p>
+
+			<p>A přece je něco shnilého ve státě dánském!</p>
+
+			<p>Aspoň mladý muž nemohl pochopiti, proč béře na sebe povinnost v podobě matně lesknoucích se rukávů, odřeného límce a ošoupaných knoflíků.</p>
+
+			<p>On, který miloval tolik voňavky, batistové šátky a světlé kravaty!</p>
+
+			<p>Cítil se poněkud sláb, ale to přikládal noční pitce, ve které setrval až do dvou hodin, jsa víc a více nakloněn k pláči. Tuto svoji slabost pojímal vždy s neobyčejnou šetrností, protože cítil se v ní dobrým, jaksi opozděle dětinným a hluboce tklivým. A dnes byl vyčerpán, trochu mrzut a jaksi stydlavý. Bylo mu nevolno, že nemůže stopy té noci se sebe setřásti a že se cítí nespokojen. Měl bledé ruce, trochu navlhlé, a po zádech pobíhala mu zima. — Bylo sedm hodin z rána. Před ním stál celý den, podzimní den, zamlžený, hustý a protivný.</p>
+
+			<p>Teprve nyní si jej jaksi uvědomoval a chápal celou jeho nevlídnou dotěrnost. Jeho bledý, suchý obličej, plný záhybů, jaké povstávají na předčasně utržených jablkách, když delší čas leží, sevřel se od očí ke rtům, což vypadalo jako při prudké fysické bolesti, kterou <pb n="12"/> strádá. A pak mimovolně nakadeřil si špetku vlasů nad čelem a nakroutil si kníry, v nichž mihal se první šedivý proužek.</p>
+
+			<p>Bylo mu dvaatřicet let. Možná dost, že zbylo mu ještě něco pro život od třicetidvou let do šedesáti, ale mnoho toho nebylo, aspoň on věděl, že s ničím nešetřil.</p>
+
+			<p>Ale při tom bylo ku podivu, že s tím vším, co minulo, neměl pranic společného a že důležito zdálo se mu býti pouze to, co právě v tu chvíli konal a myslil. Vždy to pokládal za něco zcela nového, co jest prvním zákmitem určitého rozuzlení jeho života, který tu a tam počínal jej tísniti, ačkoliv nevěděl, proč se tak děje.</p>
+
+			<p>Zdál se sám sobě býti velice mlád a dosti nadšen, aspoň tak nadšen, že se nemohl pokládati za všedního člověka.</p>
+
+			<p>Všedními lidmi byli všichni, kdož přicházeli do svých úřadů se spokojeným, klidným výrazem v tváři a kdož u oběda nikdy nežehrali. Ale on nebyl spokojen! A pak, on se dovedl nadchnouti! A dovedl vzplanouti spravedlivým hněvem! A přál si býti lepším, než byl!</p>
+
+			<p>Někdy také četl pozdě do noci a druhý den odpovídal ku všem otázkám svých přátel:</p>
+
+			<p>„Ale to všecko za nic nestojí! Číst se musí! V takové knize jako jest ***, tam je život, tam <pb n="13"/> je rozebraný vnitřek člověka pathologicky do nejmenších podrobností. Našel jsem tam své srdce, svůj mozek, svoje ledviny, své plíce! Čísti se musí, přátelé, aby člověk věděl, na jakém stupni se ocitl. Vždyť jsme zvěř, divoká zvěř — a nic jiného —“</p>
+
+			<p>Přátelé jeho snad nepochopovali jeho rozhorlení, ale on při něm cítil, jak roste, jak odhazuje se sebe tu srst zvířecí, kterou na sebe dobrovolně přejímal, a jak z ní vylézá očištěn a povznesen. Vraceje se domů, uzavřel knihu, podíval se do zrcadla, je-li dosud bled rozechvěním, a napustil se jemnou růžovou voňavkou. Připadal si skutečně tak svěží jako keř růží, jenž vzpučel prvním květem. A takové chvíle byly mu posilňujícími doušky v jeho atrofií stísněném životě.</p>
+
+			<p>Chtěl se také oženiti, ale jen proto, aby okusil příchuť rodinného života a rozeznal, zdali by nesvědčila jeho síle a jeho duchu. Býval velmi pohnut, viděl-li mladé novomanžely, jak hlavu u hlavy, ruku v ruce kráčejí davem, nevnímajíce z něho ničeho a vycházejíce z něho nedotčeni jako mládenci z pece ohnivé blahé paměti. Nemohl si nikdy odepřít vláčeti se za nimi kus cesty a sledovati každý jejich pohyb, každý úsměv, když nebylo možno rozeznati slova, neboť si pravidelně šeptali.</p>
+
+			<pb n="14"/>
+
+			<p>Ale chodě tak chvíli za nimi, nabýval pozvolna klidu, nadšení jeho se mírnilo, až konečně seznal, že naprosto se nedovede vžíti v pocity toho muže před sebou, který s takovou něžností se sklání ke své ženě, jež vkusu našeho mladého muže úplně nevyhovovala.</p>
+
+			<p>Zdála se mu být vždy všední, příliš tělesná! To by bylo možno vzíti si každou Františku za ženu a věnovati jí celý svůj život za to, že má dlouhé vlasy, veliké rty, široký pás a umí uvařit knedlíky! A kde by zůstalo naše sebevědomí, naše vlastní cena, naše požadavky?</p>
+
+			<p>Představme si takovou Františku (on nenáviděl jméno „Františka“), jak musí být nudna, když nemá co povídat, anebo jak musí být oškliva, když je zamazána prachem, když má peří ve vlasech anebo když se hubuje se služkou! A to všecko ten člověk před ním nevidí?</p>
+
+			<p>Může se k němu rovnati? Mohl by se snadno dopátrati, kdo to vlastně je, ale bylo by to zbytečno. I takto docela dobře je viděti, že je se životem spokojen a že mu stačí hovězí polévka denně k obědu.</p>
+
+			<p>Člověk by vyletěl z kůže, vidí-li, že se od Adama a Evy tak málo změnilo!</p>
+
+			<p>V potu tváře budeš dobývati svého chleba — a večer půjdeš se svou Františkou na <pb n="15"/> procházku. Zatím nedopouštěj Bůh! Náš hrdina otočil se na podpatku, obrátil se k novomanželům zády a šel si prohlížet děvčata. Vraceje se domů, byl přesvědčen, že je bohat nároky a že mu tak leccos nestačí. V tom spočívala jeho pýcha a stupňovalo se jeho sebevědomí.</p>
+
+			<p>„V požadavcích spočívá cena muže! Nedovedu-li zvítěziti nad silným, je vidět, že jsou vlastní moje svaly z tvarohu.“</p>
+
+			<p>Ale takto žil jen v nejintimnějších chvílích svého života. Ostatní trávil mrzut v kanceláři nebo příliš vesel s přáteli a s děvčaty. A ještě častěji s děvčaty. Nic mu po té stránce nebylo již nového, nic dráždivého, ale vesel dovedl při nich býti. Proč ne? Civilisovaného člověka mohou bavit i opice! Proto přece mu ani na mysl nepřipadne, že je téhož původu a že by s nimi mohl pitvořiti se po mimojdoucích. Zábava! Ryze jednoduchá zábava, od které odcházíme s dobrosrdečným úsměvem a na niž zapomínáme, sotva že u rohu vrazil do nás první člověk nesoucí balíky! Co je to všecko?</p>
+
+			<p>Kapesní šátek! A to se ví, že máme raději kapesní šátky hedvábné než bavlněné!</p>
+
+			<p>To bylo všecko omluvitelno! Ale jeho připoutání k úřadu, v němž vydělával svůj chléb, byla přímá otrava. Jak k tomu přišel, že si <pb n="16"/> vůbec měl vydělávati chléb? A ještě k tomu být při tom otrokem a nosit odřený kabát pro úsporu! To jej nesmírně snižovalo a popuzovalo, ačkoli nebyl anarchistou — pro Boha, to ne — bylo to spíše snížení morální než společenské, týkající se bezprostředně pouze jeho vlastní bytosti, která strádala manií požitkovou a jejíž celý organismus byl z docela jemného tkaniva, které se nesmírně snadno rozechvěje!</p>
+
+			<p>Co pak měl společného s těmi ciframi před sebou, copak s těmi zaprášenými fascikly, copak s tím pérem prosáklým bahnem inkoustu?</p>
+
+			<p>Jak k tomu přišel, že přestával býti svým, že sebe musel svinouti do kotouče a že z celé jeho bytosti zbyl mu jen jeho knír, který mezi prsty mohl si zakroutiti? A to byl také život hodný člověka, který přišel z pralesů a hledal štěstí v civilisaci! Pěkná civilisace!</p>
+
+			<p>Ze stínu vysokých palem octnouti se v jizbě, ve které je pro něho vyměřeno místo jako pro vycpaného dravce v musejní vitríně, ve které je dusno, zaprášeno a v níž od rána do večera je slyšeti škrtání zkažených per!</p>
+
+			<p>Kdyby si byl milý Bůh představoval takto „dobývání chleba v potu tváře“, byl by po sto krocích Adamových zavolal jej otcovským hlasem zpět a takovou kancelář by si byl nechal jen za <pb n="17"/> příšernou hrozbu pro přestupkové dny prvního člověka.</p>
+
+			<p>Ale on si to tak představovati nemohl, vida všude, kam dohlédl, palmové háje, nádherné rajky a oslňující motýle.</p>
+
+			<p>To si jen sám člověk zkaňhal a nemůže nikomu vinu dávat.</p>
+
+			<p>Chtěl míti kancelář stůj co stůj — nu, tak ji má. Bože milý, má ji, proč by jí neměl?</p>
+
+			<p>Lapnou-li našeho milého příbuzného, jehož jsme nechali na různých ostrovech tropických krajin, dávají ho za mříže — my sedíme celý den v kanceláři a večer, chceme-li, můžeme se jít na ubohého příbuzného podívat. On se dívá na nás, my na něj a druh druhu nerozumíme. Jemu stýská se po volných, vonných hájích, po vysokotravných prériích a my jsme šťastni, že můžeme jít domů spat. Pomyslete, ta volnost! Domů jít se vyspat! Stesku po prériích a pralesech neznáme. To je nám příliš vzdáleno. My, kdybychom chtěli jet do blízkého lesa, kde máme korunky borovic zrovna nad hlavou, musíme si vzít na to zvláštní dovolení.</p>
+
+			<p>Za takových a podobných myšlének ovšem náš mladý muž byl pokaždé mrzut, když odcházel do kanceláře a zanechával svůj pokoj v ranním neladu, v němž chvěly se ještě odstíny <pb n="18"/> tvrdého spánku po probděných nocech, v nichž se bavil pokud možno a praničeho se neodříkal, leda šampaňského, bylo-li před prvním.</p>
+
+			<p>Přišel do kanceláře s vyhrnutými rty a s tváří o dvacet let sestárlou. Byl bledý, vpadlý a jeho hlas přeskakoval v sípavých toninách. Nedovedl se pro nic rozehřáti, jen tak chvílemi zadíval se oknem na proužek zimomřivé, nemocné oblohy, o které se mu zdálo, že by potřebovala několik doušků silného grogu. Proč — sám nevěděl. Téhož dne byl pátek a mladý muž s hrůzou si vzpomněl, že budou k obědu lívanečky s povidly nebo maso zbylé od minulého dne na divoko.</p>
+
+			<p>A teď by byl rád věděl, jak se stalo, že byl v noci tak vesel. Copak ten život stál za jediný úsměv? Což bylo vůbec možno se smát? Před takovýmto dnem, v němž duše stonala všemi možnými katarhy a v němž jídelní lístek hodil se tak pro trochu skromnější zvíře?</p>
+
+			<p>Umínil si, že odpoledne navštíví paní Velišovou. Vždyť by v té všednosti musil zajít, vždyť by sám o sobě musel již pochybovati, že je něčeho lepšího hoden než tohoto života, v němž ani cigareta nemohla hořet, měla-li v sobě jen trochu ctižádosti.</p>
+
+			<p>Utkvěl myslí na paní Velišové a hlasitě <pb n="19"/> pravil, jako by nemohl odolati říci nahlas, o čem právě přemýšlel:</p>
+
+			<p>„Musím odpoledne k paní Velišové. Potřebuju vsát do sebe trochu ambry. Připadám si dnes jako zmrskaný pes, pod svou důstojnost.“</p>
+
+			<p>Nikdo mu na to neodpověděl a on se pohrdlivě usmál. Potom vypjal ruce do výše, jako by se chtěl protáhnouti, a pravil tiše: „Chtěl bych míti ženu, jako je paní Velišová! To by sílilo srdce i duši, přátelé!“</p>
+
+			<p>Přátelé však znali již příliš dobře tyto výlevy jeho sentimentálnosti a ani se jim už nepousmáli. Snad byli také schváceni a nevěděli, co počít s životem.</p>
+
+			<p>Péra škrtala po papíře. Civilisovaný člověk psal cifry a vydělával chléb. A pak že spějeme k dokonalosti! Mladý muž by byl rád věděl, jak bude znít její konečná cifra.</p>
+
+			<p>Paní Velišová měla novou chůvu, a když náš mladý muž vešel do předpokoje, potkal děvče na prahu. Mělo sličné, veliké, černé oči s dlouhými brvami, a když na něho pohlédlo, usmálo se celým obličejem a měkké jeho rty <pb n="20"/> protáhly se ve dvě krvavé rýhy, které vypadaly jako sečné rány v jeho bílém, svěžím obličeji. Mladý muž nemohl odolati, aby děvče nechopil za ruku a nestiskl mu ji vší silou. Dotek této ruky, poněkud tvrdé, ale lahodně teplé, způsobil v něm na okamžik pocit rozkoše, který však přivedl jej do té míry z nálady, s kterou původně k paní Velišové přicházel, že by byl nejraději se obrátil a odešel. Viděl již napřed, že není zase hoden, aby ta milá paní věnovala mu trochu svého času, a on že již zase nebude schopen býti celou svou bytostí účasten štěstí, které si představoval vždy, touže po společnosti paní Velišové.</p>
+
+			<p>Chůva mu ruku vytrhla a dlouhé brvy sjely jí přes oči jako parádní clona. V tom však již bylo slyšeti hlas paní Velišové, která uspávala svého nejmladšího syna rozmarným nápěvem, v němž lahodný hlas její příjemně se zachvíval.</p>
+
+			<p>Mladý muž uznával, že nepřišel v čas, a obával se nudy. I nejlíbeznější a nejduchaplnější žena je nudna, myslí-li na své děti neb obírá-li se jimi. V tu chvíli nebylo by možno se jí s důvěrou zeptat na největší město Skandinavie, leda by její syn právě měl zeměpisnou úlohu.</p>
+
+			<pb n="21"/>
+
+			<p>Ale mladý muž přece doufal, „že se posilní“. Znal paní Velišovou velmi dobře a věděl, že uhodne jeho noční hříchy i jeho dnešní rozklad myšlénkový. A v tom případě věděl skoro určitě, že mu bude klásti na srdce, aby se oženil, aneb aspoň aby se rozhodl oženiti se. Bývala v takových chvílích neobyčejně příjemná a vtipná a vžívala se okamžitě v úřad protektorky „té neznámé“.</p>
+
+			<p>A mladý muž skutečně podléhal její suggesci, stával se přístupným jejím důvodům a pod rouškou sentimentálnosti, která však nebyla umělá, shledal všecky dobré stránky domluv paní Velišové, jež sama o sobě již dovedla jej přivésti z míry a býti pro něho nejdokonalejším vzorem jeho příští ženy. Proto k ní chodíval tak rád. Pro illusi. Pro „lanýže“. Věděl, že těmito „lanýži“ neukojí svůj hlad (a vlastně nebyl hladov a to bylo nejhorší), ale že si jimi zbystří smyslovou chuť. Potom dlouho do noci měl v sobě příjemný pocit nějaké životní nutnosti, nějakého účelu, jehož možno dosáhnouti, a když usínal, usínal s představou mladé ženy, která neměla pranic společného s těmi, jež posud znal a jež se mu líbily. Jen tak částečně podobala se paní Velišové, jen že měla pohled jemnější a úsměv oddanější.</p>
+
+			<pb n="22"/>
+
+			<p>Ale nyní vešel. Nezbývalo mu nic jiného, a kdyby bylo zbývalo, byl by to jistě nevolil.</p>
+
+			<p>Paní Velišová byla překvapena jeho příchodem a rychle se sehnula, aby uložila dítě, jež měla na rukou, do kolébky. Uzarděla se poněkud, ale to bylo možno přičísti na vrub bílé pleně, která veskrz mokrá uvízla jí v ruce, když dítě ocitlo se v kolébce.</p>
+
+			<p>Měla na sobě bledě modrý župan s bílou krajkou a ve vlasech granátový hřebínek. V pokoji bylo cítiti vařený fenykl a pak vůni pokojů dětských, v nichž vše je jako napuštěno jejich dechem, jejich smíchem i slzami. Jedna ze záclon byla spuštěna a v pokoji panovalo přítmí podzimního odpůldne násilně ještě zvýšené. Na stole stálo několik hrnéčků, řehtačka v podobě šaška v hedvábném úboru, krabička s rýžovou moučkou a rozešitý kabátek, v němž kolmo trčela na rychlo zapíchnutá jehla.</p>
+
+			<p>Mladý muž nevnímal z toho všeho však ničeho jiného než pocit nevolnosti a dusivé tíhy, která působila na něho nepříjemně.</p>
+
+			<p>Byl proto nesmírně povděčen paní Velišové, když brzy po jeho vstoupení otevřela dvéře do svého malého, útulného salonku, v němž shledal zase celé kouzlo její bytosti, <pb n="23"/> které v předním pokoji utrpělo takovou pohromu.</p>
+
+			<p>Jaký to blahodárný pocit míti delikátní ženu, která má smysl pro lad a vkus a nevodí děti do všech pokojů! Ta mokrá plena v rukou paní Velišové přece však utkvěla mu v mysli, takže když za nějakou chvíli za ním vstupovala, přemýšlel o tom, zdali si umyla ruce a může-li jí je s plnou chutí a se svým starým nadšením políbiti.</p>
+
+			<p>Paní Velišová snad uhodla jeho myšlénky (čeho by byla ona neuhodla!), neboť podavši mu ruku, odtáhla ji s úsměvem ještě v čas, zabraňujíc tak jeho dvornému nachýlení. Zapomněla si je tedy umýti.</p>
+
+			<p>To bylo velmi neopatrné! Mladý muž by si byl přál, aby ji viděl méně lidskou, aby byl uchvácen, aby byla zaplavena vůní jakousi nebo světlem. Což je lze vystihnouti všecka přání člověka, který přichází do chrámu se „posilnit“, ambru vsát, odpoutat svou duši? Více božství! Více tajů! Méně všednosti! Člověk by se rád modlil. Pane, kdyby neměli kněží rýmu, kdyby nebylo hřmotných podešví kostelníků a kdyby věděl, že ministranti nechodí do páté třídy chlapecké školy.</p>
+
+			<p>Náš mladý muž litoval z celého srdce, že <pb n="24"/> působily dnes ruce paní Velišové na něho dojmem příliš lidským!</p>
+
+			<p>Nu, ale konečně bylo nutno, aby spolu něco hovořili. Mladý muž usedl na nízký taburet, kde sedával vždy s duší pokornou, jako člověk hříšník, který si přichází pro rozřešení a jemuž nezbývá nic jiného než kleknouti, a paní Velišová svezla se do houpací lenošky, v které však nikterak nevyhledávala pós. Usmívala se trochu zlomyslně a mlčky prohlížela si tu stařeckou, unavenou tvář mladého muže.</p>
+
+			<p>„Milostivá paní,“ pravil on prosebně, obávaje se, že její zpytavý pohled stane se mu již lhostejným.</p>
+
+			<p>„Buďte bez starosti!“ zvolala ona skoro se smíchem. „Vidím, že vás již zase nemohu bráti vážně. Ale prosím vás, co mám s vámi dnes počít? Můj malý hoch mně stůně k zoubkům. Jsem dnes skutečně až hrozně všední. Nedovedu se hned vpravit do nálady! Považte, že od rána vařím fenykl , hubuji chůvu a piju se svým hochem mléko, abych věděla, je-li dobré a teplé. Chcete, abych pokračovala?“</p>
+
+			<p>„Milostivá paní —“</p>
+
+			<p>„Jste již ženat?“</p>
+
+			<p>„Ale, milostivá paní, nebuďte ukrutná! <pb n="25"/> Věřte mně, že potřebuji soucitu. Prosím vás, řekněte mně, že nejsem špatný člověk.“</p>
+
+			<p>„Byl jste dnes v noci dlouho vesel?“</p>
+
+			<p>„Až do dvou hodin. Pak jsem se dal do pláče nad svým štvaným životem.“</p>
+
+			<p>Paní Velišová nachýlila se trochu v před, podívala se mu do očí a oba současně se dali do smíchu. A také tak oba současně majíce ještě ten svůj široký smích na rtech, tázali se jedním dechem:</p>
+
+			<p>„Proč se smějete ?“</p>
+
+			<p>Ovšem že nikdo z nich neodpověděl, neboť smích jejich byl spíše jakýmsi neurčitým vnuknutím než vědomou nutností.</p>
+
+			<p>Ale oba jistě smáli se vážnému tónu mladého muže, kterým mluvil o svém uštvaném životě!</p>
+
+			<p>Pak nastala pomlčka. Pomlčka v zajiknutí, která také mohla býti předzvěstí ještě dalekého zívnutí. Paní Velišová byla dnes opravdu všední. Nedovedla nadchnouti a to bylo jen tím, že její malý hoch stonal k zoubkům. Bylo skoro nutno, aby náš mladý muž přemýšlel o tom, zdali i paní Velišová by ho nesklamala v manželství, nemajíc v sobě tolik mateřské síly, aby zabránila u svých dětí vůbec vývinu zubů. Vždyť ten její choť musí býti rozmrzen, vida <pb n="26"/> ji tak slabou vůči těmto nezdravým okolnostem.</p>
+
+			<p>A dívat se na ně vážně, docela vážně, to je při tom nejsmutnější. Paní Velišová zeptala se ho, o čem přemýšlí, a on odpověděl, že tanul mu na mysli její muž.</p>
+
+			<p>„Můj muž? — Jak jste přišel, pro Boha, na mého muže?“</p>
+
+			<p>„Chtěl jsem se vás zeptati, milostivá paní, jaké stanovisko on zaujímá vůči prvním zubům vašeho maličkého.“</p>
+
+			<p>„Přejete si to vědět se zřetelem na své příští otcovství?“</p>
+
+			<p>„To jest — skutečně z jisté opatrnosti —“</p>
+
+			<p>„Pak se upokojte. Jeho stanovisko jest úplně passivní.“</p>
+
+			<p>„A netrpí ani tím, že vás vidí příliš zaujatou, příliš —“</p>
+
+			<p>Paní Velišová dala se opět do smíchu.</p>
+
+			<p>„V manželství se tolik nepřemýšlí,“ pravila jasně. „A pak jest povinností mou vpraviti mu aspoň trochu respektu k zoubkům svého syna, již z ohledů čistě praktických.“</p>
+
+			<p>„Vy ženy jste tedy v každém ohledu šťastny v manželství?“</p>
+
+			<p>„Máme-li děti, ovšem! Protože pak za každých okolností jsme na místě.“</p>
+
+			<pb n="27"/>
+
+			<p>„To však nepochopuji! Co pak my nejsme na místě?“</p>
+
+			<p>„Jen v tom případě, máte-li větší příjmy, než jsou výdaje, a dovedete-li se v čas obětovati. Váš poměr k rodině se vždycky určuje dle příjmů. Kdybyste neměli vůbec příjmů, byli byste ovšem docela zbytečni i při prvním pláči svých dětí i při vývinu jejich zubů a my bychom se ani nesnažily vám vpravovati otcovské pocity a nálady.“</p>
+
+			<p>„A to chcete, abych se oženil, milostivá paní?“</p>
+
+			<p>„A co můžete jiného učiniti, když nejste sám schopen života? Pak aspoň bude váš život něčemu podmíněn, stanete se, když ničím jiným, důležitým nástrojem a pochopíte vážnost svého místa v kanceláři. Co pak mně nerozumíte?“</p>
+
+			<p>Mladý muž trochu udiven podíval se do jasného pohledu paní Velišové a pravil skoro podrážděn:</p>
+
+			<p>„Vy nejste všední dnes, milostivá paní, ale neobyčejně praktická. Za takových okolností nevím ovšem, s jakými pocity budu odcházet. Vždyť mně ubíráte vlastně to jediné, v co jsem dosud doufal, a to jest touha po rodinném životě.“</p>
+
+			<pb n="28"/>
+
+			<p>Lhal, teď lhal! Ta touha z něho vymizeti nemohla, protože mu jiné nezbývalo. Po čem mohl toužit? Po dvou místech, určených pro vycpané dravce v musejní vitrině, aby měl více místa a vypadal důležitěji? Po těch bylo možno toužiti, při sám Bůh, jen za praktických názorů paní Velišové, která nezdála se mít dnes milosrdenství a čpěla přirozeně jako cibule. Proč sem jen chodil?</p>
+
+			<p>„Touha! — Odpusťte, to je příliš vznešené slovo!“ pravila paní Velišová, rázem přetrhnuvši síť jeho myšlének.</p>
+
+			<p>„Vždyť vy netoužíte, ujišťuji vás. Vy jste pouze zvědav a nic jiného. Touha je již poloviční víra a vy nevěříte! Hledáte pro sebe spásu. Buďte ujištěn, že je pro vás stejné, hledáte-li ji mezi františkány nebo v manželství. Pro oboje nemáte dosti víry, ba ani ne touhy. U vás je přirozeněji vyvinuta více zvědavost vůči manželství než vůči nějakému řádu. Slibuje vám více rozmanitosti a méně přetvářky. To je všecko. Chcete něco nového a přísnějšího, než bylo vše to, co jste prožil. Chcete být spoután po přílišné svobodě. Radila bych vám, abyste vstoupil do řehole, ale k tomu jste příliš marnivý. Radím vám tedy, abyste se oženil, neboť pak můžete svou marnivost rozšířiti na ženu, na <pb n="29"/> děti, na domácnost. Což pak to není dost lákavé?“</p>
+
+			<p>„Vy jste dnes zlá, milostivá paní —“</p>
+
+			<p>Paní Velišová prudce se vyhoupla z lenošky a zvolala všecka bez sebe, jako by tento výkřik již dlouho tajila:</p>
+
+			<p>„Chtěla bych přísahat, že ta ničemná holka nechala ho zase samotného. Už chvíli poslouchám, že v pokoji přidušeně pláče. Nemohu se ani na okamžik vzdáliti bez obavy. Odpusťte, přijdu hned — podívám se, co se děje —“</p>
+
+			<p>Mladý muž nyní skutečně poděšen sledoval její bledě modrý župan, jak se mihnul ve dveřích, a snažil se pochopiti toto její náhlé zmizení a tu změnu ve hlase i ve slovech.</p>
+
+			<p>Konečně se vzchopil a sáhl po klobouku. „Chlapeček jí stůně k zoubkům.“ Ovšem, byl tulipán! Odtud její podrážděnost a ta „lidskost“, kterou nedovedla setříti se svých malých, tak půvabných ruček. Skutečně, až do salonku vniknul dětský pláč, v němž vlnilo se celé moře lítosti.</p>
+
+			<p>„A jak to asi dlouho trvá, než mu všecky vylezou?“ myslil si mladý muž, jsa tím zoufalý, že má člověk tolik zbytečných zubů. Potom se již ustanovil, že odejde. Nebyl tady rozhodně na místě, to dobře cítil.</p>
+
+			<p>Nedovedl naprosto sloučiti se s duševním <pb n="30"/> stavem paní Velišové, která měla dnes svůj „lidský“ den. Nemohl jí odpustiti, že jej tak sklamala po té jeho noci, po níž uvízly na něm celé spousty bahnitých skvrn, které chtěl se sebe smýti, dříve než by se do něho příliš hluboko vpily. Ach, jaký smutek! Člověk je přece jen neustále příliš lidským! Ale o paní Velišové předpokládal, že si to mohla odvyknouti. Rozhlédl se po jejím salonku a shledal, že ho nedojímá již tou svou nedotknutelností jako dříve, jako by byl pokryt všecek tím zvláštním prachem všednosti, který zastírá všechen lesk. Při tom nikdy nevypadá jako pel, ale jako obyčejná plesnivina. —</p>
+
+			<p>Půjde! A již se nemohl dočkati, až se paní Velišová vrátí, aby se jí mohl poroučeti. Rád by jen byl věděl, co nyní dělá a jak se tváří. Počínal být skoro ukrutným, neboť by ji byl nyní nejraději pitval v té její „lidskosti“. Možná, že peskovala chůvu, a ta měla oči zastřené svou parádní clonou, možná, že zaměstnávala se zase nějakou plenou, a on bude nucen při rozchodu ruku jí políbiti! Představme si, že mohla dělati ještě jiné steré věci, a bylo po ilusi. Pro Boha, jen žádné lanýže dnes! Náš mladý muž cítil, že jest nachýlen zkaziti si nadobro žaludek.</p>
+
+			<p>Když paní Velišová se zase vrátila, poznala <pb n="31"/> hned, že kající hříšník slyšel svého zpovědníka kýchnouti. Ona byla vtipná při všem. Poklepala mu lehce na rameno a pravila skutečně vážně:</p>
+
+			<p>„Musíte zvykati ponebí! Jste příliš exotický! Pokládám vás za kandidáta ženitby a ujišťuji vás, že vám tato návštěva u mne nikterak neuškodila.“</p>
+
+			<p>„Tomu přece sama nevěříte, milostivá paní.“</p>
+
+			<p>„Neuškodila, ujišťuji vás! Vyčítala jsem si beztoho, že se stavím mezi vás a tu vaši příští. Nyní jste se jí octnul blíž —“</p>
+
+			<p>„Cítím se dnes tak úplně bez chuti —“</p>
+
+			<p>„To přejde zas! Tak vidíte, nejsem ani já ničím jiným než takovou Františkou a ten výběr váš nyní nebude již tak nesnadný —“</p>
+
+			<p>„Milostivá paní, až přijdu zase —“</p>
+
+			<p>„Vy nepřijdete, znám vás příliš dobře — Ale teď odpusťte, je čas, abych svému pacientu šla vyměnit obkladek —“</p>
+
+			<p>Mladý muž stisknul jí ruku (políbiti nedovolila ve své delikátnosti, kterou jí upříti nedovedl) a proklouzl rychle pokoji až do chodby. Tam potkal chůvu s uplakanýma očima a viděl, že čeká, aby ji opět za ruku chopil. On si však vrazil klobouk do čela a ubíhal kolem ní, jako by se obával, že ještě někdo jej zavolá.</p>
+
+			<pb n="88"/>
+
+			<p>Za nějakou chvíli cítil Petr Bouček, že již je vrchovatě naplněn jeho řečí, v které neustával a která byla pořád stejná. Počal se ohlížeti po sklepníku, aby zaplatil, a ohlédl se, visí-li jeho klobouk tam, kam jej pověsil. Náhle mu napadlo, aby zeptal se Brůny, myslí-li všecko do opravdy, co povídá, nebo hází-li mu pouze písek do očí.</p>
+
+			<p>Stanislav Brůna se zasmál a pravil vesele:</p>
+
+			<p>„Něčemu věřím, něčemu ne — ale nemohu ti říci, v co věřím a v co nevěřím. Je to ve mně všecko zmateno. Čekám, že po svatbě se mně teprve vyjasní. Tolik jest jisto, že jsem chopil se teď vesla a že bych se ho nepustil za nic na světě. Vím aspoň, že vesluju ke břehu, a to je hlavní.“</p>
+
+			<p>Byl to tedy přece jen také rozumný člověk. Nevpravil se sice při něm do nálady, ale dozvěděl se, že ten břeh je to hlavní, čeho oba chtějí dosáhnouti. Měli stejné tužby a stejný cíl. A ostatně, co mohli počíti? Zbývalo něco jiného? Nezbývalo.</p>
+
+			<p>Petr Bouček vzpomněl si na paní Velišovou, ale v té vzpomínce nalezl starou bolest svého srdce. Ani sám nevěděl, proč mu bylo vždy krušno, když si připamatoval tu moudrou její hlavičku, ten její jasný, pevný pohled a <pb n="89"/> kovový její hlas, kterým dovedla tak duši rozechvět, že se celá vypjala v nové víře a v nové naději.</p>
+
+			<p>Zastesklo se mu po ní tak, že mimovolně, ocitnuv se s přítelem na ulici, táhl jej směrem, kde bydlila, a dvakráte prošel pod jejími okny. Ta byla zavřena, za nimi neobjevil se ani stín. Bylo mu smutno nevýslovně. Mluvili o starých časech a vzpomínali na galantní svá dobrodružství. Totiž Brůna vzpomínal. Petr Bouček díval se na čtyři okna, tichá, uzavřená a toužil celou svou bytostí, aby kmitl se v nich aspoň bledě modrý župan a rozumná tvářička s úsměvem, který dovedl všecko vsuggerovat. Ach, on potřeboval toho úsměvu! Toho úsměvu, který vždycky vgalvanisoval život, v jeho churavou, atrofií stíženou duši.</p>
+
+			<p>Počalo sněžit a za chvíli byli Bouček i jeho přítel obaleni sněhem, celé ulice zabalily se tím lehounkým příkrovem. Boučka zmocnila se úzkost, jako by v té běli měl utonout.</p>
+
+			<p>„Víš, co bych si přál?“ tázal se Brůny rozechvělým hlasem. „Aby sníh aspoň byl růžový. To bych si přál teď ze všeho nejvíce.“</p>
+
+			<pb n="90"/>
+
+			<p>„Petr Bouček a Marie Záchrastná dovolují si oznámiti, že slaví svůj sňatek atd.“</p>
+
+			<p>To bylo tedy již něco positivního. Ode chvíle, kdy rozeslal na všecky možné strany tento positivní dokument rozuzlení svého života, ocitl se náš mladý muž v takovém víru, že se mu zdálo, jako by jej náhle kdosi uchopil a otáčel jím s takovou prudkou a usilovnou vytrvalostí, že nebylo možno se vzepřít, vzpamatovat ani vydechnout. Teď ocitl se v něčem, v čem jeho vůle i sebevědomí byly úplně zbytečny. Ztratil sám sebe, jako by se částice jeho rozprchly, nebo konečně jako se ztrácí každý předmět, jímž prudce otáčíme. Mohl doufati pouze v odstředivost, ale k tomuto doufání nezbývalo mu času, a pak by byl ani nevěděl, jak a kam by dopadl. Bylo tedy přece jen líp, když tak bezvolně se otáčel a věděl, že je v bezpečí. Mohla se mu sice při tom zamotati hlava, ale bývaly skutečně již dříve chvíle u něho, kdy se mu také točila, a na konec nalezl přece vždy svoje pravé těžiště. Bál se pouze, aby nebyl příliš pitomý, až se konečně zastaví.</p>
+
+			<p>A celé jeho okolí kroužilo s ním. Jen tak letmo na tom divokém honu potkal někdy <pb n="91"/> paní Záchrastnou, pana Záchrastného a slečnu Marii. Kos, pytlík s tabákem, nedopletené punčochy, ba i ta hrozná vůně františků rozplynuly se jako dým. Paní Záchrastné vytvořila se nová rýha v koutcích úst, rýha zvláštní bolestné starostlivosti, a pan Záchrastný položil pečlivě opět jednu vrásku vedle těch ostatních, jež měla jeho manželka již v evidenci. Bylo patrno, že je všecko vážnější, než bylo lze pochopiti. V noci usínal Petr Bouček těžkým, hlubokým spánkem a ráno probouzeje se, nalézal sebe zase rozprchlého v kroužení, v kterém všecko před ním zanikalo. V letu jedl, pracoval, spal. Nebylo vteřiny, kdy mohl sáhnouti sám na sebe a říci si: „To jsem já.“ Jen tak neurčitě cítil, že dosud je a že nepřestal být. Kde byl, v čem se jevil jeho vlastní život, to nemohl ovšem určiti. Vězel v poměrech, v kterých setkal se s obrovskou silou lidské vynalézavosti. Co pak je celé Desatero boží proti všem předpisům lidského zákonníka! Zde jsou podrobnosti, ó, Pane, na které by nestačilo ani sto @desk Mojžíšových. Člověk je tyran! Všecko, co stvoří, jsou důtky v tisíce uzlů spjaté, takže povolí-li jeden, zbývá jich ještě devět set devadesát devět. Co je to všecko proti deseti přikázáním Tvým, ó, Bože! <pb n="92"/> Jest jen nepochopitelno, proč živíš dál tohoto lidského netvora —</p>
+
+			<p>Křestný list! Skutečně bylo tedy Petru Boučkovi třicet dva roky a měl otce a matku. Také rodiště měl a kmotry! Kmotry! Dobrý Bože, on měl kmotry také a dověděl se nyní, jak se jmenují. A je katolického vyznání. Při zpovědi tázal se ho zpovědník na tolikeré jeho docela intimní věci, že byl všecek v rozpacích, a na konec mu dal rozřešení, které mu umožňovalo novou důvěru v bohabojný život. Všecko se mělo změnit, to bylo již tak jisto, že bylo zbytečno uváděti proti tomu námítky. Jen si přál již trochu klidu, aby sám sebe mohl srovnati. Připadalo mu, že je vně i vnitř všecek pocuchán, zježen a oškubán. Bylo mu úzko při pomyšlení, v jakém stavu se nalezne, až náhle ta obrovská síla, která jej schvátila, rázem povolí. Tato úzkost jediná se těsně pojila s jeho bytostí, a v té nalézal sebe —jen sebe, své „já“ smýkané proudem, v němž v pravém slova smyslu tonul. Na nic nebylo času! Na nic! Byl neustále jako ve snách.</p>
+
+			<p>Všichni lidé, s nimiž se stýkal, byli jako on očarováni a pak nejvýš šetrni. Kdyby byl ležel nemocen tyfem, nemohlo se s ním s větší <pb n="93"/> ostražitostí jednati i s větší péčí jako v tomto čase, kdy mu vlastně ta celá ostražitost i ta péče byly protivny.</p>
+
+			<p>Byl by si přál z celé duše zachytiti stín někdejšího svého života, ale toho stínu nenalézal, protože ten život již nebyl. Zvláštní! Nepochopitelné! Tedy přece manželství je síla!</p>
+
+			<p>Ale což jestli z toho kroužení se nevymkne a jestli ta neznámá moc ve svých spárech si jej podrží?</p>
+
+			<p>To by bylo ovšem nemilé! Ale vždyť by vlastně neměl ani tolik síly a vůle nepříjemnost svého stavu si uvědomiti! To přece nemohl však pokládat za výhodu nebo docela za štěstí!</p>
+
+			<p>Slečna Marie stala se při tom docela lhostejnou osobou. Všechno ostatní zdálo se být při tom důležitější než ona sama a vůbec než jejich příští manželství celé. S mnoha lidmi měl co vyjednávati — nebralo to konce. Jen s ní neměl si co povídati, jen s ní o nic se nesmlouval. Byli to krejčí, truhláři, domácí páni, kněží, obchodníci, příbuzní a přátelé, kterých třeba jaktěživ dosud neviděl, posluhové atd. atd., s nimiž byl v neustálém styku, také s manžely Záchrastnými a s několika jejich tetami, <pb n="94"/> jen slečna Marie stála stranou jeho povinnosti a zájmu. Byl tomu skoro povděčen. Jen tak někdy ohlédl se po ní určitěji a shledal na jejím obličeji stejné stopy neklidu a horečné činnosti, jaké pociťoval i u sebe. Vyhýbala se mu pohledem, ale když odcházel, stiskla mu ruku jako v porozumění a k posile.</p>
+
+			<p>Měla ubohá u sebe dvě švadleny, jimž náleželo celé její tělo. A teď si představme, že docházeli k ní i obuvníci, rukavičkáři, květinářky, služky, přítelkyně. Ten dětský rys s jejího obličeje docela zmizel a její tvář dostala kolem očí vážný stín.</p>
+
+			<p>Petr Bouček sedával večer u Záchrastných a pil s nimi bezmyšlénkovitě pivo s úzkou bílou obroučkou. Nemluvil mnoho a v určitou dobu odcházel. Bylo mu již všechno lhostejno. Cítil se jen unaven a v té únavě cítil úplnou skleslost duševní. Kde pak měl vlastně nyní duši? —</p>
+
+			<p>Až náhle jednoho dne se všecko zastavilo. Rázem! Jediným vydechnutím, jediným trhnutím. V hlavě mu posud hučelo a šumělo, v myšlénkách měl ještě vír, totiž dozvuk víru, v němž se posud trmácel.</p>
+
+			<p>Rázem nastalo ticho, mír, klid — ne v něm, ale kolem něho.</p>
+
+			<pb n="95"/>
+
+			<p>Probudil se na bílém lůžku a podušky pod jeho hlavou byly vyšívané. U ruky, kterou měl položenu na hedvábné pokryvce, ležela veliká stuha jako nádherný motýl, který rozepjal křídla k letu. Oknem vnikal slabý pruh jasného dne, v němž zářilo slunce. Probouzel se v ložnici stinné, příjemné a teplé. Nad ním na stěně visel veliký obraz Matky boží s děťátkem a všechen vzduch byl prosycen květinovou vůní, v které tísnily se první známky vadnutí, ale ta tíseň nebyla nepohodlna. Vedle něho bylo prázdné lůžko, z něhož vanulo posud teplo mladého ženského těla. V ložnici byl sám. Čelo jej velice pálilo tím známým způsobem, který vždy zakoušel po noci probděné a po požití množství vína, jehož krůpěje mu se rtů zase rty žen stíraly.</p>
+
+			<p>Ta bolest hlavy mu byla tak známa. V té vracelo se k němu něco bývalého a skoro přátelského. Ta jediná uprostřed všeho nepůsobila na něho cize a nepředvídaně. Bolest, kterou znal ve vší její houževnatosti a těžkosti. Lpěla mu na spáncích, pak na temeni hlavy, kde nalezl starý chumáček zmuchlaných svých vlasů, nad očima, kde nalezl staré svoje rýhy, které způsobovaly mu tolik nesnází v jeho třiceti dvou letech. Ucítil ji v očích, jež ztěžka <pb n="96"/> otevíral, a vanula mu z jeho dechu, v němž postřehl poslední známku svého tvrdého spánku. Ulekl se skoro, vzpomenuv, že jistě hlasitě chrápal v této tiché, pěkné ložnici, ve které se cítil cizincem.</p>
+
+			<p>Bylo mu nevolno, jako vždy, kdy se mu stalo, že probudil se v neznámém pokoji, v němž musil si počínati obezřele a s respektem. U všech všudy, kde byla jeho bába, jeho hodinky, jež měl ve zvyku ukládati na stolek vedle své postele, jeho obraz „Magdaleny“, k němuž vždy nejprve pozvedl svůj zrak, probudiv se. Ovšem, že to dnes nehledal, to nebylo ani možno, ale pociťoval mimovolný stesk po tom, vlastně hněv, že není vše, jak má být.</p>
+
+			<p>Z vedlejší místnosti bylo slyšet slabý šumot a šepotání. Nadzvedl se trochu, aby rozpoznal hlasy, ale bylo to marno. Na nástěnných hodinách bilo temným hlasem devět hodin. I ten zvuk byl mu nový a tísnil mu duši.</p>
+
+			<p>Sklesl znova do podušek, zavřel oči a přemýšlel. Věděl určitě, že podléhá pocitu, který mu však nepůsobí štěstí, ale spíše bázeň a lítost. Viděl zřetelně, že ztratil cosi, ať to byla třeba jen ta jeho bába, jen ta jeho „Magdalena“ nad postelí, jen ten jeho neuspořádaný <pb n="97"/> mládenecký pokoj, ale přece to ztratil, pro vždy ztratil.</p>
+
+			<p>Stal se sentimentálním a v té své sentimentálnosti zabořil svůj rozcuchaný chumáček vlasů do podušky, jako by chtěl něčemu uniknouti nebo se před tím skrýti. Vzpomněl si nejistě na celý ten bouřlivý den včerejší, na měkká a shovívavá políbení své ženy — své ženy! na její objetí, které nebylo jiným než ostatní, v nichž ubil své mládí a svůj vzlet!</p>
+
+			<p>Styděl se a nevěděl sám proč. Pamatoval se však, že jako hoch styděl se i strýcova psa, když přišel k nim na návštěvu, a musil se usmáti. Které pak jsou jen všecky důležité příčiny k rozvodu? — To pro případ, kdyby se skutečně necítil v novém svém stavu úplně spokojen! Toužil míti nějakou záruku, nějakou oporu pro svou osobu!</p>
+
+			<p>Byl by si tak přál, aby měl za sebou cestičku poházenou hrachem, aby nalezl z tohoto ráje zase východ v čas potřeby a nudy. A teď by byl skutečně málem propukl v hlasitý smích! Představil si, jak kráčí k oltáři s hliněným hrnkem, z něhož po celou cestu sype hrách. Chvála Bohu, humor ještě měl! Nebylo to tedy s ním tak zlé a ten jeho stud byl prve patrně jakousi morální nutností, která stála mimo <pb n="98"/> jeho vědomí. —Ta cestička byla dobrá! Ta se mu povedla! Ta by se paní Velišové dozajista líbila!</p>
+
+			<p>„Drahá, milostivá paní! Probudil jsem se právě a nalézám se ve velmi pěkné ložnici. Chcete, abych vám řekl, co bych si přál?“ —</p>
+
+			<p>Ale teď snad bylo již skutečně na čase, aby vstal. Včera pil příliš mnoho vína a tím se stalo, že se probouzel tak pozdě. Devět hodin. Nejpříjemnější bylo při tom, že nemusel jíti do úřadu. Měl ještě dva dny dovolenou. Ale co si počne vlastně ty celé dva dny? —</p>
+
+			<p>Přivřel znova oči a snažil se vžíti do svého příštího života. Bylo to marné, nezachytil z něho ani jediný určitý rys. Pak uslyšel zlehka otevříti dvéře a spatřil pobledlou tvářičku mladé ženy, na jejíchž rusých vlasech ležel malý krajkový čepeček. Dívala se k němu na lůžko a pak po lehku a opatrně vstoupila. Měla na sobě růžový župan, opásaný krajkovou zástěrkou s růžovou stuhou.</p>
+
+			<p>Byla to paní Marie Boučková, která k němu vcházela. Nemohl se ubrániti rozechvění, v němž ucítil zvýšený tlukot svého srdce. Paní Marie Boučková! Skutečně to již nebyla slečna Záchrastných, ačkoliv jí byla velmi podobna. S ní se udála vlastně největší změna, neboť <pb n="99"/> on zůstával přece jen tím, čím dříve byl, Petrem Boučkem, bankovním úředníkem. Ale teď přicházela tato milá, ubohá bytost, která vylezla z dosavadní své kukle a přijala na sebe nový způsob života, nové jméno, nové tužby!</p>
+
+			<p>To bylo skutečně dojímavé! Paní Boučková, a ne slečna Záchrastná! Žena, a ne dívka již! Jak to bylo možno? A to on všecko způsobil! On sám — on sám! Vždyť musil mít přece k ní ohledy, vždyť musil o tom vážně uvažovat.</p>
+
+			<p>Její růžový župan se mu líbil, ale krajkový čepeček na hlavě přál si, aby nebyl. Proč čepeček? To je příliš symbolistické!</p>
+
+			<p>V tom ohledu nemusela být tak precisní. On nenáviděl všecky čepečky, ačkoli teprve nyní si to uvědomil.</p>
+
+			<p>Co přicházela sem dělat? — Jistě, že ho šla budit.</p>
+
+			<p>A on opravdu se válel na lůžku, zatím co ona sháněla tuto svou líbeznou toaletu. Byla velmi šetrná a pozorná. Petr Bouček si umínil, že bude k ní laskav a že se jí za vše odvděčí. Obával se jen, aby nebyla příliš ve velkých rozpacích, až nalezne jej již probuzeného, a aby se před ním nerděla. Mohlo mu to zkaziti celou náladu, v které dozajista bylo něco jemného a citlivého. Čekal chvíli, co <pb n="100"/> učiní, a byl skoro překvapen, když ji spatřil lehounkým tichým krokem k sobě přistupovati. Šla ho zbudit, aby káva nevystydla! Tato myšlénka probudila v něm novou nechuť, protože neměl hladu a cítil, že si včera zkazil na delší dobu žaludek. Tak co pak si vlastně přeje milá paní Boučková?</p>
+
+			<p>Její růžový župan zašustil těsně u jeho lůžka a ona se nad ním sklonila tak, že nebylo vyhnutí, aby se jejich pohledy nesetkaly. Mladá paní se skutečně silně zarděla a vtiskla rychle svou tvářičku na jeho prsa jen tak beze slova, ale s neobyčejnou důvěrou. Ta důvěra jej opět pomátla. V čem prýštila, kde mohla v ní vzniknouti? Vznikla v jejím instinktu, v její naivnosti nebo v jejím jednoduchém nazírání na svět? Jisto bylo, že mu opravdu důvěřovala, a on jako ctihodný člověk nemohl ji přece sklamati. Vzpomínal, co by jí hodně hezkého řekl, aby měla radost ta milá dušinka. Hlava jej dosud pálila a to mu kalilo požitek tohoto jinak tak krásného okamžiku. Vzal mimovolně její ruku do své a, jako by se omlouval, vznesl ji zlehka k svému čelu a přitisknul ji na ně.</p>
+
+			<p>„Bolí tě hlava?“ tázala se šeptem mladá žena.</p>
+
+			<pb n="101"/>
+
+			<p>„Pil jsem mnoho vína včera.“</p>
+
+			<p>„Nechtěl bys snad trochu černé kávy?“</p>
+
+			<p>„Až později.“</p>
+
+			<p>Zase dívali se sobě do očí a zdálo se, že oba hledají společné ohnisko, v němž by zazářily jejich duše stejným světlem. Celý život stál před nimi a jejich cesty se v něm již nikdy nedělily. —</p>
+
+			<p>Mezi gratulacemi nalezl Petr Bouček i známé písmo paní Velišové.</p>
+
+			<p>Rozevřel tedy nejprve její obálku a přelétl tento zvláštní lístek, který mu napsala:</p>
+
+			<p>Velectěný pane!</p>
+
+			<p>—</p>
+
+			<p>Přeje Vám štěstí</p>
+
+			<p>Anežka Velišová.</p>
+
+			<pb n="102"/>
+
+			<p>Chvíli uvažoval, co má paní Velišové odpověděti, ale stále jasněji cítil, že by bylo každé slovo hroznou profanací této chvíle, tohoto zvláštního důvěrného ovzduší, v němž byl dosud cizincem. Neměl práva psáti o tom, co se netýkalo již jen jeho, ale i bytosti druhé, kterou musil přirozeně šetřiti. A náhle byl mu lístek paní Velišové úplně jasný! — Přesvědčen, že nelze jinak, odpověděl jí následovně:</p>
+
+			<p>Milostivá paní!</p>
+
+			<p>—</p>
+
+			<p>Líbá Vám obě ruce</p>
+
+			<p>Petr Bouček.</p>
+
+			<p>(Psáno na podzim r. 1895.)</p>
+
+			<pb n="103"/>
+
+		</div>
+
+		<div>
+
+			<head>Po všem</head>
+
+			<pb n="104"/>
+
+
+			<pb n="105"/>
+
+			<p>Jsem. Budu psáti o sobě, protože nemám pro nic smyslu od nějakého času, tak jako by všecky částice mé duše a mého těla onemocněly vleklou sebeláskou. Vím tedy, že jsem, ačkoliv se namáhám teprve sebe nalézti, a to není tak snadno, neboť mám ženu a tři děti malé, pro které pracuji. Prosím vás, chopte se za mne péra, mně není možno psát. Zapomněl jsem gramatiku a doma na svém stolku nalézám vždycky inkoust vylitý, který smývám potom s obličeje a rukou svého dvouletého syna vlhkým kapesníkem.</p>
+
+			<p>A kapesníkem se inkoust nesmývá! Jaký je to pořádek? Kapesníkem inkoust! —</p>
+
+			<p>Prosím vás, pište za mne! Podotýkám pouze, že se jmenuji Bořivoj Král a že jsem se oženil před šesti lety s pevným předsevzetím založiti spořádanou, šťastnou rodinu, v které bych pro sebe nabyl denně slušného oběda a večeře, <pb n="106"/> potom čistého prádla a útulného lože. Bůh je můj svědek, že jsem tenkráte pokládal toto málo za jediný kýžený sen svého života! Nezbývalo mně po ničem toužit. Miloval jsem mnoho, hřešil často a potom nevěděl jsem již, co počít, neboť životní výběr je skromnější než jídelní lístek ve venkovských obcích, kde starosta chodí v dřevákách. A teď piště za mne! Nezapomeňte však, prosím vás, že jsou u mne chvíle, kdy dobře pozoruji, že mám nehty ušpiněné, na křivo kravatu a ve vousech drobečky od oběda. A pak, že bych vyletěl z kůže, kdybych věděl, že ona mne drží v těchto poměrech, z nichž nevidím nikde východu. Napište to s obalem. Jinak činím vše, co ostatní řádní otcové a manželé. Snažím si uchovati resignaci a pro svůj úřad smysl a chuť. Za to mám skutečně denně co jíst a dvakráte týdně čisté prádlo. Vůni z jídla cítím vždy již na schodech a zápach páry při prádle až na dvoře. Tomu však není lze odpomoci, neboť vařit i prát se v manželství musí, to dobře vím a pochopuji. —</p>
+
+			<p>Jediným zadostiučiněním mohlo by býti pro mne, že všichni, s nimiž žiji v úzkém styku <pb n="107"/> rodinném, jmenují se Králové. Je to nejprve moje žena, paní Alexandra Králová, potom moje pětiletá dcera Jaroslava Králová a dva moji hoši Bohouš Král a Jenda Král. Ti všichni jsou mně zákonitě přikázáni, tak že já jsem mezi nimi jako Arcikrál, ale výhod žádných z toho nečerpám, až na to, že dostávám první polévku na talíř a usínám-li po obědě na našem velkém spustlém divaně rodinném, smí Jenda plakati jen pianissimo.</p>
+
+			<p>Obýváme tři velké pokoje, z nichž žádný není můj, protože místo pro to nestačí. Psací stolek stal se pouze parádní částí naší jídelny a ve velké mojí lenošce sedává buď Bohouš nebo Jenda v sentimentálních chvílích svého života, kdy má právo chůva otevříti jim všechny zásuvky, ukazovati jim vignetty, pečetní vosk, voskové sirky, moje taneční pořádky, které zázrakem uchovaly se až do nynější doby, tak že se dívám na ně vždy s pietou, s jakou v archaeologických museích prohlížím střepy z dob pohanských. Ani z daleka si nedovoluji připustiti myšlénku, že můj poslední taneční pořádek, který jsem laskavostí výboru získal, datuje se před šesti lety, což ovšem není ještě ani z prvních dob po Kristu.</p>
+
+			<p>Ohlížím se po své domácnosti a hledám, <pb n="108"/> co v ní ještě mého. Mám dva klobouky, dva páry bot, jedny přezůvky, asi trojí oblek, trochu prádla, svůj kartáč na zuby (aspoň tomu věřím), jedny rukavice, hůl, břitvu (ta je dosud úplně a jedině má) a pak svůj vlastní obraz v zrcadle, s nímž tak někdy vyměňuji vážný pohled, který mě skoro omračuje ve chvílích přelétavých, kdy sám sobě zjevuji se jen jako fata morgana.</p>
+
+			<p>Do nedávná počítal jsem také důtky na Handžára za svůj privátní majetek, volaje na služku v různých dobách, kdy jsem cítil palčivou touhu svého psa zbíti: „Kde jsou mé důtky?“</p>
+
+			<p>Nyní však nosí důtky Jenda i Bohouš a ubohý Handžár stal se obětí libovolného tyranství. Pokládám důtky pro sebe za ztracené a také se k nim již nikdy nehlásím .</p>
+
+			<p>Dosti možná, že jsem na něco zapomněl, vypočítávaje svůj majetek, který s nikým dosud nesdílím, ale pochybuji o tom velice, protože bych jinak sám sobě připadal neskromným, dovolávaje se účastenství světa pro svou osobu.</p>
+
+			<p>Peněz u sebe nenosím, a kdybych nosil, nevěděl bych, co s nimi počíti, leda bych vešel do styku s řezníkem, krupaři, se zelenářkami a s mlíkaři. Nemohu nikterak pochopiti, jak jsem mohl, jsa svobodný, totiž jsa neženatý, <pb n="109"/> utráceti pro svou vlastní osobu skoro dva tisíce ročně a dělati ještě při tom dluhy. Nyní jsem celý čas bez krejcaru a na peníze hledím jako na překonanou životní nutnost. Ale to je již zásluhou mé ženy, která celý domácí rozpočet má ve své moci a zcela dobře s mými příjmy vychází —</p>
+
+			<p>Mé choti jest dvacet osm roků, mně třicet šest. Jsme po celý den oba tak zaměstnáni, že nezbude nám chvíle, abychom o sobě přemýšleli, ačkoliv mě to někdy skoro láká, abych definoval svůj poměr k ní, který rozhodně není takovým, jakým byl týden před svatbou nebo první den po svatbě. Ale času na to nezbývá. Ráno o osmé hodině odcházím do svého úřadu, vracím se v poledne, v jednu opět odcházím a vracím se v šest hodin večer, kdy večeříme. Brzy po večeři uspáváme společně děti, protože jsme shledali, že je to nejtěžší povinnost, jakou vůbec lze si představiti, a k té že chůva naprosto nestačí. Ta hloupá holka ztrácí ihned všecku energii, když ji Bohouš kousne do krku nebo když Jenda svou malou tlápkou kopne ji vší silou do nosu. Moje žena přistihla ji jednou, <pb n="110"/> jak Jendu citelně napomíná, aby usnul, a od té doby jsme se rozdělili o tu milou povinnost uspati své děti, když nemají na to ještě ani pomyšlení. Tolik jest jisto, že od sedmé do devíti a někdy až i do desíti hodin zní u nás zvláštní šiškání, mručení, vzdychání, šepotání, tlumené výkřiky, neurčitá slova a že všecky tři pokoje jsou naplněny stíny, jež tiše pohybují se bez určitého cíle, jen tak jako větrem hnány, jako neuprosnou mocí, která jimi pohybuje rozmařile a bez intence.</p>
+
+			<p>Moje dcera Jaroslava usíná mezi svými pannami a my známe již chvíli, kdy je její spánek tak pevný, že ji můžeme pozvednouti, svléci a uložiti do postélky plné stuh a krajek, bez nichž se moje žena nemůže obejíti. Také při tomto svrchovaně vážném aktu počínají nové nuance šiškání, tlumených vzdechů, neuvědomělých slov a tichounkého šepotání! Potom náhle u nás ticho, stinno a mrtvo. Moje žena a já beze slova (naše děti nesnesou ani v spánku hovoru) svlékáme se, jeden druhému hrozíme, napomínajíce se k tichu ještě většímu. Je-li nutno, což ale zřídka kdy bývá, mluvíme k sobě výraznými posuňky rukama, hlavou, očima, což při unylém světle noční lampy vypadá až mysticky. Moje žena má chorou tvář, <pb n="111"/> velké černé oči a mně neustále se zdá, že mě volá k pořádku, který nesmím promeškat. V noci, probudím-li se, vidím ji státi celou bílou, skloněnou nad některým z našich dětí, držící hrneček s mlékem nebo je ukrývající. Někdy také slyším její tichý, více jen posuňkový hovor s chůvou; ale to všecko jen matně dotýká se mých smyslů, neboť mívám příjemné sny, z nichž jen nerad se dávám vyrušovati. To, co se od desíti hodin děje do rána do šesti, je mně úplně lhostejno a také se po tom nikdy netáži —</p>
+
+			<p>O své ženě nemohu říci, že by byla krásná. Myslím, že v této době manželství nepadalo by u mne na váhu, ani kdyby byla od neštovic zďobaná, nebo kdyby měla tlustý krk a vypouklá záda. Také kdyby skutečně byla krásná, nedovedl bych to ocenili. Celá její bytost splynula se svým okolím, že právě tak jako o naší kredenci nedovedu o ní říci, zdali mě skutečně uchvacuje. Totiž o uchvacování nemůže být vůbec řeči. To je příliš bujné slovo a ani nevím, jak mně napadlo. Ale nedovedu říci, zdali se mně moje žena líbí a co se mně zdá být na ní nejkrásnější.</p>
+
+			<pb n="112"/>
+
+			<p>Již čtrnáct dní po svatbě viděl jsem určité rysy její podoby mizeti v jakémsi prázdnu, rozptylovati se a roztávati. Všecko na ní pozbývalo síly soustřediti se v celek, který by mne opájel, anebo který by ve mně budil nadšení. Ale tím stávala se mně jaksi bližší, jako by v té mlhovině slučovaly se naše součásti nebo jak to mám naznačiti. Zkrátka, bylo mně příjemno, že pozbyla pro mne určitých tvarů, o něž bych za každým svým pohledem klopýtal. A to pokládám v manželství za nejrozumnější, že člověk vystřízliví z esthetických předsudků. Esthetika sama o sobě vykořisťuje bez toho našeho ducha na úkor humanity a lidskosti. Takto zcela klidně utírám svým dětem nos a při jídle nepozbývám chuti, ani kdybych viděl věci, při kterých bych druhdy stal se zuřivým. Je mně také zcela lhostejno, chodí-li má žena v sešlapaných střevících, protože úplně pochopuji, že se skřiviti musí v tom jejím celodenním plahočení. Jaktěživo mně také nenapadne požadovati na ní, aby si myla ruce v mandlových otrubách, anebo hledati stužky a krajky na jejích nočních košilích. Moje osobní choutky a záliby přišly do vleku té houževnaté síly rodinných zájmů a pozbyly své samostatnosti i energie, jako se to stává vojáku, jehož vlekou <pb n="113"/> v řadách za cílem, který s ním, s jeho životem vlastním (a to je velké slovo, na mou čest) nemá pranic společného, až na to, že pociťuje únavu a úzkost sama o sebe, zbude-li mu k tomu času.</p>
+
+			<p>Náš Jenda konečně začal sám běhati a emancipuje se poněkud od nás všech, jak jsme kolem něho obskakovali, nosili ho a myslili za něho. Onehdy sám stavěl si domečky střechami dolů, z čehož je patrno, že již také má své vlastní názory o světě. Povídám to proto, abych odůvodnil ty volné chvíle, které mně občas zbývají k přemýšlení a k úvahám, v nichž ohmatávám své vlastní tělo a svou duši, která se mně během těch šesti let rozsypala na miliony droboulinkých částic, podobna mlze náhle klesnuvší do mého nitra. Nevěděl jsem o sobě, nemohl jsem žíti tou mlhou. Nerozpoznával jsem v ní ničeho. Teď, bohudíky, aspoň v neděli odpoledne, kdy nemusím do úřadu a kdy chůva se všemi dětmi odejde na procházku, zbude mně trochu času pátrati po svém „já“ a hledati je pod mikroskopem dosti trudné filosofie. Má žena zatím v dětském pokoji dívá se do nejnovějších mód a hledá v příloze střihy na zástěrky, kalhotky a noční košile —</p>
+
+			<pb n="114"/>
+
+			<p>Nejraději bych věděl, proč právě Alexandra se stala mou ženou, a ne některá jiná z těch všech roztomilých, všetečných tvářiček, s nimiž jsem tak často laškoval. Ale — za žádnou cenu nedovedu si zase naopak představiti některou z nich na místě Alexandry, aniž tu samou představu nepokládal bych za znesvěcování něčeho, co úzce souvisí s mým životem a s mým srdcem.</p>
+
+			<p>Jak by bylo na příklad možno, aby Olga Lešáková mně porodila tři děti tak půvabné, jako jsou moje? A jak by bylo vůbec možno, že by Olga Lešáková pohybovala se touto domácností a manipulovala s mými příjmy? A bylo to hezké děvče, v jehož očích jsem četl vždycky vyzvání k polibkům —</p>
+
+			<p>Pardon! Pardon! To snad ani nikdy nebylo. Cítím se celý rozpačitý, vzpomínám-li, že před Alexandrou existovaly ženy, které dovolily si míti vůči mně požadavky milostné. V tom ohledu bych nejraději celý ten čas od svého dvacátého až do třicátého roku poslal ke všem čertům, protože bůhví ani jediná vzpomínka z něho mně není vhod. I moje chvíle předsvatební působí na mne neurčitou tíhou a skoro odporem, jako bych v nich byl spáchal zločin proti sebeúctě.</p>
+
+			<p>Nejsem dozajista normální člověk. Nevím, <pb n="115"/> co chci, a nejsem s ničím spokojen. Bude to asi jistý druh duševní nemoci, která v manželství propuká celou silou. Jinak nedovedu si ani vysvětliti to svoje neustálé rozdírání vlastního nitra, které k ničemu přece nevede. Jsem-li doma, chytil bych se stropu samou rozkvašeností, a nejsem-li, stávám se nepokojným v samých obavách, aby za mé nepřítomnosti se něco nestalo.</p>
+
+			<p>Neustále se mně zdá, že mám sterá nevyplněná přání, ale neznám ani jediného z nich. Kdybych mohl vylézti na Mont Blanc, abych celému světu unikl, vím, že bych tam nevylezl, leda bych vedl svou ženu zavěšenu ve své rámě, Jaroslavu nesl na zádech, Bohouše na krku a Jendu na rukou.</p>
+
+			<p>Umínil jsem si, že věnuji své ženě větší pozornost. Budu se snažiti, abych se k ní přiblížil, neboť cítím skoro naléhavě potřebu jakéhosi milostného jitření ve své duši a stýská se mně po něčem slunném, zahřívajícím, co je ale více utrpením než rozkoší. Tak bych si přál se třásti dojmem, pohnutím, tak bych si přál být vzrušen, <pb n="116"/> elektrisován a celý uchvácen tím něžným citem, kterým toužíme objati útlé tělo ženy a zadýchati je svým žhavým dechem.</p>
+
+			<p>Má žena je útlá bytost. Má pěknou postavu, ohebnou a příjemnou, hezké ruce a dosti sympatický pohled. Totiž v tom pohledu není ani touhy, ani sladkých snů, ale myslím, že jsou toho její mateřské starosti příčinou, že se tak příliš plaše, nebo příliš zase určitě dívá mně do očí ve chvílích, kdy spolu hovoříme. Také celý náš hovor není dle toho, aby pohled její oživil. Mluvíme spolu o věcech, při nichž pravidelně zůstáváme lhostejni a které nás vlastně nesbližují, ale leží mezi námi jako překážka, která sice vyžaduje našich společných zájmů, ale nesbližuje nás těsně, nepřitahuje nás k sobě, nevyvolává v nás touhy.</p>
+
+			<p>Naše zájmy jsou upjaty k jednomu bodu, ale my sami jsme odděleni od sebe tím přívalem, který se valí mezi námi. Chtěl bych jednou dotknouti se ruky své ženy tak, abych v tom dotknutí necítil pouze teplo její ruky, vláčnost její dlaně, ale něco víc — více. Ó, Bože, vždyť takové dotknutí může býti tou největší rozkoší a tím nejsladším požitkem. Všecko mám, co jsem míti chtěl. Dobrou domácí stravu, tuhé límce, řádně vyčištěné boty, pohodlný byt, ale <pb n="117"/> tak se mně přece jen po něčem stýská, něco hledám, něco bych chtěl! — Myslím, že miluji své děti, a je to také nejsvětější mou povinností, ale Bůh ví, ta celá láska k nim je přece velice střízlivá. Ještě tak nejraději je mám, když jako dobře vycvičené opičky provádějí komické kousky, když jsou veselé a šťastné. Onehdy mně Jaroslava oznamovala, že máme polévku se skvrnkami na místě s flíčky (trestám ji totiž za každý germanismus), a tu smál jsem se hlasitě a byl jsem velmi spokojen. Za to působí na mne disharmonicky, když děti moje pláčí a když ještě o desáté hodině večer vyptávají se na své hračky nebo si přejí slyšeti pohádky.</p>
+
+			<p>To je již stinná stránka otcovství, neboť jako otec nedovedu se déle baviti než do devíti, do půl desáté. To všecko potom přesahuje již mé síly a mou trpělivost. Kdyby mne žena neuchlácholila, stal by se ze mne tyran, neboť skutečně mívám chvíle, kdy jest mně jakýmsi zadostiučiněním naplácati i Jaroslavě i Bohoušovi a Jendovi a ženě své říci, že jsou naše děti ty nejnezvedenější a nejrozmazlenější, jaké vůbec se dají mysliti.</p>
+
+			<p>Ona je ovšem chlácholí, vypravuje jim o hračkách i pohádky, až konečně usínají, a <pb n="118"/> pak mně šeptem řekne, aby je znovu neprobudila:</p>
+
+			<p>„Stalo se ti něco v úřadě? Jsi mrzutý již celý den. Ty děti za to ale nemohou, to sám musíš uznat.“</p>
+
+			<p>„Považ, že je ale deset hodin.“</p>
+
+			<p>„Nezlob se! Není to jinak možno! Vždyť já také musím s nimi být a jsem při tom klidna.“</p>
+
+			<p>„Ty ale nejsi celý den v úřadě.“</p>
+
+			<p>„To je pravda, Bořivoji, ale za to za všecko já nemohu. Kdyby bylo některé z dětí nemocno, nespali bychom celou noc, ráno bys odešel a druhou noc bychom nespali na novo. Buď rád, že je to tedy takové.“</p>
+
+			<p>A já skutečně jsem najednou rád a uléhám do postele s takovou požitkovou chutí, jako bych již tři neděle v ní neležel —</p>
+
+			<p>Jenda počíná tedy skutečně být samostatným, a to konečně přece jen značí obrat v našem životě, neboť pokud je malé dítě v domě, které se chová, krmí, otírá, je vlastně všecko jako zataraseno a pohlceno.</p>
+
+			<pb n="119"/>
+
+			<p>Nic tak vřele jsem si nepřál tu první noc, kdy se Jenda narodil, než aby již zase běhal, tahal koně po pokoji a jedl aspoň prsty sám z talíře. Nemohl jsem být již ničím u něho překvapen a na nic žádostiv. Prodělal jsem ty všecky příjemné fase v otcovském životě s Jaroslavou i Bohoušem a shledal jsem, že se v ničem nerůznily. U Jendy mohlo mě nanejvýše zajímati, kdyby byl jakéhosi třetího pohlaví, které dosud jsme neměli, a i to by nejspíš mělo svých šest neděl spánku, svůj první úsměv, svoje katary, první zub, první šatičky, první krok, první slovo atd. atd.</p>
+
+			<p>Jinak to není možno, jak jsem se přesvědčil. Nemohl jsem se pro Jeníka nijak nadchnouti, k tomu se milerád přiznávám. Přišel brzy za Bohoušem a kromě toho byl slabý, nehezký hoch, který mé ženě a mně ovšem také způsobil mnoho starostí. A pak zase ty povijany, karkulky, pleny, čtyřhranné peřinky, cucáček! Není divu, že bych si byl přál, aby narodil se v čamaře a žádal na nás ihned telecí řízek a skleničku vína.</p>
+
+			<p>Pro změnu! A aby byl jiný než ti dva před ním!</p>
+
+			<p>Alexandra byla ráda, že má zase chlapce, ale počínala si celkem střízlivěji a klidněji než <pb n="120"/> poprvé a po druhé. Také ona mně připadala mdlá a bez nadšení, ačkoliv se usmívala, když jí přinesli dítě, aby je políbila. Potom nastaly dny a noci hrozně protivné. Nikdy neplakal Jenda sám, ale probouzel vždycky ještě Bohouše i Jaroslavu, s kterými jsme si nevěděli rady ani tenkráte, když já jsem vstal a celý pobouřený běhal ložnicí, hledaje skrytý kout pro sebe.</p>
+
+			<p>První úsměv, první slovo atd.! Neštovičky očkovací! První zub, první krok.</p>
+
+			<p>Teď konečně Jeník chodí a nepadá už tak často a tak těžce, aby měl nos naražený. Hraje si a trhá knihy s obrázky. Zkrátka, dovede se již sám zaměstnati, což skutečně jeví účinek na celou domácnost.</p>
+
+			<p>Alexandra češe se pečlivěji a nosí velmi hezké zástěrky.</p>
+
+			<p>Tak se mně někdy zdá, že bych jí chtěl říci něco šeptem, v pološeru, když jsme úplně sami, že bych si přál být okouzlen jejím pohledem, její naprostou blízkostí v předtuše toho citu, který její duši by zaléval. Ale potom se zastydím, řeknu si, že jsem blázen, a jdu dělat s dětmi prostocviky...</p>
+
+			<p>Alexandra napomíná mne, abych některé neupustil, přišívá záplatky na kalhoty a její <pb n="121"/> tvář je klidná až na lehounkou vrásku mezi očima, která je buď hlubší, buď se chvílemi ztrácí. To podle toho, je-li záplatka rovně, nebo křivě přišita. Někdy také po obědě, když děti odejdou s chůvou si hrát, přitulí se ke mně, políbí mě na krk a řekne:</p>
+
+			<p>„Chutnalo ti dnes, Bořivoji?“</p>
+
+			<p>Mně to připadá přirozeným, pohladím ji po líci, políbím na ústa a opovídám:</p>
+
+			<p>„Vždyť jsi viděla, že jsem si bral dvakrát.“</p>
+
+			<p>Je to hezké, příjemné, domácí, ale mně se po něčem stýská — tak stýská!</p>
+
+			<p>Ostatně mohu býti ve svém svědomí docela klidný. Vím určitě, že neprohřešuji se ani na svém manželství, ani na sobě samém. Netoužím po ničem, co bývalo, a s tím, co jest, srostl jsem tak úzce, že nemohu se bez toho hnout ani se duševně vyživovat! Jako by tím vším probíhala moje tepna a podmiňovala můj život jen za těchto poměrů, které jsou. Čím byl způsoben tento mohutný a důležitý obrat v mém životě, sám nechápu. Je-li tím vinno mé manželství, nebo mé otcovství, a které z obou je důležitější.</p>
+
+			<pb n="122"/>
+
+			<p>Mám sebe rád. Myslím, že můj egoism neutrpěl těmi šesti lety a že v podstatě zůstal týž, jenže je zarostlý nyní mechem, vyvíjí se na něm nový život jako na skalním balvanu, který je porostlý kapradím, ovinutý spletitými kořeny, jež plazí se po něm, ale sám v sobě je týž, neotřesen, nezměněn. Ztloustl jsem poněkud a stal se ze mne gourmand, což vlastně vystihuje to nejlidštější stanovisko. Rád dobře jím a piji, rád klidně spím.</p>
+
+			<p>Jsem šťasten, svítí-li slunce, a mrzut, je-li bláto. Nešňupám dosud. Opravuji hodiny, jdou-li nesprávně, klížím dětem hračky, učím Hundžára nosit cukr na nose, trochu zívám, dosti čtu, nejsem-li vyrušován, a vypeskuji chůvu, když mě o to žena požádá. Kdyby byla ohlášena viditelná kometa na desátou hodinu večerní, myslím, že bych se na ni šel také podívat.</p>
+
+			<p>Nevyhýbám se společnosti, ale o jedenácté klíží se mi již oči a dřímám lehce za docela slušného a příjemného úsměvu na rtech, který sám velmi dobře cítím a dovedu ocenit. I tu nejkrásnější ženu dovedu odsoudit, řekne-li o ní má žena, že má špatně střižený život anebo že nebyla k ní dosti pozorná.</p>
+
+			<p>A při tom mám v sobě neustálou touhu <pb n="123"/> vzpružiti se, setřásti se sebe něco, narovnati se v zádech. Chtěl bych se ohlédnout za sebe, nemohl-li bych se na něčem zachytit a zkusit svou vlastní sílu proti tomu přívalu, který mě unáší. Nu, to jsou chvíle, kdy se mně zdá, že jsem sebe ztratil, a ty netrvají příliš dlouho. Aspoň ne tak dlouho, abych dospěl k nějakému výsledku. Přijde zase úřad, přesolená polévka, nějaká návštěva, nějaký nezpůsob Bohoušův a to všecko je rázem důležitější než moje filosofie a kombinace.</p>
+
+			<p>„Stokrát jsem již říkal, aby Bohuslav nestrkal prst do nosu atd.“</p>
+
+			<p>Moje žena pleskne Bohouše přes ruku, odvede ho od stolu, postaví do kouta, celá vážná v tváři, ubledlá, opravdu rozechvěna a celý výstup stává se rázem pohnutým a důležitým. Mlčky krájím si maso, děti nemluví, Bohouš škytá, Alexandra krmí Jeníka. Musím přece vychovat své děti a učit je způsobům. A ten kluk ničemný nechce a nechce býti jiným! Kdybych dnes ho stloukl, zítra udělá tentýž nezpůsob.</p>
+
+			<p>„Prosím tě, Alexandro, podej mi omáčku... Jaká je? Celerová? Ve čtrnácti dnech ji máme již podruhé. To stačí teď již na tři měsíce.“</p>
+
+			<p>Alexandra podívá se na mne skoro uleknutě <pb n="124"/> a poněkud hlučně odkládá talířek Jeníkův. Patrně jí není vhod, že jsem tu poznámku o omáčce učinil, ale já skutečně nemohu celerovou omáčku příliš často jíst —</p>
+
+			<p>V pokoji je ticho a mrtvo. Hodiny volně cvakají. Mají takový pěkný, altový hlas.</p>
+
+			<p>Dnes v noci svítil překrásně měsíc. Dostal jsem silnou rýmu a nemohl jsem volně dýchati. Proto jsem se probudil asi o druhé hodině po půlnoci a viděl ten měsíc vážný, tichý a veliký, jak plným proudem leje k nám do ložnice své bílé, ocelově chladné světlo oknem, na němž nebyla spuštěna žaluzie.</p>
+
+			<p>Byl jsem skoro rád, že jsem se probudil. Neviděl jsem již dávno měsíc a teď mne obemknul v té sivé záplavě jeho světla takový blahostný pocit, jako bych se koupal v něm celým tělem. Děti spaly a moje žena též. Má ve zvyku ve spaní klásti si obě ruce pod tvář a leží skrčena, s koleny silně ohnutými. Bývá ve spaní velmi bledá a z jejích rtů pootevřených vane tichý dech. Spí nadmíru pokojně a skoro něžně.</p>
+
+			<pb n="125"/>
+
+			<p>Černé pocuchané vlasy v nepořádku objímaly její tvář a vrkoč měla silně uvolněný.</p>
+
+			<p>Zadíval jsem se na ni v příjemném pocitu toho měsíčního světla i toho jejího klidu, s kterým spala.</p>
+
+			<p>Nalezl jsem v sobě stopy sentimentálnosti a měkkosti nálady, která působila na mne novým, nezvyklým dojmem, tak že jsem něžně a s jemnou shovívavostí dotknul se své vlastní duše, jako bych ji chtěl pohladit. Cítil jsem se dobrým a neobyčejně milým. Viděl jsem svou ženu spát a slyšel jemné dýchání svých dětí. Nebylo pochyby, že jsem je miloval a že jsem úplně a cele jim náležel, ale najednou se mně zdálo všecko tak zvláštní, tak zvláštní a nepochopitelné v tom měsíčním světle, že mně bylo, jako bych se obíral jen přeludy.</p>
+
+			<p>Kde jsem vzal ty děti? Moje děti! — Ku podivu! — A má žena vlastně jen náhodou jmenuje se paní Alexandra Králová, mohla se jmenovati jinak a mohla také třeba i zůstati slečnou Alexandrou Doubravovou. Jak se to všecko událo? Proč je to takové, a ne jiné? Slečna Doubravova! Rozpačitě pohlédl jsem na svou ženu a bylo mně divno, že tak klidně vedle mne spí v té neestetické póse, s vlasy <pb n="126"/> rozcuchanými a rty pootevřenými. Bylo to až příliš intimní.</p>
+
+			<p>A když jsem vzpomněl si na ty tři měsíce naší známosti, kdy chodila po mém boku lehce, upjatá až ke krku, kdy přemýšlela, co odpovědíti, jak se zachovat, nemohl jsem ji ztotožniti s touto naprosto odevzdanou a spící.</p>
+
+			<p>Byl bych si přál, aby vypadala lépe a aby její blízkost mne rozechvívala buď obdivem, aneb aspoň pietou. Takto jevilo se mně všecko příliš určité a příliš drsné. — Jak asi spávala slečna Alexandra Doubravova dřív, než se stala mou chotí?</p>
+
+			<p>Nechtěl jsem se brániti ani myšlénkám, ani vzpomínkám. V tom naprostém tichu připadal jsem si svým, mohl jsem se sebe dotknouti, nic mne nevyrušovalo, nic nevolalo k pořádku a mně byla téměř potřebou tato chvíle, v které jsem věřil, že smím myslit, co chci, a že mám právo na vlastní skutečné pocity, jež souvisí těsně s mojí vlastní bytostí. A také nemohl jsem se ani ubrániti představě dívčí postavy v bledě žluté toilettě, v širokém klobouku, s bílou tváří jemným chmýřím lehce pokrytou. To byla slečna Alexandra Doubravova. Tato představa mne rozechvívala, ačkoliv nemohu <pb n="127"/> říci, že bych slečnu Doubravovu miloval víc než paní Alexandru Královou. Seznámil jsem se s ní spíše úmyslně než náhodně. Věřím, že ženy své si vždycky vyhledáváme, kdežto milenky vyhledávají nás.</p>
+
+			<p>Ó, pamatuji si, jak jsem podléhal vlivu mladé vdovy — což na tom, to jsou jen vzpomínky — která si mně dobývala část po části a u které potom jsem ubil dvě léta svého života. Manželky si vyhledáváme, milenky nás uchvacují. Je to pravda, je to nutnost. Není možno učiniti z milenky ženu bez obavy do budoucnosti, neboť manželství je opravdu vážný stav, v němž musí se šetřiti i citem, i penězi. Slečna Doubravova byla a zůstala mně úplně cizí až do našeho sňatku. Nemohu přece říci, že na našich procházkách hlučnými ulicemi, o večeřích a obědech, kdy paní Doubravová počítala mně sousta do úst, aby věděla, jím-li s chutí, v těch chvilkách krátkého osamocení, kdy nevěděl jsem, co mám hovořit, a kdy ona se obávala, abych nepřekročil meze slušnosti, v tom všem přece nemohl jsem pojati ji jinak, než jakou se mně jevila. Cizí, cizí, cizí! Znal jsem její úsměv, její odklonění hlavy, její plachý pohled, ale co to bylo všecko? Věděl jsem určitě, že její myšlénky jsou docela jiného <pb n="128"/> slohu než způsob jejího hovoru. A pak jsem tenkráte byl tak resignovaný!</p>
+
+			<p>Po všem tom, co jsem prožil, byl jsem skoro unaven. Pamatuji se, že mne pranic nebavilo. Připadal jsem si vysílený, nemožný, uštvaný!</p>
+
+			<p>Doba těch šesti let manželství značila pro mne odpočinek za poměrů, které se všech stran na mne doléhaly.</p>
+
+			<p>Ano, já při tom přece jen odpočíval a zůstával netknutý.</p>
+
+			<p>Slečna Doubravova! Nevím ani, zdali správně si ji představuji, nebo zdali nezaměňuji ji s představou některé jiné ženy. Ale tak se mně dnes v noci zdála být měkká, teplá, svěží a půvabná. Rozněcovala mou mysl a zalévala mne zvláště příjemným pocitem, jako bych záda nastavoval jarnímu slunci.</p>
+
+			<p>Zase to známé jitření. Co vlastně chci?</p>
+
+			<p>Naklonil jsem se nad ženou a zahleděl se jí do tváře — nevěda sám proč. A byla to ona — ano — paní Alexandra Králová, matka mých dětí, tak známá, tak určitá, že nedalo se na ní praničeho změniti.</p>
+
+			<p>My jsme vlastně neprožili spolu ty bouřlivé chvíle lásky, kdy rozkoš stoupá až k závrati. Všecko šlo u nás tak precisně, tak patriarchálně, <pb n="129"/> tak podle vytknutého břehu! První políbení zásnubní — ó, tak bezbarvé a mne zanechalo úplně chladným. Znal jsem velmi dobře jiné polibky náruživé, při nichž uvízl dech v prsou, stávaje se utajeným výkřikem, polibky dlouhé, pod nimiž ret krvaví...</p>
+
+			<p>Není možno, abych nebyl na scestí! — A pak jsem měl v noci rýmu.</p>
+
+			<p>Horečka tíživě ležela mně na mozku a hltala správné pojmy. Bylo mně divno, že neusínám a že nejsem netrpěliv svým bděním. Také jsem se obával, aby vůkolní ticho nebylo něčím porušeno, protože bych se byl cítil okraden. Hladil jsem si vous, prohlížel ruce a připadal jsem sám sobě velmi blízký, jako bych přišel k sobě na návštěvu a prohlížel, co se na mně změnilo a co zůstalo při starém.</p>
+
+			<p>„Má úcta, starý kamaráde. To jsem rád, že tě vidím zas. Pamatuješ se na to a na ono? Myslíš, že jsi to nebyl ty? I byl — i byl — ovšem. Ale kde je to všecko? A proč to bylo, Bořivoji?“</p>
+
+			<p>„Tedy má úcta, kamaráde.“ Ano, byl jsem rád, že jsem sám sebe navštívil. Za celých šest let nezbylo mně k tomu času! Devět měsíců mé ženy v prvním roce bylo příčinou, že jsem chtěl být stůj co stůj hodným jejích radostí <pb n="130"/> i útrap a že jsem se cvičil pro své povolání otcovské. Tenkráte studoval jsem v pravdě každého člověka, který octnul se v stejné situaci jako já. A viděl jsem péči, úsměvy, pietu. Nemohl jsem přece býti jiným! Pamatuji se, že bych byl vzlykal jako malý kluk, když jsem se přesvědčil, že nejsem s radostí své ženy již sloučen a že neumím se tak vypnouti, vyšvihnouti ve svých pocitech, jako ona to dovedla. Myslil jsem, že jsem zlý, nepoctivý chlap a že všichni ostatní otcové jsou lepší mne! Duši bych si byl ze sebe vymačkal! Vždycky jsem se chvěl, když jsem viděl ty spousty dětského prádelka, v nichž má žena zrovna tonula. A vyčítal jsem si, že já nedělám nic, že nejsem ničím účasten a že jsem vlastně úplně zbytečný.</p>
+
+			<p>Všecko připadalo mně jako komedie, jako bych jen se do něčeho vžíval a něco hrál. Bylo to zlých devět měsíců, v nichž jsem si nebyl nikdy ničím jist. A ta ostatní léta?</p>
+
+			<p>Buď Bohu chvála, že Jenda už běhá! To byl jeden let bez dechu, bez odpočinutí. Plavba po moři bez přistání k břehu. Necítil jsem po celý ten čas pevnou půdu pod nohama a pode mnou to neustále se plnilo, komíhalo a hučelo. To jsem ztratil sám sebe úplně.</p>
+
+			<p>I když jsem jedl, domníval jsem se nejasně, <pb n="131"/> že živím jiného tvora, který má jen důležitou souvislost s mým vlastním životem. Divil jsem se pouze, když mně opravdu něco chutnalo a když jsem při tom měl pocit uspokojení a labužnické rozkoše. To byly u mne nejlepší chvíle a v těch chvílích miloval jsem celý svět.</p>
+
+			<p>Ovšem, nemohu říci, že by se bylo ještě včera něco změnilo. Ale uvolňuje se u nás — jistě uvolňuje. Každou chvíli Jenda jeví více samostatnosti a to již opravdu něco znamená.</p>
+
+			<p>Mám ve svém úřadě slušné štěstí. Neustále se béře ohled na mé tři děti, a tak povyšuji každé dva roky. Nyní jsem již ředitelem kanceláře našeho závodu a mám na 4000 ročních příjmů. Dal jsem se pojistiti na život, protože si to moje žena přála a můj chef že mně to radil. Mně samotnému bylo při tom dosti úzko i nevolno a zdálo se mně, že bylo spácháno na mně násilí a vymožena jakási velká oběť, při které jsem mnoho mohl ztratiti, ale ničeho vyzískati. Hledal jsem v sobě tu lepší část své bytosti, tu část, která náležela mé rodině, ale nemohl jsem ji v sobě najíti. Neustále byl jsem <pb n="132"/> stísněn a jaksi napaden. Za celý svět nemohl jsem do sebe vemluviti nějakou radost nebo uspokojení a uklidnění.</p>
+
+			<p>Cosi ke mně vanulo z budoucnosti tak ledově chladného, že jsem se mimovolně otřásl a bál se vzhlédnouti, abych neuzřel v naprosté blízkosti to, co rázem pošinulo se ke mně přes moře let a podávalo mně ruku, jako že si rozumíme a že se jistě setkáme.</p>
+
+			<p>Zkrátka, bylo to nepříjemné. Nemohl jsem nikterak pochopiti, že mám jednou svým životem zabezpečiti své rodině kapitál. To se mně zdálo být důležitější než vše dosavadní v mém životě, protože to skutečně kotvilo ve středu mého srdce a dotýkalo se to bezprostředně mé bytosti.</p>
+
+			<p>Všecky projevy díků se strany mé ženy mne naplňovaly trpkostí, ba odporem a musil jsem se velice přemáhati, abych nešetrně slovem se jí nedotknul. Ona je nad míru jemná a citlivá a byla by hned postihla nelad mé duše.</p>
+
+			<p>Jsem k ní vždy co možná šetrným, často také i dvorným, což mně působí zvláštní potěšení, o jehož vzniku nemohu být v pochybnostech. Jsem rád, mohu-li aspoň zdánlivě rozšířiti tu úzkou mezeru, která vlastně není mezerou mezi námi, a mohu-li dodati našemu poměru <pb n="133"/> delikátnějšího rázu. To již spočívá v mé povaze a nehodím se také tak zcela do nynější doby, kdy emancipace žen stírá s nich všechen pel a ubírá nám mužům možnost objevovati se jako v středověku. Mám v tom ohledu cosi středověkého v sobě. Přeji si mít ženu všady spíše bohyní září obetkanou než sval, mozek a přeplněného ducha. Je mně tak příjemno, mohu-li prokázati své ženě dvornost, která činí ze mne jejího sluhu, který je si vědom své síly. Zvednout jí šáteček, obléknouti ji do pláště, nabídnouti jí dříve pokrm — to všecko dělám rád, zvláště když jsem v dobrém rozmaru a kdy bych byl schopen ještě jiných rytířských služeb.</p>
+
+			<p>Alexandra naproti tomu je dosti prozíravá, aby pochopila, že v těchto rytířských službách vidím jakési uvolňování našeho manželského uzlu a tedy zároveň i požitek pro sebe. Usmívá se sice vždy (a to jí nemohu odpustiti) tak zvláště mateřsky a šetrně, že svou šetrností předčí moji dvornost, ale v tom úsměvu ji mám rád, líbí se mně. Jeví se v něm velkomyslnou a vzbuzuje skutečnou oddanost.</p>
+
+			<p>Naše manželství není zajisté jedno z nejhorších, alespoň sám dobře vím, že je naprosto bezúhonné a pořádné. Je to manželství v pravém slova smyslu, tak, jak si je asi Tolstoj představuje, <pb n="134"/> manželství, v němž cit ustupuje rozumu, které uvažuje, zamítá a doufá. Sloučení dvou duší, dvou těl svazkem, který nemožno porušiti povinnostmi, jež je blahem nám plniti. Myslím to vážně. Jaktěživ bych nepřijal svoji volnost za jakoukoliv oběť, která by prýštěla ze středu mé rodiny. Srostl jsem s ní a nedovedu ani prstem pohnouti o své vůli, k vůli sobě samému, abych hned v zápětí nepocítil toho následky.</p>
+
+			<p>Na příklad ta měsíčná noc, v níž jsem sám sebe se dotýkal tak labužnicky a skoro svatokrádežně, byla příčinou, že jsem celý příští den se cítil nevolným a že jsem se vyhýbal pohledům Alexandry, ba i pohledu své dcery Jaroslavy, která má ten zlozvyk, že lapá mně slova zrovna u úst, neustále opírá se o moje kolena a ptává se mne s tím největším klidem na světě, otvírajíc oči široce, jako by mé myšlénky chtěla věděti:</p>
+
+			<p>„Budu mít také děti, tatínku, až budu veliká?“</p>
+
+			<p>Člověk by řekl, že je to otázka nebo vtip frivolní, ale když se podívá do očí té žáby a když vidí tu její ustaranou, vážnou tvářičku, která náhle stává se jaksi dospělou a určitou, <pb n="135"/> pochopí, že je ta otázka tak jasná a nutná, že o vtipu neb o frivolnosti nemůže být vůbec řeči.</p>
+
+			<p>A pak kdyby se tak ptal Bohuslav, bylo by to snad směšné nebo drzé od toho kluka, ale Jaroslava má právo jakési k této otázce a já je musím respektovati. Ostatně Bohouše by taková otázka nikdy ani nenapadla. O tom jsem přesvědčen. A přece dle stávajících zákonů i on by měl uvažovati o všech možnostech. Ale je to darebák! Vyvádí jen uličnictví: bije Handžára, polévá kočku vodou, vydlubuje pannám Slávčiným oči a lhal bych, kdybych řekl, že jen jednou jsem jej viděl uspávati miminko mé dcerušky se sentimentálním šiškáním na rtech.</p>
+
+			<p>A přece ho to také nemine, a přece to bude také dělat.</p>
+
+			<p>Co jen já se najezdil s kočárkem a naohřával mléka na líhu! O tom ten hoch nemá ani ponětí! —</p>
+
+			<p>Manželství je vlastně problém. Není lze vystihnouti všecky ty jeho vztahy, ty závazky, ty podrobné nuance, jež jsou tak důležité a tak nezničitelné.</p>
+
+			<p>Představoval jsem si manželství vždy zcela jinak, jsa svoboden a opouštěje klidně ženy, jež mně náležely a u nichž jsem pociťoval rozkoš polibku. Ženu pokládal jsem za bytost <pb n="136"/> podřízenou, ke které se skláníme, abychom si jí dobyli. Každou bezvýminečně. Maličké úsluhy za veliké oběti. Tak — ano — šáteček jí zvednout, ruku políbit, zahalit ji shawlem — Za takových okolností nedovedl jsem si ani pomysliti, jaké dobrovolné jho manželstvím na sebe přijímám.</p>
+
+			<p>Nemohl jsem nikdy pochopiti tu náhlou změnu v živobytí, ve stycích, v názorech i v jednání svých kollegů, kteří se přede mnou oženili. Myslil jsem, že se přetvařují, že se nechávají ovládati nebo že chtí vypadati zajímavě. Ani ve snu mně nenapadlo, že by ta změna mohla býti tak přirozena, jak přirozený je hlad, žízeň nebo spánek. Nyní vidím, že u mne je vše stejné jako u nich. Již za měsíc po svatbě byl jsem jiný než dříve a nevěděl, co hovořiti s lidmi, již neměli se mnou společných zájmů a společných zkušeností. Za těch šest let, co jsem ženat, ztratil jsem vůbec představu o svém dřívějším živobytí a jen jako podivuhodný sen vrací se někdy ke mně a já se jí bojím — já jí nevěřím, já se za ni rdím.</p>
+
+			<p>Snad jsem se stal přece jen lepším, než jsem býval, ačkoliv tenkráte nepociťoval jsem pražádných výčitek svědomí. Byl jsem možná v hloubi své duše nespokojeným, ale té skryté <pb n="137"/> nespokojenosti jsem se ani nezhostil. Vím bezpečně, že jsem nespokojený, třeba bych si nepřál nikdy žíti jinak, než jak nyní žiji.</p>
+
+			<p>Po dlouhé, dlouhé době octl jsem se zase jednou se svou ženou v taneční zábavě. Byl to vlastně ples. U nás na venkově tančilo se letos velmi málo, ale přece nyní ke konci masopustu byl uspořádán tento ples, k němuž měly vzít dámy šaty s vlečkami a vystaviti svá ramena na odiv. Naše děti jsou bohudíky zdravé, tak že mohli jsme si s Alexandrou popřáti toho báječného luxu, víc morálního než fysického vzhledem k našim nepřetržitým starostem manželským, a jíti do tohoto plesu, k němuž skutečně konaly se velké přípravy v kruzích nám velmi blízkých. Alexandra měla oblek temně olivové barvy a byla poněkud dekoletována, tak že její bílá, docela čistá šíje aspoň v okolí krku jevila se velmi příjemně a vábivě.</p>
+
+			<p>Nemohu zapříti, že mě její přípravy toilettní dráždily a rozčilovaly. Ona sama, prodchnuta jimi, jevila tolik účastenství a neobvyklé svěžesti, že jsem mimovolně s jakýmsi neurčitým <pb n="138"/> obdivem k ní vzhlížel a skoro bázlivě dotýkal se všech těch jemných věcí, které u nás ležely po stole, židlích a visely na hřebících k tomu cíli zvláště zaražených na místech, kde rozhodně nikdy jich dříve nebylo.</p>
+
+			<p>Najednou jsem spatřil spodničky své ženy, které jsem u ní po celé manželství naše neviděl. Spodničky bílé se širokými krajkami, jež přeludně zachvívaly se v bohatých řasách při každém zavanutí vzduchu, které povstalo buď otevřením dveří, nebo oken.</p>
+
+			<p>Byl jsem skutečně rozechvěn a můj krasocit jakoby náhle pozbyl pout, tak pěkně rozepjal křídla, že mně bylo k básnění a byl bych snad aspoň v duchu opěvoval ty jemné bílé sukně své ženy, kdyby mně rýmy nedělaly vůbec obtíže. Přibíhal jsem ze své kanceláře tolikrát, kolikrát to bylo jen možno, a vždycky odcházel jsem skoro u vytržení. U nás vonělo to líbezným parfumem, dráždivou vůní jemného ženského prádla a všude šumělo hedvábí a lehounce zdouvaly se krajky. Na divaně stály malé střevíčky mé ženy, které naplňovaly mě zvláštní radostí. Již představa těch nožek, jež je obují, byla pro mne novou a lákavou.</p>
+
+			<p>Vešel k nám nový proud, snesla se k nám ta bílá letní oblaka se zlacenými okraji, jež <pb n="139"/> činí hlubokou, jasnou a přec tak monotonní oblohu červencovou bohatou a svůdnou. Ani nevím, co všecko pěkného mně napadlo v oněch dnech, kdy voněla u nás jemná rezeda a kdy znovu spatřil jsem svatební košilku své ženy bohatě vyšívanou a protaženou růžovými stuhami.</p>
+
+			<p>Nu, pomyslete, jaký jsem v celku nerozumný člověk. Musil jsem se násilně přemáhati, abych před dětmi uchoval si svou důstojnost a pak abych Alexandru neurazil svou vtíravostí a přílišným účastenstvím v jejích přípravách, které jí jistě působily více starosti než blaženosti.</p>
+
+			<p>Aspoň chystala si své věci jaksi nervósně a byla podrážděna, jestliže se jí něco nevedlo.</p>
+
+			<p>Zarděla se poněkud, když zastavil jsem se nad růžovými stuhami, připomínajícími mně nejasně chvíle, jež působily na mne nyní ve vzpomínkách s větší silou než tenkráte, kdy jsem je prožíval, jsa prodchnut ještě čpavým dýmem společnosti svých svobodných přátel, kterým na rozloučenou spořádal jsem pitku poslední noc před svatbou. Chtěl jsem se setkati s jejím pohledem, ale ona nevzhlédla a já sám jsem pocítil ulehčení z té nemožnosti. Kromě toho respektuji nevýslovně paní Alexandru Královou a obávám se, aby nepostřehla, že vlastně přes <pb n="140"/> ni, přes tu její bledou tvářinku, za těmi jejími velkými, zamlženými zraky hledám jinou bytost s ní úplně sloučenou, ale přece jen samostatnou a jaksi vítěznou.</p>
+
+			<p>Eh, člověk by se někdy zbláznil sám nad sebou. Při svých osmatřicíti letech divím se jen, že jsem mohl zabřednouti až v tato místa illusí, odkud nevidím ani východu! Co vlastně chci? — Tak dobrá, jest to pěkné, že Alexandra má smysl pro krajky a stuhy, že má lakované malé střevíčky, jež může obléknouti na místě svých pohodlných plstěných, jež jsou na palcích již prošoupané! Ale mění to na věci? Stává se tím jinou? Získávám tím něčeho?</p>
+
+			<p>Bůh chraň! Nedovedu si to vymluvit.</p>
+
+			<p>Těšil jsem se již jako dítě, až se žena má ustrojí a až zašustí svým temně olivovým hedvábím.</p>
+
+			<p>Nyní ten celý večer jest již za mnou a já pouze ve svých vzpomínkách vracím se k němu, ne abych jej oživil, ale abych měl vůbec přemýšleti o něčem vzdušném, lehkém a neuvěřitelném.</p>
+
+			<p>Ostatní v mém životě jest tak pevně vyhraněno a tak určitých barev, že nedá se na tom pranic změniti, ba ani reflexí to nepřipouští.</p>
+
+			<p>Ten večer byl velmi rozkošný. Mně přiléhala <pb n="141"/> dobře čamara, botky mne netísnily, rukavičky při oblékání jsem nepřetrhnul. Byl jsem lehký, pružný a procházel jsem se tím krokem tiše napadajícím a poněkud urychleným, který jsem pokládal vždy u sebe za něco nevyrovnatelného a krásného.</p>
+
+			<p>Ještě doma, sotva že jsem obléknul na sebe černý oblek a připnul si bílou kravatu, cítil jsem ve své bytosti zcela nový proud. Byl jsem svým, jako bych se právě odloupnul od skořápky, ke které jsem svým jádrem přirostl. Volně a s úsměvem hladil jsem si vous, mezitím co Alexandra připínala si poslední stuhu.</p>
+
+			<p>V pokoji bylo jasno až přebytečné, v kamnech praskal oheň. Jaroslava s ústy pootevřenými seděla ve velké mojí lenošce tak nehybně, jako by zkameněla v té póse svrchované pozornosti a údivu. Jen časem z hluboka vydechla a promnula si oči, jako by ji zabolely. Ani jediný pohyb mé ženy jí neušel a každý zdál se jí být nevýslovně důležitým. Jenda usnul, jsa unaven nudou, kterou zakoušel při všech těchto přípravách, a Bohouš jedl pomeranč, který mu chůva oloupala.</p>
+
+			<p>Venku vanul první jarní vítr se slabým kvílením, jako když se děcko probouzí. — Alexandra si vzpomněla na šáteček, požádala mne, <pb n="142"/> abych vzal několik špendlíků pro každý případ, a tázala se mne, zdali má účes v pořádku. Na jejích černých hustých vlasech třpytila se jehlice s malým démantkem.</p>
+
+			<p>Mám ve zvyku přivírat oči, prohlížím-li si něco pozorně, a v tu chvíli mimovolně jsem je přivřel. Alexandra se usmála, zaslonila mé oči rukou a lehce přitiskla se k mým prsům. Její hedvábný živůtek zašuměl a vydechnul rezedovou vůni, kterou byl napuštěn.</p>
+
+			<p>Bylo to velmi hezké! Opravdu — velmi hezké! Nemohu dnes pochopiti, že v tu chvíli byla to moje žena, táž žena, která s takovým klidem zapíná si přede mnou svou vlněnou jupičku na rukávech pošpiněnou a vyplachuje si přede mnou ústa, když si zuby čistí. Nu — A je možno, aby nosila neustále vystřižený hedvábný živůtek, napuštěný rezedovou vůní, kterou by vydechl, když by se ke mně sklonila?</p>
+
+			<p>Vždyť nemůže to být jinak, než že dnes zase má své plstěné pohodlné střevíce, v nichž pohybuje se dlouhým pospíchavým krokem v domácnosti, kde je jí všude potřeba. — Rád bych věděl, zdali urození lidé jsou i v manželství v neustálé extasi. Ti přece mohou si dovoliti zařízení života takové, aby jeden před <pb n="143"/> druhým uchoval si gloriolu naprosté nedotknutelnosti, vznešenosti a krásy!</p>
+
+			<p>To je ovšem ode mne zpozdilé, že tak nedemokraticky přemítám, jsa přesvědčen, že manželství samo o sobě již jest úplnou dekoltáží duší i těl v poměrech jakýchkoliv.</p>
+
+			<p>Vzpomínám si, že v našem plese jsem byl po půlnoci velmi unaven a že mne okolní ruch rozčiloval. Tančil jsem poměrně málo, neboť jsem se brzy zapotil, a kromě toho pociťoval jsem silnou závrať, zvláště při kvapíku a valčíku. Ztloustnul jsem skutečně velice, tak že jsem viděl, jak je to nepohodlné. Ženy, s kterými jsem tančil, vyptávaly se mne na děti, usmívaly se shovívavě k mým galantnůstkám a tvrdily, že dekorace sálu je překrásná. Nemohu si vzpomenouti, zdali některá z nich řekla mi něco jiného, ačkoliv jsem se namáhal být co možná zábavným. Mladá jedna slečinka, jejíž ramena ve vystřiženém životě ještě chrastila, s báječnou uctivostí mně dokazovala, že má moje žena výborný vkus a že se na ni ráda dívá, když tančí řadové tance. Byla ráda, když <pb n="144"/> jsem ji postavil, a uklonila se mně snad ještě hlouběji než já jí. Ta jistě měla neobyčejně uctivou představu o svém otci a o všech otcích na světě vůbec.</p>
+
+			<p>A co ještě? Mohu říci, že jsem byl velmi potěšen vždy, kdykoliv přišla ke mně Alexandra a důvěrně přisedla si ke mně, kladouc svou ruku buď na mé rameno, nebo na má kolena. Byla rozpálena tancem a její hezké oči byly navlhlé a zářily tak, jako když obraz slunce tone v lehce zčeřeném rybníce. Cítil jsem, jak její ruka i její dech jsou žhavé, a s rozkoší pohlížel jsem na její živůtek, který se jí zvedal v prudkém oddychování. Měla v pohledu cosi dětsky mazlivého, a jestliže se mnou hovořila, nahýbala svou hlavu co možná blízko k mé tváři a na jejích suchých horkých rtech vlnil se polokoketní úsměv. Ach, to nebyla paní Alexandra Králová! To nebyla ani slečna Doubravova!</p>
+
+			<p>Divím se, že nebyla zmatena mým chováním, neboť jsem skutečně byl velmi dojat jejím zjevem. Pili jsme z jedné sklenice a hledali své oči v jakémsi dorozumívajícím se pohledu. Nemohl jsem odolati, abych jí nepohladil ruku a nesrovnal rozcuchané vlásky v týlu, kam bych ji byl velmi rád políbil. Hovořili jsme šeptem, jak jsem si to dávno již přál, ale <pb n="145"/> ne tím šeptem více posuňkovým, který jsme si uvykli nad spícími dětmi, náš hovor byl prodchnut jistou úmyslností a rozpaky, jež přinášely mně pocity zcela nové.</p>
+
+			<p>Viděl jsem na Alexandře, že touží, abychom byli sami, a že by si ráda položila hlavu mně na prsa. Společnost nás tísnila a stávala se nám nepohodlnou.</p>
+
+			<p>„Je ti horko?“ tázal jsem se.</p>
+
+			<p>„Ó — ano! — Velmi — Tančila jsem příliš rychle. Kolik je hodin, Bořivoji?“</p>
+
+			<p>„Za deset minut půl druhé. Chceš snad jeti již domů?“</p>
+
+			<p>„To není možné! Způsobilo by to zlou krev — Ale ráda bych skutečně —“</p>
+
+			<p>Za chvíli tázala se mne s úsměvem:</p>
+
+			<p>„Jak se ti líbí paní Hovorná?“</p>
+
+			<p>Hledal jsem po sále paní Hovornou a nalezl konečně její nádhernou šíji v bělostných krajkách nachýlenu ku předu v rozmluvě s mladým adjunktem. Pohled na ni mne skoro rozechvěl, tak že jsem odpovídal nejistě:</p>
+
+			<p>„Nu — panu adjunktovi se líbí jistě líp. Proč se ptáš?“</p>
+
+			<p>Alexandra se usmála, přivřela oči a rozložila vějíř, kterým počala zvolna váti. Její <pb n="146"/> stužky, krajky, ba i vlasy nad čelem se lehounce rozechvěly.</p>
+
+			<p>„Proč se ptáš?“ tázal jsem se znova v rozpacích, které jsem si vysvětliti nedovedl. Paní Hovorná byla mně do této chvíle tak lhostejná, jak jen bylo možno, a nyní ta otázka mé ženy mě jaksi pomátla, vyvolala ve mně dojmy a dráždila mou obraznost. Těžko říci proč. Snažil jsem se nedívati na místo, kde paní Hovorná ve svém hluboce vystřiženém živůtku rozmlouvala s adjunktem, pozvedajíc k němu svou hlavu, neboť seděla a on stál. Byl jsem si neurčitě vědom, že by se mohla moje rozpačitost stupňovat. A to bez příčiny, bez viny! Cítil jsem se nevolným a napadeným. Měl jsem skoro zlost na ženu, že určila svou otázkou bod mým myšlénkám.</p>
+
+			<p>Alexandra se podívala na mně šelmovsky, ale na mou otázku neodpověděla. Pohybovala zvolna vějířem a svou nohou, kterou měla skříženu. Viděl jsem malou špičku jejího lakovaného střevíčku.</p>
+
+			<p>Pak jsme mluvili o dcerách pana Čejky, které ve svých bílých šatečkách vznášely se kolem nás a uctivě umlkaly v hovoru, když se k nám blížily. Moje žena vzpomněla si na Jaroslavu a přála si, aby byla již tak veliká jako <pb n="147"/> Čejkovy. Já jsem naprosto nedovedl ji v jejích tužbách sledovat, neboť slečny Čejkovy vůči Jaroslavě připadaly mně až nemožně dospělé —</p>
+
+			<p>V sále počínalo být ono žíznivé dusno, které omamuje mozek. Hudba již neelektrisovala, tanec nerozněcoval. Já jsem cítil jen žízeň, ale bál jsem se již pít. Alexandra tančila polku a její temně olivový šat občas mihnul se těsně u mých nohou. Pozoroval jsem, že je také již unavena, neboť jí oči zapadaly.</p>
+
+			<p>Rozhodl jsem se, že pojedeme domů po tomto tanci, a povolil jsem si čamaru, kterou do té chvíle měl jsem zapjatu. A pak jsem již jen jako v mlze viděl ty toiletty bílé, růžové, modré, tmavé a naslouchal zvukům hudby, v které jsem rozeznával zcela dobře plačtivé tóny flétny. Bylo mně velmi příjemno a těšil jsem se, až Alexandra dotančí. Za celý svět bych byl nevzpružil se již ke svému lehce napadajícímu, urychlenému kroku, neboť mně bylo neobyčejně volno v této póse naprostého klidu a mimovolného odpočívání. Hudba pěkně rytmicky vlnila se sálem a v mých očích mihotal se pestrý rej všemožných barev. Viděl jsem úsměvy, unylé pohledy, drobná ramena a plné šíje, jež bouřlivě se zvedaly v tanci. Také paní Hovorná letěla kolem mne, ale já rychle přivřel <pb n="148"/> zrak, jako bych se náhle podíval na bíle rozpálený kov. Ohlédl jsem se potom po Alexandře a nalezl ji právě ve chvíli, když její tanečník ji ke mně přiváděl. Účes měla již lehce pocuchaný a rty oprýskané. V její přítomnosti cítil jsem přítomnost ženy — ženy vůbec, a proto snad jsem ji v té chvíli tak velice miloval —</p>
+
+			<p>Doma nalezli jsme děti svoje spící a ve vzduchu chvěly se poslední stopy rezedové vůně —</p>
+
+			<p>Včera dostali jsme list psaný mně velice známým písmem, v němž nebylo nikde středníků ani čárek, bodů jen několik, a to vždy hozených tak ledabylo, jako by byly zrnky máku spuštěnými s výšky nahodile, kam padnou a kde se usadí. Po nich také nikdy nepřicházela velká písmena, ale vždy nějaké zcela klidné všední „abyste“, „protože“ anebo nějaké malé „a“. Dostáváme po celých šest let mnoho těchto listů a moje žena v nich čítá, ještě než jdeme spat, za úplného ticha naší domácnosti, a probírá <pb n="149"/> se vážně a pozorně v těch křivých řádcích bez čárek a s těmi podivuhodně usazenými puntíky. V listě stálo asi následující, pokud možno jej naznačit slovně. To ostatní napodobit není v mé moci:</p>
+
+			<p>Milovaná Alexandro, drahé děti a milý zeti!</p>
+
+			<p>Rozhodla jsem se, že Vás navštívím na nějakou dobu. Žiji tak osamocena a stýská se mně velice. Tatínek s panem Frankem odjedou tyto dny do Německa k vůli zřízení nějaké továrny a vrátí se někdy koncem dubna. Chtějí se podívat trochu po Německu a taky až do Hamburku. Ovšem že by mně bylo samotné úzko. Přijedu tedy k Vám! Přijďte mně v pátek k večernímu vlaku naproti a služku vezměte s sebou. Přivezu zásoby a dárky dětem. Půjdeš-li, Alexandro, také na nádraží, vezmi si na hlavu šálu, abys nenastydla. Ty večery teď jsou nesmírně choulostivé. Děti nechtě doma!!! Přikažte ale chůvě, aby byla na ně opatrna. — Těším se už na Vás. Ostatní si povíme ústně. — Líbá a pozdravuje Vás Vaše matka</p>
+
+			<p>Blažena Doubravová.</p>
+
+			<pb n="150"/>
+
+			<p>List pocházel od mé tchyně, která žije na Moravě se svým manželem a má dosud absolutní vliv na mou ženu a na poměry naší rodiny. Ještě dnes nemohu se uklidniti po účinku jejího sdělení, ačkoliv se namáhám sdílet radost své ženy a svých dětí, které u vytržení každému vyprávějí, že babička přijede.</p>
+
+			<p>Vlhne mně chvílemi čelo. Dlouhou dobu díval jsem se dnes ze své kanceláře do zahrady, kde jívy počínají pučeti. A byl jsem skoro sentimentální v té předtuše blížícího se jara.</p>
+
+			<p>Má žena nevidí a neslyší. Domácnost máme obrácenu na ruby, takže jsem rád, odcházím-li z toho labyrintu, v němž není spolehlivého místa pro mou osobu.</p>
+
+			<p>Je to zvláštní, že letos tak brzy jívy pučí. A vrabci cvrlikají jako blázni. Snad opravdu budeme mít již jaro.</p>
+
+			<p>Čemu se vždycky neobyčejně divím, jest poměr mé ženy k její matce. Přísahal bych skoro, že si ty dvě ženy úplně postačují a že jejich svazek je daleko tužší než náš manželský. Nechci snad vzbuditi domněnku nějaké <pb n="151"/> nemístné žárlivosti, ale to přece jen musím říci, že mě ta oddanost mé ženy k matce někdy pobuřuje. Totiž ne pobuřuje — ale překvapuje, rozhodně překvapuje.</p>
+
+			<p>Co se mne týče, postačilo mi úplně od mého dvacátého roku, když jsem věděl, že jsou doma zdrávi a že jsou se mnou spokojeni, aspoň tak spokojeni, abych netrpěl nepříjemnými výstupy, když jsem přijel domů. Moje matka činila na mne vždy dojem jakési přežilé lásky, k níž nás pojí báječně příjemné vzpomínky a které si vážíme proto, že zůstala nám oddaná i v těchto poměrech, kdy život způsobil již v našem smýšlení a citech značné trhliny. Otce jsem se bával, ale matka budila ve mně více shovívavosti a takové zvláštní nasládlé něhy, která mně připadala tak nutná jako oblek na zimu. Nemohu si ničeho nalhávat! Víte, cenná mistička, z které jsem dávno vyjedl svou sladkou kaši, a nyní se tak na ni dívám — dívám, mám ji rád, budí ve mně neuvěřitelné vzpomínky, ale pro mne život neznamená nic positivního a nutného.</p>
+
+			<p>Je to hrozné, co dovedu ve svých myšlénkách si vytesat! Když je to hotové, vidím teprve, jaké prahanebné a surové dílo jsem spáchal.</p>
+
+			<pb n="152"/>
+
+			<p>Moje matka nemá však ke mně žádných větších požadavků. Je to prostičká žena, která měla mnoho dcer. Byla šťastna, že jsem se výhodně oženil, a tím, zdá se, její povinnosti mateřské ke mně byly vyčerpány. Její láska k nám dětem byla příliš rozptýlena a zůstala takovou až po dnes. Nemohla nikoho z nás milovat nejvíce a ten díl, který stejným způsobem nám podávala, zdál se býti maličkým, protože nás byla hezká tlupa. Ale krájela z velkého bochníka, to vím jistě, své krajíčky, které nám svou láskou podávala.</p>
+
+			<p>A tak mně někdy připadá, že se všecko přežije, všecky svazky, všecky poměry a že jen člověk zůstává sám ve svých radostech a bolestech. Najednou by se mohlo stát, že bych se stal sentimentálním filosofem.</p>
+
+			<p>Chtěl jsem jen říci, že poměr mé ženy k matce je tužší, než dovedu pochopiti. Vždycky se mně zdálo, že jsem těm ženám pouze jakousi pomůckou — na mou čest — v jejich společném životě a v jejich společných citech. Alexandra se hned stává slečnou Doubravovou, když dostane list od matky, anebo když jí píše odpověď. Vím určitě, že mají mezi sebou různá tajemství, která si buď píší v nějaké rychle napsané <pb n="153"/> doušce pod podpisem, anebo která si šeptají, když vyjdu ze dveří.</p>
+
+			<p>Moje tchyně (nemyslete pro Boha, že moje pocity k ní jsou veseloherní) jest velmi tělnatá, prostřední postavy, černých vlasů, jež nosí hladce sčísnuty kolem skrání, černých očí, dobrotivého výrazu a velmi lahodného chování. Má malé rty, bílé ruce, lehounce načrtané vrásky v obličeji, jako by to byla jen naznačená místa, kde by ty vrásky mohly být, a při hovoru skládá si ruce do klína, který je velmi široký.</p>
+
+			<p>Nosí černý čepeček, tmavé zástěry a po obědě chodí také spat jako já. Mluvívá žertovně, ráda se směje a nejpříjemnějším zaměstnáním jejím jest probírání se v modních listech, kde hledává prádelko anebo oblečky pro naše děti.</p>
+
+			<p>Ke mně chová se vždy s onou až nápadnou pozorností, kterou nevím nikdy čím opláceti, abych neoctnul se v nevýhodném světle.</p>
+
+			<p>Zajímá se nejvíce o mé kravaty a knoflíčky u košil a manžet a spravuje mně také ponožky. Odcházím-li do své kanceláře a ona je u nás návštěvou (dosud se to stávalo dosti zřídka), volá Alexandru, ať je kdekoliv, důležitým hlasem a říkává jí tiše:</p>
+
+			<pb n="154"/>
+
+			<p>„ Bořivoj odchází. Jdi ho políbit!“</p>
+
+			<p>Jakživ nelíbám svou ženu obřadněji než po tomto vyzvání a vždycky se mně zdá, jako by mně najednou rty zvadly. To ovšem je můj zcela subjektivní pocit, o kterém s nikým nemluvím.</p>
+
+			<p>Pokud jsem se ucházel o svou ženu, pokládal jsem zcela za nutné a vysvětlitelné, že měla rodiče, k nimž jsem se musil chovati uctivě a s respektem. Nyní mne skoro překvapuje, že vztahy těch rodičů k nám dosud neminuly. Divím se, že se nevzdali práv svých, ačkoliv by pro ně bylo pohodlnější, kdyby nepřipouštěli si jiných starostí, než čím by prodloužili svůj bohulibý život. Alexandra dostala své věno, zajistili jí budoucnost, jak bylo jejich svatou povinností, a nyní mohli klidně dívati se k hvězdám.</p>
+
+			<p>Zatím nebylo jediného dne, v kterém bychom nedostávali důkazy jejich houževnaté příchylnosti k naší rodině. Alexandra rozhodně byla dosud jejich, a tak žila podle mne vlastně neustále ve dvou bytostech. Jedna bytost jmenuje se paní Králová, rodí mně děti, obstarává mou domácnost a ta druhá jest slečnou Doubravovou, která si vyjela na výlet a podává z něho domů podrobné referáty. — Co mně má být po jejích <pb n="155"/> rodičích, to rozhodně nevím. Že bych k nim choval nějakou synovskou lásku, to by bylo bláhovým sebeklamem a musil bych dříve odbýti nějaký kurs, abych se na ni vycvičil. V poměrech, v nichž jsem se svým oženěním octnul, potřeboval bych tolik nuancí různé lásky, že, bůh ví, bych na ni nestačil. Je tu žena, děti, její rodiče, moji rodiče, sestry, švakrové, babičky, strýcové z obou stran — není možno, abych učinil všem zadost.</p>
+
+			<p>Je toho dosti, když mám své děti rád a kdybych si přál, abych mohl zbožňovati svou ženu. Vždyť beztoho mně někdy hlava třeští, nevidím-li východu z této jeskyně, kde vše se leskne zlatem lásky, drahokamem úcty a kam jsem vlezl o noci svatojakubské, abych si pro sebe trochu štěstí a bohatství citu urval. Zatím vchod zapadl, nemohu ven a to bohatství jest teď celé mé!</p>
+
+			<p>Co nemohu absolutně číst, jsou romány. Pokusil jsem se již několikráte přečísti román, ať to byl již původní, anebo překlad, ale nemohu se dále nikdy dostati, jen tak na deset, <pb n="156"/> patnáct prvních stran, až tam, kde počínají osoby jednati a kdy půdu má spisovatel připravenu a zoránu. Pak jen již listy probírám, zachycuji někde slovo, někde celou větu, ale bojím se svrchovaně popisu přírody, východu nebo západu slunce, popisu lesa, luk a vánku. Z toho bych se stal hned nervosním a listy hustě potištěné, na nichž příroda zrovna plave, rychle obracím se zvláštní úzkostí, abych ani slůvka z nich neviděl. Dříve čítával jsem rád povídky a romány, zvláště když jsem byl zamilován a nevěděl si jiné rady.</p>
+
+			<p>Nyní pěstuji trochu politiku, pak probírám se v sociální otázce, odebírám „Z říše vědy a práce“ a čtu velmi rád anekdoty. K románu se již nedostanu, protože pozbyl na mne reelního účinku. Naleznu v něm vždy něco, čemu nevěřím a po čem mně pranic není. Přeji-li si snad tragédii lásky anebo drama rodinné, stačí mně na to denní zprávy v mých novinách a mají tu výhodu, že v nich nejsou ani přílišné dialogy, ani mnoho přírody. Hezky krátce: to a to se stalo, tam a tam se to stalo, pro tu a pro tu příčinu se to stalo. Ostatní si domyslím.</p>
+
+			<p>Ale já skoro nevěřím ani, že se vůbec může něco stát! Nejvýše to bych uvěřil, že <pb n="157"/> člověk pozbude rovnováhy, že by se rád na něčem zachytil a buď že se zachytí skutečně, anebo že padne.</p>
+
+			<p>Mně je tyto dny k zbláznění. U nás všecko vzkypělo, děti, žena, služky, moje tchyně. Nikdy se u nás tolik nehovoří jako nyní po jejím příjezdu! Teď teprve slyším a vidím, co jsem dříve neviděl a neslyšel. Děti umějí báječnou spoustu básniček a písniček. Dovídám se také dojmy své ženy z plesu, o nezpůsobech chůvy, o záletnosti služky, o nedostatcích v různých maličkostech domácích jako jsou koberce, záclony, utěrky, smetáky, malby na stěnách atd. Vidím všecky šatečky svých dětí, znova vidím temně olivové šaty své ženy, její střevíčky a vějíř, vidím novou cukřenku, podnos, sirníček a nový koš na prádlo, jež jsem dříve neviděl. Moje žena nemůže být s vypravováním a ukazováním u konce. Neustále nalézá něco, co zase přináší své matce v jakési vítězoslávě.</p>
+
+			<p>„A ukaž, Bořivoji, šátek! Vyšila jsem mu monogramy, matinko — nechci jít schválně do skříně —“</p>
+
+			<p>„Mám jej špinavý, Alexandro!“</p>
+
+			<p>„To nevadí — jen ho ukaž —“</p>
+
+			<p>Moje tchyně prohlíží víc šátek než monogram, <pb n="158"/> to hned pozoruji na první pohled, a pak se mne ptá s laskavým úsměvem:</p>
+
+			<p>„Co pak otíráte s kapesníky, prosím vás? —“</p>
+
+			<p>Rozhodl jsem se, že se podívám do hostince. Nebyl jsem tam dávno již, ale nyní cítím potřebu nějaké společnosti, kde bych mohl také já promluvit. Je mně skoro úzko, slyším-li, že Jaroslava zase počíná svým neobratným jazýčkem básničku „Znáte mě, že ne a ne?“</p>
+
+			<p>Byl jsem radostně překvapen, když jsem ji slyšel poprvé, ale prosím vás, všecko na světě se ovšední a Jaroslava od příjezdu své báby přeříkala ji aspoň dvacetkrát. Jen moje tchyně je dosud u vytržení a tomu se opravdu divím při jejím ctihodném stáří.</p>
+
+			<p>Vypravuje mně velmi mnoho o dětství mé ženy, ale ona vypravuje tak nesouvisle a tak široce, že to dětství Alexandry nemohu si dobře představit. Obyčejně večer, když děti ještě dovádějí, bývá velmi výmluvná a její tvář se rozpaluje, jako by požila mnoho vína. Za nějakou chvíli vychládá však a počíná zívat za rukou. <pb n="159"/> Miliskuje se ještě s dětmi, avšak její pohyby jsou těžké a mluví k nim jen jednotlivými slovy, a to ještě tiše a jaksi tvrdě. — Ani jediného večera, když uleháme, nemám v sobě pocitu nějaké rozkoše anebo spokojenosti. Alexandra mně připadá jako voskové figury v panoptikum, jež nemají v sobě života. Zdá se mně, že je vždy vyčerpána a že jí pro mne ničeho nezbylo —</p>
+
+			<p>V úřadě se pranic neděje. Je to denně totéž od osmi do dvanácti a od jedné do šesti. Báječná nuda kořeněná povinností. Cizí zájmy, jež jsem přijal za své a v nichž můj vlastní duševní život a moje vlastní duševní potřeby zanikají bez ohlasu: Tažný kůň vezoucí seno, jehož se nemůže dotknouti. Krok za krokem spolehlivě a neunavně.</p>
+
+			<p>Počínám být mrzut. Ta moje kancelář tichá s tím velkým stolem psacím, na němž mám rozloženy všecky zájmy obchodní, do kterých mně a mému životu pranic není, stává se mně nepohodlnou. Přecházím v ní, jsem netrpěliv a zlobím se bez příčiny. Venku v přírodě <pb n="160"/> počíná skutečný život. Moje děti dostaly zahradní klobouky.</p>
+
+			<p>Popěvuji si přidušeně, a stojím-li, klepu nohou o zem. Jsem v bídné náladě, která mne skoro dusí. Snídám, obědvám, svačím a večeřím. Cítím, že se musí něco stát, abych se poněkud vzpružil, abych nalezl sebe a věděl, že jsem šťasten. Nevím sám, co mně chybí, ale vím, že jsem stísněn a že bych si něčeho přál, čeho již není.</p>
+
+			<p>Tak rád podíval bych se ku předu do svého života, ale zavírám vždy ustrašeně oči v obavě, že neuvidím tam ničeho. Pláň!</p>
+
+			<p>Ale pro Boha jediného, kdy se to vlastně stalo, že jsem ztratil sám sebe a že můj život obrátil se tímto směrem, nesa na sobě cizí břemena s takovou podivnou ochotou?</p>
+
+			<p>Moje tchyně musí míti nyní večer klid. Píše již po tři večery dopis svému muži a nemůže s ním být hotova. Přál bych si vědět, co mu píše a s jakými pocity on to bude číst. Co si vlastně ty lidé nyní spolu ještě povídají?</p>
+
+			<p>Půjdu do hostince — rozhodl jsem se pevně na tom.</p>
+
+			<pb n="161"/>
+
+			<p>Společnost lidská zasluhuje opravy. Vysílila se nudou v zděděných tradicích, na nichž se pranic nemění a které ani z daleka nevyhovují potřebě naší doby, v níž všecko přijímá jiné barvy, jen ty podstatné společenské tradice nikoliv. Už filosofuji. Nezbývá mně nic jiného, protože se o všecko tříštím. Musím věřit, že by bylo vše jináče, kdyby bylo vše jiné. Od základu to rozbourat, přepracovat a vystavět ze starého materiálu budovu nového slohu. Ovšem přijde na to, zdali by to materiál vydržel, ale aspoň zkusit by se s tím mohlo, aspoň zkusit! Takhle to dále nejde — já sám nejlépe vše cítím. Stokráte denně se ptám: „Co teď? Co pro mne zbylo?“ Ale odpověď je hluchá a mlčí. Nejprve jsem já, já sám, já narozený, žijící a jednou umírající. Proč mám být nespokojen? Proč nemám sebe respektovati? Na prvním místě o mne se musí starat společnost, se mnou počítati, mě míti na zřeteli. Takto učinila mě ale částí celku, který pohybuje se proti mé vůli. Nechci se pohybovat — jsem vlečen. A neustále mohu křičet „nechci se pohybovat“, přece tak činím, protože celek, k němuž jsem připojen, se točí. Já sám nezmohu ničeho a také se nemohu zastavit. Čím jsem se stal? Jsem, a přece nemám vlastního života. Někdy <pb n="162"/> se mně zdá, že bych něco rozdrtil, ale marně pátrám, co by to bylo. Teď již jasně vidím, že není se mnou nic. Přestal jsem být, můj život není samostatný, ale sloučený. Tím sloučením pozbyl jsem svobodné vůle a nárok na vlastní život.</p>
+
+			<p>Na příklad chtěl bych utéci, podívati se do Australie a na ostrovy Kanárské, ale já se tam nepodívám! Chtěl bych milovat ženy — Alexandro, odpusť — ženy mě dráždí, vábí, ale ani jediné se nedotknu! Chtěl bych — Totiž je to zbytečné, to všecko chtění. Malý Jan již několik dní nám churaví a mám starost o něho. Nic bych nechtěl! Nemám k tomu síly a jsem jen sám sobě protivný —</p>
+
+			<p>Do hostince již nepůjdu. Skřižoval jsem se, jak ti lidé mohou seděti uprostřed tolika kouře, cucati pivo a dělati takové jalové, hloupé vtipy! Nevím sám, jak jsem dříve mohl choditi do takové společnosti den co den a seděti v ní bez hnusu. To je hrozné, co někdy člověku stačí! A pak připadal jsem si jako bílá vrána mezi nimi. Odcizil jsem se jim. Sedí pohromadě, rozumějí si, vědí, co se stalo před týdnem a co včera. Svobodní mládenci nerozumějí mně, těm ženatým, zkostnatělým otcům, jejichž dcery jsou dospělé a čekají s matkou, až „tatínek“ <pb n="163"/> odejde, nerozumím zas já. Jsou to vážné hlavy hladce přičísnuté, se širokými tvářemi, plným vousem a dýmkou v ústech. Pomačkaný límeček u krku, na křivo kravatu, pošpiněné ruce. Hrají karty a málo si povídají. Není možno, abych cítil se mezi nimi volným! Jsem dosud mlád, chci žít! Můj nehet na malíku jest dosud pečlivě vyčištěn a můj knír nakroucený. Plakal bych jako dítě. Já nenávidím ty „tatíky“, neboť to jsou již tatíkové, a ne tatínkové a otcové. Vzpomenu-li si na ten kroužek jejich, je mně tak, jako bych se napil zvětralého piva, které páchne sudem.</p>
+
+			<p>Smějí se se skrčenými rameny, s hlavou do nich vsunutou a prskají při tom smíchu, který vypadá, jako by se v nich něco škvařilo a rtoma jim to ubíhalo. Sliní si prsty a otírají si neustále nosy. Tak ze zvyku rukou, jako by je svrběly.</p>
+
+			<p>Prsenku u košile mají ohnutou a na jedné straně vylézá jim šle. Přesedají si chvílemi a natahují znova nohy pod stolem. Hrozno!</p>
+
+			<p>„Má úcta, pane Dolejší! Má úcta!“</p>
+
+			<p>„I má úcta, pane řiditeli! I má úcta!“</p>
+
+			<p>Nevědí, co se mnou hovořit a jak se chovati. Pomátl jsem jim hru.</p>
+
+			<p>„Co dělá milostpaní? Co dětičky? —“</p>
+
+			<pb n="164"/>
+
+			<p>A ti svobodní?</p>
+
+			<p>Adjunkt Kučera ohlédl se po mně přes rameno a ještě dříve, než jsme se pozdravili, šeptal cosi svým přátelům s úsměvem tak impertinentním, že bych mu byl dal políček. Jsem přesvědčen, že vyslovil jméno mé ženy, nebo mých dětí, anebo třeba jen jméno mé tchyně — ale slučoval je s mým příchodem, vysvětloval jim můj příchod! Chtěl bych na to přísahat!</p>
+
+			<p>Stal jsem se terčem úsměvů a poznámek. Všecky ty tváře pečlivě oholené, s blýskavýma očima, s čelem hladkým a klidným obrátily se ke mně a na všech kroužil úsměv polozakrytý navoněným vousem.</p>
+
+			<p>„Utíká!“</p>
+
+			<p>Kompromitoval jsem ženu svým příchodem mezi tu nevázanou chásku, která si dosud kupuje polibky a posílá počestným děvčatům kytičky fialek. Bídníci!</p>
+
+			<p>A vlastně: vždyť jsou k smíchu! — Co pak nejsou k smíchu? Znám velmi dobře ty jejich mládenecké pokojíky, v kterých je cítit plesnivinu a prázdno! Kufr, hlavně kufr, pak postel, stůl, židle, umyvadlo, věšák, snad ještě kolo a pak holé stěny s oprýskanou malbou, na které tužkou kreslí si z dlouhé chvíle obrázky.</p>
+
+			<pb n="165"/>
+
+			<p>Věnec ušpiněných límců, vsunutá guirlanda manšet a zouvák!</p>
+
+			<p>Posluhovačka.</p>
+
+			<p>To jest jejich intimní život, kterým se nechlubí, ale jenž je nejtěsněji sloučen s jejich bytostí. Prohýřené noci, unylé dny v práci, kterou považují za sebe nedůstojnou. Vždycky! Lakované botky, bizarrní kravaty, dluhy! Holky bez požadavků esthetických! Zábava s dívkami, které se rdí! Kollegialita, která znamená společné viny a společný nedostatek —Floutkové!</p>
+
+			<p>Byl jsem tak rozhorlen, vida ten jejich úsměv a ten polozakrytý pohled dotíravý, že jsem ztratil okamžitě celou illusi o večeru.</p>
+
+			<p>A tak jsem se zdál být snížen v té jizbě kouřem naplněné, tak k zemi smáčknut a tak potřísněn, jako bych vlezl do nějakého pelechu. Štítil jsem se židlí, navlhlých, stuchlých ubrusů, sklenice, z které jsem pil, novin, jež jsem do ruky vzal. Připadalo mně, že tu celou ošuntělost přivleku s sebou do své domácnosti, že se musím doma vykoupat, abych ji se sebe spláchnul a nečpěl jí před svými dětmi a před ženou.</p>
+
+			<p>Zastesklo se mně nejprve po Jaroslavě, pak po Jendovi a Bohoušovi, po ženě, jako by je dělil ode mne oceán.</p>
+
+			<pb n="166"/>
+
+			<p>Nikdy před tím ani potom, když náhodou octnul jsem se v podobné situaci, ovšem již bez vlastní vůle a pobádán jinými pohnutkami než hrozným stavem své duše, nebylo mně tak smutno jako v tuto chvíli, v které jsem cítil, že jsem spáchal něco neomluvitelného tím náhlým odchodem z domova, v němž jsem se cítil stísněn a nemožným.</p>
+
+			<p>Představoval jsem si Alexandru i své děti a zdálo se mně, že jsem jim skutečně utekl. Že jsem něco mezi sebou a jimi přetrhl, že jsem zkrátka spáchal na nich bezpráví. Pil jsem ze své sklenice asi s takovou chutí, jako bych pil patoky. Seděl jsem sám u stolu a měl jsem hlavu složenu do dlaně. Nebylo mně možno se přemáhati, ačkoliv jsem viděl, že celá společnost jest zaměstnána mou osobou a že adjunkt Kučera si hladí kníry, jen aby zakryl svůj široký úsměv, který přecházel již ve smích.</p>
+
+			<p>V místnosti se málo hovořilo, jako bych působil nesnáz svou přítomností. Viděl jsem zřetelně, že se nevzpružím a že mně dvě sklenice piva úplně dostačí. Potom jsem se poroučel.</p>
+
+			<p>„Má úcta.“</p>
+
+			<p>„Dobrou noc, pane řiditeli! Dobrou noc!“</p>
+
+			<p>„Má úcta!“</p>
+
+			<pb n="167"/>
+
+			<p>Hosté se mně uklonili, a když jsem vyšel ze dveří, nastal v hostinské místnosti šumot a ozývalo se mnoho hlasů. Mně to bylo však tak lhostejno, že jsem to považoval úplně za samozřejmé —</p>
+
+			<p>Venku svítil měsíc, cesty byly bílé a krajinou vál dech pukajících na stromech pupenců a dech bohatých třásnatých jehněd z blízkého parku. Vydechl jsem z hluboka a běžel tichými ulicemi k domovu. V oknech bylo ještě světlo. Alexandra nespala.</p>
+
+			<p>Seděla nad knihou, v které nečetla. Když jsem vešel, podívala se na mne svýma velkýma očima, pátravým, dlouhým pohledem a škubla rtoma, jako by mně chtěla něco říci. Ve vedlejším pokoji prasklo a pohnulo se cosi. Patrně ani tchyně nespala. Po židlích a po pohovce ležely dětské hračky, na stole byla hozena suknička Jaroslavy. Vzduch byl naplněn vůní kvetoucích hyacintů, jež uléhala těžce na duši —</p>
+
+			<p>„Ty nespíš?“</p>
+
+			<p>„Čekala jsem na tebe.“</p>
+
+			<p>Alexandra byla v nedbalkách, vlasy měla spuštěné a na její bledé tváři rýsovaly se dvě vrásky, které povstaly patrně velkou únavou. Políbil jsem ji na čelo, ale cítil jsem se zase <pb n="168"/> sklamán. Byl bych ji rád k sobě bouřlivě přivinul, byl bych chtěl, aby měla horké ruce, sálající rty a aby zatopila mě polibky. Cítil jsem potřebu velikého citu, veliké scény, potřebu slz, vzdechů a výkřiku — Ona však na okamžik jen položila si své chladné čelo na moji ruku a pravila tiše:</p>
+
+			<p>„Bylo mně smutno, Bořivoji —“</p>
+
+			<p>Ve vedlejším pokoji šum se zvýšil a za chvíli objevila se mezi záslonami hlava mé tchyně v nočním čepci, který mně byl vždy postrachem. Usmála se nuceně, něco zašeptala a zase zmizela —</p>
+
+			<p>Neusnul jsem dlouho do noci a slyšel jsem tichý dech své ženy, která mně po boku spala —</p>
+
+			<p>Neděje se nic. Den jako den je stejný a všude klid jako v zátoce. Nemám o čem vyprávět, neboť mně samotnému připadá vše vyčerpané a nehnuté. Jedině děti mají plnou hlavu plánů, nadšení a dojmů. Jaro je jim něčím novým a nevýslovně šťastným.</p>
+
+			<p>Pozoroval jsem Jeníka, když poprvé ve svém životě utrhnul chudobku. Stál jsem nedaleko <pb n="169"/> něho a viděl jsem zřetelně jeho tvář a jeho rty pootevřené, z kterých ozývala se neurčitá slova. Stál nejistě na svých malých nohách, nejistě se shýbal. Byl pln překvapení, nedůvěry a zvláštní piety. Rozvitá chudobka v drobné, měkké trávě pomátla mu hlavu, tak že vypadal skoro ustarán. Konečně se sehnul, pošpiněnou rukou sáhnul po květu a utrhnul jej. Zarděl se při tom až na čelo a lehounce vykřikl. A pak zvolna rozevíral dlaň, jako by se bál, že mu kytička ulítne, a pozorně se na ni díval. Co si myslil, nevím ovšem, ale cítil jsem s ním v té chvíli a zdál se mně být bližším, jako by nás něco sloučilo.</p>
+
+			<p>„Máš kytičku?“ tázal jsem se ho.</p>
+
+			<p>Jeník přikyvnul a pustil se přes trávník ke mně klopýtavým během, maje ruku rozevřenou a vztaženou mně v ústrety. Když ke mně doběhl, shledal jsem, že chudobku ztratil v běhu. Nemohl jsem jinak, než pozvednouti jej k sobě, setříti mu slzy s očí a slíbiti mu jiné květy. Nad námi vznesl se skřivan a on všecek u vytržení zase po něm ruku vztáhl.</p>
+
+			<p>Je to první jaro, které chápe. Loni ještě mnoho spal a bojoval se svým vlastním vývinem. Můj Bože, první jaro! Je v tom něco dojímavého a skoro tesklivého. A mně jest osmatřicetkrát <pb n="170"/> přečtenou knihou, v které sbírám již jen vlastní vzpomínky. Vím dobře, kdy stromy pokvetou, kde pěnkava má hnízdo a kdy růže budou míti poupata.</p>
+
+			<p>Eh! —</p>
+
+			<p>Těším se na vůni jasmínu! Je tak intensivní a jasná. Když jasmín kvete, sedávám rád za večera v zahradě a dýchám ho plnýma prsoma. Je to vůně, která přichází k nám a kterou nemusíme hledati.</p>
+
+			<p>Zkornatělá duše nechá se jí laskat a teprve chápe probuzené jaro, které k ní v jemných nuancích již nemůže. — Ach, jasmín mám rád! Vůně jeho dráždí, jako by nám srdce šlehala. Již loni sedal jsem se ženou v besídce, když jasmín voněl, a byl jsem šťasten, když jsem si jí dal hlavu do klína.</p>
+
+			<p>Chodívám s dětmi na procházku. Alexandra stěžuje si na bolesti v nohou a na časté závrati, tak že ji považujeme za churavou a snažíme se ji ušetřiti velkého neklidu. Moje tchyně je plna obav, jež podává mně k nahlédnutí ve svých pohledech, ve svých pohybech i slovech, které pronáší chvílemi až s mystickou zastřeností. Ujala se vlády v mé domácnosti a vaří dle svého jídelního lístku, v němž převládá cibule a omastek.</p>
+
+			<pb n="171"/>
+
+			<p>Každodenně táž vůně z kuchyně jako by byla základním kamenem jejího celého umění kuchařského. Čepeček na hlavě se jí pošinul, obličej dostal skutečně dvě vrásky a její ruce naběhly v ustavičném spěchu. Krátká vlečka jejího županu je pošpiněna a zatvrdlá.</p>
+
+			<p>Strojí ráno děti, chystá mně prádlo a svádí celé bitvy se služkou. Pozoruji, že se opírá o mne v každém případě, jako by nutně potřebovala vědomí nějaké opory, a považuje mě jistě nyní buď za svého bratra, otce, anebo docela za svého — manžela. Radí se se mnou tichým hlasem, často zvedá ke mně oči, a chce-li ode mne něčeho, zatahá mě důvěrně za rukáv.</p>
+
+			<p>Sedáváme spolu večer, když již celá rodina ulehne, a mlčky dopíjíme každý svou sklenici zvětralého piva. Alexandra ulehá nyní časně z večera anebo usíná znenadání na pohovce, odkudž ji musím pak skoro odnésti a svlékati sám jako malé dítě. Zachvívá se v mém objetí a klade si svou hlavu na má ramena, mezitím co jí uvolňuji živůtek pozorně, abych ji úplně nevzbudil.</p>
+
+			<p>„Tak, má dušinko zlatá,“ říkávám jí s onou mimovolnou něžností, která nás uchvacuje vždy, když se cítíme silnějšími vůči druhému a vidíme, jak se nám vzdává bez odporu.</p>
+
+			<pb n="172"/>
+
+			<p>Její útlá paže, její hezounká šíje, její uvolněný vlas, všecko mně je odevzdáno s důvěrou, o které vždycky přemýšlím a hledám její pramen, abych si ji vysvětlil. Toto úplné vzdání se ženské bytosti bez vášně, více instiktivní a vniterné než fysické, považuji u své ženy za jediný a také skoro za posvátný symbol našeho manželství.</p>
+
+			<p>Mám ji velmi rád, když očekává ode mne laskání, péče, šetrnosti a když se tak připne ke mně s důvěrou malého červíka, který ociťuje se v naší moci.</p>
+
+			<p>„Můj churavečku! Mé děťátko! Mé ubožátko malé!“</p>
+
+			<p>Zouvám jí plstěné střevíce, zadychuji vychladlé ruce, rovnám košilku na jejích ramenou. A ona tak bledá, skleslá, s očima zavřenýma, se suchými rty, opřena o moje prsa, nechá se uložiti, ukrýti a vydechuje z hluboka, jako bych přejal právě její tíži. Její bledá tvář mě rozčiluje, cítím se zachycen a stísněn. Najednou se mně zdá, že se dusím, že se bojím čehosi, a stojím nad ní jako přikován, bez pohnutí, sleduje její dech, jak v lehkém vanutí čeří její hruď.</p>
+
+			<p>V pokoji jest vážné růžové pološero naší noční lampy.</p>
+
+			<pb n="173"/>
+
+			<p>Děti spí, usínajíce nyní skoro v chůzi, jako by byly opilé tím jarním vzduchem, v němž pohybují se od rána do večera. — Je mně nevýslovně úzko. Nevím proč, nevím, kde se to vzalo ve mně. Hledím na ruku své ženy s tenkými, vyssátými prsty, o nichž se mně zdá, že se neustále slabounce zachvívají. Bezděčně si přeji, aby ta ruka ležela jinak, v jiné póse, a abych se jí mohl dotknouti, ne k vůli uchvácení nebo z pohnutí, ale žene mě to k té ruce, jako bych chtěl se na ni zachytit. A snad ještě ani toto není ten pravý význam.</p>
+
+			<p>„Alexandro, Alexandro!“</p>
+
+			<p>„Co chceš, Bořivoji?“</p>
+
+			<p>„Necítíš ničeho? Jsi zdráva?“</p>
+
+			<p>„Ach — ano! Proč se ptáš? — Spala bych jen! — Jenda už usnul?“</p>
+
+			<p>„Ano. — Ležíš — ležíš takto dobře?“</p>
+
+			<p>Alexandra vztáhne ke mně svou bílou, slabou ruku a docela jemně dotýká se mých vlasů, očí a mých vousů . Tento její pohyb tak známý a utišující dojímá mě velmi příjemně. Nabývám klidu a v tom klidu ji líbám na čelo, na ruce a na rty. Jaké jsou to polibky, nevím. Jsou měkké, vláčné a tiché. Dosud v životě jsem nikdy nikoho tak nelíbal, to vím zcela určitě.</p>
+
+			<pb n="174"/>
+
+			<p>A pak po špičkách, všecek ještě proniknutý citem plným melancholie a nezvyklé zněžnělosti, vcházím ke své tchyni, která hleděla jistě upřeně na dvéře naší ložnice a tak mě očekávala, neboť setkávám se s jejím utkvělým, širokým pohledem hned, jakmile otevru.</p>
+
+			<p>Na stole dosud dvě sklenice zvětralého piva. Má tchyně má před sebou obraz „Madonny“ v obrázkovém časopise, na který se celý večer dívala, aniž jej, tuším, viděla.</p>
+
+			<p>„Spí ?“</p>
+
+			<p>„Usíná —“</p>
+
+			<p>Cítím, že se moje tchyně upřeně dívá mně do obličeje, ale mně skutečně ten její široký, tázavý pohled tak rozrušuje, že se mu snažím vyhnouti —</p>
+
+			<p>Najednou vstane, zalomí rukama a celá bez sebe šeptá buď pro sebe samu, anebo také pro mě:</p>
+
+			<p>„Co by se z těch dětí stalo?! — Já se snad zblázním z té myšlénky.“</p>
+
+			<p>Sedím jako nařknut ze zločinu, jako neschopen k obraně, jako u vědomí vlastní hrozné slabosti, o kterou se všecko roztříská —</p>
+
+			<p>A je po všem, po všem! Nemohu myslet, moje vlastní myšlénky jsou lhostejné, tupé a bezúčelné. Ztrácejí se ve tmě a v mrazení.</p>
+
+			<pb n="175"/>
+
+			<p>Alexandra tiše spí a já celou noc pozoruji její dech. Opájím se jím znovu, ale jak se opájím! A je mně najednou lhostejno to jaro venku, můj vlastní život a celý svět, jak stojí pod klenbou nebeskou —</p>
+
+			<p>To nejhroznější, co se mohlo státi pro tuto dobu, stalo se. Alexandra bude zase matkou — Jsem zrovna zuřivý tou myšlénkou, v které jsem uvízl jako moucha v pavučině, a mlátím sebou v ní bez naděje na vyproštění. Jen tak abych se vysílil a pociťoval stupňované rozčilení.</p>
+
+			<p>Pozbyl jsem veškeré rovnováhy a sebezapření. Nedovedu zakrýti, jak je toto všecko přespříliš! Bůh ví, že jsem vlečen a smýkán! A k tomu ke všemu ta její slabost, ta zvláštní churavost, která leží na její bytosti jako stín. Jsem uštván, udýchán a nemožný.</p>
+
+			<p>Vidím již zase ty spousty dětského prádelka, cítím vůni fenyklu a hrozím se představy obličeje porodní báby, která s důvěrným úsměvem na mne kývá.</p>
+
+			<p>Všecko od počátku, všecko znova, všecko se stejnou příchutí. Musil bych uříznouti si <pb n="176"/> malík u ruky, abych měl vědomí vlastního života a pocítil bolest sloučenou těsně s mojí bytostí. Přestal jsem být, ztratil jsem se v illusích, které ve mně hynou. Ach, jsem zuřivý dnes, nedovedu dále myslit, jen po ten patník, o který jsem z nenadání narazil.</p>
+
+			<p>Ať mně dají všichni pokoj! Nerozumím jim, nedovedu s nimi cítit!</p>
+
+			<p>Chci být sám. Chci se přesvědčit, že mám deset prstů na nohou, deset na rukou, že vidím svýma očima a že mně také někde v těle srdce tluče. Co pak jsem vlastně chtěl? — Vždyť je to strašné, jak je ve mně všecko zmateno a vzrušeno — Tonu v cizích zájmech, opírám se o cizí pocity! Nevěřím, že jsem byl někdy volný a úplně svůj! Minulost mně proklouzla rukou jako had a nezůstavila po sobě ani stopy.</p>
+
+			<p>Jsem smuten ve své trpkosti. Kladu si hlavu do dlaně a dívám se před sebe ku svým nohám, u nichž leží skutálený Bohoušův míč.</p>
+
+			<p>„Boži! Boži!“</p>
+
+			<p>Můj starší syn je krásný hoch. Má světlé dlouhé vlasy plné prsténců, veliké tmavé oči a tichý úsměv na malých rtech.</p>
+
+			<p>„Boži!“</p>
+
+			<p>Tak a teď si ho posadím na klín, zadívám <pb n="177"/> se mu hluboko do očí a zabořím své čelo do těch jeho prsténcových, světlých vlasů.</p>
+
+			<p>Nevím, co od něho očekávám, ale vím, že je silnější mne a že ho nic na světě — netrápí.</p>
+
+			<p>„Pošeptám ti něco, tatínku.“</p>
+
+			<p>Mlčky nastavuji ucho k jeho rtům a on vší silou mně do něho křikne „Hu!“ Potom vybuchne v divoký smích, při němž jeho zlatoskvoucí hříva poletuje na všecky strany.</p>
+
+			<p>„Uličníku! Co jsi to udělal?“</p>
+
+			<p>„Já ti to pošeptám, tatínku.“</p>
+
+			<p>A znova mi hlavou zavzní jeho vřískavé „Hu!“</p>
+
+			<p>Lékař přikázal Alexandře volný pohyb v přírodě, ve svěžím prostoru, v kterém se uklidňuje mysl a uvolňuje duše. Na štěstí máme nedaleko našeho městečka celé tábory jehličnatých lesů, v nichž rostou spousty konvalinek a hnízdí mnoho zpěvného ptactva. Do nynější doby byly mně tyto lesy lhostejny. Jen tak mimoděk díval jsem se někdy oknem k nim, jak se tměly na obzoru. Za nimi zvedá se vždy malý obláček dýmu. Je to kouř z lučického cukrovaru. Lesy! <pb n="178"/> Co lesy! Nebylo již dávno pro mne lesů. Snad od té doby ne, co jsem chodíval jako malý hoch se džbánkem na borůvky a uléhal jsem do nich v předtuše labužnického požitku. A to duše nevěděla pranic o kráse a tichu lesním!</p>
+
+			<p>Lesy! — jsem opojen a dojat jejich vůní, v které je něco posmrtného a věčného! Vracím se s pocitem, jako bych se napil z pramene čisté, tryskající vody po dlouhém čase, v kterém jsem bez žízně pil alkohol. Je mně neobyčejně volně a důvěřivě! Snad jsem celý svůj vnitřní život vykoupal, ačkoliv se obávám, že již zítřejší den nanese na něj nového prachu. Jsem jako orosený a svěží!</p>
+
+			<p>Ach, váznu v extasi, kterou nedovedu umlčeti ani přemoci! Moje žena přinesla domů dětem kytici konvalinek, kterou jsem já svázal lýčím. Byli jsme spolu celý den sami, vzdáleni domova, a Bůh ví, že neprožil jsem den krásnější! Alexandra měla poprvé svůj jarní, lehký oblek stříbrošedé barvy, v němž v bohatých záhybech se tratí její poprsí. Klobouk s květinovou ozdobou, bílý slunečník s lehkou krajkou, která v chůzi se zdouvala a vála. Pod vykasanou sukní viděl jsem lem její hedvábné spodničky s modrým vyšíváním a žluté střevíce, u kterých chvílemi povoluje jí šněrování, jež <pb n="179"/> překáží jí v chůzi. Zavazuji je, přeje-li si toho, a ona opře si svou nohu při tom o mé koleno.</p>
+
+			<p>Děti plakaly, když jsme odcházeli, ale moje tchyně slíbila jim pohádku o „Perníkové chaloupce“ a ony se utišily. Ještě oknem volaly k nám a klepaly na tabule, až řinčely. Usedajíce do kočáru — Alexandra by neušla obě cesty, jež přece jen trvají dvě hodiny, nepočítám-li v to chůzi po lese — usedajíce tedy do kočáru, kývali jsme na děti a posílali jim polibky, při čemž jsme viděli, jak Jaroslava vypukla znova v pláč a chtěla běžeti za námi. To Alexandru poněkud rozladilo a rozčililo, poněvadž nedovedla si představiti, jak dalece lítost Jaroslavy se bude stupňovati a zdali se i Bohouš a Jeník nerozpláčí.</p>
+
+			<p>„Co by si s nimi matinka počala! Neměli bychom se přece vrátiti?“</p>
+
+			<p>„To je čirý nerozum! — Těším se již na ten výlet a k vůli takové maličkosti si jej přece nezkazím.“</p>
+
+			<p>„To ale není maličkost!“</p>
+
+			<p>„Je to maličkost, povídám! Sedni si pohodlněji a opři se hezky do rohu kočáru. Mám ti dát houni pod nohy?“</p>
+
+			<p>„Ne, ne. Sedí se mně dobře. Jen na Jaroslavu <pb n="180"/> nesmím vzpomenout! Kdybych jí byla půjčila novou pannu, bylo by všecko dobře.“</p>
+
+			<p>„Nesedělo by se ti líp, kdybys se o mne opřela?“</p>
+
+			<p>„Mohla bych tě bodnouti slunečníkem. — Co myslíš, utiší matinka děti?“</p>
+
+			<p>„Ovšem. O to je malá starost. — Mohla jsi se přece o mě opříti.“</p>
+
+			<p>Ale Alexandra zavrtěla hlavou a srovnala své tělo v rohu kočáru, nastavujíc slunečník proti slunci, jež na bezoblačné obloze blýskalo se v neurčité směsi oslňujícího světla. Krajina se táhla v urovnané, seříznuté rovině podél bílé silnice, na níž zdouvaly se malé závitky prachu, jež zdály se s námi ubíhati. Koně bujně odfrkovali a házeli hřívami.</p>
+
+			<p>Mohu upřímně říci, že jsem měl v sobě pocit, jako bych prchal odkudsi a letěl kamsi, kde bylo mnohem líp. Za celý svět bych se byl neohlédnul za sebe, ale za to hltavě jsem hleděl vpřed, jsa prodchnut volností, důvěrou a potěšením. Slabý vítr vanul nám do obličeje a lichotivě kladl se kolem našich krků a mazlivě dotýkal se našich vlasů. Ohlédl jsem se po Alexandře a spatřil jsem, že se usmívá. Její bledá, strádající tvář jevila sladké zemdlení v přivřených očích, na pootevřených rtech <pb n="181"/> i v celém svém výrazu, který vypadal jako sklíčení v neobyčejné slasti.</p>
+
+			<p>Jemné krajky jejího slunečníku celé zvlněné a rozehrané šelestily kolem mého ucha ve svištivém šepotání.</p>
+
+			<p>„Je ti volno ?“ tázal jsem se, nakloňuje se k ní.</p>
+
+			<p>„Neobyčejně,“ odpověděla ona a usmála se jasněji.</p>
+
+			<p>„Máš mě ráda?“ tázal jsem se znova a ta otázka mě tak vzrušila, jako bych sám sebe překvapil zvukem svého hlasu i významem těch slov. Spočívalo v té otázce tolik neočekávané důvěrnosti a tolik bezděčného citu, že jsem se octnul v rozpacích. Alexandra skutečně skoro s udivením se ke mně obrátila, jako by nechápala, proč to všecko, proč se táži, nač myslím, a odpovídala se svým známým mateřským a shovívavým způsobem:</p>
+
+			<p>„A je to jinak možné? — Jak jsi dětinský, Bořivoji!“</p>
+
+			<p>Vztáhla ke mně ruku a já jsem ji stiskl. Potom tak za ruce se držíce, mlčky jeli jsme dále. Nebylo možno mluviti! Všecko nám připadalo buď příliš vyčerpané, buď příliš všední. A já jsem přec měl duši plnou a byl bych hovořil do nekonečna. Myšlénky štvaly jedna <pb n="182"/> druhou, ubíhaly, proplétaly se a unaveny klesaly. Ale co jsem měl mluvit se svou ženou? Nebylo nic nového mezi námi. Všechno jsme znali, všeho se již dotekli. A odíti v slova ty pocity, jež zatopily mně duši, zdálo se mně nemožné a skoro — směšné. Alexandra by jistě domýšlela se, že mám buď horečku, anebo že nejsem střízlivý. Bylo mně volno, jen volno! Ale tu volnost nedovedl a snad ani nechtěl jsem spoutati ve slova. Ta volnost — to jsem věděl — byla pro mě tak čistě subjektivním požitkem, jako na př. výborná chuť na jazyku, kterou přece není možno analysovati ani ji na někoho druhého přenášeti.</p>
+
+			<p>Slunce rovnalo své šikmé paprsky a vzduch byl prohřát jejich teplem. Na polích vlnilo se půvabné jezero mladého osení v nejnádhernější barvě, jakou lze si mysliti. Na stromech rozevíraly se květy jabloňové, zadýchané ještě silně růžovým snem. Z lesů vylétaly sojky a vrány a ztrácely se na neurčitém místě, které mohlo býti v prostoru, anebo na zemi. Mizely náhle a zcela neočekávaně.</p>
+
+			<p>Les voněl nám vstříc tak šťavnatě a svěže, že v té vůni bylo možno tušiti orosený jeho mech, výhonky mladého podrostu a skryté studánky, jež nelze nalézti.</p>
+
+			<pb n="183"/>
+
+			<p>Obával bych se opakovati brzy tento požitek velké rozkoše, kterou ve mně způsobilo dnešní ráno, ten náš vjezd do lesa, náš oběd v lesní restauraci, v níž nebylo cizinců, a vůbec to všecko, co jsem procítil ve své duši, která hltavě pila dojem za dojmem.</p>
+
+			<p>Vodil jsem svou ženu kolem pasu a nadlehčoval ji tak v chůzi. Uvolnila si trochu svůj živůtek a sňala si klobouk s hlavy. Přítomnost její mně byla velmi milá, skoro přátelská a v pravdě víc přátelská než vzrušující. Nepochopoval jsem, proč bych si přál vše jiné a proč hledám něco, čeho není a co ani nemusí být.</p>
+
+			<p>Byl jsem šťasten, že jí líce zčervenaly tou chůzí, účinkem toho překrásného vzduchu a toho klidu, v němž oba jsme se nalézali. Byla velmi hovorná a sdílná. Mluvila se mnou o všem možném: o našich dětech, o své matce, o naší domácnosti, ba i trochu o literatuře a umění jsme spolu mluvili. Měli jsme velmi mnoho volného času a byli jsme v dobré náladě. Každou chvíli má žena zvedla ke mně oči a tázala se mne na známou věc, která se nám jevila novou a důležitou. Opírala se o mě, a když jsme usedli, kladla si hlavu do mého klína, zavírajíc oči. Nalézali jsme se v zelené síti, kde obráželo <pb n="184"/> se slunce jen tak matně jako v rybníce, plujeme-li pod vodou. Nedaleko nás hvízdal pták.</p>
+
+			<p>„Bořivoji!“</p>
+
+			<p>Shýbnul jsem se k ní beze slova.</p>
+
+			<p>„Myslíš, že jsme šťastni?“</p>
+
+			<p>Jak ta otázka mě pomátla! Nemohu pochopiti, jakou cestou myšlének se má žena dostala k ní, a skoro se obávám, že to byla cesta tak dlouhých úvah, jako byla ta moje, a že tenkráte, kdy jsem prchl do hostince, skloněna nad knihou za mé nepřítomnosti prožila velmi těžkou chvíli. Zahleděl jsem se na její obličej vzhůru ke mně obrácený a spatřil jsem, že opět zbledl. V pootevřených rtech blýskaly se jí zuby a oči leskly se jí matným leskem olova. Byla hubená, což nyní v té ležící póse, kdy s hůry hleděl jsem jí do obličeje, viděl jsem docela jasně. Zmocnila se mne úzkost a lítost. Zase vinil jsem se z něčeho, co jsem spáchal svou vinou. Políbil jsem ji na čelo a pohladil její vlasy.</p>
+
+			<p>„Jistě jsme,“ řekl jsem tiše, obávaje se, že mně slzy vytrysknou.</p>
+
+			<p>Ona lehce kousla se do rtů, podívala se někam do korun mladých dubů a mlčela.</p>
+
+			<p>Teprve za dlouhou dobu pravila jasným hlasem:</p>
+
+			<pb n="185"/>
+
+			<p>„Bude-li to holčička, dáme jí jméno Alexandra, abys měl po mně památku, kdybych zemřela.“</p>
+
+			<p>Končím svoje vypravování. Vidím, že jsem pověděl mnoho, čeho jsem se neměl práva dotknouti a na čem jsem spáchal hrubou profanaci, strhnuv s toho roušku tajemství. Snad za nějaký čas ani nepochopím, kde se vzalo ve mně tolik drzosti a slepého egoismu a tolik brutální síly.</p>
+
+			<p>Probouzím se za deštivého dne. Po oknech stékají velké krůpěje a ševelí v korunách stromů naší zahrady. Cítím se mdlý a spal bych rád ještě chvíli, ale vidím zároveň, že musím již vstáti. V úřadě mě čeká měsíční revise a návštěva chefa...</p>
+
+			<p>Á-á-á-ách! To je příjemné, takové protáhnutí svalů, takové hluboké zívnutí a ztrnutí celého těla ve chvilkovém úplném ochabení... Mám-li pak límec a manšety přichystané? — A hodinky musím si natáhnout — Všecko v pořádku, všecko v pořádku!</p>
+
+			<p>Lůžko mé ženy je již prázdno. Slyším její <pb n="186"/> hlas v jídelně. Hovoří se svou matkou, která dnes odjíždí. Můj tchán vrátil se již z Německa a telegrafoval, aby hned přijela, že má domácnost v děsném nepořádku.</p>
+
+			<p>Škoda! Bojím se o Alexandru, až odjede má tchyně, protože celá tíha domácnosti bude spočívat jen na ní a ona, obávám se, nemá k tomu dosti sil. Zas ta úzkost v duši! Cítím, jak mé čelo vlhne, vzpomenu-li na svou ženu a představím-li si její tvář s těma hluboce vpadlýma očima, kolem nichž má široké, tmavé kruhy. Zastavuji se v myšlénkách — nemohu dál. Zde se cesta ztrácí a co před sebou vidím, je úplně neschůdné. Bože, jak jsem malý! Myslím, že by nebylo potřeba velké rány a že bych víc nepovstal... Hvízdám si arii a vstávám. Nechci myslet! Venku déšť houstne, krajina je zatopena šedavobílou clonou, která zasloňuje obzor.</p>
+
+			<p>Kartáček na vousy!</p>
+
+			<p>Proč se bojím o svou ženu? Vidíte, kdybych rozdrásal si své nitro do krve, nemohl bych vám říci, čím mně má žena je! Ale že bych ji měl ztratit — ne, to nedovedu si myslit! V tu chvíli se zajíkám, jako v prudkém běhu a hledám kolem sebe někoho, jemuž bych <pb n="187"/> řekl, že to nemůže být. Naprosto, že to nemůže být.</p>
+
+			<p>A tím je vše odbyto. Ten, jemuž má slova platila, zajisté musil uvěřiti, že to naprosto nemůže být!!</p>
+
+			<p>Kravatu, knoflíky k manšetám, kabát. Hledím do zrcadla a spatřuji svůj široký obličej s velkým knírem, z něhož pozorně vytrhuji bílé vlákno, jež se nechce zvlnit a trčí z kníru nápadně do výše. Jsem statný, silný muž, ale ten můj obraz v zrcadle je mně cizí, nejasný, jako by byl rouškou přehozen.</p>
+
+			<p>A pak, co je mně do mé vlastní bytosti? Přeji si něčeho pro sebe? Mám nějaké nároky? Přemýšlím o sobě?</p>
+
+			<p>„Má úcta, pane. Jste statný, slušný člověk, ale nemám pro vás ničeho.“</p>
+
+			<p>Moje kroky ozývají se ložnicí a jsou tlumeny kobercem. Bylo by mně divno, kdyby mne někdo přesvědčil, že jsou to skutečně mé kroky.</p>
+
+			<p>Otevírám okno a nastavuji na okamžik ruku dešti. Cítím, jak mne studí, ale i ten pocit je neurčitý a nezanechává ve mně dojmu.</p>
+
+			<p>A nyní jdu k snídaní.</p>
+
+			<p>Shledávám celou rodinu pohromadě a Jendu politého kávou. Převrhnul na sebe hrnéček, <pb n="188"/> Alexandra rozepíná mu šatečky, aby mu je vyměnila. Všichni vzhlédnou ke mně, usmívajíce se. Jeník vztahuje ke mně ruce a praví tiše:</p>
+
+			<p>„Polil.“</p>
+
+			<p>„Dobré jitro, děti. Dobré jitro, matinko.“</p>
+
+			<p>Alexandru líbám na čelo. Jsem rád, že má dnes oči jasné. —</p>
+
+		</div>
+	</body>
+	<back>
+		<div type="liminal">
+
+			<p>(Psáno na jaře 1896.)</p>
+
+		</div>
+	</back>
+</text>
+</TEI>
