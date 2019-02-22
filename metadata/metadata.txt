@@ -1,0 +1,24 @@
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
+CS0001,Stroupežnická,,foo,????,T1,low,F,11784,short,1
+CS0002,Janda Cidlinský,,foo,????,T1,low,M,27738,short,1
+CS0003,Žížala-Donovský,,foo,????,T1,low,M,26348,short,1
+CS0004,Ehrenberg,,foo,????,T1,low,M,29716,short,1
+CS0005,Křičenský,,foo,????,T1,low,M,39143,short,1
+CS0006,Pravda,,foo,????,T1,medium,M,35474,short,1
+CS0007,Prokop,,foo,????,T1,low,M,33901,short,1
+CS0008,Formánek-Činoveský,,foo,????,T1,low,M,26395,short,1
+CS0009,Formánek-Činoveský,,foo,????,T2,low,M,39691,short,1
+CS0010,Sabina,,foo,????,T2,medium,M,31148,short,1
+CS0011,Švestka,,foo,????,T2,low,M,16488,short,1
+CS0012,Chocholoušek,,foo,????,T2,low,M,59832,medium,1
+CS0013,Mollenda,,foo,????,T2,low,M,13084,short,1
+CS0014,Vlček,,foo,????,T2,low,M,42646,short,1
+CS0015,Vávra,,foo,????,T2,low,M,13749,short,1
+CS0016,Jirásek,,foo,????,T2,high,M,78090,medium,1
+CS0017,Stašek,,foo,????,T2,medium,M,77845,medium,1
+CS0018,Švestka,,foo,????,T3,low,M,10665,short,1
+CS0019,Vítek,,foo,????,T3,low,M,11096,short,1
+CS0020,Karas,,foo,????,T3,low,M,10605,short,1
+CS0021,Unger,,foo,????,T3,low,M,19964,short,1
+CS0022,Kuchař,,foo,????,T3,low,M,14820,short,1
+CS0023,Viková-Kunětická,,foo,????,T3,low,F,22714,short,1
