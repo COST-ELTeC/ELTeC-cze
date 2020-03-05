@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0009" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Smířená vina</title>
+			<title>Smířená vina : vydání ELTeC</title>
 			<title xml:lang="en">Atoned guilt</title>
 			<author>Formánek-Činoveský, Jan (1809-1878)</author>
 			<respStmt>
@@ -14,38 +18,34 @@
 		<extent>
 			<measure unit="words">39691</measure>
 		</extent>
-		<publicationStmt>
-			<p></p>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<ref target="https://play.google.com/books/reader?id=ak8AAAAAcAAJ&amp;hl=cs&amp;pg=GBS.PA1"></ref>
+		<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+		<sourceDesc><bibl type="unspecified">
+				<ref target="https://play.google.com/books/reader?id=ak8AAAAAcAAJ&amp;hl=cs&amp;pg=GBS.PA1"/>
 				<publisher>Google Books</publisher>
-				<relatedItem type="printSource">
-					<bibl>
+				
+			</bibl><bibl type="printSource">
 						<title>Smířená vina: obraz z třidcetileté války od J. F. Činoveského</title>
 						<publisher>Kat. Jeřábková</publisher>
 						<pubPlace>V Praze</pubPlace>
 						<date>1860</date>
-					</bibl>
-				</relatedItem>
-			</bibl>
-		</sourceDesc>
+					</bibl></sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
-		<p></p>
+		<p/>
 	</encodingDesc>
 	<profileDesc>
 		<langUsage><language ident="CS">Czech</language></langUsage>
 		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
-			<e:authorGender key="M"></e:authorGender>
-			<e:size key="short"></e:size>
-			<e:canonicity key="low"></e:canonicity>
-			<e:timeSlot key="T2"></e:timeSlot>
+			<e:authorGender key="M"/>
+			<e:size key="short"/>
+			<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+			<e:timeSlot key="T2"/>
 		</textDesc>
 	</profileDesc>
-	<revisionDesc>
-		<change when="2018-10-31"></change>
+	<revisionDesc><change when="2020-03-05">Checked by checkup
+                script</change>
+		<change when="2018-10-31"/>
 	</revisionDesc>
 </teiHeader>
 <text>
@@ -62,7 +62,7 @@
 
 		</div>
 
-		<div type="titlePage">
+		<div type="titlepage">
 
 			<pb n="3"/>
 
@@ -80,7 +80,7 @@
 	</front>
 
 	<body>
-		<div>
+		<div type="chapter">
 
 			<p>Po bitvě na Bílé hoře bylo již několik let uplynulo. Hlavní původcové povstání proti císaři Ferdinandu 2. složili pokuty za provinění svá. Dne 21. června 1621 zaplatily je mnohé osoby na krvavém soudu v Praze životem a dvanáctero sťatých hlav, na Staroměstské mostecké věži vystavených, naplňovalo hrůzou okolojdoucí. - Ostatní, již k smrti odsouzeni nebyli, jsou po městech metlami mrskáni a z vlasti vypovězeni, druzí buď na léta, buď navždy do žalářů uvrženi. - Jmena uprchlých, napsaná na černých tabulích, jsou rukou katovou na šibenici přibita. - Statkové odsouzených jsou zabaveni a komoře královské přivlastněni. Hrůza a strach šla po vší zemi <pb n="6"/> české. Mezi novými mandáty vyšel pak i ten, že nikomu, kdož nebyl katolického náboženství, nesmělo dáno býti právo měšťanské, povoleno provozovati řemesla aneb jakékoli jiné živnosti, kněží katoličtí nesměli oddávati osob nekatolických, aniž dopouštěti pohřbu na hřbitovech, leč zemřelým v katolickém náboženství.</p>
 
@@ -152,7 +152,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="18"/>
 
@@ -250,7 +250,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="32"/>
 
@@ -310,7 +310,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="41"/>
 
@@ -458,7 +458,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="63"/>
 
@@ -522,7 +522,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="72"/>
 
@@ -680,7 +680,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="94"/>
 
@@ -806,7 +806,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="110"/>
 
@@ -866,7 +866,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="119"/>
 
@@ -936,7 +936,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="132"/>
 
@@ -974,7 +974,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="139"/>
 
@@ -1030,7 +1030,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="149"/>
 
@@ -1076,7 +1076,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="156"/>
 
@@ -1214,7 +1214,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="177"/>
 
@@ -1298,7 +1298,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="189"/>
 
@@ -1440,7 +1440,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="208"/>
 
@@ -1562,7 +1562,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="225"/>
 
@@ -1738,7 +1738,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="247"/>
 
@@ -1778,7 +1778,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<pb n="253"/>
 

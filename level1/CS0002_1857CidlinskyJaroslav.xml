@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0002" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Jaroslav</title>
+			<title>Jaroslav : vydání ELTeC</title>
 			<title xml:lang="en">Jaroslav</title>
 			<author>Janda Cidlinský, Bohumil (1831-1875)</author>
 			<respStmt>
@@ -14,38 +18,34 @@
 		<extent>
 			<measure unit="words">27738</measure>
 		</extent>
-		<publicationStmt>
-			<p></p>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl>
-				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=15536"></ref>
+		<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-05"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!----></publicationStmt>
+		<sourceDesc><bibl type="digitalSource">
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=15536"/>
 				<publisher>National Library of the Czech Republic</publisher>
-				<relatedItem type="printSource">
-					<bibl>
+				
+			</bibl><bibl type="printSource">
 						<title>Jaroslav, Obraz z minulého století</title>
 						<publisher>Kat. Jeřábková</publisher>
 						<pubPlace>Praha</pubPlace>
 						<date>1857</date>
-					</bibl>
-				</relatedItem>
-			</bibl>
-		</sourceDesc>
+					</bibl></sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
-		<p></p>
+		<p/>
 	</encodingDesc>
 	<profileDesc>
 		<langUsage><language ident="CS">Czech</language></langUsage>
 		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
-			<e:authorGender key="M"></e:authorGender>
-			<e:size key="short"></e:size>
-			<e:canonicity key="low"></e:canonicity>
-			<e:timeSlot key="T1"></e:timeSlot>
+			<e:authorGender key="M"/>
+			<e:size key="short"/>
+			<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+			<e:timeSlot key="T1"/>
 		</textDesc>
 	</profileDesc>
-	<revisionDesc>
-		<change when="2018-10-31"></change>
+	<revisionDesc><change when="2020-03-05">Checked by checkup
+                script</change>
+		<change when="2018-10-31"/>
 	</revisionDesc>
 </teiHeader>
 <text>
@@ -65,7 +65,7 @@
 
 		</div>
 
-		<div type="titlePage">
+		<div type="titlepage">
 
 			<pb n="3"/>
 
@@ -77,7 +77,7 @@
 
 	</front>
 	<body>
-		<div>
+		<div type="chapter">
 
 			<pb n="5"/>
 
@@ -912,7 +912,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Oddělení druhé.</head>
 
