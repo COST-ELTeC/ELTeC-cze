@@ -15,21 +15,25 @@
 				<measure unit="words">33901</measure>
 			</extent>
 			<publicationStmt>
-				<p/>
+				<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+				<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+				<date when="2021-03-26"/>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+				</availability>
+				<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>
+				<bibl type="digitalSource">
 					<ref
 						target="https://play.google.com/books/reader?id=b1gdAQAAIAAJ&amp;hl=cs&amp;pg=GBS.PA3"/>
 					<publisher>Google Books</publisher>
-					<relatedItem type="printSource">
-						<bibl>
-							<title>Jeden rok z mladého života: povídka od F. F. Prokopa</title>
-							<publisher>Kat. Jeřábková</publisher>
-							<pubPlace>V Praze</pubPlace>
-							<date>1857</date>
-						</bibl>
-					</relatedItem>
+				</bibl>
+				<bibl type="printSource">
+					<title>Jeden rok z mladého života: povídka od F. F. Prokopa</title>
+					<publisher>Kat. Jeřábková</publisher>
+					<pubPlace>V Praze</pubPlace>
+					<date>1857</date>
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
@@ -43,7 +47,7 @@
 			<textDesc xmlns:e="http://distantreading.net/eltec/ns">
 				<e:authorGender key="M"/>
 				<e:size key="short"/>
-				<e:canonicity key="low"/>
+				<e:reprintCount key="low"/>
 				<e:timeSlot key="T1"/>
 			</textDesc>
 		</profileDesc>
@@ -53,7 +57,7 @@
 	</teiHeader>
 	<text>
 		<front>
-			<div type="titlePage">
+			<div type="titlepage">
 
 				<pb n="3"/>
 

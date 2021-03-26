@@ -15,42 +15,46 @@
 			<measure unit="words">14820</measure>
 		</extent>
 		<publicationStmt>
-			<p></p>
+			<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+			<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+			<date when="2021-03-26"/>
+			<availability>
+				<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+			</availability>
+			<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
 		</publicationStmt>
 		<sourceDesc>
-			<bibl>
-				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=19052"></ref>
+			<bibl type="digitalSource">
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=19052"/>
 				<publisher>National Library of the Czech Republic</publisher>
-				<relatedItem type="printSource">
-					<bibl>
-						<title>Pašerova Anežka: povídka z hor od Josefa Kuchaře</title>
-						<publisher>Vilém J. Doubrava</publisher>
-						<pubPlace>V Praze</pubPlace>
-						<date>1896</date>
-					</bibl>
-				</relatedItem>
+			</bibl>
+			<bibl type="printSource">
+				<title>Pašerova Anežka: povídka z hor od Josefa Kuchaře</title>
+				<publisher>Vilém J. Doubrava</publisher>
+				<pubPlace>V Praze</pubPlace>
+				<date>1896</date>
 			</bibl>
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
-		<p></p>
+		<p/>
 	</encodingDesc>
 	<profileDesc>
 		<langUsage><language ident="CS">Czech</language></langUsage>
 		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
-			<e:authorGender key="M"></e:authorGender>
-			<e:size key="short"></e:size>
-			<e:canonicity key="low"></e:canonicity>
-			<e:timeSlot key="T3"></e:timeSlot>
+			<e:authorGender key="M"/>
+			<e:size key="short"/>
+			<e:reprintCount key="low"/>
+			<e:timeSlot key="T3"/>
 		</textDesc>
 	</profileDesc>
 	<revisionDesc>
-		<change when="2018-10-31"></change>
+		<change when="2018-10-31"/>
 	</revisionDesc>
 </teiHeader>
 <text>
 	<front>
-		<div type="titlePage">
+		<div type="titlepage">
 
 			<pb n="1"/>
 

@@ -15,42 +15,46 @@
 			<measure unit="words">77845</measure>
 		</extent>
 		<publicationStmt>
-			<p></p>
+			<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+			<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+			<date when="2021-03-26"/>
+			<availability>
+				<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+			</availability>
+			<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
 		</publicationStmt>
 		<sourceDesc>
-			<bibl>
-				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=14420"></ref>
+			<bibl type="digitalSource">
+				<ref target="http://kramerius.nkp.cz/kramerius/MShowMonograph.do?id=14420"/>
 				<publisher>National Library of the Czech Republic</publisher>
-				<relatedItem type="printSource">
-					<bibl>
-						<title>Nedokončený obraz: román od Antala Staška</title>
-						<publisher>A. Mareš</publisher>
-						<pubPlace>V Roudnici</pubPlace>
-						<date>1878</date>
-					</bibl>
-				</relatedItem>
+			</bibl>
+			<bibl type="printSource">
+				<title>Nedokončený obraz: román od Antala Staška</title>
+				<publisher>A. Mareš</publisher>
+				<pubPlace>V Roudnici</pubPlace>
+				<date>1878</date>
 			</bibl>
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
-		<p></p>
+		<p/>
 	</encodingDesc>
 	<profileDesc>
 		<langUsage><language ident="CS">Czech</language></langUsage>
 		<textDesc xmlns:e="http://distantreading.net/eltec/ns">
-			<e:authorGender key="M"></e:authorGender>
-			<e:size key="medium"></e:size>
-			<e:canonicity key="medium"></e:canonicity>
-			<e:timeSlot key="T2"></e:timeSlot>
+			<e:authorGender key="M"/>
+			<e:size key="medium"/>
+			<e:reprintCount key="unspecified"/>
+			<e:timeSlot key="T2"/>
 		</textDesc>
 	</profileDesc>
 	<revisionDesc>
-		<change when="2018-10-31"></change>
+		<change when="2018-10-31"/>
 	</revisionDesc>
 </teiHeader>
 <text>
 	<front>
-		<div type="titlePage">
+		<div type="titlepage">
 
 			<pb n="1"/>
 
