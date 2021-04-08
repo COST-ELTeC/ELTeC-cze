@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0016" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0016" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -83,15 +82,15 @@
 		</div>
 	</front>
 	<body>
-		<div>
+		<div type="group">
 
 			<pb n="7"/>
 
 			<head>Kniha první. Salva guardia.</head>
 
-		</div>
 
-		<div>
+
+		<div type="chapter">
 
 			<pb n="9"/>
 
@@ -153,7 +152,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>II. Odměna za přístřeší.</head>
 
@@ -239,7 +238,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>III. Rodinná kronika.</head>
 
@@ -257,7 +256,7 @@
 
 			<p>Nový sedlák „na skalce" jmenoval se Jíra Skalák; dopátrali se brzo, že to není jeho pravé jmeno, nedůvěřovali mu zpočátku. Zvítězil nad nimi, dověděli se všeho o něm. Získal si úctu a vážnost sousedů. Ač byl přistěhovalec, stal se ve vsi prvním. Nezůstalo jich tajno, že Jíra Skalák byl na počátku l. 1628 „sedlským oficírem“ na Opočensku. Zastal se týraných sedláků a při vzbouření se byl také vůdcem jich. Necvičeni a špatně ozbrojeni podlehli brzo pánům, kteří sobě na pomoc zavolali císařského generála, surového Dona Martina Huertu. Ten zmocnil se města a zámku Nového Města n. M., kdež sedláci se zatarasili. Rozprášil je. Vůdcové byli jati a strašlivě potrestáni. Akta o Jírovi Skaláku byly v protokolech trestního vyšetřování na zámku opočenském a v rodinné knize Skaláků.</p>
 
-			<p>Zprávy ty nelišily se, ale odporovaly si. Protokol udával, že Jíra Skalák s bratrem svým Mikulášem „lid k puntování sváděl, item že <foreign>crimen laesae Majestatis</foreign> <note>Zločin uražení Veličenstva.</note> spáchal, item že byl zbůjníkem proti milostivé vrchnosti , jejíž pevnost a hrad novoměstský s jinými rebelly slezl, zloupil a nejvýš zplundroval". Na desce staré knihy rodu Skaláků drahé zaznamenal syn Mikuláš, <pb n="23"/> že otec s lidem nesmírnými mukami rozjitřeným proti vrchnosti se pozdvihl, bojoval pro svobodu, právo a víru otců svých. Za to byl raněný jat, vazbou mučen a jako bratr jeho Mikuláš s ostatními strašlivě potrestán. —</p>
+			<p>Zprávy ty nelišily se, ale odporovaly si. Protokol udával, že Jíra Skalák s bratrem svým Mikulášem „lid k puntování sváděl, item že <foreign>crimen laesae Majestatis</foreign> <ref target="#CS0016_N1"/> spáchal, item že byl zbůjníkem proti milostivé vrchnosti , jejíž pevnost a hrad novoměstský s jinými rebelly slezl, zloupil a nejvýš zplundroval". Na desce staré knihy rodu Skaláků drahé zaznamenal syn Mikuláš, <pb n="23"/> že otec s lidem nesmírnými mukami rozjitřeným proti vrchnosti se pozdvihl, bojoval pro svobodu, právo a víru otců svých. Za to byl raněný jat, vazbou mučen a jako bratr jeho Mikuláš s ostatními strašlivě potrestán. —</p>
 
 			<p>To bylo tehdáž, když se Jíra „na skalce" usadil, veřejným tajemstvím.</p>
 
@@ -279,7 +278,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IV. „Zpívejte nám některou píseň — !" Žalm 137.</head>
 
@@ -395,7 +394,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>V. Poslední Piccolomini.</head>
 
@@ -487,7 +486,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VI. Salva guardia.</head>
 
@@ -613,7 +612,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VII. Marné pátrání.</head>
 
@@ -675,7 +674,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VIII. Nový hospodář.</head>
 
@@ -763,7 +762,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IX. Životopis Baltazara Užďana.</head>
 
@@ -851,7 +850,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>X. „Skalka" oživuje.</head>
 
@@ -990,21 +989,20 @@
 			<pb n="103"/>
 
 		</div>
-
-		<div>
+		</div>
+		<div type="group">
 
 			<head>Kniha druhá. Skaláci.</head>
 
 			<pb n="105"/>
 
 
-		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>I. V olšinách.</head>
 
-			<p>Z dobrého dragona stal se rozumný hospodář. Baltazar Užďan byl nyní upřímným, přičinlivým sedlákem, jenž s láskou lnul k půdě, kterou mu „milostivá vrchnost uděliti ráčila", sprostivši ho na čas veškeré roboty, for dodávání a jiných všelikých povinností, jež nesmírným byly břemenem poddaným sedlákům. Mělť, jak v urbáři <note>Urbář, kniha, v níž zaznamenány pozemky poddanské, jakož i veškeré povinnosti a závazky.</note> zaznamenáno bylo, hospodář „na skalce" robotu na panském se dvěma hovady týdně tři dny konati, mimo to pak od sv. Jana do sv. Václava pěší roboty na osobu týdně jeden den.</p>
+			<p>Z dobrého dragona stal se rozumný hospodář. Baltazar Užďan byl nyní upřímným, přičinlivým sedlákem, jenž s láskou lnul k půdě, kterou mu „milostivá vrchnost uděliti ráčila", sprostivši ho na čas veškeré roboty, for dodávání a jiných všelikých povinností, jež nesmírným byly břemenem poddaným sedlákům. Mělť, jak v urbáři <ref target="#CS0016_N2"/> zaznamenáno bylo, hospodář „na skalce" robotu na panském se dvěma hovady týdně tři dny konati, mimo to pak od sv. Jana do sv. Václava pěší roboty na osobu týdně jeden den.</p>
 
 			<p>Zdělal pole i osil kdy třeba bylo a žním jeho jen bouřlivé mračno a liják hrozily; sousedy však jeho mimo to nejvíce mučil rozkaz správcův nebo vrchního, ohlašovaný surovým drábem. Baltazarovi bylo možno jim často i při zdělávání i o žních pomoci, a činil to rád. Privilegium <pb n="106"/> jeho budilo skoro závist, však ochota jeho a úslužnost naklonily mu mysli všech.</p>
 
@@ -1078,7 +1076,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>II. Zpěvák.</head>
 
@@ -1184,7 +1182,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>III. Ubozí.</head>
 
@@ -1276,7 +1274,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IV. V lese.</head>
 
@@ -1404,7 +1402,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>V. Bouře.</head>
 
@@ -1490,7 +1488,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VI. Maternice.</head>
 
@@ -1606,7 +1604,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VII. Turov.</head>
 
@@ -1798,7 +1796,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VIII. Smrt.</head>
 
@@ -1888,7 +1886,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IX. Sníh a déšť.</head>
 
@@ -1938,7 +1936,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Drahota dvanáctizlatová.</head>
 
@@ -2100,7 +2098,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XI. Milý host.</head>
 
@@ -2204,7 +2202,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XII. Rychetský.</head>
 
@@ -2280,7 +2278,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XIII. U hrobů.</head>
 
@@ -2308,7 +2306,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XIV. Na zámku.</head>
 
@@ -2362,7 +2360,7 @@
 
 			<p>„Tak nebude arci vypravovat jako vy, d'Herbois, ale —" a mladý Kolloredo rozkázal lokajovi, aby zavolal doktora.</p>
 
-			<p>Za chvíli přihrnul se tlustý medikus v ohromné své paruce, zanechav plášť promoklý v předsíni; muselť ze svého bytu přes dvůr. Hučel nemálo opouštěje pokojík svůj, teď ale hluboce se klaněl vysokorodé šlechtě a ptal se na její přání. Rozjaření šlechtici nabídli mu vína, jehož on se napil, načež seznav přání pánů jal se vypravovati, řeč svou latinskými slovy a frásemi proplítaje. Obíralť se učený doktor Silesius mimo medicínu také genealogií, zvláště knížecí rodiny. Proto byl u vznešené hraběnky Frankenberkové oblíben, že z paměti znal celý rodokmen a příbuzenství rodu Piccolomini. Zaběhl tedy u vypravování svém o mnoho let více než třeba bylo do minulosti a teprva rytmistrem upozorněn vpadl <foreign>„in medias res"</foreign> <note>V jádro věci.</note> .</p>
+			<p>Za chvíli přihrnul se tlustý medikus v ohromné své paruce, zanechav plášť promoklý v předsíni; muselť ze svého bytu přes dvůr. Hučel nemálo opouštěje pokojík svůj, teď ale hluboce se klaněl vysokorodé šlechtě a ptal se na její přání. Rozjaření šlechtici nabídli mu vína, jehož on se napil, načež seznav přání pánů jal se vypravovati, řeč svou latinskými slovy a frásemi proplítaje. Obíralť se učený doktor Silesius mimo medicínu také genealogií, zvláště knížecí rodiny. Proto byl u vznešené hraběnky Frankenberkové oblíben, že z paměti znal celý rodokmen a příbuzenství rodu Piccolomini. Zaběhl tedy u vypravování svém o mnoho let více než třeba bylo do minulosti a teprva rytmistrem upozorněn vpadl <foreign>„in medias res"</foreign> <ref target="#CS0016_N3"/> .</p>
 
 			<p>„Kníže Vavřinec Piccolomini, syn Františka," vypravoval, „pojal za manželku vznešenou Annu Victorii hraběnku Kolovratovnu Libšteinskou, s níž zplodil pět dětí; nejstarší byl syn Jan Václav, jehož nejmladší sestrou byla Kateřina provdaná hraběnka Frankenberková. Syn Jan Václav zarmucoval své rodiče. Byl již v mládí podivínem, rád dlíval v zámeckém příkopu <pb n="219"/> nebo v odlehlých chodbách a pokojích zámku a ve staré knihovně, častěji pak potají pouštíval se do sklepení, kde dle pověsti Kolda z Žampachu a Náchodu oběti své, zvláště ženské, přechovával, anebo vybíhal na věž, prolézaje nízkými, strašnými žaláři ve tlustých zdech zámecké věže. Býval málomluvný, urputný, a když dospěl, vydal se na cesty. Navrátiv se nezměnil se; býval krutým, divokým, často se zavíral do sálu, kde visely podobizny předkův, i Albrechta Valdštejna. Nemiloval ani laskavou svou matku, nedůvěřuje jí. Šeptali si, že šílí, že ho pronásleduje myšlenka, že matka ho hledí odstranit, aby tak panství po něm převzíti mohl mladší bratr Norbert; tak snad se dalo vysvětlit jeho divné chování se k rodné matce. Nevěřil nikomu, a vida jednou hofmistra svého Jungbluta vycházeti z pokojů matčiných vrhl se na něj a div ho do smrti neubil; měl prý ho za zrádce. Mluvili, že skutečně šílí, a matka také proto se o něj postarala. Šeptalo se najednou, že přijede komise krajská, aby vyšetřila, jak se věci mají. Kníže Jan Václav zajisté o tom také tajně se dověděl; býval víc a více o samotě, zbledl a zhubeněl, vycházel a vyjížděl málo, a když vyjel, seznal, že se mu lidé vyhýbají, že se ho bojí. Když pak přijel domů, zuříval neobyčejně a ulekané, zbité služebnictvo slyšelo, jak kníže v sálu prudce chodí a hlasitě <pb n="220"/> mluví. Komisí krajská v listopadu 1720 přijela, uznala, že kníže Jan Václav šílí, a odevzdala správu statku jeho prozatím matce, která na rozkaz komise syna svého v pokoji hlídati dala, davši mu za společníky dva jezuity. Jan Václav, jemuž odňata veškerá zbraň, choval se z počátku tiše, jsa neustále v myšlénky zabrán, a jen někdy vyskočil jako u divokém záchvatu naříkaje a proklínaje, takže mnichové služebnictvo na pomoc volati museli. Jen jednou se jim vytrhl a jako šílenec velel třesoucím se sluhům, aby děla zámecká na valy vytáhli a do zámku stříleli; pak jako by se byl rozmyslil, náhle umlkl a upadl ve hluboké, jako tupé zamyšlení. Po několik měsíců choval se pak tiše, až v dubnu 1721 rozzuřil se s nebesy. Bylo to po půlnoci na den 17. dubna. Okolo třetí hodiny zbudila obyvatelstvo zámku náchodského strašlivá bouře, která naplňovala mysli všech hrůzou. Bouře ta zrodila se ze tří. Hrozný to koncert. Město Náchod, zámek, celé okolí se chvělo, zdálo se, že konec světa se přiblížil. Pamětníci zaznamenali, že psi skučeli, dobytek řval, že i nejsrdnatější hrůza neobyčejná obešla. Jezuité se probudili a ihned po svém chráněnci se ohlíželi. Mumlajíce žalmy a modlitby kvapili jako tajným tušením vedeni k sálu rodinnému. Dvéře byly dokořán otevřeny. Bylo časně z rána, posud ale bylo skoro tma. V rozlehlé síni zdobené <pb n="221"/> obrazy předků stál kníže Jan Václav; v záři blesku viděli tu vysokou, vychrtlou postavu ve tmavém rouše. Dávno už zahodil pudrovanou paruku, nepěstoval vlasy své, proti tehdejšímu mravu neholil tvář svou; černé vousy stínily bledé jeho líce. Zrakem vypouleným hleděl ven do rozbouřených živlů, spínaje ruce k nebesům ; jen někdy slyšeli úpěnlivý hlas jeho v bouři zaznívající: „Ne má vina, pomsta — rod — zrádci!" ta jednotlivá slova, jimž rozuměli, zaslechli. Kněži báli se vstoupiti, svolali tedy služebnictvo. Na štěstí nebyla kněžna matka toho času na zámku. Bouře burácela neustále, a když starý služebník vida ubohého pána svého v nebezpečenství do síně vběhl, aby ho odvedl, sklesl k zemi zasáhnut bleskem, jenž právě do síně uhodil. Jiní dva sluhové přiskočivše starce zdvihali, ale tu ráz na ráz! uhodilo znova, blesk jim vyrval mrtvolu a porazil oba k zemi, pak hnal se chodbou dále. Kněži jako omráčeni opírali se o zeď, služebnictvo prchalo nebo v němé hrůze k zemi klesalo. Hrom jako by byl si usmyslil zámek zničit. Ještě sedmkrát potom po sobě udeřil klikatý blesk do vysoké, kulaté věže. Kníže Jan Václav klečel v sále rodinném, maje vyschlé ruce na prsou skříženy, se hlavou k nebi obrácenou, němě, nepohnutě jako socha. Bouře k ránu dozuřila. Věž byla strašlivě porouchána; blesk projev mnoha pokoji ničil v kuchyni nádobí <pb n="222"/> a v lékárně všecky láhve porazil, ve staré zbrojnici mnohé zbraně vypálil a roztrhal trouby železné na kopci vodu vedoucí. Starý sluha byl mrtev, soudruzi jeho popáleni a kuchtík, jenž běžel přes nádvoří, u věže hromem omráčen, všichni pak na smrt uděšeni; jen kníže Jan Václav byl netknut děsným přírody hněvem."</p>
 
@@ -2370,7 +2368,7 @@
 
 			<p>„Nuže, jak to skončilo s knížetem?" ptalo se více hlasů.</p>
 
-			<p>„Pak už nikdo nepochyboval, že je furibundus, totiž že blázní. Někdy arci se zdálo, že je rozumný, mluvil dost souvisle, ale zas vpletl do toho podivné <foreign>fabulae</foreign> <note>Báchory.</note> , někdy k smíchu, někdy strašlivé; někdy zas nemluvil mnoho týdnů, jako stín po chodbách se plouže, až jednou z rána našli ho v rodinném sále pod obrazem jeho otce mrtvého. Na matku svou do smrti hněval se, ani slovíčka k ní nemluvě."</p>
+			<p>„Pak už nikdo nepochyboval, že je furibundus, totiž že blázní. Někdy arci se zdálo, že je rozumný, mluvil dost souvisle, ale zas vpletl do toho podivné <foreign>fabulae</foreign> <ref target="#CS0016_N4"/> , někdy k smíchu, někdy strašlivé; někdy zas nemluvil mnoho týdnů, jako stín po chodbách se plouže, až jednou z rána našli ho v rodinném sále pod obrazem jeho otce mrtvého. Na matku svou do smrti hněval se, ani slovíčka k ní nemluvě."</p>
 
 			<p>„Apropos, doktore, ve kterém pokoji bydlil?"</p>
 
@@ -2408,7 +2406,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XV. Slavnost.</head>
 
@@ -2488,7 +2486,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XVI. Soud.</head>
 
@@ -2561,17 +2559,14 @@
 			<pb n="245"/>
 
 		</div>
-
-		<div>
+		</div>
+		<div type="group">
 
 			<head>Kniha třetí. Bouře.</head>
 
 			<pb n="247"/>
 
-
-		</div>
-
-		<div>
+		<div type="chapter">
 
 			<head>I. Připozdívá se.</head>
 
@@ -2609,7 +2604,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>II. Robota na „skalku".</head>
 
@@ -2671,7 +2666,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>III. Na rychtě.</head>
 
@@ -2695,7 +2690,7 @@
 
 			<l>„Troufám, troufám, že si něco vydělám!"</l>
 
-			<p>„Ichu ,prkýnko' <note>Jméno tance.</note> , skočte si, chaso, skočte!" A pak spustil:</p>
+			<p>„Ichu ,prkýnko' <ref target="#CS0016_N5"/> , skočte si, chaso, skočte!" A pak spustil:</p>
 
 			<l>„Kocour na zámečku žere jitrničku, a my — ichu, ichuchu!"</l>
 
@@ -2859,7 +2854,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IV. Selský otčenáš.</head>
 
@@ -2967,7 +2962,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>V. V Maternici.</head>
 
@@ -3031,11 +3026,11 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VI. Odměna deputace.</head>
 
-			<p>Deputace nešla nadarmo. Nejvíce účinkovala její suplika z pilin, prachu a otrub, jíž chléb říkali. To u dvora působilo, bylo to neobyčejné, netušené. Kousek té hmoty pověděl vše, ostatní dolíčila nevýmluvná sice, ale pravdivá ústa sedláků. Všichni padli před císařovnou na zem. <note>Teprvé r. 1787 patentem Josefa 2. rozkázáno, aby poddaní před mocnářem už neklekali, „že ta pocta jen bohu patří".</note> Syn její Josef jsa přítomen vyptával se na rozmanité věci. Vlídnost jeho a blahosklonnost rozvázala Baltazarovi ústa, pověděl, co lid selský trápí, že robota.</p>
+			<p>Deputace nešla nadarmo. Nejvíce účinkovala její suplika z pilin, prachu a otrub, jíž chléb říkali. To u dvora působilo, bylo to neobyčejné, netušené. Kousek té hmoty pověděl vše, ostatní dolíčila nevýmluvná sice, ale pravdivá ústa sedláků. Všichni padli před císařovnou na zem. <ref target="#CS0016_N6"/> Syn její Josef jsa přítomen vyptával se na rozmanité věci. Vlídnost jeho a blahosklonnost rozvázala Baltazarovi ústa, pověděl, co lid selský trápí, že robota.</p>
 
 			<p>„Ta robota!" opakoval císař pokyvuje hlavou.</p>
 
@@ -3127,7 +3122,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VII. Kniha rodinná.</head>
 
@@ -3199,7 +3194,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>VIII. Blázen. — U dvora.</head>
 
@@ -3387,7 +3382,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IX. Generale.</head>
 
@@ -3515,7 +3510,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>X. Sirotčí služba — Začátek.</head>
 
@@ -3751,7 +3746,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XI. Bouře.</head>
 
@@ -4141,7 +4136,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XII. Skvrna vlády.</head>
 
@@ -4459,7 +4454,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XIII. Salva-guardia naposled bojuje.</head>
 
@@ -4659,7 +4654,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>XIV. V cizině. — Návrat.</head>
 
@@ -4822,22 +4817,24 @@
 			<p>Namáhání a práce klopotná byly stálými hosty v chalupě Skalákově, však uhostily se tam také mír a spokojenost.</p>
 
 		</div>
-
-		<div>
-
-			<head>Doslov.</head>
-
-			<p>Stál jsem na balkonu zámku náchodského. Pode mnou šuměli zasmušilí, tmaví modřínové a bělostné břízy. Kvetoucím bezem, jenž celou stráň vrchu zámeckého pokrývá, bylo viděti polozbořenou, kulatou věž — hladomornu. Prošel jsem prvé síně a rozlehlé chodby památného zámku; mysl mou naplňovaly děje, jež se tu sběhly, i pověsti starožitnou budovu leskem poesie ozařující. Teď rozkládal se mi před očima krásný kraj pohorský. V pozadí na hranicích hory česko-kladské s Borem, kol vrchy lesnaté a mezi nimi milé údolí pometujské. V dolině i na stráních pracovali sedláci s čeledí svou. Ti tu pracují svobodně na svém pro sebe a sotva <pb n="407"/> vědí, co předkové tu se nastenali. Vnuk zapomíná na útrapy dědovy.</p>
-
-			<p>Duší mou pohnulo utrpení lidu; viděl jsem jeho bídu a porobu, tu na tom panském sídle zaslechl jsem bolestné vzdechy. Je to šerý obraz barev neveselých, však od temného pozadí tím jasněji odráží se jasná myšlénka svobody. Boj za právo lidské, bránění se týraného proti mučiteli. Je to zaťatá pěst, jež se k ráně obranné pozvedla, pěst bezbranná, proti níž tasili zbraň.</p>
-
-			<p>Sto let! Otcové vytrpěli, potomkům uvolněno. Však nejsou bez úkolu, i oni mají bojovat; stali se bojovníky národa, jehož jádrem a sílou být mají. Nechť nikdy tedy nezapomenou povinností svých, tak aby dějepisec příštích věků zaznamenati mohl:</p>
-
-			<p>Bojovali statečně a obětivě za blaho a svobodu národa a tak i lidstva.</p>
-
+		
+	 <div type="chapter">
+	  
+	  <head>Doslov.</head>
+	  
+	  <p>Stál jsem na balkonu zámku náchodského. Pode mnou šuměli zasmušilí, tmaví modřínové a bělostné břízy. Kvetoucím bezem, jenž celou stráň vrchu zámeckého pokrývá, bylo viděti polozbořenou, kulatou věž — hladomornu. Prošel jsem prvé síně a rozlehlé chodby památného zámku; mysl mou naplňovaly děje, jež se tu sběhly, i pověsti starožitnou budovu leskem poesie ozařující. Teď rozkládal se mi před očima krásný kraj pohorský. V pozadí na hranicích hory česko-kladské s Borem, kol vrchy lesnaté a mezi nimi milé údolí pometujské. V dolině i na stráních pracovali sedláci s čeledí svou. Ti tu pracují svobodně na svém pro sebe a sotva <pb n="407"/> vědí, co předkové tu se nastenali. Vnuk zapomíná na útrapy dědovy.</p>
+	  
+	  <p>Duší mou pohnulo utrpení lidu; viděl jsem jeho bídu a porobu, tu na tom panském sídle zaslechl jsem bolestné vzdechy. Je to šerý obraz barev neveselých, však od temného pozadí tím jasněji odráží se jasná myšlénka svobody. Boj za právo lidské, bránění se týraného proti mučiteli. Je to zaťatá pěst, jež se k ráně obranné pozvedla, pěst bezbranná, proti níž tasili zbraň.</p>
+	  
+	  <p>Sto let! Otcové vytrpěli, potomkům uvolněno. Však nejsou bez úkolu, i oni mají bojovat; stali se bojovníky národa, jehož jádrem a sílou být mají. Nechť nikdy tedy nezapomenou povinností svých, tak aby dějepisec příštích věků zaznamenati mohl:</p>
+	  
+	  <p>Bojovali statečně a obětivě za blaho a svobodu národa a tak i lidstva.</p>
+	  
+	 </div>
 		</div>
-	</body>
-	<back>
+	</body><back>
+		
+	
 		<div type="liminal">
 
 			<pb n="408"/>

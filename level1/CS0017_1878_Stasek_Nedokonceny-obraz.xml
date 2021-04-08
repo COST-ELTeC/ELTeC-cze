@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0017" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0017" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -68,7 +67,7 @@
 
 	</front>
 	<body>
-		<div>
+		<div type="chapter">
 
 			<head>1.</head>
 
@@ -86,7 +85,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>2.</head>
 
@@ -100,7 +99,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>3.</head>
 
@@ -154,7 +153,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>4.</head>
 
@@ -190,7 +189,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>5.</head>
 
@@ -226,7 +225,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>6.</head>
 
@@ -290,7 +289,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>7.</head>
 
@@ -328,7 +327,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>8.</head>
 
@@ -370,7 +369,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>9.</head>
 
@@ -390,7 +389,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>10.</head>
 
@@ -442,7 +441,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>11.</head>
 
@@ -498,7 +497,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>12.</head>
 
@@ -556,7 +555,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>13.</head>
 
@@ -626,7 +625,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>14.</head>
 
@@ -762,7 +761,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>15.</head>
 
@@ -844,7 +843,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>16.</head>
 
@@ -1208,7 +1207,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>17.</head>
 
@@ -1410,7 +1409,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>18.</head>
 
@@ -1562,7 +1561,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>19.</head>
 
@@ -1670,7 +1669,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>20.</head>
 
@@ -1746,7 +1745,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>21.</head>
 
@@ -1942,7 +1941,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>22.</head>
 
@@ -2034,7 +2033,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>23.</head>
 
@@ -2238,7 +2237,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>24.</head>
 
@@ -2434,7 +2433,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>25.</head>
 
@@ -2558,7 +2557,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>26.</head>
 
@@ -2652,7 +2651,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>27.</head>
 
@@ -2808,7 +2807,7 @@
 
 			<p>„Bůh buď mi svědkem, že musím voliť vás; ať zahynu – bůh mi buď milostiv.“</p>
 
-			<p>Matka se dala do usedavého pláče; Hájek se zachvěl a zdržované slzy vyřítily se z očí, valíce se jako bohatý hrách po vráskovitých jeho lících. Zvolav: „Děj se vůle tvá pane,“ přiblížil se vrávoravým skoro krokem k Verunce, vzal ji do své náruči, objímal ji, líbal a hořekoval: „Nebohé, nešťastné poslední dítě mé! Co jsi to učinila, má ubohá, má drahá Verunko? Osud tvůj jest dokonán, zapečetěn. Ejhle, ach „silné jest jako smrt milování; tvrdá jest jako hrob horlivosť lásky.“ <note>Píseň Šalamounova VII. 6.</note></p>
+			<p>Matka se dala do usedavého pláče; Hájek se zachvěl a zdržované slzy vyřítily se z očí, valíce se jako bohatý hrách po vráskovitých jeho lících. Zvolav: „Děj se vůle tvá pane,“ přiblížil se vrávoravým skoro krokem k Verunce, vzal ji do své náruči, objímal ji, líbal a hořekoval: „Nebohé, nešťastné poslední dítě mé! Co jsi to učinila, má ubohá, má drahá Verunko? Osud tvůj jest dokonán, zapečetěn. Ejhle, ach „silné jest jako smrt milování; tvrdá jest jako hrob horlivosť lásky.“ <ref target="#CS0017_N1"/></p>
 
 			<p>Bůh ti buď milostiv.“</p>
 
@@ -2824,7 +2823,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>28.</head>
 
@@ -3036,7 +3035,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>29.</head>
 
@@ -3050,7 +3049,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>30.</head>
 

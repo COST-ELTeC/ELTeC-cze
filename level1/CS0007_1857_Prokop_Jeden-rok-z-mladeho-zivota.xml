@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0007" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0007" xml:lang="cs">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -25,8 +24,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<bibl type="digitalSource">
-					<ref
-						target="https://play.google.com/books/reader?id=b1gdAQAAIAAJ&amp;hl=cs&amp;pg=GBS.PA3"/>
+					<ref target="https://play.google.com/books/reader?id=b1gdAQAAIAAJ&amp;hl=cs&amp;pg=GBS.PA3"/>
 					<publisher>Google Books</publisher>
 				</bibl>
 				<bibl type="printSource">
@@ -72,7 +70,7 @@
 
 		</front>
 		<body>
-			<div>
+			<div type="chapter">
 
 				<head>1.</head>
 
@@ -151,8 +149,7 @@
 				<p>Přítel jeho, Karel Doubic, možno-li tak říci, byl pravým opakem Dornerovým.
 					Hlubokých myšlének se stranil, a často jistil, že se raději ještě jednou bude
 					topiti, než by se poddal učeným bádáním; krásy jiné neznal, nechtěl znáti, leč
-					jaká mu z milostných tvářinek našich dívek se zářila; ctižádosť jen podle <pb
-						n="10"/> jmena znal, jestliže jeho časté vítězení u slabšího pohlaví, hlavně
+					jaká mu z milostných tvářinek našich dívek se zářila; ctižádosť jen podle <pb n="10"/> jmena znal, jestliže jeho časté vítězení u slabšího pohlaví, hlavně
 					z marnivosti povstávající, nechceme ctižádostí nazvati. Neučil se a nevzdělával
 					více, než pokud se to od něho žádalo, a když před okem knihu zavřel, zavřela se
 					i mysl jeho před knihami, a světu se otevřela široko. Divadlo, kavárny, ještě
@@ -500,9 +497,7 @@
 					smyslů svých. Nech ať ještě jednou přijdou na svět i se svou láskou, učiň pak,
 					aby vnady Heloisiny nemocí se ztratily; učiň, aby Lauřinu tvář zohyzdil nahodilý
 					osud zlý, aby Eleonora byla chudým děvčetem, anebo,“ doložil s chladnou
-					uštěpačností, „dej jim milenky jejich za ženy <note>Jest známo, že Abaelard
-						v Bretagne se tajně zasnoubil s Heloisou; ale tajný sňatek a veřejný sňatek
-						― toť rozdíl. A pak trval jen rok a Abaelard byl mužství zbaven.</note> : a
+					uštěpačností, „dej jim milenky jejich za ženy <ref target="#CS0007_N1"/> : a
 					pak se podívej, zdali v lásce který setrvá.“</p>
 
 				<p>„Pro Boha, což tedy myslíš ty, že láska jest?“</p>
@@ -635,7 +630,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>2.</head>
 
@@ -1298,7 +1293,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>3.</head>
 
@@ -1437,8 +1432,7 @@
 					měl býti, ale blažen jsem jistě, pokud mi jen možno, věřte mi! Že první chvíle
 					dosaženého štěstí mi probudila památku v duši tesknou, nebude vám jistě divno,
 					ani na ujmu budoucímu blahu mému; přivyklť jsem myšlénkám svým, neustále na
-					ztrátu mou mě upomínajícím, a než zase nynějším citům zcela přivyknu, <pb n="73"
-					/> bude nějaký ještě čas trvati, neboť musím dříve se naučiti, jak bych
+					ztrátu mou mě upomínajícím, a než zase nynějším citům zcela přivyknu, <pb n="73"/> bude nějaký ještě čas trvati, neboť musím dříve se naučiti, jak bych
 					zapomenul.“</p>
 
 				<p>„Čím více se budete přítomností zabývati, tím snadněji zapomenete na doby
@@ -1852,7 +1846,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>4.</head>
 
@@ -2374,7 +2368,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>5.</head>
 
@@ -2630,8 +2624,7 @@
 					příteli do plesu. Jak divno a předc pravda, že i povaha tak pevná, jako
 					Dornerova, volí si cesty křivé, cesty lži, neboť to lží předc ostane. Jediná
 					omluva byla by, že, chtěje si zůstati důsledným a snaže se, aby o lásce jeho ani
-					přítel, tím méně jiný kdo se dověděl, musel takovouto příležitou lží <pb n="135"
-					/> utvrditi myšlení o něm povstalé, aniž se mu zapříčilo. Vždyť již nemoc jeho
+					přítel, tím méně jiný kdo se dověděl, musel takovouto příležitou lží <pb n="135"/> utvrditi myšlení o něm povstalé, aniž se mu zapříčilo. Vždyť již nemoc jeho
 					byla lží, od něho podporovanou, a náš vzdělaný svět sám, pln nepravdy a klamu,
 					nechová v sobě ducha, jenžto by všelikého stínu lži se děsil. Kdyby ale tajno v
 					duši Dornerově nejskrytější před námi odhaleno leželo, shledali bychom co pravou
@@ -2732,8 +2725,7 @@
 					obávala; vy ale jste šlechetný muž a já milenci svému ve všem věřím bez odmluvy,
 					bez bázně.“</p>
 
-				<p>Tato ušlechtilá důvěra dojala Karla tak hluboko, že na chvíli pánem i myšlení <pb
-						n="141"/> svého se stal. „Smí-li se rovnati Emilie s touto milovanou, citu
+				<p>Tato ušlechtilá důvěra dojala Karla tak hluboko, že na chvíli pánem i myšlení <pb n="141"/> svého se stal. „Smí-li se rovnati Emilie s touto milovanou, citu
 					oddaného plnou dívkou!?“ pomyslil si; „a já jsem mohl míti jen na okamžení jiné
 					vedle ní myšlénky?!“ Tato chvíle nemálo upevnila morální sílu jeho.</p>
 
@@ -2776,8 +2768,7 @@
 					žádostem, počala se rmoutiti nad zmařeným snem svým, jako každý, jemuž to
 					nesmělého, ale horoucího toužení cíl do dálky nedostižné jest odsunut.
 					Představovala si v duchu milenku Karlovu, jak šťastnou bude; viděla její blahem
-					planoucí obličej, do jejích očí svého milování lesk a do úst své lásky <pb
-						n="144"/> slova jí kladla; cítila tu bouři v prsou, blažené vědomí tělem
+					planoucí obličej, do jejích očí svého milování lesk a do úst své lásky <pb n="144"/> slova jí kladla; cítila tu bouři v prsou, blažené vědomí tělem
 					celým rozhánějící, a ruka vstříc mu vztažená obejmula drahou šíji, sklonila
 					celovanou hlavu jeho na prsa svá rozkoší se třesoucí: – a pláč horký jí vstoupil
 					do unavených, rozpálených očí, neboť viděla, jakého štěstí lze na světě míti a
@@ -2822,8 +2813,7 @@
 					hlavě po prvnějších myšlénkách prázdná ostavší, a v předu jich povstala Emilie.
 					Emilie, tato více andělu než lidským dcerám podobná dívka! Jak ta její
 					ušlechtilá tvář, jejížto přidechnuté růže ve světle plynovém tak průsvitnými se
-					zdály, v blahém sebezapomenutí rozčilením tmavěji se barvila! Jak ty nebeské <pb
-						n="147"/> oči její pod sněhobílým, jasným čelem naň se svítily! Tak blízko
+					zdály, v blahém sebezapomenutí rozčilením tmavěji se barvila! Jak ty nebeské <pb n="147"/> oči její pod sněhobílým, jasným čelem naň se svítily! Tak blízko
 					podle ní seděl, hleděl jí okem, nestřeženým u významu svém, až do duše hluboko,
 					viděl jejího citu, její nešťastné lásky toužení, jak uvnitř s panenským se
 					ostýcháním vede boj, cítil její neštěstí skoro v plné míře sám a dobře věděl,
@@ -3108,7 +3098,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>6.</head>
 
@@ -3210,8 +3200,7 @@
 
 				<p>Emilie byla po celý ten čas v úplné nejistotě zůstala, co se Dornera týkalo;
 					neboť o lásce jeho se vskutku nedověděla. Líbezný býval ondy na ni pohled, a teď
-					smutná chodila, nic ji netěšilo, nevábilo, nejraději dlela o samotě <pb n="168"
-					/> a zlými sny, plnými touhy marně se obírajíc, velmi zevnějšku svému škodila,
+					smutná chodila, nic ji netěšilo, nevábilo, nejraději dlela o samotě <pb n="168"/> a zlými sny, plnými touhy marně se obírajíc, velmi zevnějšku svému škodila,
 					neboť vadne tělo, v němžto duševní činnost příliš nadevládá. Sestřin šťastný
 					pohled opakem svým ji bolel, aniž pravou toho příčinu tušila; viděla jen, že
 					sestra všeho dosáhne, čeho si dívka jen žádati může, sama však že bez naděje
@@ -3553,7 +3542,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>7.</head>
 
@@ -3884,8 +3873,7 @@
 
 				<p>Jak řečeno, zachvěl se celý. Pohleděv ale před sebe na cestu, shledal stopy
 					vícera lidí a obávání jeho se z části umírnilo, neboť se dalo souditi, že ji
-					tudy nesli. – Když pak shledal, dále jda, že se veškeré ty stopy až <pb n="207"
-					/> do půlkruhu a v pravo nahoru táhnou, měl již skoro za jisté, že ji znova
+					tudy nesli. – Když pak shledal, dále jda, že se veškeré ty stopy až <pb n="207"/> do půlkruhu a v pravo nahoru táhnou, měl již skoro za jisté, že ji znova
 					omdlelou zde nalezli. Stal se opět veselým, jako prvé, a tak dovedl, že nikdo
 					ani leknutí jeho, ani dosti dlouhého zatrudění si nepovšimnul.</p>
 
@@ -3952,7 +3940,7 @@
 
 			</div>
 
-			<div>
+			<div type="chapter">
 
 				<head>8.</head>
 
@@ -4059,8 +4047,7 @@
 					moci nad námi zápasily, jedna dobrá, druhá pak zlá. Zvítězí-li jedna, promění
 					veškeren život náš buď na lepší, nebo na zlou stranu. Takovéto povrchní
 					pozorování snad probudilo dualism, jenžto nemá zajisté hlubokého základu. A bylo
-					by také v našem věku zcela nemožno, aby jej kdo zastával, neboť by tím <pb
-						n="218"/> celá ta hrdá bytost, jižto člověkem nazýváme, se všemi mohutnými
+					by také v našem věku zcela nemožno, aby jej kdo zastával, neboť by tím <pb n="218"/> celá ta hrdá bytost, jižto člověkem nazýváme, se všemi mohutnými
 					silami, s vůlí a rozumem svým, pouhou hříčkou zápasu nerozumného, neodůvodněného
 					se stala. Nás, jak teď jsme, upokojí jen víra v nejvyšší jednu, všemoudrou
 					hlavu, lásky své puzením vedenou, osudy naše podle neznámých sice, ale vždy k
@@ -4267,5 +4254,8 @@
 
 			</div>
 		</body>
-	</text>
+	<back><div type="notes"><note xml:id="CS0007_N1">Jest známo, že Abaelard
+						v Bretagne se tajně zasnoubil s Heloisou; ale tajný sňatek a veřejný sňatek
+						― toť rozdíl. A pak trval jen rok a Abaelard byl mužství zbaven.</note>
+</div></back></text>
 </TEI>

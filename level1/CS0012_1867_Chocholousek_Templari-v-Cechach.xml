@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0012" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0012" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -85,9 +84,7 @@
 			<pb n="7"/>
 
 		</div>
-	</front>
-	<body>
-		<div>
+		<div type="liminal">
 
 			<head>Úvod.</head>
 
@@ -148,10 +145,14 @@
 			<pb n="16"/>
 
 		</div>
+	</front>
+	<body>
 
-		<div>
+		<div type="group">
 
-			<head>DÍL PRVÝ. Část prvá.</head>
+			<head>DÍL PRVÝ. </head>
+		 
+		 <div type="chapter"><head>Část prvá.</head>
 
 			<p>Po kraji daleko táhnoucích se lesů šumavských se rozprostírá daleká pláň, sem tam hrbolatými vrchy, na nichž před věky statné hrady k oblakům čněly, posetá.</p>
 
@@ -241,7 +242,7 @@
 
 			<p>„Krvavé slze bych spíše plakal", odtušil tento libozvučným hlasem — „že tyto krásné nivy, tato ourodná pole kopytem koňským zdupána, v nivec uvedena býti mají. — Ó nešťastná Čechie! cožs ještě dosti krutých ran osudu neutrpěla?"</p>
 
-			<p>„Přisám Bůh!" — zvolal komthur křivoklátský <note>Královské hrady Křivoklát a Švihov byly po zavraždění Václava 3. v Olomouci od templářů dobyty a až do Jana Lucemburského v jich moci držány.</note> Vilém z Valdeků — „Raimunde! mluvils ty, čili z tebe mluvil duch láskou churavé, bojácné <pb n="26"/> ženštiny? Habaha!" — zasmál se z plného hrdla — "totě mi krásný rytíř Sionu, a k tomu komthur pevného hradu Švihova, který před radostným bojem hlavu věsí a již napřed s žalostí počítá, že se v železné hře o krky hráti bude a že jich mnoho prohráti musí. Ne, ne, brachu! věřím, žes udatný, viděl jsem to na své vlastní oči; ale toto želotání, toto bolestnění zanech nevěstkám a básníkům a těm, kteří nic lepšího dělati nemajíce, u psacího stolku o blahosti míru mudrují."</p>
+			<p>„Přisám Bůh!" — zvolal komthur křivoklátský <ref target="#CS0012_N1"/> Vilém z Valdeků — „Raimunde! mluvils ty, čili z tebe mluvil duch láskou churavé, bojácné <pb n="26"/> ženštiny? Habaha!" — zasmál se z plného hrdla — "totě mi krásný rytíř Sionu, a k tomu komthur pevného hradu Švihova, který před radostným bojem hlavu věsí a již napřed s žalostí počítá, že se v železné hře o krky hráti bude a že jich mnoho prohráti musí. Ne, ne, brachu! věřím, žes udatný, viděl jsem to na své vlastní oči; ale toto želotání, toto bolestnění zanech nevěstkám a básníkům a těm, kteří nic lepšího dělati nemajíce, u psacího stolku o blahosti míru mudrují."</p>
 
 			<p>„Myslíš tak?" — dí jinošský komthur švihovský. „Milý Valdeku! měl bych se na tebe horšiti, ale nemohu, neb tvé náhledy jsou náhledy světa, kleslého člověčenstva, kleslého řádu sionského."</p>
 
@@ -345,9 +346,9 @@
 
 			<p>A více se neohlédnuv kráčel napřed. Žid jej hbitě následoval se synem svým. Tento jel na oslíku s hlavou svěšenou, tiše, lhostejně při kráse krajiny, jen prsa jeho zdvihala se mocně při častém vzdychání; otec jeho kráčel za poutníkem, oslíka za uzdu veda.</p>
 
-		</div>
+		 </div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část druhá.</head>
 
@@ -439,7 +440,7 @@
 
 			<p>„Ovšem, to se mu upříti nemůže" — přisvědčil Raimund; „kdyby jen s udatností surovou spojoval také srdce lidské. Než tedy jen jeď, bratře milý, a pověz velmistrovi, co jsi viděl a co jsi slyšel."</p>
 
-			<p>„Aj ples se rozhostí v Jerusalemě <note>Jak v úvodu podotknuto, nazýval se templářů hlavní dvůr v Praze Jerusalem.</note> a Praha bude dávat ozvěnu!" zaplesal templář na koně sedaje a s ním přišlým zbrojnošům kyna, by totéž činili. „Však, jakžpak," doložil, zastaviv se, „abych zajel na Křivoklát a pana Viléma pobídnul, kdyby se hra ocelová zde započala, by vám ráměm svým přispěl, nežli to možno bude Jeho velemocnosti?"</p>
+			<p>„Aj ples se rozhostí v Jerusalemě <ref target="#CS0012_N2"/> a Praha bude dávat ozvěnu!" zaplesal templář na koně sedaje a s ním přišlým zbrojnošům kyna, by totéž činili. „Však, jakžpak," doložil, zastaviv se, „abych zajel na Křivoklát a pana Viléma pobídnul, kdyby se hra ocelová zde započala, by vám ráměm svým přispěl, nežli to možno bude Jeho velemocnosti?"</p>
 
 			<p>„Nech ho tam! on je si pro sebe dost a nám by zde surovostí svou dílo pokálel!" — odpověděl Raimund za příčinou udalosti před několika hodinami proti Valdeku nevrlostí pojat. — „A bez toho by si učinil špehýře pozorny; děkuji náhodě, že jsem se s tebou a našemi přátely zde setkal a tebe zadržel. Rozkazy velmistrovy vzkáži potaji do Strakonic, a seč budu, pomohu Bavoru Strakonickému. O Zvikov se nebojím, tam by darmo Rudolf lebky vojínů svých rozrážel a také mu za výpravu jeho hrad ten nestojí, on umí ceniti podnikání <pb n="47"/> své zná strakonického, umí si rozpočísti, jakžkoli mladý jest, že by pád strakonického moc naši v hlavním sloupení rozviklal. S Bohem tedy! jeď celou noc, já se ještě dnes odeberu do Zvikova, až jen poselství do Strakonic vypravím!"</p>
 
@@ -449,7 +450,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část třetí.</head>
 
@@ -543,7 +544,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část čvrtá.</head>
 
@@ -641,7 +642,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část pátá.</head>
 
@@ -717,7 +718,7 @@
 
 			<p>Bartoň se nedal dvakrát pobízet, sedl si na konec stolu, uřízl napřed dva kusy a hodil je psům, kteřížto naň po straně čmuchali, pak se sám s takovou obratností do jídla dal, že by za našich časů na to umění co mistr cestovati mohl.</p>
 
-			<p>A nyní máme právě čas tohoto zvláštního muže, jehož povahu z předešlé rozprávky poněkud známe, pozorovati, an se do jídla tak zabral, že by Horácova slova <foreign>„Impavidum ferient ruinae"</foreign> <note>Neohroženého zachvátí zříceniny.</note> naň přeložiti se dala.</p>
+			<p>A nyní máme právě čas tohoto zvláštního muže, jehož povahu z předešlé rozprávky poněkud známe, pozorovati, an se do jídla tak zabral, že by Horácova slova <foreign>„Impavidum ferient ruinae"</foreign> <ref target="#CS0012_N3"/> naň přeložiti se dala.</p>
 
 			<p>Nevelké, zavalité postavy zdál se býti asi šedesát let stár, hlava jeho šedinami pokrytá seděla na masitém a tak krátkém krku, že rudý obličej z mohútných, širokých ramen jako měsíc v úplňku z černých mraků vykukoval, uši se mu ustavičně ramen dotýkaly, oči jeho, poněkud přimhouřené, <pb n="70"/> jakož i celá tvářnost jevily dobrý rozmar s šibalskou tupostí promíchaný, také ale neohroženost a jakousi lhostejnost pro všechny dojmy duševní i tělesní, což jej nebezpečím opovrhovati učilo. Svalovité, drsnatou kůží potáhnuté pěstě, jakož veškeré ostatní oudy svědčily o náramné síle těla, jakož i o častém jí užívání. Zazelenalá, po rukávích a kolem límce tukem se lesknoucí kazajka, zpřed měděnými knoflíky takořka posetá, objímala jeho tuří plece a nejsouc z předu zapnuta, prozrazovala košili, před několika měsíci pranou, s rozhaleným rozparkem, z něhož vysoce klenuté hrudí jako sádelná tůna vykukovala. Ostatní jeho oděv byly kožené, širokým pasem k tělu připevněné spodky, které někdy žluté bývaly, nyní však během všelikobarevných nápojů, tuku i rozličnostmi země a bařin peřesté barvy na se přijaly; vysoké, nad koleny opět ku kotníkům chrnuté, zablácené boty z dobře vydělané teletiny kryly jeho od dlouhého stávání a častého trmácení po lesích při číhání aneb honění zvěře trochu přiokrouhlé nohy, jimž však potřebné mrštnosti nechybělo.</p>
 
@@ -765,7 +766,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část šestá.</head>
 
@@ -943,7 +944,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část sedmá.</head>
 
@@ -1046,10 +1047,11 @@
 			<pb n="97"/>
 
 		</div>
+		</div>
+		<div type="group">
 
-		<div>
-
-			<head>Díl druhý. Část prvá.</head>
+			<head>Díl druhý. </head>
+		 <div type="chapter"><head>Část prvá.</head>
 
 			<p>Když člověk se životem a smrtí zápasí, kdežto říkaje na úzkém, oba světy od sebe dělícím prahu stojí, tu duch jeho mocně peruti své napíná, schráň pozemskou rozlomiti se snaže, by let svůj jižjiž vzíti mohl do vlasti své, v kraj to nadehvězdný, a tu čaruje, jakoby na rozloučenou, obrazy všeliké fantastické té hmotě prsti, v níž posud uvězněn byl, a člověk zírá v posledních okamženích rozloučení se se světem buď v hrůzy pekel, aneb ve vlasti nebes. Tak se dělo i Raimundovi, an z omráčení, v nějž byl vysokým pádem klesl, k procitnutí a životu se probuzoval. I zdáloť se mu, že zírá v kraje nadvětrné, kdežto se před ním u víru červánek anjel slávy vznáší, jemu kyne, k němu se sklání. I mnilť, že cítí jeho lehký medový dech, a žhavě proudila krev jeho žilami, tak že hlava jeho nesmírnou palčivostí se rozpoltiti chtěla; a tu opět se mu zdálo, že vidí před sebou <pb n="98"/> propast bezednou, nad nížto ona věštkyně, tak jako se mu byla v noci na cestě z Klatov ukázala, jemu hrozíc se vznáší, a on že v mrákotě klesá v hlubinu, aniž že starý lovec Bartoň, kteréhož podlé sebe vidí a kterýž jej udržeti se snaží, skutečně ho zachrániti může; i letí dolů hloub a nad sebou slyší úsměšný chechtot Čeňkův; hrůza mu mrazí oudy, zachvěje se a opět vidí toho anjela spasného, anž pásku z růžových obláčků dolů spouští. I chopí se jí Raimund a spěje v letu vzhůru do blankytu jasného a opět ucituje dech anjela spasného i zvolá v radostném opojení: „Ha, díky tobě, duchu věčnosti! Rci mi, jsi anjel slávy neb milostnosti božské? Ach ano anjel milostnosti, anjel spásy — ó, jak krásné jest dlíti tobě na blízku, zapomenuté jsou hrůzy propasti —"</p>
 
@@ -1133,7 +1135,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část druhá.</head>
 
@@ -1235,7 +1237,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část třetí.</head>
 
@@ -1319,7 +1321,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část čtvrtá.</head>
 
@@ -1349,7 +1351,7 @@
 
 			<pb n="130"/>
 
-			<p>Tento rozvinuv pergamen, četl list ten v jazyku latinském psaný, kterýž takto začínal: <foreign>In nomine patris et filii et spiritus sancti — Amen! Fridericus de Alvensleben, magister domorum militae templi per Germaniam et Slavoniam, fratri suo Georgio Ecconi, magistro domorum militiae templi per Bohemiam et Moraviam."</foreign> <note>Dle Ekartshausena se Alvensleben již v roce 1301 nepsal velmistrem českomoravským.</note> — „Bůh budiž naše útěcha a naše důvěra v časech bídy. „Bůh, můj Pán, jest moje síla!" praví svatý prorok Habakuk a dále mluví Pán skrz Nahuma: „Pán zná všechny, kteří jemu důvěřují. Milostiv je k nim a sílí je v den jejich bídy!" Důvěřujme se v Boha, bratře můj! neb nastala bída veliká Sionu, jak mně bratr náš, rýnský hrabě Hugo, listem mi učiněným věděti dal. Bylo znamení na nebi a dravý vlk se vrhl do ovčince, kdy pastýř spal a dávil ovce polekané a drží pastýře v pazourech, by se zmocnil zásoby ovčince. A vlk ten je Filip, král francouzský, kterýž jal našeho bratra Jakuba Molaye v okovy a jímá rytíře řádu posvátného a soudí nad nimi soudem církve pod pečetí prstenu rybáře! neb Kliment, jenž sedí na stolici sv. Petra, vydal prý breve k zničení Sionu. Toto vše nám oznámil hrabě Hugo z Mohuče s tím doložením, že se horších ještě věcí obává, abychom se sjednotili, jak naše jednání zříditi máme. I zdá mi se, že nejlepší ochranu v přízni knížat <pb n="131"/> najdeme,</p>
+			<p>Tento rozvinuv pergamen, četl list ten v jazyku latinském psaný, kterýž takto začínal: <foreign>In nomine patris et filii et spiritus sancti — Amen! Fridericus de Alvensleben, magister domorum militae templi per Germaniam et Slavoniam, fratri suo Georgio Ecconi, magistro domorum militiae templi per Bohemiam et Moraviam."</foreign> <ref target="#CS0012_N4"/> — „Bůh budiž naše útěcha a naše důvěra v časech bídy. „Bůh, můj Pán, jest moje síla!" praví svatý prorok Habakuk a dále mluví Pán skrz Nahuma: „Pán zná všechny, kteří jemu důvěřují. Milostiv je k nim a sílí je v den jejich bídy!" Důvěřujme se v Boha, bratře můj! neb nastala bída veliká Sionu, jak mně bratr náš, rýnský hrabě Hugo, listem mi učiněným věděti dal. Bylo znamení na nebi a dravý vlk se vrhl do ovčince, kdy pastýř spal a dávil ovce polekané a drží pastýře v pazourech, by se zmocnil zásoby ovčince. A vlk ten je Filip, král francouzský, kterýž jal našeho bratra Jakuba Molaye v okovy a jímá rytíře řádu posvátného a soudí nad nimi soudem církve pod pečetí prstenu rybáře! neb Kliment, jenž sedí na stolici sv. Petra, vydal prý breve k zničení Sionu. Toto vše nám oznámil hrabě Hugo z Mohuče s tím doložením, že se horších ještě věcí obává, abychom se sjednotili, jak naše jednání zříditi máme. I zdá mi se, že nejlepší ochranu v přízni knížat <pb n="131"/> najdeme,</p>
 
 			<p>a protož tobě radím, bratře můj! strhni korouhev boje a vytkni prapor míru na bašty hradů tvých, bys udobřil Rudolfa, než přijdou dnové bídy a zkoušení, bychom pak v spojení mezi sebou a s knížaty světskými odolati mohli proudu nám zkázou hrozícímu. Oznam smýšlení své bratru tvému v Žitavě. Psáno pod heslem řádu templářského: „Ježíš a Maria!" v roce vykoupení světa 1307 a založení řádu našeho 195 v den před sv. Jiřím rytířem."</p>
 
@@ -1417,7 +1419,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část pátá.</head>
 
@@ -1525,7 +1527,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část šestá.</head>
 
@@ -1707,7 +1709,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část sedmá.</head>
 
@@ -1841,7 +1843,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část osmá.</head>
 
@@ -1853,7 +1855,7 @@
 
 			<p>Mohloť býti as sedm hodin, dle našeho počtu, an tu najednou hlavní brána dvora jerusalemského se rozlítla a při víření trub a rachotu bubnů táhli templáři hrdým řadem na náměstí, v čele jim velmistr, pověstný Jiří Eko, jemu po boku onen neznámý poutník v skvostném havu komthura templářského a za nimi nesl zbrojmistr poločerný prapor řádu, za ním teprva pohybovali se druzí důstojníci, rytíři, zbrojnoši a ostatní družina, tak že pusté ostalo stavení, jako když zedník posledněkrát kladivem do zdí jeho udeřil.</p>
 
-			<p>V tu samu chvíli se totéž událo v obou druhých dvorech, řeholníci vytáhli všickni pod správou komthurů svých s celou družinou a veškerým nábytkem. Oni se Staroměstského náměstí blížili se Železnou ulicí, ti pak z Celetné ulice přes Havelské tržiště, nynější Ovocný trh, k Svatohavelské bráně <note>Stála tam, kde se nynější ulice před Koňským trhem tak zvaný Můstek nachází</note> , kdežto se s hlavním vojem jerusalemským spojili.</p>
+			<p>V tu samu chvíli se totéž událo v obou druhých dvorech, řeholníci vytáhli všickni pod správou komthurů svých s celou družinou a veškerým nábytkem. Oni se Staroměstského náměstí blížili se Železnou ulicí, ti pak z Celetné ulice přes Havelské tržiště, nynější Ovocný trh, k Svatohavelské bráně <ref target="#CS0012_N5"/> , kdežto se s hlavním vojem jerusalemským spojili.</p>
 
 			<pb n="174"/>
 
@@ -1922,10 +1924,12 @@
 			<pb n="178"/>
 
 		</div>
+		</div>
+		<div type="group">
 
-		<div>
-
-			<head>DÍL TŘETÍ. Část prvá.</head>
+			<head>DÍL TŘETÍ. </head>
+		 <div type="chapter">
+		 <head>Část prvá.</head>
 
 			<p>Lesy zvikovské zašuměly ranním větrem a ptactva plesy přivítaly vycházející slunce. I mísily se ve zpěv opeřených pěvců čarovné zvuky loutny, jimž líbezný ženský hlas přizvukoval.</p>
 
@@ -2033,7 +2037,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část druhá.</head>
 
@@ -2329,7 +2333,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část třetí.</head>
 
@@ -2431,7 +2435,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část čtvrtá.</head>
 
@@ -2439,7 +2443,7 @@
 
 			<p>Právě vyšel životní jeho lékař ze stanu a venku čekající pánové a rytíři poznali již z jeho obličeje, že se zdraví Rudolfovo nezlepšilo. Lékař <pb n="216"/> vida všech zraky tázavě na sebe obráceny, pokrčil ramenama, a aby se všem dalším otázkám vyhnul, okázav na stan řka: „Jeho královská Výsost vás očekává!" rychlým krokem se odebral.</p>
 
-			<p>Pánové vešli zticha do stanu. Byli to mocní a slavní bohatýři, — jako Jindřich z Lipé, Jindřich Vítkovič <note>Vítkoviče jmenují mnozí dějepisci i Rosenbergy dle štítu jejich, v kterém bílou růži v červeném poli vedli.</note> , rytíř Zámrský a rytíř z Uherska, Ruthardové kutnohorští a jiných více, tak že při pohledu na tyto železné postavy podivno bylo, jak se město při jejich útokách ještě držeti mohlo.</p>
+			<p>Pánové vešli zticha do stanu. Byli to mocní a slavní bohatýři, — jako Jindřich z Lipé, Jindřich Vítkovič <ref target="#CS0012_N6"/> , rytíř Zámrský a rytíř z Uherska, Ruthardové kutnohorští a jiných více, tak že při pohledu na tyto železné postavy podivno bylo, jak se město při jejich útokách ještě držeti mohlo.</p>
 
 			<p>I zdálo se něco takového Rudolfovi; dlouho spočívalo vyhaslé, vpadlé oko jeho jaksi radostně na těchto mohútných kmenech českého bohatýrstva. Ale upamatovav se, že i těmto titanům mladistvý vůdce templářů odoluje, rozžhlo se oko jeho tajným, sžírajícím ohněm, vybledlé líce jeho přelil bledý ruměnec jako jitrem nadchlý a kolem ssínalých rtů se uhostil trpký úsměch, v nějž se výraz bolesti, kteráž tělo jeho svírala, mísil.</p>
 
@@ -2609,7 +2613,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část pátá.</head>
 
@@ -2777,7 +2781,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část šestá.</head>
 
@@ -2907,7 +2911,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část sedmá.</head>
 
@@ -3029,13 +3033,13 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část osmá.</head>
 
 			<p>Brzy po návratu velmistra do Prahy jásali rozjaření Pražané Jindřichu Korutanskému vstříc, který hned po obdržení zprávy o úmrtí Rudolfa s chotí svou Annou do Čech pospíchal. —</p>
 
-			<p>V Krokvové ulici <note>Kroková ulice <foreign>(Sporrengasse)</foreign> . Pozdější věkové jí přezdili Ostruhová ulice <foreign>(Spornergasse)</foreign> .</note> stál mezi diváky také muž v oděvu rytířském, červené péro vlálo s biretu jeho, i nebyl to žádný jiný nežli nám již známý Čeněk nebo Vršovec. Ruce měl dle obyčeje svého překřížené, trpký úsměch si pohrával kolem jeho rtů při pohlednutí na to množství hotové radostným pokřikem přivítati pána svého. Za ním stál šašek králové Rejčky, která ze zlosti, že opět sestoupiti musela s trůnu a že z Lipé , dověděv se o jejím úzkém spojení s Volframem, ji opustil, se uzamykala v komnaty a větší část družiny své, mezi kterou i šašek, propustila; tento však nalezl u Alžběty útočiště. Vyslán byl od ní vyhledati náčelníka a povolati jej k velitelkyni, která se v domě bratra svého, probošta vyšehradského, ubytovala. I poštěstilo se mu zahlídnouti Čeňka v davu lidstva a jako vokoun skrze lid se prodrav umístil se za Čeňkem, který ho nepozoroval, <pb n="260"/> poněvadž Alžběta, přijmuvši šaška pod ochranu svou, pořádný, slušný oděv zhotoviti mu dala.</p>
+			<p>V Krokvové ulici <ref target="#CS0012_N7"/> stál mezi diváky také muž v oděvu rytířském, červené péro vlálo s biretu jeho, i nebyl to žádný jiný nežli nám již známý Čeněk nebo Vršovec. Ruce měl dle obyčeje svého překřížené, trpký úsměch si pohrával kolem jeho rtů při pohlednutí na to množství hotové radostným pokřikem přivítati pána svého. Za ním stál šašek králové Rejčky, která ze zlosti, že opět sestoupiti musela s trůnu a že z Lipé , dověděv se o jejím úzkém spojení s Volframem, ji opustil, se uzamykala v komnaty a větší část družiny své, mezi kterou i šašek, propustila; tento však nalezl u Alžběty útočiště. Vyslán byl od ní vyhledati náčelníka a povolati jej k velitelkyni, která se v domě bratra svého, probošta vyšehradského, ubytovala. I poštěstilo se mu zahlídnouti Čeňka v davu lidstva a jako vokoun skrze lid se prodrav umístil se za Čeňkem, který ho nepozoroval, <pb n="260"/> poněvadž Alžběta, přijmuvši šaška pod ochranu svou, pořádný, slušný oděv zhotoviti mu dala.</p>
 
 			<p>Tu začaly zvony hučeti a vždy víc se blížící nevelký hluk a jásot oznamovaly, že se král Jindřich blíží.</p>
 
@@ -3097,7 +3101,7 @@
 
 			<p>„Jeho Vznešenost byl poslušen rozkazu vašeho."</p>
 
-			<p>„Zítra nastane nejtrpčí den života mého!" vzdychl velmistr, do komnaty se ubíraje. „Zavolej <pb n="264"/> tajemníka!" — velel sluhovi a obrátiv se k strakonickému, který jej byl následoval, pravil: „Prodal jsem na Moravé Setenice a Freundsdorf <note>Dle archivu melitského.</note> Bočkovi z Kravařů, bych mohl zaplatiti dluh, který na řád výlohy válečné byly uvalily, aby se neřeklo, že templáři dluhů po sobě zůstavili."</p>
+			<p>„Zítra nastane nejtrpčí den života mého!" vzdychl velmistr, do komnaty se ubíraje. „Zavolej <pb n="264"/> tajemníka!" — velel sluhovi a obrátiv se k strakonickému, který jej byl následoval, pravil: „Prodal jsem na Moravé Setenice a Freundsdorf <ref target="#CS0012_N8"/> Bočkovi z Kravařů, bych mohl zaplatiti dluh, který na řád výlohy válečné byly uvalily, aby se neřeklo, že templáři dluhů po sobě zůstavili."</p>
 
 			<p>„Dobřes učinil!" posvědčil strakonický.</p>
 
@@ -3145,7 +3149,7 @@
 
 			<p>„Ó drahý příteli!" pravila Alžběta vděčně — "jak se vám odměním za tolik služeb? Nikdy nevyhasne památka vaše v srdci mém; ale rcete mi konečně, komu jsem povinna za tolik obětí!"</p>
 
-			<p>„Nepátrejte po jméně rodu mého," zasmútil se náčelník ještě více — "jehož slávu zlomyslnost lidská potupně strhala. Ale" zamyslil se — "možná, že snad vy svědectví vydáte o nepravosti otcům mým učiněné, protož nebudu tajiti déle tajemství po tak dlouhá leta v prsou mých svírané. Slýchala jste proklínati jméno Vršovců," počal <pb n="268"/> vypravovati povýšeným hlasem se vztýčiv a oko jeho planulo — „a věkové budoucí, jimž slova má sotva se oddědí, budou jim láti co zrádcům vlasti, co vévodobijcům, a oni přece krváceli jen pro vlast, pro národnost, pro lid. Bránili, by se cizota nevedrala ve vlast jejich a nepokazila mravy národu, prostotu vladařů českých, která jim velela považovati poddané za děti, za spolubratry, nikoliv za otroky a nevolníky, jak to bývá u Němců. Sami vyššího rodu, pokořili šije své pod žezlo Přemyslovo a potomků jeho, bojovali v spravedlivých bojích pro otce vaše, kněžno! a byli vždy silný taras, aby despoti netlačili národ. Povědomé vám budou roztržky domu vévodského, i byly zhejřilému bohatýrstvu českému vítány, které starodávné, prosté mravy národa svého zavrhnuvše raději se přidrželo marnivých, ukrutných zvyků cizinců a drželo vždy s tím pánem, který sám lásku k vlasti ze srdce svého vypudiv, pouštěl uzdu nevázavosti a cizotě. Tu se stavěli Vršovci na odpor, a kníže i sluha vinili je ze zrady. Ha, kdyby byli zrádcové, nebyli by ochránili tolikráte vlast před záhubou. Slyšelať jste o pověstných sekerkách <note>Viz: Přemyslovci od Vocela.</note> , o polních vůdcích vršovských, kteří vítězoslavně bojovali pro stolec český a vlast; ale to nic nepomáhalo, oni byli a musili býti i ostati zrádci, že milovali národnost více nežli pokažené mravy nevázaných cizinců, a na stínidle padli <pb n="269"/> slavní předkové moji, jen já jediný Vok ostal z nich; dědictvím mým byla horoucí láska k vlasti. I hospodařil jsem dobře s ním, otec váš i vy, kněžno, jste toho svědkové. Nyní však již vykonán účel můj, aspoň na dlouhý čas, pak se vrátím opět, bych pomohl přátelům vašim zahrnouti purpurem bedra vaše."</p>
+			<p>„Nepátrejte po jméně rodu mého," zasmútil se náčelník ještě více — "jehož slávu zlomyslnost lidská potupně strhala. Ale" zamyslil se — "možná, že snad vy svědectví vydáte o nepravosti otcům mým učiněné, protož nebudu tajiti déle tajemství po tak dlouhá leta v prsou mých svírané. Slýchala jste proklínati jméno Vršovců," počal <pb n="268"/> vypravovati povýšeným hlasem se vztýčiv a oko jeho planulo — „a věkové budoucí, jimž slova má sotva se oddědí, budou jim láti co zrádcům vlasti, co vévodobijcům, a oni přece krváceli jen pro vlast, pro národnost, pro lid. Bránili, by se cizota nevedrala ve vlast jejich a nepokazila mravy národu, prostotu vladařů českých, která jim velela považovati poddané za děti, za spolubratry, nikoliv za otroky a nevolníky, jak to bývá u Němců. Sami vyššího rodu, pokořili šije své pod žezlo Přemyslovo a potomků jeho, bojovali v spravedlivých bojích pro otce vaše, kněžno! a byli vždy silný taras, aby despoti netlačili národ. Povědomé vám budou roztržky domu vévodského, i byly zhejřilému bohatýrstvu českému vítány, které starodávné, prosté mravy národa svého zavrhnuvše raději se přidrželo marnivých, ukrutných zvyků cizinců a drželo vždy s tím pánem, který sám lásku k vlasti ze srdce svého vypudiv, pouštěl uzdu nevázavosti a cizotě. Tu se stavěli Vršovci na odpor, a kníže i sluha vinili je ze zrady. Ha, kdyby byli zrádcové, nebyli by ochránili tolikráte vlast před záhubou. Slyšelať jste o pověstných sekerkách <ref target="#CS0012_N9"/> , o polních vůdcích vršovských, kteří vítězoslavně bojovali pro stolec český a vlast; ale to nic nepomáhalo, oni byli a musili býti i ostati zrádci, že milovali národnost více nežli pokažené mravy nevázaných cizinců, a na stínidle padli <pb n="269"/> slavní předkové moji, jen já jediný Vok ostal z nich; dědictvím mým byla horoucí láska k vlasti. I hospodařil jsem dobře s ním, otec váš i vy, kněžno, jste toho svědkové. Nyní však již vykonán účel můj, aspoň na dlouhý čas, pak se vrátím opět, bych pomohl přátelům vašim zahrnouti purpurem bedra vaše."</p>
 
 			<p>Tak v rozčilení pověděv, kvapil odtud, aniž se byl více navrátil. Teprv po dlouhém čase, když již mnoho let na trůnu seděla, dozvěděla se Alžběta, že šlechetný poslední kmenovec slavných druhdy Vršovců v chýši své lesní zemřel a od svých věrných dle žádosti jeho podlé hrobu, kde matka Bertina odpočívala, pochován byl. Jeho stranníci se rozptýlili po hradech pánů českých, kteří rádi přijali cvičené bojovníky do žoldu.</p>
 
@@ -3179,7 +3183,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část devátá.</head>
 
@@ -3257,7 +3261,7 @@
 
 			<p>„Dobře, výborně!" chechtal se tento divoce — „ale neboj se, milý brachu! ty časy již zašly, kde velmistr nad živobytím a nad smrtí podřízených rozhodl," a polo k němu, polo k shromáždění obrácen mluvil povýšeným hlasem: „Tiara zlomila moc velmistrů, budova Sionu je zbořená, templáři již nejsou více!"</p>
 
-			<p>Výraz nevole nad smělou řečí touto rozlehl se rykem po sále a velmistr se vzchopil se sedadla svého: „Zadrž, odbůjníče!" volal — „ještě nerozdrtil výrok kardinálů shromážděných slávu naši; Molay a Vilém de la Moore <note>Velmistr anglický.</note> ovšem již zašli, <pb n="279"/> ale potud strmí k oblakům prapor templářstva českého a moc jeho rozdrtí zpupnost tvou. Přikročte k soudu!" kázal.</p>
+			<p>Výraz nevole nad smělou řečí touto rozlehl se rykem po sále a velmistr se vzchopil se sedadla svého: „Zadrž, odbůjníče!" volal — „ještě nerozdrtil výrok kardinálů shromážděných slávu naši; Molay a Vilém de la Moore <ref target="#CS0012_N10"/> ovšem již zašli, <pb n="279"/> ale potud strmí k oblakům prapor templářstva českého a moc jeho rozdrtí zpupnost tvou. Přikročte k soudu!" kázal.</p>
 
 			<p>Hluboká mlčení nastalo okamžikem po tak velkém rozhořčení všech a černá nádoba se podala komthurům, každý vyňal již připravenou kuličku a hodil do ní, tak to šlo řadou až k rytířům a těmito opět zpátky, až se dostala nádoba k maršálku zpět. Tu vstali všickni důstojníci řádu a velmistr vytahoval jednu kuličku po druhé, všecky byly černé, žádná bílá; při pohledu tomto zachvěl se i Valdek.</p>
 
@@ -3313,7 +3317,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>Část desátá. (Závěrek.)</head>
 
@@ -3340,8 +3344,18 @@
 			<p>I pojal jsem tě a dal vychovati pod cizým jménem, ačkolivs ještě strýce měl, který by pro tě všecko obětoval. A já měl útěchu vynahraditi tobě otce, abych někdy, když Bůh svolá člověčenstvo k soudu, mu hrdě na tebe okázati mohl: Hle i on mezi vyvolenými! Věrná služka Maruna byla vychovatelkyní let tvých dětských, až pak se od tebe odloučila, když nová nepravost poskvrnila život můj. Neboť šla, by varovala nešťastnou, ale již bylo pozdě. Nediv se, že jsem zapomenouti mohl následky provinění prvního, že jsem zapomenul matku tvou, to se nestalo, ale chvíle opanuje člověka, a nepřispěje-li Bůh, jest po něm <pb n="290"/> veta. Tak to bylo i se mnou. Že jsem chudému Vlku proti mocnému Tasovi u krále pomáhal, věnovala mi dcera prvního z vděčnosti srdce své, které již jinému, poslednímu kmenovci druhdy slavných Vršovců náleželo. Mnil jsem se býti otužen proti všem nápadům lásky a necítě podobné s dívkou jsem se jí nevyhýbal, a hle! jediné okamžení rozproudilo krev mou a skrotilo zásady mé. Berta jest dcera má. — Nepovídej jí o rodičích, hanba světská lpí na původu jejím , ty však ji milovati nepřestaneš, nebo žádný krom Maruny a Čeňka nezná původ její. Čeněk jest onen nešťastný milovník matky Bertiny, který, šlechetnější nežli já, neopustil kleslou, která hanbu svou ukryla u věčné noci lesů, kde on pečoval o vychování dceřino vlastní své nevěrné nevěsty. Darmo jsem pak se sháněl po nešťastné, ona ostala pro mne ztracenou a nikdy jsem se dopíditi nemohl, kde se zdržuje. Já se stal komthurem, posléz velmistrem, tebe jsem pozdvihoval od stupně k stupni a v pravdě mohu říci, nikdy bez zásluh. Tu se strhly záhubná mračna nad vlastí naší i řádem Sionu a české templářstvo vystoupilo poprvé a naposled z nečinnosti své na světa jeviště. Vřelá k vlasti láska přemáhala osobní zášt Čeňkovu a on smířiv se se mnou vyzradil mi v posledním okamžení, kdyžs již ty řád celý v Horažďovicích před velkou pohromou uchránil, hrob její a útulek dcery mé. Záhuba templářů francouzských zapudila otce tvého do vlasti zpět, neboť on vstoupiv <pb n="291"/> do řehole, naší stal se komthurem v Klermontu, a tu jsem pocítil radosti té smířiti se s ním a sjednotiti se k tomu a samému cíli, totiž k pomstě bratrů našich, kteří kropili krví svou půdu Francie. I zavázali jsme se přísahou odříci se radosti té kochati se v náručí dětí naleznutých, dokud nevykonáme účel náš; to jest příčina, proč jsme ti vše již před pěti lety nevyzradili. Strakonický i strýc tvůj věděli o úmyslu našem a byli nám nápomocni. Nyní máš klíč ke všemu, co se ti tajného býti zdálo. Otec tvůj se odebral na věčnost, dočkav se radosti té, že uhlídal ústav náš, templářstvo v jiném smyslu, zkvítati, a někdy, třeba i století se v mezeru minulosti ponořila, pomstí duch ten padlé bratry naše. A nyní ti ještě z dálných krajin sekvanských volám: Templáři zašli, ať žijí freimauři!"</p>
 
 			<p>Prorocká byla slova Ekova. Po pěti stech letech spláceli vnukové vinu otců svých, nebo známá jest revoluce francouzská. A příčina její, příčina totiž hlavní? — Pověstný <foreign>Egalité</foreign> a vývoda südermannlandský byli velmistři freimaurů.</p>
-
+		</div>
 		</div>
 	</body>
-</text>
+<back><div type="notes"><note xml:id="CS0012_N1">Královské hrady Křivoklát a Švihov byly po zavraždění Václava 3. v Olomouci od templářů dobyty a až do Jana Lucemburského v jich moci držány.</note>
+<note xml:id="CS0012_N2">Jak v úvodu podotknuto, nazýval se templářů hlavní dvůr v Praze Jerusalem.</note>
+<note xml:id="CS0012_N3">Neohroženého zachvátí zříceniny.</note>
+<note xml:id="CS0012_N4">Dle Ekartshausena se Alvensleben již v roce 1301 nepsal velmistrem českomoravským.</note>
+<note xml:id="CS0012_N5">Stála tam, kde se nynější ulice před Koňským trhem tak zvaný Můstek nachází</note>
+<note xml:id="CS0012_N6">Vítkoviče jmenují mnozí dějepisci i Rosenbergy dle štítu jejich, v kterém bílou růži v červeném poli vedli.</note>
+<note xml:id="CS0012_N7">Kroková ulice (Sporrengasse) . Pozdější věkové jí přezdili Ostruhová ulice (Spornergasse) .</note>
+<note xml:id="CS0012_N8">Dle archivu melitského.</note>
+<note xml:id="CS0012_N9">Viz: Přemyslovci od Vocela.</note>
+<note xml:id="CS0012_N10">Velmistr anglický.</note>
+</div></back></text>
 </TEI>

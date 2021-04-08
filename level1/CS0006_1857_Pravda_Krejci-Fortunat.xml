@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0006" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0006" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -88,7 +87,7 @@
 
 	</front>
 	<body>
-		<div>
+		<div type="chapter">
 
 			<head>1.</head>
 
@@ -298,7 +297,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>2.</head>
 
@@ -630,7 +629,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>3.</head>
 
@@ -986,7 +985,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>4.</head>
 
@@ -1606,7 +1605,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>5.</head>
 
@@ -2148,7 +2147,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>6.</head>
 
@@ -2738,7 +2737,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>7.</head>
 
@@ -2940,7 +2939,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>8.</head>
 
@@ -3040,7 +3039,7 @@
 
 			<p>„Vydáváte knihy?“</p>
 
-			<p>„Má firma <note>jmeno obchodnické, znak, nápis</note> je známá.“</p>
+			<p>„Má firma <ref target="#CS0006_N1"/> je známá.“</p>
 
 			<p>„Co je to firma?“ myslil si Fortunat; neprojevil ale, že to neví, nýbrž stavěl se, jako by ji také znal — tu jeho firmu, a pravil: „Arciť, proto k vám přicházím!“</p>
 
@@ -3078,37 +3077,37 @@
 
 			<pb n="185"/>
 
-			<p>„Snad jste nějaký pan pseudonymus <note>lichojmenec – pracujete pod smyšleným jmenem</note> , — nemýlím se?“</p>
+			<p>„Snad jste nějaký pan pseudonymus <ref target="#CS0006_N2"/> , — nemýlím se?“</p>
 
 			<p>„Pseudonymus — šlaku, ce je to?“ diví se Tuna. „Nadává mi, anebo mě má za jiného?“ Pseudonymus není na žádný způsob! Vyznal to upřímně řka: „Prosím, to já nejsem.“</p>
 
-			<p>„Anebo pracujete anonym <note>bez jmena</note> , že vás neznám?“</p>
+			<p>„Anebo pracujete anonym <ref target="#CS0006_N3"/> , že vás neznám?“</p>
 
 			<p>Tuna zase neví, co je to anonym, a myslí si: „To aby ďas prodával ty básně, když se ptají na takové věci! Co to jen mají za řeč?“ On anonym nepracuje, ať již je to cokoliv. A pořád bude říkat „ne.“ Vždyť se ničeho nedopustil, a nezaměstnává se nikterak leč počestně u krejčovského mistra. Však nebude se na něj odvolávat, snad nemusí věděti, kde a jak pracuje, a záleží-li mu na tom, inu řekne mu to později. Odpověděl: „Nikoliv, nepracuju anonym, pocházím z Tuřína, učil jsem se u pana Kolihy ve Višňově a nyní jsem zde — v pořádném domě.“</p>
 
 			<pb n="186"/>
 
-			<p>„Dovolte — hofmistrem <note>vychovatelem</note> ?“</p>
+			<p>„Dovolte — hofmistrem <ref target="#CS0006_N4"/> ?“</p>
 
 			<p>„Mistrem ještě ne, ale starším.“</p>
 
 			<p>Že je krejčí, to Tuna prozatím zamlčel; vždyť se ho na to neptal, a již mu toho dost napověděl.</p>
 
-			<p>Pan knihtiskař si nezapíral, že pan Fortunat Božeta, pod jakýmž jmenem se mu byl představil, mluví drobet pomateně, nerozuměl mu dobře, povídal, co nechtěl věděti, a co by byl rád věděl a nač se tázal, to neřekl. Co se učil u toho pána Kolihy? Jakým starším je? Co vydal, kde to vyšlo? To vše bylo neurčité a nemohl si to vybrati z jeho slov. Však proto předce může býti hodný básník! Oni ti básníci mívají všelicos zláštního, zná je, vyjadřují se v podobenstvích a ve figurách, a nejen ve spisech, nýbrž i ve všedním životě pozdvihují se nad obyčejný rozum. Dle zevnějška by ho neměl za básníka. Je zdravý a silný, má červené tváře, jasné oči, ani vlasy ani vousy nenosí jinak než jiní lidé, strojí se <pb n="187"/> jako oni a zdá se býti, ne-li bohatý, aspoň zámožný. Vynášejí mu básně tolik? To sotva. On sám již koupil dost takového zboží a ještě nikdo nezbohatnul jeho honoráry. Vydělává si jinak peníze? Možná, snad má nějaký úřad; ale jaký, to nemohl rozhodnouti, do žádného řádu se mu nehodil. Je živ z vlastního jmění? Neškodilo by, pak nebude státi o plat, a třebas ještě přidá, aby se práce jeho vytiskla. Jestli pak zač stojí? Musí se o tom přesvědčiti, a ptá se: „Je to něco lyrického <note>zpěvobásnického</note> , co přinášíte?“</p>
+			<p>Pan knihtiskař si nezapíral, že pan Fortunat Božeta, pod jakýmž jmenem se mu byl představil, mluví drobet pomateně, nerozuměl mu dobře, povídal, co nechtěl věděti, a co by byl rád věděl a nač se tázal, to neřekl. Co se učil u toho pána Kolihy? Jakým starším je? Co vydal, kde to vyšlo? To vše bylo neurčité a nemohl si to vybrati z jeho slov. Však proto předce může býti hodný básník! Oni ti básníci mívají všelicos zláštního, zná je, vyjadřují se v podobenstvích a ve figurách, a nejen ve spisech, nýbrž i ve všedním životě pozdvihují se nad obyčejný rozum. Dle zevnějška by ho neměl za básníka. Je zdravý a silný, má červené tváře, jasné oči, ani vlasy ani vousy nenosí jinak než jiní lidé, strojí se <pb n="187"/> jako oni a zdá se býti, ne-li bohatý, aspoň zámožný. Vynášejí mu básně tolik? To sotva. On sám již koupil dost takového zboží a ještě nikdo nezbohatnul jeho honoráry. Vydělává si jinak peníze? Možná, snad má nějaký úřad; ale jaký, to nemohl rozhodnouti, do žádného řádu se mu nehodil. Je živ z vlastního jmění? Neškodilo by, pak nebude státi o plat, a třebas ještě přidá, aby se práce jeho vytiskla. Jestli pak zač stojí? Musí se o tom přesvědčiti, a ptá se: „Je to něco lyrického <ref target="#CS0006_N5"/> , co přinášíte?“</p>
 
 			<p>„Lyrického? Co to zase chce? Ať mi dá pokoj s těmi jeho významy!“ mrzí se Tuna, zůstal však věren svému předsevzetí, že se mu k ničemu nepřizná, čemu nerozumí, a odpověděl odhodlaně: „Není.“</p>
 
-			<p>„Snad je to epika <note>báseň vypravovací, hrdinská</note> ?“</p>
+			<p>„Snad je to epika <ref target="#CS0006_N6"/> ?“</p>
 
 			<p>„Nikoli.“</p>
 
-			<p>„Tedy to bude didaktické <note>náučné</note> ?“</p>
+			<p>„Tedy to bude didaktické <ref target="#CS0006_N7"/> ?“</p>
 
 			<pb n="188"/>
 
 			<p>„Také ne.“</p>
 
-			<p>„Nyní nám nezbývá než dráma <note>divadlo</note> .“</p>
+			<p>„Nyní nám nezbývá než dráma <ref target="#CS0006_N8"/> .“</p>
 
 			<p>„Inu, ať zbývá nebo nezbývá, jsou to — básně.“</p>
 
@@ -3140,7 +3139,7 @@
 
 			<p>„Proč ne?“</p>
 
-			<p>„Jste začátečník, neznáte sni prosodii <note>zpěvoměr, zpěvoslovnost, zpěvní časoměr</note> , rýmy jsou špatné, bez pravidel, dle sluchu, nazval bych to rýmovanou prosou <note>prostomluva</note> , a ačkoliv nejste bez básnických vloh, předce to nejsou básně.“</p>
+			<p>„Jste začátečník, neznáte sni prosodii <ref target="#CS0006_N9"/> , rýmy jsou špatné, bez pravidel, dle sluchu, nazval bych to rýmovanou prosou <ref target="#CS0006_N10"/> , a ačkoliv nejste bez básnických vloh, předce to nejsou básně.“</p>
 
 			<p>Tuna myslil, že haní jeho zboží, aby mu je dal lacino; chtěl se s ním smlouvati a pravil: „Vzal bych deset zlatých za jednu!“</p>
 
@@ -3158,7 +3157,7 @@
 
 			<p>„A pan Koliha, u něhož jsem se učil, a paní Kolihová, jeho manželka, pro jednu báseň se mi tak naklonili, že by nebyli proti tomu, kdybych si vzal jejich dceru.“</p>
 
-			<p>„Takové honoráry <note>čestné platy</note> my nedáváme.“</p>
+			<p>„Takové honoráry <ref target="#CS0006_N11"/> my nedáváme.“</p>
 
 			<p>„Co tedy dáte?“</p>
 
@@ -3238,7 +3237,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>9.</head>
 
@@ -3600,7 +3599,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>10.</head>
 
@@ -3838,5 +3837,16 @@
 
 		</div>
 	</body>
-</text>
+<back><div type="notes"><note xml:id="CS0006_N1">jmeno obchodnické, znak, nápis</note>
+<note xml:id="CS0006_N2">lichojmenec – pracujete pod smyšleným jmenem</note>
+<note xml:id="CS0006_N3">bez jmena</note>
+<note xml:id="CS0006_N4">vychovatelem</note>
+<note xml:id="CS0006_N5">zpěvobásnického</note>
+<note xml:id="CS0006_N6">báseň vypravovací, hrdinská</note>
+<note xml:id="CS0006_N7">náučné</note>
+<note xml:id="CS0006_N8">divadlo</note>
+<note xml:id="CS0006_N9">zpěvoměr, zpěvoslovnost, zpěvní časoměr</note>
+<note xml:id="CS0006_N10">prostomluva</note>
+<note xml:id="CS0006_N11">čestné platy</note>
+</div></back></text>
 </TEI>
