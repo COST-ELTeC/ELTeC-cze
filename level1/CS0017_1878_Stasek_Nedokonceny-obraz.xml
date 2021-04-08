@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0017" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0017" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -2807,7 +2808,7 @@
 
 			<p>„Bůh buď mi svědkem, že musím voliť vás; ať zahynu – bůh mi buď milostiv.“</p>
 
-			<p>Matka se dala do usedavého pláče; Hájek se zachvěl a zdržované slzy vyřítily se z očí, valíce se jako bohatý hrách po vráskovitých jeho lících. Zvolav: „Děj se vůle tvá pane,“ přiblížil se vrávoravým skoro krokem k Verunce, vzal ji do své náruči, objímal ji, líbal a hořekoval: „Nebohé, nešťastné poslední dítě mé! Co jsi to učinila, má ubohá, má drahá Verunko? Osud tvůj jest dokonán, zapečetěn. Ejhle, ach „silné jest jako smrt milování; tvrdá jest jako hrob horlivosť lásky.“ <ref target="#CS0017_N1"/></p>
+			<p>Matka se dala do usedavého pláče; Hájek se zachvěl a zdržované slzy vyřítily se z očí, valíce se jako bohatý hrách po vráskovitých jeho lících. Zvolav: „Děj se vůle tvá pane,“ přiblížil se vrávoravým skoro krokem k Verunce, vzal ji do své náruči, objímal ji, líbal a hořekoval: „Nebohé, nešťastné poslední dítě mé! Co jsi to učinila, má ubohá, má drahá Verunko? Osud tvůj jest dokonán, zapečetěn. Ejhle, ach „silné jest jako smrt milování; tvrdá jest jako hrob horlivosť lásky.“<ref target="#CS0017_N1" /></p>
 
 			<p>Bůh ti buď milostiv.“</p>
 
@@ -3171,6 +3172,9 @@
 			<p><hi rend="formated">325 6 květa zeleň květ a zeleň</hi></p>
 
 		</div>
+	 <div type="notes">
+	  <note xml:id="CS0017_N1">Píseň Šalamounova VII. 6.</note>
+	 </div>
 	</back>
 </text>
 </TEI>

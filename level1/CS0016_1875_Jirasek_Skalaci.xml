@@ -4834,7 +4834,14 @@
 		</div>
 	</body><back>
 		
-	
+	<div type="notes">
+	 <note xml:id="CS0016_N1">Zločin uražení Veličenstva.</note>
+	 <note xml:id="CS0016_N2">Urbář, kniha, v níž zaznamenány pozemky poddanské, jakož i veškeré povinnosti a závazky.</note>
+	 <note xml:id="CS0016_N3">V jádro věci.</note>
+	 <note xml:id="CS0016_N4">Báchory.</note>
+	 <note xml:id="CS0016_N5">Jméno tance.</note>
+	 <note xml:id="CS0016_N6">Teprvé r. 1787 patentem Josefa 2. rozkázáno, aby poddaní před mocnářem už neklekali, „že ta pocta jen bohu patří".</note>
+	</div>
 		<div type="liminal">
 
 			<pb n="408"/>
@@ -4848,6 +4855,7 @@
 			<p><hi rend="formated">Kniha třetí: Bouře. I. Připozdívá se 247 II. Robota na „skalku" 251 III. Na rychtě 256 IV. Selský otčenáš 268 V. V Maternici 276 VI. Odměna deputace 283 VII. Kniha rodinná 288 VIII. Blázen. — U dvora 295 IX. Generale 308 X. Sirotčí služba. — Začátek 316 XI. Bouře 331 XII. Skvrna vlády 357 XIII. Salva guardia naposled bojuje 379 XIV. V cizině. — Návrat 392 Doslov 406</hi></p>
 
 		</div>
+	 
 	</back>
 </text>
 </TEI>
