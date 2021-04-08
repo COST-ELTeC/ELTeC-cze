@@ -80,7 +80,7 @@
 
 	</front>
 	<body>
-		<div>
+		<div type="chapter">
 
 			<head>I.</head>
 
@@ -206,7 +206,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>II.</head>
 
@@ -670,7 +670,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>III.</head>
 
@@ -764,7 +764,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>IV.</head>
 
@@ -1062,7 +1062,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>V.</head>
 
@@ -2028,7 +2028,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>I.</head>
 
@@ -2194,7 +2194,7 @@
 
 			<p>Konšelé mrkali na starší obce, a starší obce se usmívali na rychtáře. Rozsudek byl tedy hotov.</p>
 
-			<p>„Kmotře Krištofe!“ ozval se Vávra, pozdvihna pravicí právo a levicí na dvéře ukazuje, „musíte do kabátu!“ <note>Ve zdejším vůkolí v městech šatlavu, na vesnicích kabát.</note></p>
+			<p>„Kmotře Krištofe!“ ozval se Vávra, pozdvihna pravicí právo a levicí na dvéře ukazuje, „musíte do kabátu!“ <ref target="#CS0003_N1"/></p>
 
 			<p>Konšelé a starší obce přisvědčili hlavou a moudrá apelace na zídce u kamen potvrdila výrok: „Však mě uhranul.“</p>
 
@@ -2210,7 +2210,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>II.</head>
 
@@ -2358,5 +2358,6 @@
 
 		</div>
 	</body>
+ <back><div type="notes"><note xml:id="CS0003_N1">Ve zdejším vůkolí v městech šatlavu, na vesnicích kabát.</note></div></back>
 </text>
 </TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0022" xml:lang="cs">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0022" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
@@ -85,7 +84,7 @@
 		</div>
 	</front>
 	<body>
-		<div>
+		<div type="chapter">
 
 			<head>1.</head>
 
@@ -133,7 +132,7 @@
 
 			<p>„Dej to Pánbůh; to víš, já bych vám toho přála. Jen aby zelenokabátníkům nenapadlo, <pb n="10"/> vyjíti si dnes zrovna v tom nečase na patrolu! Čert nikdy nespí .“</p>
 
-			<p>„Čert ne, ale auseráci budou spát, milá Anežko, až jim dnes po půlnoci propašujeme pár set kroků od strážnice kontraband.“ <note>Pašované zboží. (Označení, jehož pomezní strážníci a po nich pašerové užívají.)</note></p>
+			<p>„Čert ne, ale auseráci budou spát, milá Anežko, až jim dnes po půlnoci propašujeme pár set kroků od strážnice kontraband.“ <ref target="#CS0022_N1"/></p>
 
 			<p>„Jen kdybyste to už radši měli ve vsi. Nebudu dnes beztoho moci celou noc starostí ani oka zamhouřit. A až tě zítra zas uvidím, spadne mně kámen ze srdce. Zastavíš se u nás přece , Fricku, co, abych měla upokojenou chvilku?“</p>
 
@@ -263,7 +262,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>2.</head>
 
@@ -347,7 +346,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>3.</head>
 
@@ -423,7 +422,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>4.</head>
 
@@ -467,7 +466,7 @@
 
 			<p>Zapomněl v tom okamžení na zimu.</p>
 
-			<p>„No, stará ospalá sojko, pustíte-li pak nás do vnitř, či nevidíte, že jsme zmrzlí jako koráb?“ <note>V horách tak zvou tvrdou koru lesních stromů.</note> zvolal strážník, jejž slyšeli jsme prve jmenovati jeho druhem Jan, a hrnul se do dveří. Za ním v patách sypal se Josífek.</p>
+			<p>„No, stará ospalá sojko, pustíte-li pak nás do vnitř, či nevidíte, že jsme zmrzlí jako koráb?“ <ref target="#CS0022_N2"/> zvolal strážník, jejž slyšeli jsme prve jmenovati jeho druhem Jan, a hrnul se do dveří. Za ním v patách sypal se Josífek.</p>
 
 			<p>Krčmář ustoupil, zamumlal několik nesrozumitelných slov, jež měla býti uvítáním, bouchl dveřmi , až chaloupka se otřásla, a bral se do světnice s lucernou za strážníky.</p>
 
@@ -609,7 +608,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>5.</head>
 
@@ -769,7 +768,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>6.</head>
 
@@ -813,7 +812,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>7.</head>
 
@@ -879,7 +878,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>8.</head>
 
@@ -947,7 +946,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>9.</head>
 
@@ -1085,7 +1084,7 @@
 
 		</div>
 
-		<div>
+		<div type="chapter">
 
 			<head>10.</head>
 
@@ -1115,5 +1114,7 @@
 
 		</div>
 	</body>
-</text>
+<back><div type="notes"><note xml:id="CS0022_N1">Pašované zboží. (Označení, jehož pomezní strážníci a po nich pašerové užívají.)</note>
+<note xml:id="CS0022_N2">V horách tak zvou tvrdou koru lesních stromů.</note>
+</div></back></text>
 </TEI>
