@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0003" xml:lang="cs">
 <teiHeader>
 	<fileDesc>
 		<titleStmt>
-			<title>Karbaník a rodina jeho</title>
+			<title>Karbaník a rodina jeho : vydání ELTeC</title>
 			<title xml:lang="en">Gamester and his family</title>
 			<author>Žížala-Donovský, Václav (1824-1890)</author>
 			<respStmt>
@@ -15,26 +19,23 @@
 			<measure unit="words">26348</measure>
 		</extent>
 		<publicationStmt>
-			<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-			<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-			<date when="2021-03-26"/>
-			<availability>
-				<licence target="https://creativecommons.org/licenses/by/4.0/"/>
-			</availability>
-			<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-		</publicationStmt>
-		<sourceDesc>
-			<bibl type="digitalSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+		<sourceDesc><bibl type="digitalSource">
 				<ref target="https://play.google.com/books/reader?id=QFIAAAAAcAAJ&amp;hl=cs&amp;pg=GBS.PA1"/>
 				<publisher>Google Books</publisher>
-			</bibl>
-			<bibl type="printSource">
+			</bibl><bibl type="printSource">
 				<title>Karbaník a rodina jeho, román od V. Ž. Donovského</title>
 				<publisher>Kat. Jeřábková</publisher>
 				<pubPlace>V Praze</pubPlace>
 				<date>1857</date>
-			</bibl>
-		</sourceDesc>
+			</bibl></sourceDesc>
 	</fileDesc>
 	<encodingDesc n="eltec-1">
 		<p/>
@@ -49,6 +50,7 @@
 		</textDesc>
 	</profileDesc>
 	<revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 		<change when="2018-10-31"/>
 	</revisionDesc>
 </teiHeader>

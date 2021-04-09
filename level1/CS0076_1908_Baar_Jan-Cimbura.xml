@@ -1,4 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CS0076" xml:lang="cs">
 	<teiHeader>
 		<fileDesc>
@@ -14,28 +18,25 @@
 				<measure unit="words">112360</measure>
 			</extent>
 			<publicationStmt>
-				<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-				<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-				<date when="2021-03-26"/>
-				<availability>
-					<licence target="https://creativecommons.org/licenses/by/4.0/"/>
-				</availability>
-				<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
-			</publicationStmt>
-			<sourceDesc>
-				<bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-$textLang release </ref>
+</publicationStmt>
+			<sourceDesc><bibl type="printSource">
 					<title>Jan Cimbura</title>
 					<author>Jindřich Šimon Baar</author>
 					<publisher>Novina</publisher>
 					<date>1908</date>
 					<pubPlace>Praha</pubPlace>
-				</bibl>
-				<bibl type="digitalSource">
+				</bibl><bibl type="digitalSource">
 					<ref target="https://ndk.cz/view/uuid:9fcee230-06be-11ea-af21-005056827e52"/>
 					<publisher>National Library of the Czech Republic</publisher>
 					<note>The text has been manually corrected.</note>
-				</bibl>
-			</sourceDesc>
+				</bibl></sourceDesc>
 		</fileDesc>
 		<encodingDesc n="eltec-1">
 			<p>Encoded in ELTeC level 1</p>
@@ -52,6 +53,7 @@
 			</textDesc>
 		</profileDesc>
 		<revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 			<change when="2021-03-26">Text converted to ELTeC level 1</change>
 		</revisionDesc>
 	</teiHeader>
@@ -928,7 +930,7 @@
 				<p>„Ale tatínku, kde se doberete píce pro všecko,“ divili se hoši, „přikoupili jste luk, nebo sejete samé kulatiny a jetele?“ „Nepřikoupil a neseju,“ rozkládal Cimbura, „ale dělám, co už nebožtík Kovanda dělal a čemu naši sedláci nechtějí rozumět. Hnojím a vláčím luka tak jako pole. O mrvu není nouze. Jedno tlačí druhé. Čím více dobytka, tím více mrvy, čím více hnojím, tím více těžím a čím nabitější stodoly, tím také plnější chlévy; to jsou ta kouzla a čáry.“ Vedl pak oba Piksy na louku „Na Jírovskou“, k „lesíku“, do „soudných drah“, na „utopenou“ a do „Píkáren“ – ukázal jim pole na „Pežoutce“, „pod Hůrkami“, „v Plazu“, „na Klínu“ a jinde. Cestou stočil se s nimi i do lesa na „vápenicích“.</p>
 				<p>Stál tu Cimburův les krásný a zachovalý – nevykácený a urostlý.</p>
 				<p>„Raději prst by si dal Cimbura useknout, než aby usekl a prodal z lesa dřívko,“ říkali o něm sousedé a říkali tak právem. Cimbura kácel jen souše na otop, ale zdravého kmene se nedotkl.</p>
-				<p>Z údivu nevycházeli Jan s Frantíkem. Viděli louky srovnané, bez krtin, uhrabané. Spatřili pole všecka osetá, vyčištěná, bez plevele, žádné úhorem neleželo. Konečně se octli v lese hustém a vysokém. Přítmí posvátné jako ve chrámu prostíralo se kolem – když náhle sklonil se Jan, uchopiv Cimburovu ruku, políbil ji. Pozdvihl ji ke rtům a jako peče tiskl na ni dlouhé a vroucí políbení svoje. – Teprve po chvíli vzpamatoval se Cimbura a utrhl ruku. „Co děláš, chlapče?“ skoro drsně obořil se na Jana.</p>
+				<p>Z údivu nevycházeli Jan s Frantíkem. Viděli louky srovnané, bez krtin, uhrabané. Spatřili pole všecka osetá, vyčištěná, bez plevele, žádné úhorem neleželo. Konečně se octli v lese hustém a vysokém. Přítmí posvátné jako ve chrámu prostíralo se kolem – když náhle sklonil se Jan, uchopiv Cimburovu ruku, políbil ji. Pozdvihl ji ke rtům a jako peče&#x9d; tiskl na ni dlouhé a vroucí políbení svoje. – Teprve po chvíli vzpamatoval se Cimbura a utrhl ruku. „Co děláš, chlapče?“ skoro drsně obořil se na Jana.</p>
 				<p>„Vím, tatínku, co dělám,“ odpovídal krotce, mírně Jan. „Líbám tu ruku, která nám statek rozmnožila – nebýti vás…“ „Byl by jiný,“ vskočil mu do řeči Cimbura. Ovládl už své pohnutí a mluvil zase klidným, rozvážným hlasem: „jiný by byl přišel k Piksům na grunt hospodařit. Jen svou povinnost konám, vím, že jenom vladařím – a blíží se chvíle, kdy mi řekneš, Jene, abych vydal počet z vladařství svého, a sám ujmeš se vlády. – Jsi již plnoletý a proto, chceš-li, hospodař sám. Víc jsem nebožtíkovi otci tvému na loži smrtelném neslíbil, než hospodařit do tvého plnoletí. S dluhy jsem živnost přijal, ale čistou ti ji odevzdávám; i peníz, který jsem věnem přinesl tvé matce a kterým jsem dluhy a věna tvým tetám poplatil, mám nahospodařený. Ty jenom bratra se sestrou vybudeš a matce výměnkem se zavážeš.“ „Milý tatínku, prosíme vás pěkně, já i bratr tuhle,“ řekl na to vřele a rozhodně Jan – „neopouštějte nás ještě. Hospodařte dál jako na svém, čeledíny propusťte a nás jako ve službě si ponechte. Slibujeme i teď po svém plnoletí, že vás budem ve všem poslouchat a radami vašimi se řídit. Mnoho jsem na vojně zapomněl,“ mluvil teď zase jen Honzík, „a nedovedl bych samostatně sedlačit.“ „Nezapomínej, že mám i vlastní děti, mám Vašíka s Martínkem, mám Marianu,“ rozkládal Cimbura, „stáří se blíží. Jako železo rezem, tak zas člověk věkem schází – musím i na ně pamatovat – dokud Bůh zdraví a sílu mi popřává – koupím pro ně živnost, tu v Putimi koupím a budu hospodařit a výměnkem matky jim k věnu pomáhat.“ „Nekupujte zatím,“ odpovídá Jan, „na mém jako na svém si hospodařte a co vyhospodaříte, ne nám, ale menším bratřím a sestře uložte. Máme je rádi jako vlastní.“ „Dobře,“ kývl hlavou Cimbura, „ale živnost koupím, protože s vámi se nebojím hospodařit ani na pěti statcích – natož na dvou.“ Neřekl, který statek koupiti chce, a Piksové se také netázali. – Vrátili se domů veselí, usměvaví, hřála je radost z toho, že se dohodli a domluvili. Upřímně a otevřeně pojednali si o příštím společném životě a víc se k tomu nevraceli. Po svatém Martině odešli od Cimburů čeledín i hříbek, na jejich místo nastoupili ‚vojáci‘, jak Piksům v Putimi říkali. Na statku šlo dál všecko po starém pořádku; ne však v obci a v životě veřejném.</p>
 				<p>Prohranou válkou Rakousko jako by se bylo ve svých základech otřáslo, jako by se ze spánku probudilo, chystalo se k celé řadě změn a převratů nejen politických, ale i hospodářských.</p>
 				<p>Mobilisace našeho vojska ukázala se těžkopádnou. Jediná dráha Ferdinandova, spojující Vídeň s Krakovem a její odbočka z Brna do Podmoklí, nestačila rychlé dopravě vojska na bojiště, které se mělo postaviti nepříteli na odpor hned v horách a zabrániti mu do naší vlasti vstup. – „Tomu se musí odpomoci,“ křičely noviny, uznávaly všecky vůdčí hlavy; ale scházely peníze. Nebylo prostředků ani státních, ani zemských, ubitá, vyssátá vlast nebyla již schopna dalších obětí.</p>
@@ -1057,7 +1059,7 @@
 				<p>„Podívej se, muži, jaké to máme hosty. Celá Putim bude nám je závidět,“ promluvila s nádechem hrdosti Marjánka. – U stolu bíle prostřeného skutečně seděli pán a paní, čerstvě načatý bochník chleba ležel před nimi – i skrojek chlebový i nůž a slánka.</p>
 				<p>„Kdo je ta paní, kdo je ten pán a co je vede k nám?“ přemítá hospodář, ale slovem zvědavosti své nepovolil. Pána někde viděl, ale v té chvíli si nemohl vzpomenout kde.</p>
 				<p>„Vítám vás pod naši střechu,“ hned promluvil klidně a srdečně.</p>
-				<p>Za stolem zvedl se pán, usmál se vlídně: „Nehněvejte se, pane Cimburo, že jsme k vám přijeli. Řekl jsem už vaší paní, že jsme staří známí – na schůzi v Písku, že –“ Oči Cimburovy se zaleskly a vážná tvář se rozjasnila: nebo v té chvíli v duši mu vstala zapomenutá už podoba – poznal knížete. Usmál se a řekl jako tenkrát v Písku: „Chyba, pane kníže, já nejsem pán a nemám paní – sedlák jsem a tuhle moje věrná a hodná žena Marjánka,“ a tak mile se na ni při tom podíval, že i samé kněžně tváří přeletěl milý úsměv.</p>
+				<p>Za stolem zvedl se pán, usmál se vlídně: „Nehněvejte se, pane Cimburo, že jsme k vám přijeli. Řekl jsem už vaší paní, že jsme staří známí – na schůzi v Písku, že –“ Oči Cimburovy se zaleskly a vážná tvář se rozjasnila: nebo&#x9d; v té chvíli v duši mu vstala zapomenutá už podoba – poznal knížete. Usmál se a řekl jako tenkrát v Písku: „Chyba, pane kníže, já nejsem pán a nemám paní – sedlák jsem a tuhle moje věrná a hodná žena Marjánka,“ a tak mile se na ni při tom podíval, že i samé kněžně tváří přeletěl milý úsměv.</p>
 				<p>Jako růže zapálila se ruměncem po lících i bílém hrdle Marjánka, klopíc zraky; i ona skromně promluvila: „Ani já nejsem paní a nemám pána – selka jsem a to je můj věrný a hodný muž Jan.“ „Dobře, sousede Cimburo,“ pokračoval kníže, „mnoho jsme s kněžnou o vás slyšeli, nejen o vaší síle, ale též o vaší píli, moudrosti a bystrosti – tak mnoho, že jsme si přáli blíže vás poznat.“ „Abych pravdu mluvil, pane kníže, i mně se tak vedlo. Když jsem vás v Písku viděl a slyšel, zdál jste se mi menším pánem, skromnějším a mírnějším, než dělají ti vaši direktoři, správcové, ba i než knížecí hajní, baštýři a poklasní.“ „Tak si dobře rozumíme. – Nechme tu sedět spolu ženy a prosím vás, proveďte mne po svém hospodářství,“ požádal kníže a Cimbura ochotně vyhověl. Vedl ho nejdříve k drobnému dobytku, k dřevěným chlívkům pro vepře a ke kurníkům.</p>
 				<p>– „Cimburo, nehněvejte se,“ zastavil se kníže, „ale chlívky máte špatné. Nemají být dřevěné, ale zděné, mají být k severu obrácené, podlahu mají mít nakloněnou a koryta zvenčí přístupná. To by vám pověděla škola.“ „Může být, pane kníže,“ přisvědčil Cimbura. Neboť hostu se nesmí odmlouvat. Otevřel dvířka. Ležela za nimi prasnice, obklopená hnízdem selat.</p>
 				<p>„Jak jsou stará?“ „Hádejte,“ řekl Cimbura.</p>
